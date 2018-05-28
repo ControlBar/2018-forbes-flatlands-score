@@ -1,0 +1,972 @@
+comp:
+  compName: Forbes Flatlands 2018
+  location: Forbes, Australia
+  from: '2017-12-28'
+  to: '2018-01-05'
+  civilId: '12209'
+  utcOffset:
+    timeZoneMinutes: 660
+nominal:
+  launch: 1
+  goal: 0.25
+  distance: 100.0 km
+  free: 10.0 km
+  time: 1.5 h
+tasks:
+- taskName: Task 1
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 10000.0 m
+  - zoneName: TRANG
+    lat: -31.9798
+    lng: 148.0035
+    radius: 10000.0 m
+  speedSection:
+  - 2
+  - 3
+  zoneTimes:
+  - open: 2017-12-30T01:00:00Z
+    close: 2017-12-30T09:00:00Z
+  - open: 2017-12-30T04:00:00Z
+    close: 2017-12-30T09:00:00Z
+  - open: 2017-12-30T04:00:00Z
+    close: 2017-12-30T10:00:00Z
+  startGates:
+  - 2017-12-30T04:00:00Z
+  - 2017-12-30T04:15:00Z
+  - 2017-12-30T04:30:00Z
+  - 2017-12-30T04:45:00Z
+  - 2017-12-30T05:00:00Z
+  - 2017-12-30T05:15:00Z
+  absent: []
+- taskName: task 2
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 10000.0 m
+  - zoneName: PINEY
+    lat: -33.85372999
+    lng: 147.94194999
+    radius: 2000.0 m
+  - zoneName: ATTILA
+    lat: -34.46358
+    lng: 148.70314999
+    radius: 5000.0 m
+  - zoneName: BOOKHA
+    lat: -34.8188
+    lng: 148.66808
+    radius: 1000.0 m
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2017-12-31T01:00:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:30:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:45:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:45:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:45:00Z
+    close: 2017-12-31T10:00:00Z
+  startGates:
+  - 2017-12-31T02:30:00Z
+  - 2017-12-31T02:45:00Z
+  - 2017-12-31T03:00:00Z
+  - 2017-12-31T03:15:00Z
+  - 2017-12-31T03:30:00Z
+  absent: []
+- taskName: Task 3
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 10000.0 m
+  - zoneName: WELLIN
+    lat: -32.46522
+    lng: 148.98929999
+    radius: 400.0 m
+  - zoneName: GULGO
+    lat: -32.29849999
+    lng: 149.55729999
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2018-01-01T01:00:00Z
+    close: 2018-01-01T09:00:00Z
+  - open: 2018-01-01T02:30:00Z
+    close: 2018-01-01T09:00:00Z
+  - open: 2018-01-01T02:30:00Z
+    close: 2018-01-01T09:00:00Z
+  - open: 2018-01-01T02:30:00Z
+    close: 2018-01-01T09:00:00Z
+  startGates:
+  - 2018-01-01T02:30:00Z
+  - 2018-01-01T02:45:00Z
+  - 2018-01-01T03:00:00Z
+  - 2018-01-01T03:15:00Z
+  - 2018-01-01T03:30:00Z
+  absent:
+  - Justinas Pleikys
+  - Oyvind Ellefsen
+  - Peter Adriaans
+- taskName: Task 4
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 10000.0 m
+  - zoneName: MAN037
+    lat: -30.7635
+    lng: 150.7237
+    radius: 1000.0 m
+  speedSection:
+  - 2
+  - 3
+  zoneTimes:
+  - open: 2018-01-02T01:00:00Z
+    close: 2018-01-02T09:00:00Z
+  - open: 2018-01-02T02:00:00Z
+    close: 2018-01-02T09:00:00Z
+  - open: 2018-01-02T02:00:00Z
+    close: 2018-01-02T09:00:00Z
+  startGates:
+  - 2018-01-02T02:00:00Z
+  - 2018-01-02T02:15:00Z
+  - 2018-01-02T02:30:00Z
+  - 2018-01-02T02:45:00Z
+  - 2018-01-02T03:00:00Z
+  absent:
+  - Anatoly Reyter
+  - Justinas Pleikys
+  - Niki Longshore
+  - Peter Adriaans
+  - Robert Davies
+- taskName: Task 5
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 10000.0 m
+  - zoneName: TOMING
+    lat: -32.56607999
+    lng: 148.22657
+    radius: 10000.0 m
+  - zoneName: WELLIN
+    lat: -32.46522
+    lng: 148.98929999
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2018-01-03T01:00:00Z
+    close: 2018-01-03T09:00:00Z
+  - open: 2018-01-03T04:15:00Z
+    close: 2018-01-03T09:00:00Z
+  - open: 2018-01-03T04:15:00Z
+    close: 2018-01-03T09:00:00Z
+  - open: 2018-01-03T04:15:00Z
+    close: 2018-01-03T10:00:00Z
+  startGates:
+  - 2018-01-03T04:15:00Z
+  - 2018-01-03T04:30:00Z
+  - 2018-01-03T04:45:00Z
+  - 2018-01-03T05:00:00Z
+  - 2018-01-03T05:15:00Z
+  absent:
+  - Justinas Pleikys
+  - Niki Longshore
+  - Peter Adriaans
+- taskName: Task 6
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 5000.0 m
+  - zoneName: GRENFE
+    lat: -33.9082
+    lng: 148.13425
+    radius: 15000.0 m
+  - zoneName: MANILD
+    lat: -33.18538
+    lng: 148.67977999
+    radius: 20000.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2018-01-04T01:00:00Z
+    close: 2018-01-04T09:00:00Z
+  - open: 2018-01-04T02:50:00Z
+    close: 2018-01-04T09:00:00Z
+  - open: 2018-01-04T02:50:00Z
+    close: 2018-01-04T09:00:00Z
+  - open: 2018-01-04T02:50:00Z
+    close: 2018-01-04T09:00:00Z
+  - open: 2018-01-04T02:50:00Z
+    close: 2018-01-04T09:00:00Z
+  startGates:
+  - 2018-01-04T02:50:00Z
+  - 2018-01-04T03:10:00Z
+  - 2018-01-04T03:30:00Z
+  - 2018-01-04T03:50:00Z
+  - 2018-01-04T04:10:00Z
+  absent:
+  - Brodrick Osborne
+  - Frank Chetcuti
+  - Justinas Pleikys
+  - Niki Longshore
+  - Peter Adriaans
+  - Robert Davies
+  - Simon West
+- taskName: Task 7
+  zones:
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 400.0 m
+  - zoneName: BMI023
+    lat: -33.3562
+    lng: 147.9336
+    radius: 5000.0 m
+  - zoneName: WELLIN
+    lat: -32.46522
+    lng: 148.98929999
+    radius: 40000.0 m
+  - zoneName: BUMF
+    lat: -32.19498
+    lng: 147.76218
+    radius: 50000.0 m
+  - zoneName: PEAKHI
+    lat: -32.72899999
+    lng: 148.21109999
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2018-01-05T01:00:00Z
+    close: 2018-01-05T09:00:00Z
+  - open: 2018-01-05T02:40:00Z
+    close: 2018-01-05T09:00:00Z
+  - open: 2018-01-05T02:40:00Z
+    close: 2018-01-05T09:00:00Z
+  - open: 2018-01-05T02:40:00Z
+    close: 2018-01-05T09:00:00Z
+  - open: 2018-01-05T02:40:00Z
+    close: 2018-01-05T10:00:00Z
+  startGates:
+  - 2018-01-05T02:40:00Z
+  - 2018-01-05T03:00:00Z
+  - 2018-01-05T03:20:00Z
+  - 2018-01-05T03:40:00Z
+  - 2018-01-05T04:00:00Z
+  absent:
+  - Anatoly Reyter
+  - Andrew Barnes
+  - Brodrick Osborne
+  - Don Cramer
+  - Justinas Pleikys
+  - Mark Alton
+  - Niki Longshore
+  - Peter Adriaans
+  - Rob Larkin
+  - Robert Davies
+  - Ross Smith
+  - Simon West
+taskFolders:
+- - task 1
+- - task 2
+- - task 3
+- - task 4
+- - task 5
+- - task 6
+- - task 7
+pilots:
+- - - Anatoly Reyter
+    - Anatoly_Reyter.20171230-212733.[CIVLID].107.IGC
+  - - Andrew Barnes
+    - Andrew Barnes.20171230-110229.5800.32.igc
+  - - Attila Bertok
+    - Attila_Bertok.20120103-051154.5885.92.igc
+  - - Brad Porter
+    - Brad Porter.20171230-090323.36822.34.igc
+  - - Brodrick Osborne
+    - Brodrick Osborne.20171230-090728.5961.77.igc
+  - - Craig Taylor
+    - Craig Taylor.20171230-120701.6075.51.igc
+  - - Dale Regehr
+    - null
+  - - Don Cramer
+    - Don_Cramer.20171231-093025.6184.55.igc
+  - - Frank Chetcuti
+    - Frank Chetcuti.20171230-095641.28192.4.igc
+  - - Gavin Myers
+    - null
+  - - Gennadiy Khramov
+    - Gennadiy_Khramov.20171230-212923.17398.99.igc
+  - - Gordon Rigg
+    - Gordon Rigg.20171230-124237.6433.8.igc
+  - - Guy Hubbard
+    - Guy Hubbard.20171230-124139.6467.27.igc
+  - - Jason Kath
+    - Jason_Kath.20171229-230550.18332.30.IGC
+  - - Jon Durand Snr
+    - Jon Durand Snr.20171230-110040.6731.106.igc
+  - - Jonny Durand
+    - Jonny Durand.20171230-105758.2231.43.igc
+  - - Josh Woods
+    - Josh Woods.20171230-120044.42097.62.igc
+  - - Justinas Pleikys
+    - Justinas Pleikys.20171230-113153.10515.94.igc
+  - - Longfei Yang
+    - Longfei Yang.20171230-090919.[CIVLID].64.igc
+  - - Malcolm Brown
+    - Malcolm Brown.20171230-122935.6999.100.igc
+  - - Mark Alton
+    - Mark Alton.20171230-082842.10479.67.igc
+  - - Michael Cassells
+    - Michael_Cassells.20171230-172200.48079.80.igc
+  - - Mikhail Karmazin
+    - Mikhail_Karmazin.20171230-212556.7169.28.IGC
+  - - Neale Halsall
+    - Neale Halsall.20171230-112252.32849.68.igc
+  - - Nick Purcell
+    - Nick Purcell.20171230-114206.7229.81.igc
+  - - Niki Longshore
+    - Niki Longshore.20171230-115845.43526.69.igc
+  - - Nils Vesk
+    - Nils Vesk.20171230-120445.7250.23.igc
+  - - Olav Opsanger
+    - Olav Opsanger.20171230-123136.7271.7.igc
+  - - Oliver Chitty
+    - Oliver Chitty.20171230-110423.39469.101.igc
+  - - Oyvind Ellefsen
+    - Oyvind_Ellefsen.20171230-213137.7308.98.IGC
+  - - Peter Adriaans
+    - Peter_Adriaans.20171229-201728.46619.108.igc
+  - - Peter Burkitt
+    - Peter_Burkitt.20171230-153732.7382.14.igc
+  - - Randal Clotworthy
+    - null
+  - - Rick Martin
+    - Rick_Martin.20171230-065514.58140.85.igc
+  - - Rob Larkin
+    - Rob Larkin.20171230-095230.22948.71.igc
+  - - Rob de Groot
+    - null
+  - - Robert Davies
+    - null
+  - - Rohan Taylor
+    - Rohan_Taylor.20171231-063206.7545.22.igc
+  - - Rory Duncan
+    - Rory Duncan.20171230-110709.28854.76.igc
+  - - Ross Smith
+    - Ross_Smith.20171230-065724.43199.86.igc
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20171230-123300.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha_Serebrennikova.20171230-065718.30169.72.igc
+  - - Simon West
+    - Simon West.20171230-090615.31925.88.igc
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20171230-162648.7701.11.IGC
+  - - Steve Docherty
+    - null
+  - - Tony Armstrong
+    - Tony_Armstrong.20171230-174816.42096.41.igc
+  - - Trent Brown
+    - Trent Brown.20171230-105858.7853.31.igc
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20171230-110824.7867.25.igc
+  - - Vic Hare
+    - null
+  - - Wayne Thompson
+    - null
+  - - Yasuhiro Noma
+    - null
+  - - Yoko Sano
+    - null
+- - - Anatoly Reyter
+    - null
+  - - Andrew Barnes
+    - Andrew Barnes.20171231-082734.5800.32.igc
+  - - Attila Bertok
+    - Attila_Bertok.20120104-053956.5885.92.igc
+  - - Brad Porter
+    - Brad Porter.20171231-131636.36822.34.igc
+  - - Brodrick Osborne
+    - Brodrick Osborne.20171231-132103.5961.77.igc
+  - - Craig Taylor
+    - Craig_Taylor.20171231-231213.6075.51.IGC
+  - - Dale Regehr
+    - Dale Regehr.20171231-105731.30649.52.igc
+  - - Don Cramer
+    - Don Cramer.20171231-222401.6184.55.igc
+  - - Frank Chetcuti
+    - null
+  - - Gavin Myers
+    - Gavin Myers.20171231-114956.18334.37.igc
+  - - Gennadiy Khramov
+    - null
+  - - Gordon Rigg
+    - Gordon_Rigg.20171231-073242.6433.8.IGC
+  - - Guy Hubbard
+    - Guy Hubbard.20171231-125314.6467.27.igc
+  - - Jason Kath
+    - Jason_Kath.20180101-000746.18332.30.IGC
+  - - Jon Durand Snr
+    - Jon Durand Snr.20171231-082934.6731.106.igc
+  - - Jonny Durand
+    - Jonny Durand.20171231-100246.2231.43.igc
+  - - Josh Woods
+    - Josh Woods.20171231-115904.42097.62.igc
+  - - Justinas Pleikys
+    - null
+  - - Longfei Yang
+    - Longfei Yang.20171231-075027.[CIVLID].64.igc
+  - - Malcolm Brown
+    - Malcolm Brown.20171231-112302.6999.100.igc
+  - - Mark Alton
+    - Mark Alton.20171231-105603.10479.67.igc
+  - - Michael Cassells
+    - Michael_Cassells.20171231-185504.48079.80.igc
+  - - Mikhail Karmazin
+    - null
+  - - Neale Halsall
+    - null
+  - - Nick Purcell
+    - Nick Purcell.20171231-114805.7229.81.igc
+  - - Niki Longshore
+    - Niki Longshore.20171231-115906.43526.69.igc
+  - - Nils Vesk
+    - Nils Vesk.20171231-104030.7250.23.igc
+  - - Olav Opsanger
+    - Olav Opsanger.20171231-115418.7271.7.igc
+  - - Oliver Chitty
+    - Oliver Chitty.20171231-110015.39469.101.igc
+  - - Oyvind Ellefsen
+    - Oyvind Ellefsen.20171231-122054.7308.98.igc
+  - - Peter Adriaans
+    - null
+  - - Peter Burkitt
+    - Peter_Burkitt.20171231-230745.7382.14.IGC
+  - - Randal Clotworthy
+    - null
+  - - Rick Martin
+    - Rick_Martin.20171231-092458.58140.85.igc
+  - - Rob Larkin
+    - Rob Larkin.20171231-110647.22948.71.igc
+  - - Rob de Groot
+    - Rob_de_Groot.20180101-064209.37372.42.igc
+  - - Robert Davies
+    - null
+  - - Rohan Taylor
+    - Rohan_Taylor.20171231-225638.7545.22.igc
+  - - Rory Duncan
+    - Rory Duncan.20171231-111328.28854.76.igc
+  - - Ross Smith
+    - null
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20171231-125315.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha_Serebrennikova.20171231-051902.30169.72.igc
+  - - Simon West
+    - null
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20171231-164326.7701.11.IGC
+  - - Steve Docherty
+    - Steve Docherty.20171231-131843.52077.36.igc
+  - - Tony Armstrong
+    - Tony_Armstrong.20171231-181505.42096.41.igc
+  - - Trent Brown
+    - Trent Brown.20171231-082556.7853.31.igc
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20171231-105733.7867.25.igc
+  - - Vic Hare
+    - null
+  - - Wayne Thompson
+    - Wayne Thompson.20171231-112142.7945.103.igc
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20171231-125041.7971.75.igc
+  - - Yoko Sano
+    - Yoko Sano.20171231-125502.12517.6.igc
+- - - Anatoly Reyter
+    - Anatoly_Reyter.20180101-231357.[CIVLID].107.IGC
+  - - Andrew Barnes
+    - Andrew Barnes.20180101-102236.5800.32.igc
+  - - Attila Bertok
+    - Attila_Bertok.20120105-050026.5885.92.igc
+  - - Brad Porter
+    - Brad Porter.20180101-123209.36822.34.igc
+  - - Brodrick Osborne
+    - Brodrick Osborne.20180101-123906.5961.77.igc
+  - - Craig Taylor
+    - Craig_Taylor.20180101-231520.6075.51.IGC
+  - - Dale Regehr
+    - Dale_Regehr.20180101-221021.30649.52.IGC
+  - - Don Cramer
+    - Don Cramer.20180101-130528.6184.55.igc
+  - - Frank Chetcuti
+    - Frank Chetcuti.20180101-130055.28192.4.igc
+  - - Gavin Myers
+    - Gavin Myers.20180101-112507.18334.37.igc
+  - - Gennadiy Khramov
+    - Gennadiy_Khramov.20180101-230142.17398.99.igc
+  - - Gordon Rigg
+    - Gordon_Rigg.20180101-221605.6433.8.IGC
+  - - Guy Hubbard
+    - Guy Hubbard.20180101-115841.6467.27.igc
+  - - Jason Kath
+    - Jason_Kath.20171231-221850.18332.30.IGC
+  - - Jon Durand Snr
+    - Jon Durand Snr.20180101-102022.6731.106.igc
+  - - Jonny Durand
+    - Jonny Durand.20180101-103159.2231.43.igc
+  - - Josh Woods
+    - Josh Woods.20180101-113544.42097.62.igc
+  - - Longfei Yang
+    - Longfei Yang.20180101-124608.[CIVLID].64.igc
+  - - Malcolm Brown
+    - Malcolm_Brown.20180101-221119.6999.100.IGC
+  - - Mark Alton
+    - Mark Alton.20180101-125305.10479.67.igc
+  - - Michael Cassells
+    - Michael_Cassells.20180101-183118.48079.80.igc
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20180101-194133.7169.28.igc
+  - - Neale Halsall
+    - Neale_Halsall.20180101-220920.32849.68.igc
+  - - Nick Purcell
+    - Nick Purcell.20180101-112348.7229.81.igc
+  - - Niki Longshore
+    - Niki_Longshore.20180101-114302.43526.69.kml
+  - - Nils Vesk
+    - Nils_Vesk.20180101-231642.7250.23.IGC
+  - - Olav Opsanger
+    - Olav Opsanger.20180101-113525.7271.7.igc
+  - - Oliver Chitty
+    - Oliver Chitty.20180101-114610.39469.101.igc
+  - - Peter Burkitt
+    - Peter_Burkitt.20180101-220326.7382.14.IGC
+  - - Randal Clotworthy
+    - Randal_Clotworthy.20180101-221422.[CIVLID].83.igc
+  - - Rick Martin
+    - Rick_Martin.20180101-035602.58140.85.igc
+  - - Rob Larkin
+    - Rob Larkin.20180101-125504.22948.71.igc
+  - - Rob de Groot
+    - Rob_de_Groot.20180101-114014.37372.42.kml
+  - - Robert Davies
+    - Robert Davies.20180101-092338.48209.102.igc
+  - - Rohan Taylor
+    - Rohan_Taylor.20180101-220542.7545.22.igc
+  - - Rory Duncan
+    - Rory Duncan.20180101-115432.28854.76.igc
+  - - Ross Smith
+    - Ross_Smith.20180101-092246.43199.86.igc
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20180101-115000.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha_Serebrennikova.20180101-065716.30169.72.igc
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20180101-152800.7701.11.IGC
+  - - Steve Docherty
+    - Steve Docherty.20180101-122744.52077.36.igc
+  - - Tony Armstrong
+    - Tony_Armstrong.20180101-172017.42096.41.igc
+  - - Trent Brown
+    - Trent Brown.20180101-102211.7853.31.igc
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20180101-115110.7867.25.igc
+  - - Vic Hare
+    - Vic Hare.20180101-115906.24476.74.igc
+  - - Wayne Thompson
+    - Wayne_Thompson.20180102-064318.7945.103.igc
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20180101-114954.7971.75.igc
+  - - Yoko Sano
+    - Yoko Sano.20180101-114627.12517.6.igc
+- - - Andrew Barnes
+    - Andrew Barnes.20180103-002931.5800.32.igc
+  - - Attila Bertok
+    - Attila_Bertok.20180103-063800.5885.92.igc
+  - - Brad Porter
+    - Brad_Porter.20180103-111720.36822.34.igc
+  - - Brodrick Osborne
+    - Brodrick_Osborne.20180103-112413.5961.77.igc
+  - - Craig Taylor
+    - Craig_Taylor.20180103-065141.6075.51.IGC
+  - - Dale Regehr
+    - Dale_Regehr.20180103-062945.30649.52.IGC
+  - - Don Cramer
+    - null
+  - - Frank Chetcuti
+    - null
+  - - Gavin Myers
+    - Gavin_Myers.20180103-064606.18334.37.igc
+  - - Gennadiy Khramov
+    - Gennadiy_Khramov.20180103-062506.17398.99.igc
+  - - Gordon Rigg
+    - Gordon_Rigg.20180103-111847.6433.8.igc
+  - - Guy Hubbard
+    - Guy_Hubbard.20180103-113324.6467.27.IGC
+  - - Jason Kath
+    - Jason_Kath.20180103-113146.18332.30.igc
+  - - Jon Durand Snr
+    - Jon_Durand_Snr.20180103-064654.6731.106.igc
+  - - Jonny Durand
+    - Jonny_Durand.20180103-064937.2231.43.igc
+  - - Josh Woods
+    - Josh_Woods.20180103-065427.42097.62.igc
+  - - Longfei Yang
+    - Longfei_Yang.20180103-112109.[CIVLID].64.IGC
+  - - Malcolm Brown
+    - null
+  - - Mark Alton
+    - Mark Alton.20180102-222140.10479.67.igc
+  - - Michael Cassells
+    - Michael_Cassells.20180103-113514.48079.80.igc
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20180102-193527.7169.28.igc
+  - - Neale Halsall
+    - Neale_Halsall.20180103-062813.32849.68.IGC
+  - - Nick Purcell
+    - Nick_Purcell.20180103-113753.7229.81.igc
+  - - Nils Vesk
+    - Nils_Vesk.20180103-065255.7250.23.IGC
+  - - Olav Opsanger
+    - Olav_Opsanger.20180103-111948.7271.7.igc
+  - - Oliver Chitty
+    - Oliver Chitty.20180102-225742.39469.101.igc
+  - - Oyvind Ellefsen
+    - null
+  - - Peter Burkitt
+    - Peter_Burkitt.20180103-062638.7382.14.IGC
+  - - Randal Clotworthy
+    - Randal_Clotworthy.20180103-063126.[CIVLID].83.igc
+  - - Rick Martin
+    - null
+  - - Rob Larkin
+    - Rob Larkin.20180102-221804.22948.71.igc
+  - - Rob de Groot
+    - Rob_de_Groot.20180103-111529.37372.42.igc
+  - - Rohan Taylor
+    - Rohan_Taylor.20180103-063243.7545.22.igc
+  - - Rory Duncan
+    - Rory_Duncan.20180102-225936.28854.76.IGC
+  - - Ross Smith
+    - null
+  - - Ryosuke Hattori
+    - Ryosuke_Hattori.20180103-065633.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha_Serebrennikova.20180103-172031.30169.72.igc
+  - - Simon West
+    - Simon West.20180102-114711.31925.88.igc
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20180103-065029.7701.11.IGC
+  - - Steve Docherty
+    - Steve_Docherty.20180103-112250.52077.36.igc
+  - - Tony Armstrong
+    - Tony_Armstrong.20180103-065512.42096.41.igc
+  - - Trent Brown
+    - Trent_Brown.20180103-064733.7853.31.igc
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20180103-000837.7867.25.igc
+  - - Vic Hare
+    - Vic_Hare.20180103-113408.24476.74.IGC
+  - - Wayne Thompson
+    - Wayne_Thompson.20180103-064333.7945.103.IGC
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20180102-195853.7971.75.igc
+  - - Yoko Sano
+    - Yoko Sano.20180102-102753.12517.6.igc
+- - - Anatoly Reyter
+    - Anatoly Reyter.20180103-091644.[CIVLID].107.igc
+  - - Attila Bertok
+    - Attila_Bertok.20180103-222956.5885.92.igc
+  - - Brad Porter
+    - Brad_Porter.20180104-095852.36822.34.igc
+  - - Craig Taylor
+    - Craig_Taylor.20180103-235017.6075.51.IGC
+  - - Dale Regehr
+    - Dale_Regehr.20180103-215932.30649.52.IGC
+  - - Frank Chetcuti
+    - Frank Chetcuti.20180103-121155.28192.4.igc
+  - - Gavin Myers
+    - Gavin_Myers.20180104-062943.18334.37.igc
+  - - Gennadiy Khramov
+    - Gennadiy Khramov.20180103-092127.17398.99.igc
+  - - Gordon Rigg
+    - Gordon_Rigg.20180103-220734.6433.8.igc
+  - - Guy Hubbard
+    - Guy Hubbard.20180103-123328.6467.27.igc
+  - - Jason Kath
+    - Jason_Kath.20180103-000402.18332.30.IGC
+  - - Jon Durand Snr
+    - Jon Durand Snr.20180103-114923.6731.106.igc
+  - - Jonny Durand
+    - Jonny Durand.20180103-114813.2231.43.igc
+  - - Josh Woods
+    - Josh_Woods.20180103-235124.42097.62.igc
+  - - Longfei Yang
+    - Longfei Yang.20180103-113759.52294.64.igc
+  - - Malcolm Brown
+    - null
+  - - Mark Alton
+    - Mark Alton.20180103-120135.10479.67.igc
+  - - Michael Cassells
+    - null
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20180103-193627.7169.28.igc
+  - - Neale Halsall
+    - Neale_Halsall.20180103-215033.32849.68.IGC
+  - - Nick Purcell
+    - Nick_Purcell.20180104-063124.7229.81.igc
+  - - Nils Vesk
+    - Nils_Vesk.20180103-235450.7250.23.IGC
+  - - Olav Opsanger
+    - Olav_Opsanger.20180103-234520.7271.7.IGC
+  - - Oliver Chitty
+    - Oliver Chitty.20180103-115238.39469.101.igc
+  - - Oyvind Ellefsen
+    - Oyvind_Ellefsen.20180103-234144.7308.98.IGC
+  - - Peter Burkitt
+    - Peter_Burkitt.20180103-220122.7382.14.IGC
+  - - Rob Larkin
+    - null
+  - - Rob de Groot
+    - Rob_de_Groot.20180103-234859.37372.42.igc
+  - - Rohan Taylor
+    - Rohan_Taylor.20180103-214529.7545.22.igc
+  - - Rory Duncan
+    - Rory Duncan.20180103-115305.28854.76.igc
+  - - Ross Smith
+    - Ross_Smith.20180103-085246.43199.86.igc
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20180103-123703.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha Serebrennikova.20180103-121306.30169.72.igc
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20180104-063324.7701.11.IGC
+  - - Steve Docherty
+    - Steve_Docherty.20180103-233956.52077.36.IGC
+  - - Tony Armstrong
+    - Tony_Armstrong.20180103-235319.42096.41.igc
+  - - Trent Brown
+    - Trent Brown.20180103-114443.7853.31.igc
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20180103-115025.7867.25.igc
+  - - Vic Hare
+    - Vic Hare.20180103-121643.24476.74.igc
+  - - Wayne Thompson
+    - Wayne_Thompson.20180103-220604.7945.103.IGC
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20180103-123824.7971.75.igc
+  - - Yoko Sano
+    - Yoko Sano.20180103-123448.12517.6.igc
+- - - Anatoly Reyter
+    - Anatoly_Reyter.20180104-225458.45431.107.IGC
+  - - Andrew Barnes
+    - Andrew Barnes.20180104-073828.5800.32.igc
+  - - Attila Bertok
+    - Attila_Bertok.20180104-222140.5885.92.igc
+  - - Brad Porter
+    - Brad Porter.20180104-074855.36822.34.igc
+  - - Craig Taylor
+    - Craig_Taylor.20180104-225629.6075.51.IGC
+  - - Dale Regehr
+    - Dale_Regehr.20180104-225345.30649.52.IGC
+  - - Don Cramer
+    - Don Cramer.20180104-221933.6184.55.igc
+  - - Gavin Myers
+    - Gavin Myers.20180104-072231.18334.37.igc
+  - - Gennadiy Khramov
+    - null
+  - - Gordon Rigg
+    - Gordon_Rigg.20180104-074030.6433.8.IGC
+  - - Guy Hubbard
+    - Guy Hubbard.20180104-072429.6467.27.igc
+  - - Jason Kath
+    - Jason_Kath.20180103-224504.18332.30.IGC
+  - - Jon Durand Snr
+    - Jon Durand Snr.20180104-075513.6731.106.igc
+  - - Jonny Durand
+    - Jonny Durand.20180104-063843.2231.43.igc
+  - - Josh Woods
+    - Josh_Woods.20180104-224353.42097.62.IGC
+  - - Longfei Yang
+    - Longfei Yang.20180104-100839.52294.64.igc
+  - - Malcolm Brown
+    - Malcolm Brown.20180104-073121.6999.100.igc
+  - - Mark Alton
+    - Mark Alton.20180104-220954.10479.67.igc
+  - - Michael Cassells
+    - Michael_Cassells.20180104-223805.48079.80.igc
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20180104-115016.7169.28.igc
+  - - Neale Halsall
+    - Neale Halsall.20180104-072955.32849.68.igc
+  - - Nick Purcell
+    - Nick Purcell.20180104-073219.7229.81.igc
+  - - Nils Vesk
+    - Nils_Vesk.20180104-225110.7250.23.IGC
+  - - Olav Opsanger
+    - Olav_Opsanger.20180104-223602.7271.7.IGC
+  - - Oliver Chitty
+    - Oliver Chitty.20180104-072056.39469.101.igc
+  - - Oyvind Ellefsen
+    - Oyvind_Ellefsen.20180104-222439.7308.98.IGC
+  - - Peter Burkitt
+    - Peter_Burkitt.20180104-222249.7382.14.IGC
+  - - Randal Clotworthy
+    - Randal_Clotworthy.20180104-045750.[CIVLID].83.igc
+  - - Rick Martin
+    - Rick_Martin.20180104-224239.58140.85.IGC
+  - - Rob Larkin
+    - Rob Larkin.20180104-220802.22948.71.igc
+  - - Rob de Groot
+    - Rob_de_Groot.20180104-224627.37372.42.igc
+  - - Rohan Taylor
+    - Rohan_Taylor.20180104-221844.7545.22.igc
+  - - Rory Duncan
+    - Rory Duncan.20180104-074448.28854.76.igc
+  - - Ross Smith
+    - Ross_Smith.20180103-184212.43199.86.igc
+  - - Ryosuke Hattori
+    - Ryosuke_Hattori.20180104-224042.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha_Serebrennikova.20180104-073616.30169.72.igc
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20180104-161252.7701.11.IGC
+  - - Steve Docherty
+    - Steve Docherty.20180104-075302.52077.36.igc
+  - - Tony Armstrong
+    - Tony_Armstrong.20180104-190458.42096.41.igc
+  - - Trent Brown
+    - Trent_Brown.20180104-225219.7853.31.IGC
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20180104-081052.7867.25.igc
+  - - Vic Hare
+    - Vic_Hare.20180104-223856.24476.74.IGC
+  - - Wayne Thompson
+    - Wayne Thompson.20180104-110845.7945.103.igc
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20180104-072747.7971.75.igc
+  - - Yoko Sano
+    - Yoko_Sano.20180104-224126.12517.6.igc
+- - - Attila Bertok
+    - Attila_Bertok.20180105-200515.5885.92.igc
+  - - Brad Porter
+    - Brad Porter.20180105-110349.36822.34.igc
+  - - Craig Taylor
+    - Craig_Taylor.20180105-212642.6075.51.IGC
+  - - Dale Regehr
+    - Dale Regehr.20180105-111510.30649.52.igc
+  - - Frank Chetcuti
+    - Frank Chetcuti.20180105-090312.28192.4.igc
+  - - Gavin Myers
+    - Gavin_Myers.20180105-205834.18334.37.igc
+  - - Gennadiy Khramov
+    - Gennadiy_Khramov.20180105-212923.17398.99.igc
+  - - Gordon Rigg
+    - Gordon_Rigg.20180105-205640.6433.8.igc
+  - - Guy Hubbard
+    - Guy_Hubbard.20180105-213136.6467.27.IGC
+  - - Jason Kath
+    - Jason_Kath.20180105-213221.18332.30.igc
+  - - Jon Durand Snr
+    - Jon Durand Snr.20180105-091550.6731.106.igc
+  - - Jonny Durand
+    - Jonny Durand.20180105-092201.2231.43.igc
+  - - Josh Woods
+    - Josh Woods.20180105-091402.42097.62.igc
+  - - Longfei Yang
+    - Longfei Yang.20180105-101945.52294.64.igc
+  - - Malcolm Brown
+    - Malcolm Brown.20180105-094956.6999.100.igc
+  - - Michael Cassells
+    - Michael_Cassells.20180105-213043.48079.80.igc
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20180105-102857.7169.28.igc
+  - - Neale Halsall
+    - Neale Halsall.20180105-111637.32849.68.igc
+  - - Nick Purcell
+    - Nick_Purcell.20180105-205912.7229.81.igc
+  - - Nils Vesk
+    - Nils_Vesk.20180105-214028.7250.23.IGC
+  - - Olav Opsanger
+    - Olav Opsanger.20180105-105839.7271.7.igc
+  - - Oliver Chitty
+    - Oliver Chitty.20180105-091031.39469.101.igc
+  - - Oyvind Ellefsen
+    - Oyvind_Ellefsen.20180105-205726.7308.98.igc
+  - - Peter Burkitt
+    - Peter_Burkitt.20180105-195712.7382.14.IGC
+  - - Randal Clotworthy
+    - Randal_Clotworthy.20180104-191052.[CIVLID].83.igc
+  - - Rick Martin
+    - null
+  - - Rob de Groot
+    - Rob_de_Groot.20180105-205522.37372.42.igc
+  - - Rohan Taylor
+    - Rohan_Taylor.20180105-200411.7545.22.igc
+  - - Rory Duncan
+    - Rory_Duncan.20180105-062336.28854.76.IGC
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20180105-093636.15164.15.igc
+  - - Sasha Serebrennikova
+    - Sasha_Serebrennikova.20180105-080806.30169.72.igc
+  - - Steve Blenkinsop
+    - Steve_Blenkinsop.20180105-205958.7701.11.IGC
+  - - Steve Docherty
+    - Steve Docherty.20180105-110517.52077.36.igc
+  - - Tony Armstrong
+    - Tony Armstrong.20180105-092024.42096.41.igc
+  - - Trent Brown
+    - Trent Brown.20180105-092001.7853.31.igc
+  - - Tyler Borrdaile
+    - Tyler Borrdaile.20180105-091340.7867.25.igc
+  - - Vic Hare
+    - Vic_Hare.20180105-213254.24476.74.IGC
+  - - Wayne Thompson
+    - Wayne Thompson.20180105-095435.7945.103.igc
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20180105-093309.7971.75.igc
+  - - Yoko Sano
+    - Yoko Sano.20180105-093233.12517.6.igc
