@@ -1,0 +1,1884 @@
+validityWorking:
+- time:
+    bestDistance: 153.1 km
+    nominalTime: 1.5 h
+    bestTime: 2.194166 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 12
+    present: 52
+  distance:
+    sum: 964.3 km
+    flying: 12
+    area: 66.02355987
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 153.1 km
+- time:
+    bestDistance: 187.0 km
+    nominalTime: 1.5 h
+    bestTime: 3.81611 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 8
+    present: 52
+  distance:
+    sum: 914.8 km
+    flying: 8
+    area: 70.26181162
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 187.0 km
+- time:
+    bestDistance: 196.1 km
+    nominalTime: 1.5 h
+    bestTime: 3.104443 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 15
+    present: 48
+  distance:
+    sum: 2636.6 km
+    flying: 15
+    area: 71.39493162
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 196.1 km
+- time:
+    bestDistance: 390.1 km
+    nominalTime: 1.5 h
+    bestTime: 5.32361 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 26
+    present: 47
+  distance:
+    sum: 7710.5 km
+    flying: 26
+    area: 95.643765
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 390.1 km
+- time:
+    bestDistance: 155.0 km
+    nominalTime: 1.5 h
+    bestTime: 2.816387 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 17
+    present: 42
+  distance:
+    sum: 1932.5 km
+    flying: 17
+    area: 66.25133337
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 155.0 km
+- time:
+    bestDistance: 168.6 km
+    nominalTime: 1.5 h
+    bestTime: 3.62361 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 17
+    present: 45
+  distance:
+    sum: 2198.3 km
+    flying: 17
+    area: 67.96152362
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 168.6 km
+- time:
+    bestDistance: 176.2 km
+    nominalTime: 1.5 h
+    bestTime: 3.528055 h
+    nominalDistance: 100.0 km
+  launch:
+    nominalLaunch: 1
+    flying: 14
+    present: 40
+  distance:
+    sum: 2037.1 km
+    flying: 14
+    area: 68.90466975
+    nominalGoal: 0.25
+    nominalDistance: 100.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 176.2 km
+validity:
+- time: 1
+  launch: 0.1376832
+  distance: 1
+  task: 0.1376832
+- time: 1
+  launch: 6.611652e-2
+  distance: 1
+  task: 6.611652e-2
+- time: 1
+  launch: 0.2339746
+  distance: 1
+  task: 0.2339746
+- time: 1
+  launch: 0.57850281
+  distance: 1
+  task: 0.57850281
+- time: 1
+  launch: 0.35991456
+  distance: 1
+  task: 0.35991456
+- time: 1
+  launch: 0.32169204
+  distance: 1
+  task: 0.32169204
+- time: 1
+  launch: 0.2834335
+  distance: 1
+  task: 0.2834335
+allocation:
+- goalRatio: 0.3
+  weight:
+    distance: 0.513592
+    leading: 8.512129e-2
+    arrival: 6.080092e-2
+    time: 0.3404851
+  points:
+    reach: 35.3
+    effort: 35.3
+    distance: 70.7
+    leading: 11.7
+    arrival: 8.3
+    time: 46.8
+  taskPoints: 137.0
+- goalRatio: 0.375
+  weight:
+    distance: 0.48556054
+    leading: 9.00269e-2
+    arrival: 6.430493e-2
+    time: 0.36010761
+  points:
+    reach: 16.0
+    effort: 16.0
+    distance: 32.1
+    leading: 5.9
+    arrival: 4.2
+    time: 23.8
+  taskPoints: 66.0
+- goalRatio: 0.8
+  weight:
+    distance: 0.363776
+    leading: 0.1113392
+    arrival: 7.9528e-2
+    time: 0.4453568
+  points:
+    reach: 42.5
+    effort: 42.5
+    distance: 85.1
+    leading: 26.0
+    arrival: 18.6
+    time: 104.2
+  taskPoints: 233.0
+- goalRatio: 0.461538
+  weight:
+    distance: 0.43872644
+    leading: 9.822287e-2
+    arrival: 7.015919e-2
+    time: 0.39289148
+  points:
+    reach: 126.9
+    effort: 126.9
+    distance: 253.8
+    leading: 56.8
+    arrival: 40.5
+    time: 227.2
+  taskPoints: 578.0
+- goalRatio: 0.17647058
+  weight:
+    distance: 0.65629656
+    leading: 6.01481e-2
+    arrival: 4.296292e-2
+    time: 0.2405924
+  points:
+    reach: 118.1
+    effort: 118.1
+    distance: 236.2
+    leading: 21.6
+    arrival: 15.4
+    time: 86.5
+  taskPoints: 359.0
+- goalRatio: 0.52941176
+  weight:
+    distance: 0.41154345
+    leading: 0.10297989
+    arrival: 7.355706e-2
+    time: 0.41191958
+  points:
+    reach: 66.1
+    effort: 66.1
+    distance: 132.3
+    leading: 33.1
+    arrival: 23.6
+    time: 132.5
+  taskPoints: 321.0
+- goalRatio: 0.714285
+  weight:
+    distance: 0.37077259
+    leading: 0.11011479
+    arrival: 7.865342e-2
+    time: 0.44045918
+  points:
+    reach: 52.5
+    effort: 52.5
+    distance: 105.0
+    leading: 31.2
+    arrival: 22.2
+    time: 124.8
+  taskPoints: 283.0
+score:
+- - - Don Cramer
+    - total: 3.0
+      breakdown:
+        reach: 3.1
+        effort: 0
+        distance: 3.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T05:06:29Z
+        es: null
+        distance: 13.7 km
+        elapsed: null
+        velocity: null
+  - - Peter Burkitt
+    - total: 5.0
+      breakdown:
+        reach: 5.6
+        effort: 0
+        distance: 5.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:06:26Z
+        es: null
+        distance: 24.3 km
+        elapsed: null
+        velocity: null
+  - - Ross Smith
+    - total: 11.0
+      breakdown:
+        reach: 11.2
+        effort: 0
+        distance: 11.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:25:03Z
+        es: null
+        distance: 48.8 km
+        elapsed: null
+        velocity: null
+  - - Michael Cassells
+    - total: 13.0
+      breakdown:
+        reach: 13.0
+        effort: 0
+        distance: 13.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:35:21Z
+        es: null
+        distance: 56.4 km
+        elapsed: null
+        velocity: null
+  - - Anatoly Reyter
+    - total: 14.0
+      breakdown:
+        reach: 14.9
+        effort: 0
+        distance: 14.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:39:01Z
+        es: null
+        distance: 64.8 km
+        elapsed: null
+        velocity: null
+  - - Oyvind Ellefsen
+    - total: 15.0
+      breakdown:
+        reach: 15.6
+        effort: 0
+        distance: 15.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:15:34Z
+        es: null
+        distance: 67.9 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 19.0
+      breakdown:
+        reach: 19.2
+        effort: 0
+        distance: 19.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:52:14Z
+        es: null
+        distance: 83.2 km
+        elapsed: null
+        velocity: null
+  - - Tony Armstrong
+    - total: 25.0
+      breakdown:
+        reach: 25.8
+        effort: 0
+        distance: 25.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:00:09Z
+        es: null
+        distance: 112.1 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 97.0
+      breakdown:
+        reach: 35.3
+        effort: 35.3
+        distance: 70.7
+        leading: 11.6
+        arrival: 1.9
+        time: 12.9
+      velocity:
+        ss: 2017-12-30T04:00:05Z
+        es: 2017-12-30T07:06:31Z
+        distance: 153.1 km
+        elapsed: 3.107222 h
+        velocity: 49.3 km / h
+  - - Steve Blenkinsop
+    - total: 111.0
+      breakdown:
+        reach: 35.3
+        effort: 35.3
+        distance: 70.7
+        leading: 11.6
+        arrival: 2.7
+        time: 26.5
+      velocity:
+        ss: 2017-12-30T04:15:05Z
+        es: 2017-12-30T06:52:05Z
+        distance: 153.1 km
+        elapsed: 2.616665 h
+        velocity: 58.5 km / h
+  - - Jason Kath
+    - total: 112.0
+      breakdown:
+        reach: 35.3
+        effort: 35.3
+        distance: 70.7
+        leading: 11.6
+        arrival: 4.7
+        time: 24.9
+      velocity:
+        ss: 2017-12-30T04:05:48Z
+        es: 2017-12-30T06:45:49Z
+        distance: 153.1 km
+        elapsed: 2.666943 h
+        velocity: 57.4 km / h
+  - - Attila Bertok
+    - total: 137.0
+      breakdown:
+        reach: 35.3
+        effort: 35.3
+        distance: 70.7
+        leading: 11.7
+        arrival: 8.3
+        time: 46.8
+      velocity:
+        ss: 2017-12-30T04:00:21Z
+        es: 2017-12-30T06:12:00Z
+        distance: 153.1 km
+        elapsed: 2.194166 h
+        velocity: 69.8 km / h
+- - - Rob de Groot
+    - total: 1.0
+      breakdown:
+        reach: 1.3
+        effort: 0
+        distance: 1.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-31T02:58:28Z
+        es: null
+        distance: 15.8 km
+        elapsed: null
+        velocity: null
+  - - Craig Taylor
+    - total: 2.0
+      breakdown:
+        reach: 0.7
+        effort: 2.1
+        distance: 2.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-31T02:15:46Z
+        es: null
+        distance: 8.5 km
+        elapsed: null
+        velocity: null
+  - - Michael Cassells
+    - total: 8.0
+      breakdown:
+        reach: 8.5
+        effort: 0
+        distance: 8.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-31T03:12:52Z
+        es: null
+        distance: 99.9 km
+        elapsed: null
+        velocity: null
+  - - Jason Kath
+    - total: 12.0
+      breakdown:
+        reach: 12.9
+        effort: 0
+        distance: 12.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-31T02:45:50Z
+        es: null
+        distance: 150.7 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 13.0
+      breakdown:
+        reach: 13.4
+        effort: 0
+        distance: 13.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-31T02:31:28Z
+        es: null
+        distance: 156.9 km
+        elapsed: null
+        velocity: null
+  - - Gordon Rigg
+    - total: 54.0
+      breakdown:
+        reach: 16.0
+        effort: 16.0
+        distance: 32.1
+        leading: 5.9
+        arrival: 1.0
+        time: 15.0
+      velocity:
+        ss: 2017-12-31T02:46:38Z
+        es: 2017-12-31T07:01:43Z
+        distance: 187.0 km
+        elapsed: 4.251388 h
+        velocity: 44.0 km / h
+  - - Steve Blenkinsop
+    - total: 55.0
+      breakdown:
+        reach: 16.0
+        effort: 16.0
+        distance: 32.1
+        leading: 5.9
+        arrival: 1.9
+        time: 15.1
+      velocity:
+        ss: 2017-12-31T02:45:41Z
+        es: 2017-12-31T07:00:33Z
+        distance: 187.0 km
+        elapsed: 4.247777 h
+        velocity: 44.0 km / h
+  - - Attila Bertok
+    - total: 66.0
+      breakdown:
+        reach: 16.0
+        effort: 16.0
+        distance: 32.1
+        leading: 5.9
+        arrival: 4.2
+        time: 23.8
+      velocity:
+        ss: 2017-12-31T02:47:05Z
+        es: 2017-12-31T06:36:03Z
+        distance: 187.0 km
+        elapsed: 3.81611 h
+        velocity: 49.0 km / h
+- - - Niki Longshore
+    - total: 26.0
+      breakdown:
+        reach: 15.6
+        effort: 10.6
+        distance: 26.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-01T02:47:14Z
+        es: null
+        distance: 72.2 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 36.0
+      breakdown:
+        reach: 36.4
+        effort: 0
+        distance: 36.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-01T02:31:32Z
+        es: null
+        distance: 168.0 km
+        elapsed: null
+        velocity: null
+  - - Anatoly Reyter
+    - total: 41.0
+      breakdown:
+        reach: 41.7
+        effort: 0
+        distance: 41.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-01T02:30:40Z
+        es: null
+        distance: 192.3 km
+        elapsed: null
+        velocity: null
+  - - Wayne Thompson
+    - total: 140.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.7
+        arrival: 3.8
+        time: 25.5
+      velocity:
+        ss: 2018-01-01T03:02:27Z
+        es: 2018-01-01T07:18:04Z
+        distance: 196.1 km
+        elapsed: 4.260277 h
+        velocity: 46.0 km / h
+  - - Michael Cassells
+    - total: 156.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 4.2
+        time: 41.2
+      velocity:
+        ss: 2018-01-01T02:28:41Z
+        es: 2018-01-01T06:24:37Z
+        distance: 196.1 km
+        elapsed: 3.932221 h
+        velocity: 49.8 km / h
+  - - Rob de Groot
+    - total: 172.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.8
+        arrival: 3.9
+        time: 57.9
+      velocity:
+        ss: 2018-01-01T02:47:52Z
+        es: 2018-01-01T06:25:25Z
+        distance: 196.1 km
+        elapsed: 3.625833 h
+        velocity: 54.1 km / h
+  - - Malcolm Brown
+    - total: 176.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.8
+        arrival: 5.2
+        time: 60.3
+      velocity:
+        ss: 2018-01-01T02:47:57Z
+        es: 2018-01-01T06:23:02Z
+        distance: 196.1 km
+        elapsed: 3.584722 h
+        velocity: 54.7 km / h
+  - - Jason Kath
+    - total: 178.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 26.0
+        arrival: 7.2
+        time: 60.1
+      velocity:
+        ss: 2018-01-01T02:30:19Z
+        es: 2018-01-01T06:05:37Z
+        distance: 196.1 km
+        elapsed: 3.588332 h
+        velocity: 54.6 km / h
+  - - Neale Halsall
+    - total: 184.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 6.1
+        time: 67.2
+      velocity:
+        ss: 2018-01-01T02:47:53Z
+        es: 2018-01-01T06:16:30Z
+        distance: 196.1 km
+        elapsed: 3.476944 h
+        velocity: 56.4 km / h
+  - - Nils Vesk
+    - total: 189.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.8
+        arrival: 4.6
+        time: 73.8
+      velocity:
+        ss: 2018-01-01T03:00:14Z
+        es: 2018-01-01T06:23:06Z
+        distance: 196.1 km
+        elapsed: 3.381111 h
+        velocity: 58.0 km / h
+  - - Rohan Taylor
+    - total: 192.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 12.7
+        time: 68.4
+      velocity:
+        ss: 2018-01-01T02:30:35Z
+        es: 2018-01-01T05:58:04Z
+        distance: 196.1 km
+        elapsed: 3.458054 h
+        velocity: 56.7 km / h
+  - - Gordon Rigg
+    - total: 209.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 8.7
+        time: 89.8
+      velocity:
+        ss: 2018-01-01T02:47:55Z
+        es: 2018-01-01T05:59:36Z
+        distance: 196.1 km
+        elapsed: 3.194722 h
+        velocity: 61.4 km / h
+  - - Craig Taylor
+    - total: 213.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 10.5
+        time: 92.2
+      velocity:
+        ss: 2018-01-01T02:47:44Z
+        es: 2018-01-01T05:58:07Z
+        distance: 196.1 km
+        elapsed: 3.173055 h
+        velocity: 61.8 km / h
+  - - Steve Blenkinsop
+    - total: 218.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 15.4
+        time: 91.5
+      velocity:
+        ss: 2018-01-01T02:45:35Z
+        es: 2018-01-01T05:56:19Z
+        distance: 196.1 km
+        elapsed: 3.178888 h
+        velocity: 61.7 km / h
+  - - Attila Bertok
+    - total: 233.0
+      breakdown:
+        reach: 42.5
+        effort: 42.5
+        distance: 85.1
+        leading: 25.9
+        arrival: 18.6
+        time: 104.2
+      velocity:
+        ss: 2018-01-01T02:47:29Z
+        es: 2018-01-01T05:53:45Z
+        distance: 196.1 km
+        elapsed: 3.104443 h
+        velocity: 63.1 km / h
+- - - Nick Purcell
+    - total: 18.0
+      breakdown:
+        reach: 18.4
+        effort: 0
+        distance: 18.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:15:38Z
+        es: null
+        distance: 56.6 km
+        elapsed: null
+        velocity: null
+  - - Longfei Yang
+    - total: 18.0
+      breakdown:
+        reach: 18.6
+        effort: 0
+        distance: 18.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:27:38Z
+        es: null
+        distance: 57.3 km
+        elapsed: null
+        velocity: null
+  - - Jon Durand Snr
+    - total: 30.0
+      breakdown:
+        reach: 30.7
+        effort: 0
+        distance: 30.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:00:02Z
+        es: null
+        distance: 94.6 km
+        elapsed: null
+        velocity: null
+  - - Vic Hare
+    - total: 44.0
+      breakdown:
+        reach: 44.5
+        effort: 0
+        distance: 44.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:00:20Z
+        es: null
+        distance: 137.1 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 65.0
+      breakdown:
+        reach: 65.6
+        effort: 0
+        distance: 65.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:01:48Z
+        es: null
+        distance: 201.8 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 75.0
+      breakdown:
+        reach: 75.7
+        effort: 0
+        distance: 75.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:00:22Z
+        es: null
+        distance: 232.7 km
+        elapsed: null
+        velocity: null
+  - - Brad Porter
+    - total: 77.0
+      breakdown:
+        reach: 77.7
+        effort: 0
+        distance: 77.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:04:59Z
+        es: null
+        distance: 239.1 km
+        elapsed: null
+        velocity: null
+  - - Wayne Thompson
+    - total: 87.0
+      breakdown:
+        reach: 87.0
+        effort: 0
+        distance: 87.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:29:03Z
+        es: null
+        distance: 267.7 km
+        elapsed: null
+        velocity: null
+  - - Neale Halsall
+    - total: 94.0
+      breakdown:
+        reach: 94.3
+        effort: 0
+        distance: 94.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:01:52Z
+        es: null
+        distance: 289.9 km
+        elapsed: null
+        velocity: null
+  - - Brodrick Osborne
+    - total: 105.0
+      breakdown:
+        reach: 105.1
+        effort: 0
+        distance: 105.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:34:48Z
+        es: null
+        distance: 323.2 km
+        elapsed: null
+        velocity: null
+  - - Michael Cassells
+    - total: 108.0
+      breakdown:
+        reach: 108.4
+        effort: 0
+        distance: 108.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:02:44Z
+        es: null
+        distance: 333.4 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 112.0
+      breakdown:
+        reach: 112.2
+        effort: 0
+        distance: 112.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:01:48Z
+        es: null
+        distance: 344.9 km
+        elapsed: null
+        velocity: null
+  - - Gavin Myers
+    - total: 115.0
+      breakdown:
+        reach: 115.9
+        effort: 0
+        distance: 115.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:22:09Z
+        es: null
+        distance: 356.5 km
+        elapsed: null
+        velocity: null
+  - - Craig Taylor
+    - total: 176.0
+      breakdown:
+        reach: 114.8
+        effort: 62.1
+        distance: 176.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-02T02:00:23Z
+        es: null
+        distance: 353.0 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 391.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.5
+        arrival: 8.6
+        time: 72.1
+      velocity:
+        ss: 2018-01-02T02:00:12Z
+        es: 2018-01-02T08:37:43Z
+        distance: 390.1 km
+        elapsed: 6.625276 h
+        velocity: 58.8 km / h
+  - - Steve Docherty
+    - total: 392.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.4
+        arrival: 8.2
+        time: 73.8
+      velocity:
+        ss: 2018-01-02T02:02:42Z
+        es: 2018-01-02T08:38:52Z
+        distance: 390.1 km
+        elapsed: 6.602776 h
+        velocity: 59.0 km / h
+  - - Rory Duncan
+    - total: 406.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.5
+        arrival: 9.2
+        time: 86.7
+      velocity:
+        ss: 2018-01-02T02:01:33Z
+        es: 2018-01-02T08:28:17Z
+        distance: 390.1 km
+        elapsed: 6.445554 h
+        velocity: 60.5 km / h
+  - - Tony Armstrong
+    - total: 423.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.5
+        arrival: 11.5
+        time: 101.7
+      velocity:
+        ss: 2018-01-02T02:01:06Z
+        es: 2018-01-02T08:17:22Z
+        distance: 390.1 km
+        elapsed: 6.271111 h
+        velocity: 62.2 km / h
+  - - Gordon Rigg
+    - total: 429.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.5
+        arrival: 10.1
+        time: 109.0
+      velocity:
+        ss: 2018-01-02T02:15:41Z
+        es: 2018-01-02T08:27:04Z
+        distance: 390.1 km
+        elapsed: 6.189721 h
+        velocity: 63.0 km / h
+  - - Josh Woods
+    - total: 447.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.5
+        arrival: 13.3
+        time: 124.1
+      velocity:
+        ss: 2018-01-02T02:01:07Z
+        es: 2018-01-02T08:02:50Z
+        distance: 390.1 km
+        elapsed: 6.02861 h
+        velocity: 64.7 km / h
+  - - Steve Blenkinsop
+    - total: 449.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.5
+        arrival: 15.8
+        time: 123.2
+      velocity:
+        ss: 2018-01-02T02:00:29Z
+        es: 2018-01-02T08:02:45Z
+        distance: 390.1 km
+        elapsed: 6.037777 h
+        velocity: 64.6 km / h
+  - - Jason Kath
+    - total: 474.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.6
+        arrival: 19.0
+        time: 145.2
+      velocity:
+        ss: 2018-01-02T02:00:34Z
+        es: 2018-01-02T07:50:01Z
+        distance: 390.1 km
+        elapsed: 5.824165 h
+        velocity: 66.9 km / h
+  - - Olav Opsanger
+    - total: 480.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.6
+        arrival: 23.0
+        time: 147.4
+      velocity:
+        ss: 2018-01-02T02:00:29Z
+        es: 2018-01-02T07:48:43Z
+        distance: 390.1 km
+        elapsed: 5.803887 h
+        velocity: 67.2 km / h
+  - - Trent Brown
+    - total: 490.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.6
+        arrival: 27.9
+        time: 152.5
+      velocity:
+        ss: 2018-01-02T02:00:26Z
+        es: 2018-01-02T07:45:56Z
+        distance: 390.1 km
+        elapsed: 5.758333 h
+        velocity: 67.7 km / h
+  - - Guy Hubbard
+    - total: 512.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.6
+        arrival: 33.7
+        time: 168.0
+      velocity:
+        ss: 2018-01-02T02:00:08Z
+        es: 2018-01-02T07:37:58Z
+        distance: 390.1 km
+        elapsed: 5.630555 h
+        velocity: 69.2 km / h
+  - - Jonny Durand
+    - total: 578.0
+      breakdown:
+        reach: 126.9
+        effort: 126.9
+        distance: 253.8
+        leading: 56.8
+        arrival: 40.5
+        time: 227.2
+      velocity:
+        ss: 2018-01-02T02:00:04Z
+        es: 2018-01-02T07:19:29Z
+        distance: 390.1 km
+        elapsed: 5.32361 h
+        velocity: 73.2 km / h
+- - - Gordon Rigg
+    - total: 53.0
+      breakdown:
+        reach: 53.8
+        effort: 0
+        distance: 53.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:15:15Z
+        es: null
+        distance: 70.7 km
+        elapsed: null
+        velocity: null
+  - - Brad Porter
+    - total: 68.0
+      breakdown:
+        reach: 68.6
+        effort: 0
+        distance: 68.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:31:41Z
+        es: null
+        distance: 90.0 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 73.0
+      breakdown:
+        reach: 73.8
+        effort: 0
+        distance: 73.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:15:42Z
+        es: null
+        distance: 96.9 km
+        elapsed: null
+        velocity: null
+  - - Neale Halsall
+    - total: 74.0
+      breakdown:
+        reach: 74.4
+        effort: 0
+        distance: 74.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:15:54Z
+        es: null
+        distance: 97.7 km
+        elapsed: null
+        velocity: null
+  - - Wayne Thompson
+    - total: 83.0
+      breakdown:
+        reach: 83.3
+        effort: 0
+        distance: 83.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:25:23Z
+        es: null
+        distance: 109.4 km
+        elapsed: null
+        velocity: null
+  - - Olav Opsanger
+    - total: 86.0
+      breakdown:
+        reach: 86.1
+        effort: 0
+        distance: 86.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:16:42Z
+        es: null
+        distance: 113.1 km
+        elapsed: null
+        velocity: null
+  - - Tony Armstrong
+    - total: 87.0
+      breakdown:
+        reach: 87.0
+        effort: 0
+        distance: 87.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:15:02Z
+        es: null
+        distance: 114.2 km
+        elapsed: null
+        velocity: null
+  - - Oyvind Ellefsen
+    - total: 87.0
+      breakdown:
+        reach: 87.4
+        effort: 0
+        distance: 87.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:45:31Z
+        es: null
+        distance: 114.8 km
+        elapsed: null
+        velocity: null
+  - - Josh Woods
+    - total: 97.0
+      breakdown:
+        reach: 97.1
+        effort: 0
+        distance: 97.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:15:52Z
+        es: null
+        distance: 127.4 km
+        elapsed: null
+        velocity: null
+  - - Steve Docherty
+    - total: 97.0
+      breakdown:
+        reach: 97.2
+        effort: 0
+        distance: 97.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:16:03Z
+        es: null
+        distance: 127.6 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 103.0
+      breakdown:
+        reach: 103.1
+        effort: 0
+        distance: 103.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:38:30Z
+        es: null
+        distance: 135.4 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 110.0
+      breakdown:
+        reach: 110.7
+        effort: 0
+        distance: 110.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:15:15Z
+        es: null
+        distance: 145.3 km
+        elapsed: null
+        velocity: null
+  - - Nick Purcell
+    - total: 111.0
+      breakdown:
+        reach: 111.4
+        effort: 0
+        distance: 111.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:45:15Z
+        es: null
+        distance: 146.2 km
+        elapsed: null
+        velocity: null
+  - - Steve Blenkinsop
+    - total: 171.0
+      breakdown:
+        reach: 112.9
+        effort: 59.0
+        distance: 171.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-03T04:30:31Z
+        es: null
+        distance: 148.2 km
+        elapsed: null
+        velocity: null
+  - - Craig Taylor
+    - total: 316.0
+      breakdown:
+        reach: 118.1
+        effort: 118.1
+        distance: 236.2
+        leading: 21.6
+        arrival: 3.8
+        time: 54.9
+      velocity:
+        ss: 2018-01-03T04:15:32Z
+        es: 2018-01-03T07:26:45Z
+        distance: 155.0 km
+        elapsed: 3.186943 h
+        velocity: 48.6 km / h
+  - - Nils Vesk
+    - total: 326.0
+      breakdown:
+        reach: 118.1
+        effort: 118.1
+        distance: 236.2
+        leading: 21.6
+        arrival: 7.2
+        time: 61.7
+      velocity:
+        ss: 2018-01-03T04:15:02Z
+        es: 2018-01-03T07:19:28Z
+        distance: 155.0 km
+        elapsed: 3.073888 h
+        velocity: 50.4 km / h
+  - - Gavin Myers
+    - total: 359.0
+      breakdown:
+        reach: 118.1
+        effort: 118.1
+        distance: 236.2
+        leading: 21.6
+        arrival: 15.4
+        time: 86.5
+      velocity:
+        ss: 2018-01-03T04:15:27Z
+        es: 2018-01-03T07:04:26Z
+        distance: 155.0 km
+        elapsed: 2.816387 h
+        velocity: 55.0 km / h
+- - - Vic Hare
+    - total: 19.0
+      breakdown:
+        reach: 19.2
+        effort: 0
+        distance: 19.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T03:19:05Z
+        es: null
+        distance: 48.9 km
+        elapsed: null
+        velocity: null
+  - - Craig Taylor
+    - total: 19.0
+      breakdown:
+        reach: 19.3
+        effort: 0
+        distance: 19.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T07:20:50Z
+        es: null
+        distance: 49.4 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 44.0
+      breakdown:
+        reach: 44.3
+        effort: 0
+        distance: 44.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T02:50:27Z
+        es: null
+        distance: 113.1 km
+        elapsed: null
+        velocity: null
+  - - Anatoly Reyter
+    - total: 47.0
+      breakdown:
+        reach: 47.9
+        effort: 0
+        distance: 47.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T02:50:10Z
+        es: null
+        distance: 122.1 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 48.0
+      breakdown:
+        reach: 48.0
+        effort: 0
+        distance: 48.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T02:49:59Z
+        es: null
+        distance: 122.5 km
+        elapsed: null
+        velocity: null
+  - - Rick Martin
+    - total: 49.0
+      breakdown:
+        reach: 49.7
+        effort: 0
+        distance: 49.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T03:05:53Z
+        es: null
+        distance: 126.7 km
+        elapsed: null
+        velocity: null
+  - - Michael Cassells
+    - total: 50.0
+      breakdown:
+        reach: 50.9
+        effort: 0
+        distance: 50.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T02:50:22Z
+        es: null
+        distance: 129.9 km
+        elapsed: null
+        velocity: null
+  - - Dale Regehr
+    - total: 53.0
+      breakdown:
+        reach: 53.8
+        effort: 0
+        distance: 53.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-04T02:56:43Z
+        es: null
+        distance: 137.2 km
+        elapsed: null
+        velocity: null
+  - - Trent Brown
+    - total: 213.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 33.0
+        arrival: 4.8
+        time: 43.1
+      velocity:
+        ss: 2018-01-04T02:50:18Z
+        es: 2018-01-04T07:30:57Z
+        distance: 168.6 km
+        elapsed: 4.6775 h
+        velocity: 36.0 km / h
+  - - Gordon Rigg
+    - total: 249.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 33.0
+        arrival: 5.9
+        time: 77.6
+      velocity:
+        ss: 2018-01-04T02:50:17Z
+        es: 2018-01-04T06:58:06Z
+        distance: 168.6 km
+        elapsed: 4.130277 h
+        velocity: 40.8 km / h
+  - - Tony Armstrong
+    - total: 254.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 33.0
+        arrival: 8.7
+        time: 80.0
+      velocity:
+        ss: 2018-01-04T02:50:43Z
+        es: 2018-01-04T06:56:36Z
+        distance: 168.6 km
+        elapsed: 4.098054 h
+        velocity: 41.1 km / h
+  - - Josh Woods
+    - total: 271.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 32.9
+        arrival: 14.3
+        time: 91.6
+      velocity:
+        ss: 2018-01-04T02:50:22Z
+        es: 2018-01-04T06:47:21Z
+        distance: 168.6 km
+        elapsed: 3.949721 h
+        velocity: 42.7 km / h
+  - - Oyvind Ellefsen
+    - total: 279.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 32.9
+        arrival: 5.2
+        time: 109.0
+      velocity:
+        ss: 2018-01-04T03:12:45Z
+        es: 2018-01-04T06:58:39Z
+        distance: 168.6 km
+        elapsed: 3.765 h
+        velocity: 44.8 km / h
+  - - Olav Opsanger
+    - total: 283.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 32.9
+        arrival: 7.0
+        time: 111.3
+      velocity:
+        ss: 2018-01-04T03:12:16Z
+        es: 2018-01-04T06:56:57Z
+        distance: 168.6 km
+        elapsed: 3.744721 h
+        velocity: 45.0 km / h
+  - - Steve Blenkinsop
+    - total: 291.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 33.0
+        arrival: 18.4
+        time: 107.2
+      velocity:
+        ss: 2018-01-04T02:50:14Z
+        es: 2018-01-04T06:37:08Z
+        distance: 168.6 km
+        elapsed: 3.781665 h
+        velocity: 44.6 km / h
+  - - Attila Bertok
+    - total: 308.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 32.9
+        arrival: 11.1
+        time: 132.5
+      velocity:
+        ss: 2018-01-04T03:12:07Z
+        es: 2018-01-04T06:49:32Z
+        distance: 168.6 km
+        elapsed: 3.62361 h
+        velocity: 46.5 km / h
+  - - Jason Kath
+    - total: 318.0
+      breakdown:
+        reach: 66.1
+        effort: 66.1
+        distance: 132.3
+        leading: 33.1
+        arrival: 23.6
+        time: 128.8
+      velocity:
+        ss: 2018-01-04T02:51:57Z
+        es: 2018-01-04T06:29:53Z
+        distance: 168.6 km
+        elapsed: 3.632222 h
+        velocity: 46.4 km / h
+- - - Oyvind Ellefsen
+    - total: 16.0
+      breakdown:
+        reach: 16.7
+        effort: 0
+        distance: 16.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-05T02:42:34Z
+        es: null
+        distance: 56.0 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 30.0
+      breakdown:
+        reach: 30.8
+        effort: 0
+        distance: 30.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-05T03:00:22Z
+        es: null
+        distance: 103.4 km
+        elapsed: null
+        velocity: null
+  - - Michael Cassells
+    - total: 33.0
+      breakdown:
+        reach: 33.1
+        effort: 0
+        distance: 33.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-05T02:41:53Z
+        es: null
+        distance: 111.2 km
+        elapsed: null
+        velocity: null
+  - - Rory Duncan
+    - total: 42.0
+      breakdown:
+        reach: 42.9
+        effort: 0
+        distance: 42.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-05T02:40:38Z
+        es: null
+        distance: 144.0 km
+        elapsed: null
+        velocity: null
+  - - Craig Taylor
+    - total: 140.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 30.9
+        arrival: 4.5
+        time: 0
+      velocity:
+        ss: 2018-01-05T02:42:42Z
+        es: 2018-01-05T08:57:09Z
+        distance: 176.2 km
+        elapsed: 6.240833 h
+        velocity: 28.2 km / h
+  - - Vic Hare
+    - total: 166.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 30.9
+        arrival: 4.8
+        time: 25.4
+      velocity:
+        ss: 2018-01-05T02:45:26Z
+        es: 2018-01-05T07:37:12Z
+        distance: 176.2 km
+        elapsed: 4.862777 h
+        velocity: 36.2 km / h
+  - - Gavin Myers
+    - total: 180.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 30.9
+        arrival: 5.3
+        time: 39.1
+      velocity:
+        ss: 2018-01-05T02:42:49Z
+        es: 2018-01-05T07:18:32Z
+        distance: 176.2 km
+        elapsed: 4.595277 h
+        velocity: 38.3 km / h
+  - - Gordon Rigg
+    - total: 198.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.0
+        arrival: 6.1
+        time: 56.3
+      velocity:
+        ss: 2018-01-05T02:42:29Z
+        es: 2018-01-05T06:59:57Z
+        distance: 176.2 km
+        elapsed: 4.29111 h
+        velocity: 41.0 km / h
+  - - Guy Hubbard
+    - total: 221.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.1
+        arrival: 7.3
+        time: 77.6
+      velocity:
+        ss: 2018-01-05T02:42:15Z
+        es: 2018-01-05T06:40:06Z
+        distance: 176.2 km
+        elapsed: 3.964166 h
+        velocity: 44.4 km / h
+  - - Steve Blenkinsop
+    - total: 233.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.1
+        arrival: 9.0
+        time: 87.8
+      velocity:
+        ss: 2018-01-05T02:40:09Z
+        es: 2018-01-05T06:29:59Z
+        distance: 176.2 km
+        elapsed: 3.830554 h
+        velocity: 46.0 km / h
+  - - Nick Purcell
+    - total: 236.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.1
+        arrival: 11.2
+        time: 88.6
+      velocity:
+        ss: 2018-01-05T02:40:22Z
+        es: 2018-01-05T06:29:39Z
+        distance: 176.2 km
+        elapsed: 3.821387 h
+        velocity: 46.1 km / h
+  - - Jason Kath
+    - total: 246.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.2
+        arrival: 14.1
+        time: 96.0
+      velocity:
+        ss: 2018-01-05T02:40:53Z
+        es: 2018-01-05T06:25:04Z
+        distance: 176.2 km
+        elapsed: 3.736387 h
+        velocity: 47.1 km / h
+  - - Rohan Taylor
+    - total: 250.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.1
+        arrival: 17.8
+        time: 96.7
+      velocity:
+        ss: 2018-01-05T02:40:26Z
+        es: 2018-01-05T06:24:10Z
+        distance: 176.2 km
+        elapsed: 3.728887 h
+        velocity: 47.2 km / h
+  - - Attila Bertok
+    - total: 283.0
+      breakdown:
+        reach: 52.5
+        effort: 52.5
+        distance: 105.0
+        leading: 31.1
+        arrival: 22.2
+        time: 124.8
+      velocity:
+        ss: 2018-01-05T02:40:21Z
+        es: 2018-01-05T06:12:02Z
+        distance: 176.2 km
+        elapsed: 3.528055 h
+        velocity: 49.9 km / h
