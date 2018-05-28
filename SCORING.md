@@ -15,13 +15,9 @@ Measuring task lengths completed in 3.91 m
 
 > ../../bin/cross-zone --file=forbes2018.comp-input.yaml
 Reading competition from 'forbes2018.comp-input.yaml'
+Tracks crossing zones completed in 26.74 s
 
-error: ""ABRA02486\r\nHFDTE301217\r\nHFFXA100\r\nHFPLTPILOT:..."" (line 1, column 1):
-unexpected "A"
-expecting xml declaration, comment, processing instruction, "<!DOCTYPE" or "<"
-
-
-error: ""AXCGAventura  3.0|C17B-20520095\r\nHFDTE301217\r..."" (line 1, column 1):
-unexpected "A"
-expecting xml declaration, comment, processing instruction, "<!DOCTYPE" or "<"
+> ../../bin/tag-zone --file=forbes2018.cross-zone.yaml
+Reading zone crossings from 'forbes2018.cross-zone.yaml'
+Tagging zones completed in 253.53 ms
 ```
