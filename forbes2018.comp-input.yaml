@@ -7,6 +7,7 @@ comp:
   civilId: '12209'
   utcOffset:
     timeZoneMinutes: 660
+  scoreBack: 900.0 s
 nominal:
   launch: 1
   goal: 0.25
@@ -46,6 +47,7 @@ tasks:
   - 2017-12-30T05:00:00Z
   - 2017-12-30T05:15:00Z
   absent: []
+  stopped: null
 - taskName: task 2
   zones:
   - zoneName: BMI023
@@ -89,6 +91,7 @@ tasks:
   - 2017-12-31T03:15:00Z
   - 2017-12-31T03:30:00Z
   absent: []
+  stopped: null
 - taskName: Task 3
   zones:
   - zoneName: BMI023
@@ -129,6 +132,7 @@ tasks:
   - Justinas Pleikys
   - Oyvind Ellefsen
   - Peter Adriaans
+  stopped: null
 - taskName: Task 4
   zones:
   - zoneName: BMI023
@@ -165,6 +169,7 @@ tasks:
   - Niki Longshore
   - Peter Adriaans
   - Robert Davies
+  stopped: null
 - taskName: Task 5
   zones:
   - zoneName: BMI023
@@ -205,6 +210,7 @@ tasks:
   - Justinas Pleikys
   - Niki Longshore
   - Peter Adriaans
+  stopped: null
 - taskName: Task 6
   zones:
   - zoneName: BMI023
@@ -255,6 +261,7 @@ tasks:
   - Peter Adriaans
   - Robert Davies
   - Simon West
+  stopped: null
 - taskName: Task 7
   zones:
   - zoneName: BMI023
@@ -310,6 +317,7 @@ tasks:
   - Robert Davies
   - Ross Smith
   - Simon West
+  stopped: null
 taskFolders:
 - - task 1
 - - task 2
