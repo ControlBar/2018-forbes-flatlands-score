@@ -79,7 +79,7 @@ ssBestTime:
 - 3.623611 h
 - 3.528056 h
 gsBestTime:
-- 1.95 h
+- 1.950000 h
 - 3.600833 h
 - 2.895833 h
 - 5.074722 h
@@ -87,29 +87,37 @@ gsBestTime:
 - 3.325556 h
 - 3.200556 h
 taskDistance:
-- 153.188479
-- 187.094493
-- 196.159453
-- 390.15012
-- 155.010667
-- 168.692191
-- 176.237361
+- 153.188479 km
+- 187.094493 km
+- 196.159453 km
+- 390.150120 km
+- 155.010667 km
+- 168.692191 km
+- 176.237361 km
+taskSpeedDistance:
+- 0.000000 km
+- 176.703571 km
+- 186.469197 km
+- 0.000000 km
+- 145.341882 km
+- 163.364072 km
+- 171.494754 km
 bestDistance:
-- 153.188479
-- 187.094493
-- 196.159453
-- 390.15012
-- 155.010667
-- 168.692191
-- 176.237361
+- 153.188479 km
+- 187.094493 km
+- 196.159453 km
+- 390.150120 km
+- 155.010667 km
+- 168.692191 km
+- 176.237361 km
 sumDistance:
-- 964.351748
-- 914.8404509999998
-- 2636.646795
-- 7710.55112
-- 1932.5823390000003
-- 2198.3922469999998
-- 2037.1590539999997
+- 964.351748 km
+- 914.840451 km
+- 2636.646795 km
+- 7710.551120 km
+- 1932.582339 km
+- 2198.392247 km
+- 2037.159054 km
 minLead:
 - 1.51e-6
 - 4.48e-6
@@ -915,7 +923,7 @@ ssSpeed:
       frac: 0.84062918
   - - - '98'
       - Oyvind Ellefsen
-    - time: 3.765 h
+    - time: 3.765000 h
       frac: 0.8233028
   - - - '11'
       - Steve Blenkinsop
@@ -935,7 +943,7 @@ ssSpeed:
       frac: 0.58622172
   - - - '31'
       - Trent Brown
-    - time: 4.6775 h
+    - time: 4.677500 h
       frac: 0.32575766
 - - - - '92'
       - Attila Bertok
@@ -980,7 +988,7 @@ ssSpeed:
 gsSpeed:
 - - - - '92'
       - Attila Bertok
-    - time: 1.95 h
+    - time: 1.950000 h
       frac: 1
   - - - '11'
       - Steve Blenkinsop
@@ -1024,7 +1032,7 @@ gsSpeed:
       frac: 0.85137956
   - - - '23'
       - Nils Vesk
-    - time: 3.135 h
+    - time: 3.135000 h
       frac: 0.72968141
   - - - '22'
       - Rohan Taylor
@@ -1032,7 +1040,7 @@ gsSpeed:
       frac: 0.67044384
   - - - '68'
       - Neale Halsall
-    - time: 3.275 h
+    - time: 3.275000 h
       frac: 0.63246764
   - - - '30'
       - Jason Kath
@@ -1132,11 +1140,11 @@ gsSpeed:
       frac: 0.83102589
   - - - '98'
       - Oyvind Ellefsen
-    - time: 3.4775 h
+    - time: 3.477500 h
       frac: 0.80923363
   - - - '62'
       - Josh Woods
-    - time: 3.6225 h
+    - time: 3.622500 h
       frac: 0.7018084
   - - - '41'
       - Tony Armstrong
@@ -1184,163 +1192,163 @@ gsSpeed:
       frac: 0.27327215
   - - - '74'
       - Vic Hare
-    - time: 4.62 h
+    - time: 4.620000 h
       frac: 0.14295464
   - - - '51'
       - Craig Taylor
-    - time: 5.9525 h
+    - time: 5.952500 h
       frac: 0
 nigh:
 - - - - '41'
       - Tony Armstrong
     - togo:
-        distance: 41.015027
+        distance: 41.015027 km
         legs:
-        - 41.015027
+        - 41.015027 km
         legsSum:
-        - 41.015027
+        - 41.015027 km
         waypoints:
         - lat: -32.34696667
           lng: 148.04516667
         - lat: -31.9798
           lng: 148.0035
-      made: 112.173479
+      made: 112.173479 km
   - - - '28'
       - Mikhail Karmazin
     - togo:
-        distance: 69.967858
+        distance: 69.967858 km
         legs:
-        - 69.967858
+        - 69.967858 km
         legsSum:
-        - 69.967858
+        - 69.967858 km
         waypoints:
         - lat: -32.60888333
           lng: 148.0199
         - lat: -31.9798
           lng: 148.0035
-      made: 83.220479
+      made: 83.220479 km
   - - - '98'
       - Oyvind Ellefsen
     - togo:
-        distance: 85.288125
+        distance: 85.288125 km
         legs:
-        - 85.288125
+        - 85.288125 km
         legsSum:
-        - 85.288125
+        - 85.288125 km
         waypoints:
         - lat: -32.7384
           lng: 147.86936667
         - lat: -31.9798
           lng: 148.0035
-      made: 67.900479
+      made: 67.900479 km
   - - - '107'
       - Anatoly Reyter
     - togo:
-        distance: 88.311298
+        distance: 88.311298 km
         legs:
-        - 88.311298
+        - 88.311298 km
         legsSum:
-        - 88.311298
+        - 88.311298 km
         waypoints:
         - lat: -32.774
           lng: 148.0059
         - lat: -31.9798
           lng: 148.0035
-      made: 64.877479
+      made: 64.877479 km
   - - - '80'
       - Michael Cassells
     - togo:
-        distance: 96.725263
+        distance: 96.725263 km
         legs:
-        - 96.725263
+        - 96.725263 km
         legsSum:
-        - 96.725263
+        - 96.725263 km
         waypoints:
         - lat: -32.84955
           lng: 147.9863
         - lat: -31.9798
           lng: 148.0035
-      made: 56.463479
+      made: 56.463479 km
   - - - '86'
       - Ross Smith
     - togo:
-        distance: 104.346442
+        distance: 104.346442 km
         legs:
-        - 104.346442
+        - 104.346442 km
         legsSum:
-        - 104.346442
+        - 104.346442 km
         waypoints:
         - lat: -32.91786667
           lng: 148.03358333
         - lat: -31.9798
           lng: 148.0035
-      made: 48.842479
+      made: 48.842479 km
   - - - '14'
       - Peter Burkitt
     - togo:
-        distance: 128.802344
+        distance: 128.802344 km
         legs:
-        - 128.802344
+        - 128.802344 km
         legsSum:
-        - 128.802344
+        - 128.802344 km
         waypoints:
         - lat: -33.13676667
           lng: 148.07058333
         - lat: -31.9798
           lng: 148.0035
-      made: 24.386479
+      made: 24.386479 km
   - - - '55'
       - Don Cramer
     - togo:
-        distance: 139.455326
+        distance: 139.455326 km
         legs:
-        - 139.455326
+        - 139.455326 km
         legsSum:
-        - 139.455326
+        - 139.455326 km
         waypoints:
         - lat: -33.23388333
           lng: 148.01906667
         - lat: -31.9798
           lng: 148.0035
-      made: 13.733479
+      made: 13.733479 km
 - - - - '30'
       - Jason Kath
     - togo:
-        distance: 34.826722
+        distance: 34.826722 km
         legs:
-        - 34.826722
+        - 34.826722 km
         legsSum:
-        - 34.826722
+        - 34.826722 km
         waypoints:
         - lat: -34.50008333
           lng: 148.65373333
         - lat: -34.81274299
           lng: 148.676177
-      made: 150.721493
+      made: 150.721493 km
   - - - '22'
       - Rohan Taylor
     - togo:
-        distance: 30.115788
+        distance: 30.115788 km
         legs:
-        - 30.115788
+        - 30.115788 km
         legsSum:
-        - 30.115788
+        - 30.115788 km
         waypoints:
         - lat: -34.54195
           lng: 148.68216667
         - lat: -34.81274299
           lng: 148.676177
-      made: 156.978493
+      made: 156.978493 km
   - - - '80'
       - Michael Cassells
     - togo:
-        distance: 87.106729
+        distance: 87.106729 km
         legs:
-        - 50.746927
-        - 36.359803
+        - 50.746927 km
+        - 36.359803 km
         legsSum:
-        - 50.746927
-        - 87.106729
+        - 50.746927 km
+        - 87.106729 km
         waypoints:
         - lat: -34.15631667
           lng: 148.2741
@@ -1348,19 +1356,19 @@ nigh:
           lng: 148.65598964
         - lat: -34.81274299
           lng: 148.676177
-      made: 99.987493
+      made: 99.987493 km
   - - - '42'
       - Rob de Groot
     - togo:
-        distance: 171.225364
+        distance: 171.225364 km
         legs:
-        - 39.45575
-        - 95.409811
-        - 36.359803
+        - 39.455750 km
+        - 95.409811 km
+        - 36.359803 km
         legsSum:
-        - 39.45575
-        - 134.865561
-        - 171.225364
+        - 39.455750 km
+        - 134.865561 km
+        - 171.225364 km
         waypoints:
         - lat: -33.4936
           lng: 147.94611667
@@ -1370,19 +1378,19 @@ nigh:
           lng: 148.65598964
         - lat: -34.81274299
           lng: 148.676177
-      made: 15.869493
+      made: 15.869493 km
   - - - '51'
       - Craig Taylor
     - togo:
-        distance: 178.501655
+        distance: 178.501655 km
         legs:
-        - 46.732041
-        - 95.409811
-        - 36.359803
+        - 46.732041 km
+        - 95.409811 km
+        - 36.359803 km
         legsSum:
-        - 46.732041
-        - 142.141852
-        - 178.501655
+        - 46.732041 km
+        - 142.141852 km
+        - 178.501655 km
         waypoints:
         - lat: -33.42958333
           lng: 147.9174
@@ -1392,45 +1400,45 @@ nigh:
           lng: 148.65598964
         - lat: -34.81274299
           lng: 148.676177
-      made: 8.592493
+      made: 8.592493 km
 - - - - '107'
       - Anatoly Reyter
     - togo:
-        distance: 3.76936
+        distance: 3.769360 km
         legs:
-        - 3.76936
+        - 3.769360 km
         legsSum:
-        - 3.76936
+        - 3.769360 km
         waypoints:
         - lat: -32.31033333
           lng: 149.51971667
         - lat: -32.2985
           lng: 149.5573
-      made: 192.390453
+      made: 192.390453 km
   - - - '52'
       - Dale Regehr
     - togo:
-        distance: 28.101211
+        distance: 28.101211 km
         legs:
-        - 28.101211
+        - 28.101211 km
         legsSum:
-        - 28.101211
+        - 28.101211 km
         waypoints:
         - lat: -32.37261667
           lng: 149.27135
         - lat: -32.2985
           lng: 149.5573
-      made: 168.058453
+      made: 168.058453 km
   - - - '69'
       - Niki Longshore
     - togo:
-        distance: 123.874745
+        distance: 123.874745 km
         legs:
-        - 67.407603
-        - 56.467142
+        - 67.407603 km
+        - 56.467142 km
         legsSum:
-        - 67.407603
-        - 123.874745
+        - 67.407603 km
+        - 123.874745 km
         waypoints:
         - lat: -32.882833
           lng: 148.467267
@@ -1438,395 +1446,395 @@ nigh:
           lng: 148.9893
         - lat: -32.2985
           lng: 149.5573
-      made: 72.284453
+      made: 72.284453 km
 - - - - '37'
       - Gavin Myers
     - togo:
-        distance: 33.635601
+        distance: 33.635601 km
         legs:
-        - 33.635601
+        - 33.635601 km
         legsSum:
-        - 33.635601
+        - 33.635601 km
         waypoints:
         - lat: -31.0357
           lng: 150.56993333
         - lat: -30.7635
           lng: 150.7237
-      made: 356.51412
+      made: 356.514120 km
   - - - '51'
       - Craig Taylor
     - togo:
-        distance: 37.053928
+        distance: 37.053928 km
         legs:
-        - 37.053928
+        - 37.053928 km
         legsSum:
-        - 37.053928
+        - 37.053928 km
         waypoints:
         - lat: -30.99023333
           lng: 150.43916667
         - lat: -30.7635
           lng: 150.7237
-      made: 353.09612
+      made: 353.096120 km
   - - - '22'
       - Rohan Taylor
     - togo:
-        distance: 45.184483
+        distance: 45.184483 km
         legs:
-        - 45.184483
+        - 45.184483 km
         legsSum:
-        - 45.184483
+        - 45.184483 km
         waypoints:
         - lat: -31.06308333
           lng: 150.4037
         - lat: -30.7635
           lng: 150.7237
-      made: 344.96612
+      made: 344.966120 km
   - - - '80'
       - Michael Cassells
     - togo:
-        distance: 56.686157
+        distance: 56.686157 km
         legs:
-        - 56.686157
+        - 56.686157 km
         legsSum:
-        - 56.686157
+        - 56.686157 km
         waypoints:
         - lat: -31.09368333
           lng: 150.2709
         - lat: -30.7635
           lng: 150.7237
-      made: 333.46412
+      made: 333.464120 km
   - - - '77'
       - Brodrick Osborne
     - togo:
-        distance: 66.850575
+        distance: 66.850575 km
         legs:
-        - 66.850575
+        - 66.850575 km
         legsSum:
-        - 66.850575
+        - 66.850575 km
         waypoints:
         - lat: -31.01088333
           lng: 150.0852
         - lat: -30.7635
           lng: 150.7237
-      made: 323.29912
+      made: 323.299120 km
   - - - '68'
       - Neale Halsall
     - togo:
-        distance: 100.158911
+        distance: 100.158911 km
         legs:
-        - 100.158911
+        - 100.158911 km
         legsSum:
-        - 100.158911
+        - 100.158911 km
         waypoints:
         - lat: -31.4449
           lng: 150.03566667
         - lat: -30.7635
           lng: 150.7237
-      made: 289.99112
+      made: 289.991120 km
   - - - '103'
       - Wayne Thompson
     - togo:
-        distance: 122.381906
+        distance: 122.381906 km
         legs:
-        - 122.381906
+        - 122.381906 km
         legsSum:
-        - 122.381906
+        - 122.381906 km
         waypoints:
         - lat: -31.53361667
           lng: 149.80493333
         - lat: -30.7635
           lng: 150.7237
-      made: 267.76812
+      made: 267.768120 km
   - - - '34'
       - Brad Porter
     - togo:
-        distance: 150.986014
+        distance: 150.986014 km
         legs:
-        - 150.986014
+        - 150.986014 km
         legsSum:
-        - 150.986014
+        - 150.986014 km
         waypoints:
         - lat: -31.82335
           lng: 149.73035
         - lat: -30.7635
           lng: 150.7237
-      made: 239.16412
+      made: 239.164120 km
   - - - '52'
       - Dale Regehr
     - togo:
-        distance: 157.36368
+        distance: 157.363680 km
         legs:
-        - 157.36368
+        - 157.363680 km
         legsSum:
-        - 157.36368
+        - 157.363680 km
         waypoints:
         - lat: -31.8721
           lng: 149.69396667
         - lat: -30.7635
           lng: 150.7237
-      made: 232.78612
+      made: 232.786120 km
   - - - '92'
       - Attila Bertok
     - togo:
-        distance: 188.29193
+        distance: 188.291930 km
         legs:
-        - 188.29193
+        - 188.291930 km
         legsSum:
-        - 188.29193
+        - 188.291930 km
         waypoints:
         - lat: -31.89971667
           lng: 149.25371667
         - lat: -30.7635
           lng: 150.7237
-      made: 201.85812
+      made: 201.858120 km
   - - - '74'
       - Vic Hare
     - togo:
-        distance: 253.034386
+        distance: 253.034386 km
         legs:
-        - 253.034386
+        - 253.034386 km
         legsSum:
-        - 253.034386
+        - 253.034386 km
         waypoints:
         - lat: -32.39615
           lng: 148.86281667
         - lat: -30.7635
           lng: 150.7237
-      made: 137.11612
+      made: 137.116120 km
   - - - '106'
       - Jon Durand Snr
     - togo:
-        distance: 295.508863
+        distance: 295.508863 km
         legs:
-        - 295.508863
+        - 295.508863 km
         legsSum:
-        - 295.508863
+        - 295.508863 km
         waypoints:
         - lat: -32.75201667
           lng: 148.6499
         - lat: -30.7635
           lng: 150.7237
-      made: 94.64112
+      made: 94.641120 km
   - - - '64'
       - Longfei Yang
     - togo:
-        distance: 332.759946
+        distance: 332.759946 km
         legs:
-        - 332.759946
+        - 332.759946 km
         legsSum:
-        - 332.759946
+        - 332.759946 km
         waypoints:
         - lat: -32.9861
           lng: 148.3636
         - lat: -30.7635
           lng: 150.7237
-      made: 57.39012
+      made: 57.390120 km
   - - - '81'
       - Nick Purcell
     - togo:
-        distance: 333.454644
+        distance: 333.454644 km
         legs:
-        - 333.454644
+        - 333.454644 km
         legsSum:
-        - 333.454644
+        - 333.454644 km
         waypoints:
         - lat: -32.99466667
           lng: 148.3637
         - lat: -30.7635
           lng: 150.7237
-      made: 56.69512
+      made: 56.695120 km
 - - - - '11'
       - Steve Blenkinsop
     - togo:
-        distance: 6.780282
+        distance: 6.780282 km
         legs:
-        - 6.780282
+        - 6.780282 km
         legsSum:
-        - 6.780282
+        - 6.780282 km
         waypoints:
         - lat: -32.44901667
           lng: 148.91963333
         - lat: -32.46522
           lng: 148.9893
-      made: 148.230667
+      made: 148.230667 km
   - - - '81'
       - Nick Purcell
     - togo:
-        distance: 8.72953
+        distance: 8.729530 km
         legs:
-        - 8.72953
+        - 8.729530 km
         legsSum:
-        - 8.72953
+        - 8.729530 km
         waypoints:
         - lat: -32.4577
           lng: 148.89668333
         - lat: -32.46522
           lng: 148.9893
-      made: 146.280667
+      made: 146.280667 km
   - - - '22'
       - Rohan Taylor
     - togo:
-        distance: 9.618081
+        distance: 9.618081 km
         legs:
-        - 9.618081
+        - 9.618081 km
         legsSum:
-        - 9.618081
+        - 9.618081 km
         waypoints:
         - lat: -32.45075
           lng: 148.88823333
         - lat: -32.46522
           lng: 148.9893
-      made: 145.392667
+      made: 145.392667 km
   - - - '92'
       - Attila Bertok
     - togo:
-        distance: 19.590108
+        distance: 19.590108 km
         legs:
-        - 19.590108
+        - 19.590108 km
         legsSum:
-        - 19.590108
+        - 19.590108 km
         waypoints:
         - lat: -32.46351667
           lng: 148.7805
         - lat: -32.46522
           lng: 148.9893
-      made: 135.420667
+      made: 135.420667 km
   - - - '36'
       - Steve Docherty
     - togo:
-        distance: 27.323402
+        distance: 27.323402 km
         legs:
-        - 27.323402
+        - 27.323402 km
         legsSum:
-        - 27.323402
+        - 27.323402 km
         waypoints:
         - lat: -32.4674
           lng: 148.69806667
         - lat: -32.46522
           lng: 148.9893
-      made: 127.687667
+      made: 127.687667 km
   - - - '62'
       - Josh Woods
     - togo:
-        distance: 27.538134
+        distance: 27.538134 km
         legs:
-        - 27.538134
+        - 27.538134 km
         legsSum:
-        - 27.538134
+        - 27.538134 km
         waypoints:
         - lat: -32.5021
           lng: 148.69898333
         - lat: -32.46522
           lng: 148.9893
-      made: 127.472667
+      made: 127.472667 km
   - - - '98'
       - Oyvind Ellefsen
     - togo:
-        distance: 40.206282
+        distance: 40.206282 km
         legs:
-        - 40.206282
+        - 40.206282 km
         legsSum:
-        - 40.206282
+        - 40.206282 km
         waypoints:
         - lat: -32.5002
           lng: 148.56266667
         - lat: -32.46522
           lng: 148.9893
-      made: 114.804667
+      made: 114.804667 km
   - - - '41'
       - Tony Armstrong
     - togo:
-        distance: 40.733829
+        distance: 40.733829 km
         legs:
-        - 40.733829
+        - 40.733829 km
         legsSum:
-        - 40.733829
+        - 40.733829 km
         waypoints:
         - lat: -32.53161667
           lng: 148.56215
         - lat: -32.46522
           lng: 148.9893
-      made: 114.276667
+      made: 114.276667 km
   - - - '7'
       - Olav Opsanger
     - togo:
-        distance: 41.89043
+        distance: 41.890430 km
         legs:
-        - 41.89043
+        - 41.890430 km
         legsSum:
-        - 41.89043
+        - 41.890430 km
         waypoints:
         - lat: -32.53585
           lng: 148.55053333
         - lat: -32.46522
           lng: 148.9893
-      made: 113.120667
+      made: 113.120667 km
   - - - '103'
       - Wayne Thompson
     - togo:
-        distance: 45.55886
+        distance: 45.558860 km
         legs:
-        - 45.55886
+        - 45.558860 km
         legsSum:
-        - 45.55886
+        - 45.558860 km
         waypoints:
         - lat: -32.51135
           lng: 148.50665
         - lat: -32.46522
           lng: 148.9893
-      made: 109.451667
+      made: 109.451667 km
   - - - '68'
       - Neale Halsall
     - togo:
-        distance: 57.261553
+        distance: 57.261553 km
         legs:
-        - 57.261553
+        - 57.261553 km
         legsSum:
-        - 57.261553
+        - 57.261553 km
         waypoints:
         - lat: -32.54866667
           lng: 148.38673333
         - lat: -32.46522
           lng: 148.9893
-      made: 97.748667
+      made: 97.748667 km
   - - - '52'
       - Dale Regehr
     - togo:
-        distance: 58.095654
+        distance: 58.095654 km
         legs:
-        - 58.095654
+        - 58.095654 km
         legsSum:
-        - 58.095654
+        - 58.095654 km
         waypoints:
         - lat: -32.55013333
           lng: 148.378
         - lat: -32.46522
           lng: 148.9893
-      made: 96.914667
+      made: 96.914667 km
   - - - '34'
       - Brad Porter
     - togo:
-        distance: 64.965039
+        distance: 64.965039 km
         legs:
-        - 64.965039
+        - 64.965039 km
         legsSum:
-        - 64.965039
+        - 64.965039 km
         waypoints:
         - lat: -32.6113
           lng: 148.31828333
         - lat: -32.46522
           lng: 148.9893
-      made: 90.045667
+      made: 90.045667 km
   - - - '8'
       - Gordon Rigg
     - togo:
-        distance: 84.307573
+        distance: 84.307573 km
         legs:
-        - 15.558094
-        - 68.749479
+        - 15.558094 km
+        - 68.749479 km
         legsSum:
-        - 15.558094
-        - 84.307573
+        - 15.558094 km
+        - 84.307573 km
         waypoints:
         - lat: -32.73686667
           lng: 148.17068333
@@ -1834,87 +1842,87 @@ nigh:
           lng: 148.28931017
         - lat: -32.4627972
           lng: 148.99245153
-      made: 70.702667
+      made: 70.702667 km
 - - - - '52'
       - Dale Regehr
     - togo:
-        distance: 31.431517
+        distance: 31.431517 km
         legs:
-        - 31.431517
+        - 31.431517 km
         legsSum:
-        - 31.431517
+        - 31.431517 km
         waypoints:
         - lat: -33.2719
           lng: 148.26053333
         - lat: -33.3537772
           lng: 147.93678341
-      made: 137.260191
+      made: 137.260191 km
   - - - '80'
       - Michael Cassells
     - togo:
-        distance: 38.744758
+        distance: 38.744758 km
         legs:
-        - 38.744758
+        - 38.744758 km
         legsSum:
-        - 38.744758
+        - 38.744758 km
         waypoints:
         - lat: -33.2695
           lng: 148.34135
         - lat: -33.3537772
           lng: 147.93678341
-      made: 129.947191
+      made: 129.947191 km
   - - - '85'
       - Rick Martin
     - togo:
-        distance: 41.935231
+        distance: 41.935231 km
         legs:
-        - 41.935231
+        - 41.935231 km
         legsSum:
-        - 41.935231
+        - 41.935231 km
         waypoints:
         - lat: -33.20871667
           lng: 148.3532
         - lat: -33.3537772
           lng: 147.93678341
-      made: 126.757191
+      made: 126.757191 km
   - - - '22'
       - Rohan Taylor
     - togo:
-        distance: 46.183403
+        distance: 46.183403 km
         legs:
-        - 46.183403
+        - 46.183403 km
         legsSum:
-        - 46.183403
+        - 46.183403 km
         waypoints:
         - lat: -33.3141
           lng: 148.43163333
         - lat: -33.3537772
           lng: 147.93678341
-      made: 122.509191
+      made: 122.509191 km
   - - - '107'
       - Anatoly Reyter
     - togo:
-        distance: 46.50862
+        distance: 46.508620 km
         legs:
-        - 46.50862
+        - 46.508620 km
         legsSum:
-        - 46.50862
+        - 46.508620 km
         waypoints:
         - lat: -33.35076667
           lng: 148.4375
         - lat: -33.3537772
           lng: 147.93678341
-      made: 122.183191
+      made: 122.183191 km
   - - - '23'
       - Nils Vesk
     - togo:
-        distance: 55.547057
+        distance: 55.547057 km
         legs:
-        - 3.062231
-        - 52.484826
+        - 3.062231 km
+        - 52.484826 km
         legsSum:
-        - 3.062231
-        - 55.547057
+        - 3.062231 km
+        - 55.547057 km
         waypoints:
         - lat: -33.29261667
           lng: 148.46783333
@@ -1922,19 +1930,19 @@ nigh:
           lng: 148.49383143
         - lat: -33.3537772
           lng: 147.93678341
-      made: 113.145191
+      made: 113.145191 km
   - - - '74'
       - Vic Hare
     - togo:
-        distance: 119.751178
+        distance: 119.751178 km
         legs:
-        - 1.546195
-        - 66.522736
-        - 51.682246
+        - 1.546195 km
+        - 66.522736 km
+        - 51.682246 km
         legsSum:
-        - 1.546195
-        - 68.068931
-        - 119.751178
+        - 1.546195 km
+        - 68.068931 km
+        - 119.751178 km
         waypoints:
         - lat: -33.75943333
           lng: 148.13546667
@@ -1944,19 +1952,19 @@ nigh:
           lng: 148.47839274
         - lat: -33.3537772
           lng: 147.93678341
-      made: 48.941191
+      made: 48.941191 km
   - - - '51'
       - Craig Taylor
     - togo:
-        distance: 119.273332
+        distance: 119.273332 km
         legs:
-        - 1.068349
-        - 66.522736
-        - 51.682246
+        - 1.068349 km
+        - 66.522736 km
+        - 51.682246 km
         legsSum:
-        - 1.068349
-        - 67.591085
-        - 119.273332
+        - 1.068349 km
+        - 67.591085 km
+        - 119.273332 km
         waypoints:
         - lat: -33.76536667
           lng: 148.14076667
@@ -1966,17 +1974,17 @@ nigh:
           lng: 148.47839274
         - lat: -33.3537772
           lng: 147.93678341
-      made: 49.419191
+      made: 49.419191 km
 - - - - '76'
       - Rory Duncan
     - togo:
-        distance: 32.190166
+        distance: 32.190166 km
         legs:
-        - 9.433446
-        - 22.75672
+        - 9.433446 km
+        - 22.756720 km
         legsSum:
-        - 9.433446
-        - 32.190166
+        - 9.433446 km
+        - 32.190166 km
         waypoints:
         - lat: -32.53956667
           lng: 148.17295
@@ -1984,17 +1992,17 @@ nigh:
           lng: 148.07494698
         - lat: -32.7265772
           lng: 148.21426082
-      made: 144.047361
+      made: 144.047361 km
   - - - '80'
       - Michael Cassells
     - togo:
-        distance: 65.03373
+        distance: 65.033730 km
         legs:
-        - 42.277009
-        - 22.75672
+        - 42.277009 km
+        - 22.756720 km
         legsSum:
-        - 42.277009
-        - 65.03373
+        - 42.277009 km
+        - 65.033730 km
         waypoints:
         - lat: -32.58035
           lng: 148.52538333
@@ -2002,19 +2010,19 @@ nigh:
           lng: 148.07494698
         - lat: -32.7265772
           lng: 148.21426082
-      made: 111.203361
+      made: 111.203361 km
   - - - '23'
       - Nils Vesk
     - togo:
-        distance: 72.770921
+        distance: 72.770921 km
         legs:
-        - 2.871374
-        - 47.142826
-        - 22.75672
+        - 2.871374 km
+        - 47.142826 km
+        - 22.756720 km
         legsSum:
-        - 2.871374
-        - 50.014201
-        - 72.770921
+        - 2.871374 km
+        - 50.014201 km
+        - 72.770921 km
         waypoints:
         - lat: -32.552
           lng: 148.54906667
@@ -2024,19 +2032,19 @@ nigh:
           lng: 148.07494698
         - lat: -32.7265772
           lng: 148.21426082
-      made: 103.466361
+      made: 103.466361 km
   - - - '98'
       - Oyvind Ellefsen
     - togo:
-        distance: 120.169036
+        distance: 120.169036 km
         legs:
-        - 45.437246
-        - 51.97507
-        - 22.75672
+        - 45.437246 km
+        - 51.975070 km
+        - 22.756720 km
         legsSum:
-        - 45.437246
-        - 97.412316
-        - 120.169036
+        - 45.437246 km
+        - 97.412316 km
+        - 120.169036 km
         waypoints:
         - lat: -32.92651667
           lng: 148.267
@@ -2046,229 +2054,229 @@ nigh:
           lng: 148.07494698
         - lat: -32.7265772
           lng: 148.21426082
-      made: 56.068361
+      made: 56.068361 km
 land:
 - - - - '41'
       - Tony Armstrong
-    - togo: 41.399595
-      made: 111.789
+    - togo: 41.399595 km
+      made: 111.788884 km
   - - - '28'
       - Mikhail Karmazin
-    - togo: 70.053573
-      made: 83.135
+    - togo: 70.053573 km
+      made: 83.134906 km
   - - - '98'
       - Oyvind Ellefsen
-    - togo: 85.644885
-      made: 67.544
+    - togo: 85.644885 km
+      made: 67.543594 km
   - - - '107'
       - Anatoly Reyter
-    - togo: 90.124888
-      made: 63.064
+    - togo: 90.124888 km
+      made: 63.063591 km
   - - - '80'
       - Michael Cassells
-    - togo: 96.882711
-      made: 56.306
+    - togo: 96.882711 km
+      made: 56.305768 km
   - - - '86'
       - Ross Smith
-    - togo: 104.559422
-      made: 48.629
+    - togo: 104.559422 km
+      made: 48.629057 km
   - - - '14'
       - Peter Burkitt
-    - togo: 129.027216
-      made: 24.161
+    - togo: 129.027216 km
+      made: 24.161263 km
   - - - '55'
       - Don Cramer
-    - togo: 140.22737
-      made: 12.961
+    - togo: 140.227370 km
+      made: 12.961109 km
 - - - - '30'
       - Jason Kath
-    - togo: 5.6082
-      made: 181.486
+    - togo: 5.608200 km
+      made: 181.486293 km
   - - - '22'
       - Rohan Taylor
-    - togo: 30.24345
-      made: 156.851
+    - togo: 30.243450 km
+      made: 156.851043 km
   - - - '80'
       - Michael Cassells
-    - togo: 87.571237
-      made: 99.523
+    - togo: 87.571237 km
+      made: 99.523256 km
   - - - '42'
       - Rob de Groot
-    - togo: 171.558763
-      made: 15.536
+    - togo: 171.558763 km
+      made: 15.535730 km
   - - - '51'
       - Craig Taylor
-    - togo: 180.449265
-      made: 6.645
+    - togo: 180.449265 km
+      made: 6.645228 km
 - - - - '107'
       - Anatoly Reyter
-    - togo: 4.324224
-      made: 191.835
+    - togo: 4.324224 km
+      made: 191.835229 km
   - - - '52'
       - Dale Regehr
-    - togo: 28.31762
-      made: 167.842
+    - togo: 28.317620 km
+      made: 167.841833 km
   - - - '69'
       - Niki Longshore
-    - togo: 123.874745
-      made: 72.285
+    - togo: 123.874745 km
+      made: 72.284708 km
 - - - - '37'
       - Gavin Myers
-    - togo: 34.307645
-      made: 355.842
+    - togo: 34.307645 km
+      made: 355.842475 km
   - - - '51'
       - Craig Taylor
-    - togo: 37.0927
-      made: 353.057
+    - togo: 37.092700 km
+      made: 353.057420 km
   - - - '22'
       - Rohan Taylor
-    - togo: 45.858582
-      made: 344.292
+    - togo: 45.858582 km
+      made: 344.291538 km
   - - - '80'
       - Michael Cassells
-    - togo: 57.102611
-      made: 333.048
+    - togo: 57.102611 km
+      made: 333.047509 km
   - - - '77'
       - Brodrick Osborne
-    - togo: 68.002185
-      made: 322.148
+    - togo: 68.002185 km
+      made: 322.147935 km
   - - - '68'
       - Neale Halsall
-    - togo: 100.395323
-      made: 289.755
+    - togo: 100.395323 km
+      made: 289.754797 km
   - - - '103'
       - Wayne Thompson
-    - togo: 122.714492
-      made: 267.436
+    - togo: 122.714492 km
+      made: 267.435628 km
   - - - '34'
       - Brad Porter
-    - togo: 152.009629
-      made: 238.14
+    - togo: 152.009629 km
+      made: 238.140491 km
   - - - '52'
       - Dale Regehr
-    - togo: 157.758291
-      made: 232.392
+    - togo: 157.758291 km
+      made: 232.391829 km
   - - - '92'
       - Attila Bertok
-    - togo: 188.390184
-      made: 201.76
+    - togo: 188.390184 km
+      made: 201.759936 km
   - - - '74'
       - Vic Hare
-    - togo: 253.862978
-      made: 136.287
+    - togo: 253.862978 km
+      made: 136.287142 km
   - - - '106'
       - Jon Durand Snr
-    - togo: 296.551664
-      made: 93.598
+    - togo: 296.551664 km
+      made: 93.598456 km
   - - - '64'
       - Longfei Yang
-    - togo: 334.009146
-      made: 56.141
+    - togo: 334.009146 km
+      made: 56.140974 km
   - - - '81'
       - Nick Purcell
-    - togo: 334.275883
-      made: 55.874
+    - togo: 334.275883 km
+      made: 55.874237 km
 - - - - '11'
       - Steve Blenkinsop
-    - togo: 6.786715
-      made: 148.224
+    - togo: 6.786715 km
+      made: 148.223952 km
   - - - '81'
       - Nick Purcell
-    - togo: 8.817444
-      made: 146.193
+    - togo: 8.817444 km
+      made: 146.193223 km
   - - - '22'
       - Rohan Taylor
-    - togo: 9.888924
-      made: 145.122
+    - togo: 9.888924 km
+      made: 145.121743 km
   - - - '92'
       - Attila Bertok
-    - togo: 19.679805
-      made: 135.331
+    - togo: 19.679805 km
+      made: 135.330862 km
   - - - '36'
       - Steve Docherty
-    - togo: 27.436269
-      made: 127.574
+    - togo: 27.436269 km
+      made: 127.574398 km
   - - - '62'
       - Josh Woods
-    - togo: 27.65801
-      made: 127.353
+    - togo: 27.658010 km
+      made: 127.352657 km
   - - - '98'
       - Oyvind Ellefsen
-    - togo: 40.494298
-      made: 114.516
+    - togo: 40.494298 km
+      made: 114.516369 km
   - - - '41'
       - Tony Armstrong
-    - togo: 40.950639
-      made: 114.06
+    - togo: 40.950639 km
+      made: 114.060028 km
   - - - '7'
       - Olav Opsanger
-    - togo: 42.154286
-      made: 112.856
+    - togo: 42.154286 km
+      made: 112.856381 km
   - - - '103'
       - Wayne Thompson
-    - togo: 46.215687
-      made: 108.795
+    - togo: 46.215687 km
+      made: 108.794980 km
   - - - '68'
       - Neale Halsall
-    - togo: 58.829182
-      made: 96.181
+    - togo: 58.829182 km
+      made: 96.181485 km
   - - - '52'
       - Dale Regehr
-    - togo: 58.835401
-      made: 96.175
+    - togo: 58.835401 km
+      made: 96.175266 km
   - - - '34'
       - Brad Porter
-    - togo: 67.032005
-      made: 87.979
+    - togo: 67.032005 km
+      made: 87.978662 km
   - - - '8'
       - Gordon Rigg
-    - togo: 84.479171
-      made: 70.531
+    - togo: 84.479171 km
+      made: 70.531496 km
 - - - - '52'
       - Dale Regehr
-    - togo: 31.512397
-      made: 137.18
+    - togo: 31.512397 km
+      made: 137.179794 km
   - - - '80'
       - Michael Cassells
-    - togo: 39.522208
-      made: 129.17
+    - togo: 39.522208 km
+      made: 129.169983 km
   - - - '85'
       - Rick Martin
-    - togo: 43.379518
-      made: 125.313
+    - togo: 43.379518 km
+      made: 125.312673 km
   - - - '22'
       - Rohan Taylor
-    - togo: 46.605815
-      made: 122.086
+    - togo: 46.605815 km
+      made: 122.086376 km
   - - - '107'
       - Anatoly Reyter
-    - togo: 46.952763
-      made: 121.739
+    - togo: 46.952763 km
+      made: 121.739428 km
   - - - '23'
       - Nils Vesk
-    - togo: 59.231193
-      made: 109.461
+    - togo: 59.231193 km
+      made: 109.460998 km
   - - - '74'
       - Vic Hare
-    - togo: 119.823452
-      made: 48.869
+    - togo: 119.823452 km
+      made: 48.868739 km
   - - - '51'
       - Craig Taylor
-    - togo: 168.108323
-      made: 0.584
+    - togo: 168.108323 km
+      made: 0.583868 km
 - - - - '76'
       - Rory Duncan
-    - togo: 45.770569
-      made: 130.467
+    - togo: 45.770569 km
+      made: 130.466792 km
   - - - '80'
       - Michael Cassells
-    - togo: 65.696728
-      made: 110.541
+    - togo: 65.696728 km
+      made: 110.540633 km
   - - - '23'
       - Nils Vesk
-    - togo: 73.40206
-      made: 102.835
+    - togo: 73.402060 km
+      made: 102.835301 km
   - - - '98'
       - Oyvind Ellefsen
-    - togo: 120.593234
-      made: 55.644
+    - togo: 120.593234 km
+      made: 55.644127 km

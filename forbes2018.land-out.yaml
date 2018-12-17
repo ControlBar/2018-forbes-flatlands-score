@@ -37,6 +37,11 @@ difficulty:
     endChunk: 13.0 km
     endAhead: 70.4 km
     down: 1
+    downs:
+    - 12.961 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 6
     rel: 9.677419e-2
     frac: 9.677419e-2
@@ -45,6 +50,11 @@ difficulty:
     endChunk: 24.2 km
     endAhead: 81.6 km
     down: 1
+    downs:
+    - 24.161 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 5
     rel: 8.064516e-2
     frac: 0.17741935
@@ -53,6 +63,11 @@ difficulty:
     endChunk: 48.7 km
     endAhead: 106.1 km
     down: 1
+    downs:
+    - 48.629 km
+    downers:
+    - - '86'
+      - Ross Smith
     downward: 5
     rel: 8.064516e-2
     frac: 0.25806452
@@ -61,6 +76,11 @@ difficulty:
     endChunk: 56.4 km
     endAhead: 113.8 km
     down: 1
+    downs:
+    - 56.306 km
+    downers:
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 8.064516e-2
     frac: 0.33870968
@@ -69,6 +89,11 @@ difficulty:
     endChunk: 63.1 km
     endAhead: 120.5 km
     down: 1
+    downs:
+    - 63.064 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
     downward: 4
     rel: 6.451613e-2
     frac: 0.40322581
@@ -77,6 +102,11 @@ difficulty:
     endChunk: 67.6 km
     endAhead: 125.0 km
     down: 1
+    downs:
+    - 67.544 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 4.83871e-2
     frac: 0.4516129
@@ -85,6 +115,11 @@ difficulty:
     endChunk: 83.2 km
     endAhead: 140.6 km
     down: 1
+    downs:
+    - 83.135 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 3.225806e-2
     frac: 0.48387097
@@ -93,6 +128,11 @@ difficulty:
     endChunk: 111.8 km
     endAhead: 169.2 km
     down: 1
+    downs:
+    - 111.789 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 1.612903e-2
     frac: 0.5
@@ -101,6 +141,11 @@ difficulty:
     endChunk: 10.0 km
     endAhead: 122.3 km
     down: 1
+    downs:
+    - 6.645 km
+    downers:
+    - - '80'
+      - Michael Cassells
     downward: 3
     rel: 0.13636364
     frac: 0.13636364
@@ -109,6 +154,11 @@ difficulty:
     endChunk: 15.6 km
     endAhead: 127.9 km
     down: 1
+    downs:
+    - 15.536 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
     downward: 2
     rel: 9.090909e-2
     frac: 0.22727273
@@ -117,6 +167,11 @@ difficulty:
     endChunk: 99.6 km
     endAhead: 211.9 km
     down: 1
+    downs:
+    - 99.523 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 0.13636364
     frac: 0.36363636
@@ -125,6 +180,11 @@ difficulty:
     endChunk: 156.9 km
     endAhead: 269.2 km
     down: 1
+    downs:
+    - 156.851 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 9.090909e-2
     frac: 0.45454545
@@ -133,6 +193,11 @@ difficulty:
     endChunk: 181.5 km
     endAhead: 293.8 km
     down: 1
+    downs:
+    - 181.486 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 4.545455e-2
     frac: 0.5
@@ -141,6 +206,11 @@ difficulty:
     endChunk: 72.3 km
     endAhead: 268.5 km
     down: 1
+    downs:
+    - 72.285 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 0.25
     frac: 0.25
@@ -149,6 +219,11 @@ difficulty:
     endChunk: 167.9 km
     endAhead: 364.1 km
     down: 1
+    downs:
+    - 167.842 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 0.16666667
     frac: 0.41666667
@@ -157,6 +232,11 @@ difficulty:
     endChunk: 191.9 km
     endAhead: 388.1 km
     down: 1
+    downs:
+    - 191.835 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 8.333333e-2
     frac: 0.5
@@ -165,6 +245,8 @@ difficulty:
     endChunk: 55.9 km
     endAhead: 139.5 km
     down: 1
+    downs: []
+    downers: []
     downward: 4
     rel: 4.166667e-2
     frac: 4.166667e-2
@@ -173,6 +255,8 @@ difficulty:
     endChunk: 56.2 km
     endAhead: 139.8 km
     down: 1
+    downs: []
+    downers: []
     downward: 3
     rel: 3.125e-2
     frac: 7.291667e-2
@@ -181,6 +265,8 @@ difficulty:
     endChunk: 93.6 km
     endAhead: 177.2 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 2.083333e-2
     frac: 9.375e-2
@@ -189,6 +275,8 @@ difficulty:
     endChunk: 136.3 km
     endAhead: 219.9 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 2.083333e-2
     frac: 0.11458333
@@ -197,6 +285,8 @@ difficulty:
     endChunk: 201.8 km
     endAhead: 285.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 4
     rel: 4.166667e-2
     frac: 0.15625
@@ -205,6 +295,8 @@ difficulty:
     endChunk: 232.4 km
     endAhead: 316.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 4
     rel: 4.166667e-2
     frac: 0.19791667
@@ -213,6 +305,11 @@ difficulty:
     endChunk: 238.2 km
     endAhead: 321.8 km
     down: 1
+    downs:
+    - 238.140 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 3
     rel: 3.125e-2
     frac: 0.22916667
@@ -221,6 +318,11 @@ difficulty:
     endChunk: 267.5 km
     endAhead: 351.1 km
     down: 1
+    downs:
+    - 267.436 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 5
     rel: 5.208333e-2
     frac: 0.28125
@@ -229,6 +331,11 @@ difficulty:
     endChunk: 289.8 km
     endAhead: 373.4 km
     down: 1
+    downs:
+    - 289.755 km
+    downers:
+    - - '86'
+      - Ross Smith
     downward: 6
     rel: 6.25e-2
     frac: 0.34375
@@ -237,6 +344,11 @@ difficulty:
     endChunk: 322.2 km
     endAhead: 405.8 km
     down: 1
+    downs:
+    - 322.148 km
+    downers:
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 5.208333e-2
     frac: 0.39583333
@@ -245,6 +357,11 @@ difficulty:
     endChunk: 333.1 km
     endAhead: 416.7 km
     down: 1
+    downs:
+    - 333.048 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
     downward: 4
     rel: 4.166667e-2
     frac: 0.4375
@@ -253,6 +370,11 @@ difficulty:
     endChunk: 344.3 km
     endAhead: 427.9 km
     down: 1
+    downs:
+    - 344.292 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 3.125e-2
     frac: 0.46875
@@ -261,6 +383,11 @@ difficulty:
     endChunk: 353.1 km
     endAhead: 436.7 km
     down: 1
+    downs:
+    - 353.057 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 2.083333e-2
     frac: 0.48958333
@@ -269,6 +396,11 @@ difficulty:
     endChunk: 355.9 km
     endAhead: 439.5 km
     down: 1
+    downs:
+    - 355.842 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 1.041667e-2
     frac: 0.5
@@ -277,6 +409,8 @@ difficulty:
     endChunk: 70.6 km
     endAhead: 103.8 km
     down: 1
+    downs: []
+    downers: []
     downward: 3
     rel: 2.34375e-2
     frac: 2.34375e-2
@@ -285,6 +419,8 @@ difficulty:
     endChunk: 88.0 km
     endAhead: 121.2 km
     down: 1
+    downs: []
+    downers: []
     downward: 6
     rel: 4.6875e-2
     frac: 7.03125e-2
@@ -293,6 +429,8 @@ difficulty:
     endChunk: 96.2 km
     endAhead: 129.4 km
     down: 2
+    downs: []
+    downers: []
     downward: 7
     rel: 5.46875e-2
     frac: 0.125
@@ -301,6 +439,8 @@ difficulty:
     endChunk: 108.8 km
     endAhead: 142.0 km
     down: 1
+    downs: []
+    downers: []
     downward: 7
     rel: 5.46875e-2
     frac: 0.1796875
@@ -309,6 +449,8 @@ difficulty:
     endChunk: 112.9 km
     endAhead: 146.1 km
     down: 1
+    downs: []
+    downers: []
     downward: 7
     rel: 5.46875e-2
     frac: 0.234375
@@ -317,6 +459,11 @@ difficulty:
     endChunk: 114.1 km
     endAhead: 147.3 km
     down: 1
+    downs:
+    - 114.060 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 7
     rel: 5.46875e-2
     frac: 0.2890625
@@ -325,6 +472,11 @@ difficulty:
     endChunk: 114.6 km
     endAhead: 147.8 km
     down: 1
+    downs:
+    - 114.516 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 6
     rel: 4.6875e-2
     frac: 0.3359375
@@ -333,6 +485,11 @@ difficulty:
     endChunk: 127.4 km
     endAhead: 160.6 km
     down: 1
+    downs:
+    - 127.353 km
+    downers:
+    - - '86'
+      - Ross Smith
     downward: 6
     rel: 4.6875e-2
     frac: 0.3828125
@@ -341,6 +498,11 @@ difficulty:
     endChunk: 127.6 km
     endAhead: 160.8 km
     down: 1
+    downs:
+    - 127.574 km
+    downers:
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 3.90625e-2
     frac: 0.421875
@@ -349,6 +511,11 @@ difficulty:
     endChunk: 135.4 km
     endAhead: 168.6 km
     down: 1
+    downs:
+    - 135.331 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
     downward: 4
     rel: 3.125e-2
     frac: 0.453125
@@ -357,6 +524,11 @@ difficulty:
     endChunk: 145.2 km
     endAhead: 178.4 km
     down: 1
+    downs:
+    - 145.122 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 2.34375e-2
     frac: 0.4765625
@@ -365,6 +537,11 @@ difficulty:
     endChunk: 146.2 km
     endAhead: 179.4 km
     down: 1
+    downs:
+    - 146.193 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 1.5625e-2
     frac: 0.4921875
@@ -373,6 +550,11 @@ difficulty:
     endChunk: 148.3 km
     endAhead: 181.5 km
     down: 1
+    downs:
+    - 148.224 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 7.8125e-3
     frac: 0.5
@@ -381,6 +563,11 @@ difficulty:
     endChunk: 10.0 km
     endAhead: 73.3 km
     down: 1
+    downs:
+    - 0.584 km
+    downers:
+    - - '55'
+      - Don Cramer
     downward: 2
     rel: 4.0e-2
     frac: 4.0e-2
@@ -389,6 +576,11 @@ difficulty:
     endChunk: 48.9 km
     endAhead: 112.2 km
     down: 1
+    downs:
+    - 48.869 km
+    downers:
+    - - '14'
+      - Peter Burkitt
     downward: 2
     rel: 4.0e-2
     frac: 8.0e-2
@@ -397,6 +589,11 @@ difficulty:
     endChunk: 109.5 km
     endAhead: 172.8 km
     down: 1
+    downs:
+    - 109.461 km
+    downers:
+    - - '86'
+      - Ross Smith
     downward: 6
     rel: 0.12
     frac: 0.2
@@ -405,6 +602,11 @@ difficulty:
     endChunk: 121.8 km
     endAhead: 185.1 km
     down: 1
+    downs:
+    - 121.739 km
+    downers:
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 0.1
     frac: 0.3
@@ -413,6 +615,11 @@ difficulty:
     endChunk: 122.1 km
     endAhead: 185.4 km
     down: 1
+    downs:
+    - 122.086 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
     downward: 4
     rel: 8.0e-2
     frac: 0.38
@@ -421,6 +628,11 @@ difficulty:
     endChunk: 125.4 km
     endAhead: 188.7 km
     down: 1
+    downs:
+    - 125.313 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 6.0e-2
     frac: 0.44
@@ -429,6 +641,11 @@ difficulty:
     endChunk: 129.2 km
     endAhead: 192.5 km
     down: 1
+    downs:
+    - 129.170 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 4.0e-2
     frac: 0.48
@@ -437,6 +654,11 @@ difficulty:
     endChunk: 137.2 km
     endAhead: 200.5 km
     down: 1
+    downs:
+    - 137.180 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 2.0e-2
     frac: 0.5
@@ -445,6 +667,11 @@ difficulty:
     endChunk: 55.7 km
     endAhead: 187.9 km
     down: 1
+    downs:
+    - 55.644 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
     downward: 4
     rel: 0.2
     frac: 0.2
@@ -453,6 +680,11 @@ difficulty:
     endChunk: 102.9 km
     endAhead: 235.1 km
     down: 1
+    downs:
+    - 102.835 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 0.15
     frac: 0.35
@@ -461,6 +693,11 @@ difficulty:
     endChunk: 110.6 km
     endAhead: 242.8 km
     down: 1
+    downs:
+    - 110.541 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 2
     rel: 0.1
     frac: 0.45
@@ -469,6 +706,11 @@ difficulty:
     endChunk: 130.5 km
     endAhead: 262.7 km
     down: 1
+    downs:
+    - 130.467 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 1
     rel: 5.0e-2
     frac: 0.5
