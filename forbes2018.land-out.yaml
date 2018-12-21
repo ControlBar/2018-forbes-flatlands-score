@@ -8,47 +8,47 @@ bestDistance:
 - 168.7 km
 - 176.2 km
 landout:
-- 8
-- 5
-- 3
-- 14
-- 14
-- 8
-- 4
-lookahead:
-- 574
-- 1123
-- 1962
-- 836
-- 332
-- 633
-- 1322
-sumOfDifficulty:
-- 31
-- 11
-- 6
-- 48
-- 64
-- 25
 - 10
+- 7
+- 5
+- 17
+- 16
+- 12
+- 6
+lookahead:
+- 460
+- 802
+- 1177
+- 689
+- 291
+- 422
+- 881
+sumOfDifficulty:
+- 36
+- 12
+- 14
+- 61
+- 66
+- 42
+- 20
 difficulty:
 - - chunk: 30
     startChunk: 12.9 km
     endChunk: 13.0 km
-    endAhead: 70.4 km
+    endAhead: 59.0 km
     down: 1
     downs:
     - 12.961 km
     downers:
     - - '55'
       - Don Cramer
-    downward: 6
-    rel: 9.677419e-2
-    frac: 9.677419e-2
+    downward: 4
+    rel: 5.555556e-2
+    frac: 5.555556e-2
   - chunk: 142
     startChunk: 24.1 km
     endChunk: 24.2 km
-    endAhead: 81.6 km
+    endAhead: 70.2 km
     down: 1
     downs:
     - 24.161 km
@@ -56,12 +56,12 @@ difficulty:
     - - '14'
       - Peter Burkitt
     downward: 5
-    rel: 8.064516e-2
-    frac: 0.17741935
+    rel: 6.944444e-2
+    frac: 0.125
   - chunk: 387
     startChunk: 48.6 km
     endChunk: 48.7 km
-    endAhead: 106.1 km
+    endAhead: 94.7 km
     down: 1
     downs:
     - 48.629 km
@@ -69,25 +69,25 @@ difficulty:
     - - '86'
       - Ross Smith
     downward: 5
-    rel: 8.064516e-2
-    frac: 0.25806452
+    rel: 6.944444e-2
+    frac: 0.19444444
   - chunk: 464
     startChunk: 56.3 km
     endChunk: 56.4 km
-    endAhead: 113.8 km
+    endAhead: 102.4 km
     down: 1
     downs:
     - 56.306 km
     downers:
     - - '80'
       - Michael Cassells
-    downward: 5
-    rel: 8.064516e-2
-    frac: 0.33870968
+    downward: 4
+    rel: 5.555556e-2
+    frac: 0.25
   - chunk: 531
     startChunk: 63.0 km
     endChunk: 63.1 km
-    endAhead: 120.5 km
+    endAhead: 109.1 km
     down: 1
     downs:
     - 63.064 km
@@ -95,622 +95,814 @@ difficulty:
     - - '107'
       - Anatoly Reyter
     downward: 4
-    rel: 6.451613e-2
-    frac: 0.40322581
+    rel: 5.555556e-2
+    frac: 0.30555556
   - chunk: 576
     startChunk: 67.5 km
     endChunk: 67.6 km
-    endAhead: 125.0 km
+    endAhead: 113.6 km
     down: 1
     downs:
     - 67.544 km
     downers:
     - - '98'
       - Oyvind Ellefsen
-    downward: 3
-    rel: 4.83871e-2
-    frac: 0.4516129
+    downward: 4
+    rel: 5.555556e-2
+    frac: 0.36111111
   - chunk: 732
     startChunk: 83.1 km
     endChunk: 83.2 km
-    endAhead: 140.6 km
+    endAhead: 129.2 km
     down: 1
     downs:
     - 83.135 km
     downers:
     - - '28'
       - Mikhail Karmazin
-    downward: 2
-    rel: 3.225806e-2
-    frac: 0.48387097
+    downward: 4
+    rel: 5.555556e-2
+    frac: 0.41666667
+  - chunk: 967
+    startChunk: 106.6 km
+    endChunk: 106.7 km
+    endAhead: 152.7 km
+    down: 1
+    downs:
+    - 106.615 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 3
+    rel: 4.166667e-2
+    frac: 0.45833333
   - chunk: 1018
     startChunk: 111.7 km
     endChunk: 111.8 km
-    endAhead: 169.2 km
+    endAhead: 157.8 km
     down: 1
     downs:
     - 111.789 km
     downers:
     - - '41'
       - Tony Armstrong
+    downward: 2
+    rel: 2.777778e-2
+    frac: 0.48611111
+  - chunk: 1062
+    startChunk: 116.1 km
+    endChunk: 116.2 km
+    endAhead: 162.2 km
+    down: 1
+    downs:
+    - 116.168 km
+    downers:
+    - - '108'
+      - Peter Adriaans
     downward: 1
-    rel: 1.612903e-2
+    rel: 1.388889e-2
     frac: 0.5
 - - chunk: 0
     startChunk: 10.0 km
     endChunk: 10.0 km
-    endAhead: 122.3 km
-    down: 1
+    endAhead: 90.2 km
+    down: 2
     downs:
     - 6.645 km
+    - 7.237 km
     downers:
     - - '80'
       - Michael Cassells
+    - - '107'
+      - Anatoly Reyter
     downward: 3
-    rel: 0.13636364
-    frac: 0.13636364
+    rel: 0.125
+    frac: 0.125
   - chunk: 56
     startChunk: 15.5 km
     endChunk: 15.6 km
-    endAhead: 127.9 km
+    endAhead: 95.8 km
     down: 1
     downs:
     - 15.536 km
     downers:
-    - - '107'
-      - Anatoly Reyter
-    downward: 2
-    rel: 9.090909e-2
-    frac: 0.22727273
-  - chunk: 896
-    startChunk: 99.5 km
-    endChunk: 99.6 km
-    endAhead: 211.9 km
-    down: 1
-    downs:
-    - 99.523 km
-    downers:
     - - '98'
       - Oyvind Ellefsen
-    downward: 3
-    rel: 0.13636364
-    frac: 0.36363636
-  - chunk: 1469
-    startChunk: 156.8 km
-    endChunk: 156.9 km
-    endAhead: 269.2 km
+    downward: 2
+    rel: 8.333333e-2
+    frac: 0.20833333
+  - chunk: 471
+    startChunk: 57.0 km
+    endChunk: 57.1 km
+    endAhead: 137.3 km
     down: 1
     downs:
-    - 156.851 km
+    - 57.035 km
     downers:
     - - '28'
       - Mikhail Karmazin
     downward: 2
-    rel: 9.090909e-2
-    frac: 0.45454545
+    rel: 8.333333e-2
+    frac: 0.29166667
+  - chunk: 896
+    startChunk: 99.5 km
+    endChunk: 99.6 km
+    endAhead: 179.8 km
+    down: 1
+    downs:
+    - 99.523 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 2
+    rel: 8.333333e-2
+    frac: 0.375
+  - chunk: 1469
+    startChunk: 156.8 km
+    endChunk: 156.9 km
+    endAhead: 237.1 km
+    down: 1
+    downs:
+    - 156.851 km
+    downers:
+    - - '41'
+      - Tony Armstrong
+    downward: 2
+    rel: 8.333333e-2
+    frac: 0.45833333
   - chunk: 1715
     startChunk: 181.4 km
     endChunk: 181.5 km
-    endAhead: 293.8 km
+    endAhead: 261.7 km
     down: 1
     downs:
     - 181.486 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '108'
+      - Peter Adriaans
     downward: 1
-    rel: 4.545455e-2
+    rel: 4.166667e-2
     frac: 0.5
 - - chunk: 623
     startChunk: 72.2 km
     endChunk: 72.3 km
-    endAhead: 268.5 km
+    endAhead: 190.0 km
     down: 1
     downs:
     - 72.285 km
     downers:
     - - '98'
       - Oyvind Ellefsen
-    downward: 3
-    rel: 0.25
-    frac: 0.25
+    downward: 4
+    rel: 0.14285714
+    frac: 0.14285714
+  - chunk: 911
+    startChunk: 101.0 km
+    endChunk: 101.1 km
+    endAhead: 218.8 km
+    down: 1
+    downs:
+    - 101.009 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
+    downward: 4
+    rel: 0.14285714
+    frac: 0.28571429
   - chunk: 1579
     startChunk: 167.8 km
     endChunk: 167.9 km
-    endAhead: 364.1 km
+    endAhead: 285.6 km
     down: 1
     downs:
     - 167.842 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 3
+    rel: 0.10714286
+    frac: 0.39285714
+  - chunk: 1765
+    startChunk: 186.4 km
+    endChunk: 186.5 km
+    endAhead: 304.2 km
+    down: 1
+    downs:
+    - 186.487 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 2
-    rel: 0.16666667
-    frac: 0.41666667
+    rel: 7.142857e-2
+    frac: 0.46428571
   - chunk: 1819
     startChunk: 191.8 km
     endChunk: 191.9 km
-    endAhead: 388.1 km
+    endAhead: 309.6 km
     down: 1
     downs:
     - 191.835 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '108'
+      - Peter Adriaans
     downward: 1
-    rel: 8.333333e-2
-    frac: 0.5
-- - chunk: 459
-    startChunk: 55.8 km
-    endChunk: 55.9 km
-    endAhead: 139.5 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 4
-    rel: 4.166667e-2
-    frac: 4.166667e-2
-  - chunk: 462
-    startChunk: 56.1 km
-    endChunk: 56.2 km
-    endAhead: 139.8 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 3
-    rel: 3.125e-2
-    frac: 7.291667e-2
-  - chunk: 836
-    startChunk: 93.5 km
-    endChunk: 93.6 km
-    endAhead: 177.2 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 2
-    rel: 2.083333e-2
-    frac: 9.375e-2
-  - chunk: 1263
-    startChunk: 136.2 km
-    endChunk: 136.3 km
-    endAhead: 219.9 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 2
-    rel: 2.083333e-2
-    frac: 0.11458333
-  - chunk: 1918
-    startChunk: 201.7 km
-    endChunk: 201.8 km
-    endAhead: 285.4 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 4
-    rel: 4.166667e-2
-    frac: 0.15625
-  - chunk: 2224
-    startChunk: 232.3 km
-    endChunk: 232.4 km
-    endAhead: 316.0 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 4
-    rel: 4.166667e-2
-    frac: 0.19791667
-  - chunk: 2282
-    startChunk: 238.1 km
-    endChunk: 238.2 km
-    endAhead: 321.8 km
-    down: 1
-    downs:
-    - 238.140 km
-    downers:
-    - - '55'
-      - Don Cramer
-    downward: 3
-    rel: 3.125e-2
-    frac: 0.22916667
-  - chunk: 2575
-    startChunk: 267.4 km
-    endChunk: 267.5 km
-    endAhead: 351.1 km
-    down: 1
-    downs:
-    - 267.436 km
-    downers:
-    - - '14'
-      - Peter Burkitt
-    downward: 5
-    rel: 5.208333e-2
-    frac: 0.28125
-  - chunk: 2798
-    startChunk: 289.7 km
-    endChunk: 289.8 km
-    endAhead: 373.4 km
-    down: 1
-    downs:
-    - 289.755 km
-    downers:
-    - - '86'
-      - Ross Smith
-    downward: 6
-    rel: 6.25e-2
-    frac: 0.34375
-  - chunk: 3122
-    startChunk: 322.1 km
-    endChunk: 322.2 km
-    endAhead: 405.8 km
-    down: 1
-    downs:
-    - 322.148 km
-    downers:
-    - - '80'
-      - Michael Cassells
-    downward: 5
-    rel: 5.208333e-2
-    frac: 0.39583333
-  - chunk: 3231
-    startChunk: 333.0 km
-    endChunk: 333.1 km
-    endAhead: 416.7 km
-    down: 1
-    downs:
-    - 333.048 km
-    downers:
-    - - '107'
-      - Anatoly Reyter
-    downward: 4
-    rel: 4.166667e-2
-    frac: 0.4375
-  - chunk: 3343
-    startChunk: 344.2 km
-    endChunk: 344.3 km
-    endAhead: 427.9 km
-    down: 1
-    downs:
-    - 344.292 km
-    downers:
-    - - '98'
-      - Oyvind Ellefsen
-    downward: 3
-    rel: 3.125e-2
-    frac: 0.46875
-  - chunk: 3431
-    startChunk: 353.0 km
-    endChunk: 353.1 km
-    endAhead: 436.7 km
-    down: 1
-    downs:
-    - 353.057 km
-    downers:
-    - - '28'
-      - Mikhail Karmazin
-    downward: 2
-    rel: 2.083333e-2
-    frac: 0.48958333
-  - chunk: 3459
-    startChunk: 355.8 km
-    endChunk: 355.9 km
-    endAhead: 439.5 km
-    down: 1
-    downs:
-    - 355.842 km
-    downers:
-    - - '41'
-      - Tony Armstrong
-    downward: 1
-    rel: 1.041667e-2
-    frac: 0.5
-- - chunk: 606
-    startChunk: 70.5 km
-    endChunk: 70.6 km
-    endAhead: 103.8 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 3
-    rel: 2.34375e-2
-    frac: 2.34375e-2
-  - chunk: 780
-    startChunk: 87.9 km
-    endChunk: 88.0 km
-    endAhead: 121.2 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 6
-    rel: 4.6875e-2
-    frac: 7.03125e-2
-  - chunk: 862
-    startChunk: 96.1 km
-    endChunk: 96.2 km
-    endAhead: 129.4 km
-    down: 2
-    downs: []
-    downers: []
-    downward: 7
-    rel: 5.46875e-2
-    frac: 0.125
-  - chunk: 988
-    startChunk: 108.7 km
-    endChunk: 108.8 km
-    endAhead: 142.0 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 7
-    rel: 5.46875e-2
-    frac: 0.1796875
-  - chunk: 1029
-    startChunk: 112.8 km
-    endChunk: 112.9 km
-    endAhead: 146.1 km
-    down: 1
-    downs: []
-    downers: []
-    downward: 7
-    rel: 5.46875e-2
-    frac: 0.234375
-  - chunk: 1041
-    startChunk: 114.0 km
-    endChunk: 114.1 km
-    endAhead: 147.3 km
-    down: 1
-    downs:
-    - 114.060 km
-    downers:
-    - - '55'
-      - Don Cramer
-    downward: 7
-    rel: 5.46875e-2
-    frac: 0.2890625
-  - chunk: 1046
-    startChunk: 114.5 km
-    endChunk: 114.6 km
-    endAhead: 147.8 km
-    down: 1
-    downs:
-    - 114.516 km
-    downers:
-    - - '14'
-      - Peter Burkitt
-    downward: 6
-    rel: 4.6875e-2
-    frac: 0.3359375
-  - chunk: 1174
-    startChunk: 127.3 km
-    endChunk: 127.4 km
-    endAhead: 160.6 km
-    down: 1
-    downs:
-    - 127.353 km
-    downers:
-    - - '86'
-      - Ross Smith
-    downward: 6
-    rel: 4.6875e-2
-    frac: 0.3828125
-  - chunk: 1176
-    startChunk: 127.5 km
-    endChunk: 127.6 km
-    endAhead: 160.8 km
-    down: 1
-    downs:
-    - 127.574 km
-    downers:
-    - - '80'
-      - Michael Cassells
-    downward: 5
-    rel: 3.90625e-2
-    frac: 0.421875
-  - chunk: 1254
-    startChunk: 135.3 km
-    endChunk: 135.4 km
-    endAhead: 168.6 km
-    down: 1
-    downs:
-    - 135.331 km
-    downers:
-    - - '107'
-      - Anatoly Reyter
-    downward: 4
-    rel: 3.125e-2
-    frac: 0.453125
-  - chunk: 1352
-    startChunk: 145.1 km
-    endChunk: 145.2 km
-    endAhead: 178.4 km
-    down: 1
-    downs:
-    - 145.122 km
-    downers:
-    - - '98'
-      - Oyvind Ellefsen
-    downward: 3
-    rel: 2.34375e-2
-    frac: 0.4765625
-  - chunk: 1362
-    startChunk: 146.1 km
-    endChunk: 146.2 km
-    endAhead: 179.4 km
-    down: 1
-    downs:
-    - 146.193 km
-    downers:
-    - - '28'
-      - Mikhail Karmazin
-    downward: 2
-    rel: 1.5625e-2
-    frac: 0.4921875
-  - chunk: 1383
-    startChunk: 148.2 km
-    endChunk: 148.3 km
-    endAhead: 181.5 km
-    down: 1
-    downs:
-    - 148.224 km
-    downers:
-    - - '41'
-      - Tony Armstrong
-    downward: 1
-    rel: 7.8125e-3
+    rel: 3.571429e-2
     frac: 0.5
 - - chunk: 0
     startChunk: 10.0 km
     endChunk: 10.0 km
-    endAhead: 73.3 km
+    endAhead: 78.9 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 4
+    rel: 3.278689e-2
+    frac: 3.278689e-2
+  - chunk: 459
+    startChunk: 55.8 km
+    endChunk: 55.9 km
+    endAhead: 124.8 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 4
+    rel: 3.278689e-2
+    frac: 6.557377e-2
+  - chunk: 462
+    startChunk: 56.1 km
+    endChunk: 56.2 km
+    endAhead: 125.1 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 3
+    rel: 2.459016e-2
+    frac: 9.016393e-2
+  - chunk: 463
+    startChunk: 56.2 km
+    endChunk: 56.3 km
+    endAhead: 125.2 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 2
+    rel: 1.639344e-2
+    frac: 0.10655738
+  - chunk: 836
+    startChunk: 93.5 km
+    endChunk: 93.6 km
+    endAhead: 162.5 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 2
+    rel: 1.639344e-2
+    frac: 0.12295082
+  - chunk: 1263
+    startChunk: 136.2 km
+    endChunk: 136.3 km
+    endAhead: 205.2 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 2
+    rel: 1.639344e-2
+    frac: 0.13934426
+  - chunk: 1918
+    startChunk: 201.7 km
+    endChunk: 201.8 km
+    endAhead: 270.7 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 4
+    rel: 3.278689e-2
+    frac: 0.17213115
+  - chunk: 2224
+    startChunk: 232.3 km
+    endChunk: 232.4 km
+    endAhead: 301.3 km
     down: 1
     downs:
-    - 0.584 km
+    - 232.392 km
+    downers:
+    - - '55'
+      - Don Cramer
+    downward: 4
+    rel: 3.278689e-2
+    frac: 0.20491803
+  - chunk: 2282
+    startChunk: 238.1 km
+    endChunk: 238.2 km
+    endAhead: 307.1 km
+    down: 1
+    downs:
+    - 238.140 km
+    downers:
+    - - '14'
+      - Peter Burkitt
+    downward: 3
+    rel: 2.459016e-2
+    frac: 0.2295082
+  - chunk: 2575
+    startChunk: 267.4 km
+    endChunk: 267.5 km
+    endAhead: 336.4 km
+    down: 1
+    downs:
+    - 267.436 km
+    downers:
+    - - '86'
+      - Ross Smith
+    downward: 5
+    rel: 4.098361e-2
+    frac: 0.2704918
+  - chunk: 2798
+    startChunk: 289.7 km
+    endChunk: 289.8 km
+    endAhead: 358.7 km
+    down: 1
+    downs:
+    - 289.755 km
+    downers:
+    - - '80'
+      - Michael Cassells
+    downward: 7
+    rel: 5.737705e-2
+    frac: 0.32786885
+  - chunk: 3003
+    startChunk: 310.2 km
+    endChunk: 310.3 km
+    endAhead: 379.2 km
+    down: 1
+    downs:
+    - 310.234 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
+    downward: 6
+    rel: 4.918033e-2
+    frac: 0.37704918
+  - chunk: 3122
+    startChunk: 322.1 km
+    endChunk: 322.2 km
+    endAhead: 391.1 km
+    down: 1
+    downs:
+    - 322.148 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
+    downward: 5
+    rel: 4.098361e-2
+    frac: 0.41803279
+  - chunk: 3231
+    startChunk: 333.0 km
+    endChunk: 333.1 km
+    endAhead: 402.0 km
+    down: 1
+    downs:
+    - 333.048 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
+    downward: 4
+    rel: 3.278689e-2
+    frac: 0.45081967
+  - chunk: 3343
+    startChunk: 344.2 km
+    endChunk: 344.3 km
+    endAhead: 413.2 km
+    down: 1
+    downs:
+    - 344.292 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 3
+    rel: 2.459016e-2
+    frac: 0.47540984
+  - chunk: 3431
+    startChunk: 353.0 km
+    endChunk: 353.1 km
+    endAhead: 422.0 km
+    down: 1
+    downs:
+    - 353.057 km
+    downers:
+    - - '41'
+      - Tony Armstrong
+    downward: 2
+    rel: 1.639344e-2
+    frac: 0.49180328
+  - chunk: 3459
+    startChunk: 355.8 km
+    endChunk: 355.9 km
+    endAhead: 424.8 km
+    down: 1
+    downs:
+    - 355.842 km
+    downers:
+    - - '108'
+      - Peter Adriaans
+    downward: 1
+    rel: 8.19672e-3
+    frac: 0.5
+- - chunk: 51
+    startChunk: 15.0 km
+    endChunk: 15.1 km
+    endAhead: 44.2 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 1
+    rel: 7.57576e-3
+    frac: 7.57576e-3
+  - chunk: 606
+    startChunk: 70.5 km
+    endChunk: 70.6 km
+    endAhead: 99.7 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 4
+    rel: 3.030303e-2
+    frac: 3.787879e-2
+  - chunk: 780
+    startChunk: 87.9 km
+    endChunk: 88.0 km
+    endAhead: 117.1 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 7
+    rel: 5.30303e-2
+    frac: 9.090909e-2
+  - chunk: 826
+    startChunk: 92.5 km
+    endChunk: 92.6 km
+    endAhead: 121.7 km
+    down: 1
+    downs: []
+    downers: []
+    downward: 6
+    rel: 4.545455e-2
+    frac: 0.13636364
+  - chunk: 862
+    startChunk: 96.1 km
+    endChunk: 96.2 km
+    endAhead: 125.3 km
+    down: 2
+    downs: []
+    downers: []
+    downward: 5
+    rel: 3.787879e-2
+    frac: 0.17424242
+  - chunk: 988
+    startChunk: 108.7 km
+    endChunk: 108.8 km
+    endAhead: 137.9 km
+    down: 1
+    downs:
+    - 108.795 km
+    downers:
+    - - '55'
+      - Don Cramer
+    downward: 7
+    rel: 5.30303e-2
+    frac: 0.22727273
+  - chunk: 1029
+    startChunk: 112.8 km
+    endChunk: 112.9 km
+    endAhead: 142.0 km
+    down: 1
+    downs:
+    - 112.856 km
+    downers:
+    - - '14'
+      - Peter Burkitt
+    downward: 6
+    rel: 4.545455e-2
+    frac: 0.27272727
+  - chunk: 1041
+    startChunk: 114.0 km
+    endChunk: 114.1 km
+    endAhead: 143.2 km
+    down: 1
+    downs:
+    - 114.060 km
+    downers:
+    - - '86'
+      - Ross Smith
+    downward: 5
+    rel: 3.787879e-2
+    frac: 0.31060606
+  - chunk: 1046
+    startChunk: 114.5 km
+    endChunk: 114.6 km
+    endAhead: 143.7 km
+    down: 1
+    downs:
+    - 114.516 km
+    downers:
+    - - '80'
+      - Michael Cassells
+    downward: 4
+    rel: 3.030303e-2
+    frac: 0.34090909
+  - chunk: 1174
+    startChunk: 127.3 km
+    endChunk: 127.4 km
+    endAhead: 156.5 km
+    down: 1
+    downs:
+    - 127.353 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
+    downward: 6
+    rel: 4.545455e-2
+    frac: 0.38636364
+  - chunk: 1176
+    startChunk: 127.5 km
+    endChunk: 127.6 km
+    endAhead: 156.7 km
+    down: 1
+    downs:
+    - 127.574 km
+    downers:
+    - - '98'
+      - Oyvind Ellefsen
+    downward: 5
+    rel: 3.787879e-2
+    frac: 0.42424242
+  - chunk: 1254
+    startChunk: 135.3 km
+    endChunk: 135.4 km
+    endAhead: 164.5 km
+    down: 1
+    downs:
+    - 135.331 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
+    downward: 4
+    rel: 3.030303e-2
+    frac: 0.45454545
+  - chunk: 1352
+    startChunk: 145.1 km
+    endChunk: 145.2 km
+    endAhead: 174.3 km
+    down: 1
+    downs:
+    - 145.122 km
+    downers:
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 3
+    rel: 2.272727e-2
+    frac: 0.47727273
+  - chunk: 1362
+    startChunk: 146.1 km
+    endChunk: 146.2 km
+    endAhead: 175.3 km
+    down: 1
+    downs:
+    - 146.193 km
+    downers:
+    - - '41'
+      - Tony Armstrong
+    downward: 2
+    rel: 1.515152e-2
+    frac: 0.49242424
+  - chunk: 1383
+    startChunk: 148.2 km
+    endChunk: 148.3 km
+    endAhead: 177.4 km
+    down: 1
+    downs:
+    - 148.224 km
+    downers:
+    - - '108'
+      - Peter Adriaans
+    downward: 1
+    rel: 7.57576e-3
+    frac: 0.5
+- - chunk: 0
+    startChunk: 10.0 km
+    endChunk: 10.0 km
+    endAhead: 52.2 km
+    down: 2
+    downs: []
+    downers: []
+    downward: 3
+    rel: 3.571429e-2
+    frac: 3.571429e-2
+  - chunk: 174
+    startChunk: 27.3 km
+    endChunk: 27.4 km
+    endAhead: 69.6 km
+    down: 1
+    downs:
+    - 27.331 km
     downers:
     - - '55'
       - Don Cramer
     downward: 2
-    rel: 4.0e-2
-    frac: 4.0e-2
+    rel: 2.380952e-2
+    frac: 5.952381e-2
   - chunk: 389
     startChunk: 48.8 km
     endChunk: 48.9 km
-    endAhead: 112.2 km
+    endAhead: 91.1 km
     down: 1
     downs:
     - 48.869 km
     downers:
     - - '14'
       - Peter Burkitt
-    downward: 2
-    rel: 4.0e-2
-    frac: 8.0e-2
+    downward: 1
+    rel: 1.190476e-2
+    frac: 7.142857e-2
   - chunk: 995
     startChunk: 109.4 km
     endChunk: 109.5 km
-    endAhead: 172.8 km
+    endAhead: 151.7 km
     down: 1
     downs:
     - 109.461 km
     downers:
     - - '86'
       - Ross Smith
-    downward: 6
-    rel: 0.12
-    frac: 0.2
+    downward: 8
+    rel: 9.52381e-2
+    frac: 0.16666667
+  - chunk: 1044
+    startChunk: 114.3 km
+    endChunk: 114.4 km
+    endAhead: 156.6 km
+    down: 1
+    downs:
+    - 114.397 km
+    downers:
+    - - '80'
+      - Michael Cassells
+    downward: 7
+    rel: 8.333333e-2
+    frac: 0.25
   - chunk: 1118
     startChunk: 121.7 km
     endChunk: 121.8 km
-    endAhead: 185.1 km
+    endAhead: 164.0 km
     down: 1
     downs:
     - 121.739 km
     downers:
-    - - '80'
-      - Michael Cassells
-    downward: 5
-    rel: 0.1
-    frac: 0.3
+    - - '107'
+      - Anatoly Reyter
+    downward: 6
+    rel: 7.142857e-2
+    frac: 0.32142857
   - chunk: 1121
     startChunk: 122.0 km
     endChunk: 122.1 km
-    endAhead: 185.4 km
+    endAhead: 164.3 km
     down: 1
     downs:
     - 122.086 km
     downers:
-    - - '107'
-      - Anatoly Reyter
-    downward: 4
-    rel: 8.0e-2
-    frac: 0.38
+    - - '98'
+      - Oyvind Ellefsen
+    downward: 5
+    rel: 5.952381e-2
+    frac: 0.38095238
   - chunk: 1154
     startChunk: 125.3 km
     endChunk: 125.4 km
-    endAhead: 188.7 km
+    endAhead: 167.6 km
     down: 1
     downs:
     - 125.313 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
-    downward: 3
-    rel: 6.0e-2
-    frac: 0.44
+    - - '28'
+      - Mikhail Karmazin
+    downward: 4
+    rel: 4.761905e-2
+    frac: 0.42857143
   - chunk: 1192
     startChunk: 129.1 km
     endChunk: 129.2 km
-    endAhead: 192.5 km
+    endAhead: 171.4 km
     down: 1
     downs:
     - 129.170 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 3
+    rel: 3.571429e-2
+    frac: 0.46428571
+  - chunk: 1271
+    startChunk: 137.0 km
+    endChunk: 137.1 km
+    endAhead: 179.3 km
+    down: 1
+    downs:
+    - 137.016 km
+    downers:
+    - - '41'
+      - Tony Armstrong
     downward: 2
-    rel: 4.0e-2
-    frac: 0.48
+    rel: 2.380952e-2
+    frac: 0.48809524
   - chunk: 1272
     startChunk: 137.1 km
     endChunk: 137.2 km
-    endAhead: 200.5 km
+    endAhead: 179.4 km
     down: 1
     downs:
     - 137.180 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '108'
+      - Peter Adriaans
     downward: 1
-    rel: 2.0e-2
+    rel: 1.190476e-2
     frac: 0.5
-- - chunk: 457
+- - chunk: 223
+    startChunk: 32.2 km
+    endChunk: 32.3 km
+    endAhead: 120.4 km
+    down: 1
+    downs:
+    - 32.254 km
+    downers:
+    - - '107'
+      - Anatoly Reyter
+    downward: 5
+    rel: 0.125
+    frac: 0.125
+  - chunk: 457
     startChunk: 55.6 km
     endChunk: 55.7 km
-    endAhead: 187.9 km
+    endAhead: 143.8 km
     down: 1
     downs:
     - 55.644 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '98'
+      - Oyvind Ellefsen
+    downward: 5
+    rel: 0.125
+    frac: 0.25
+  - chunk: 805
+    startChunk: 90.4 km
+    endChunk: 90.5 km
+    endAhead: 178.6 km
+    down: 1
+    downs:
+    - 90.473 km
+    downers:
+    - - '28'
+      - Mikhail Karmazin
     downward: 4
-    rel: 0.2
-    frac: 0.2
+    rel: 0.1
+    frac: 0.35
   - chunk: 929
     startChunk: 102.8 km
     endChunk: 102.9 km
-    endAhead: 235.1 km
+    endAhead: 191.0 km
     down: 1
     downs:
     - 102.835 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '72'
+      - Sasha Serebrennikova
     downward: 3
-    rel: 0.15
-    frac: 0.35
+    rel: 7.5e-2
+    frac: 0.425
   - chunk: 1006
     startChunk: 110.5 km
     endChunk: 110.6 km
-    endAhead: 242.8 km
+    endAhead: 198.7 km
     down: 1
     downs:
     - 110.541 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '41'
+      - Tony Armstrong
     downward: 2
-    rel: 0.1
-    frac: 0.45
+    rel: 5.0e-2
+    frac: 0.475
   - chunk: 1205
     startChunk: 130.4 km
     endChunk: 130.5 km
-    endAhead: 262.7 km
+    endAhead: 218.6 km
     down: 1
     downs:
     - 130.467 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '108'
+      - Peter Adriaans
     downward: 1
-    rel: 5.0e-2
+    rel: 2.5e-2
     frac: 0.5
