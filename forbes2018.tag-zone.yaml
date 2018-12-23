@@ -1,314 +1,901 @@
 timing:
 - zonesSum:
-  - 14
-  - 14
-  - 4
+  - 39
+  - 38
+  - 17
   zonesFirst:
-  - 2017-12-30T03:10:20Z
+  - 2017-12-30T03:01:02Z
   - 2017-12-30T04:00:05Z
   - 2017-12-30T06:12:00Z
   zonesLast:
-  - 2017-12-30T04:44:05Z
-  - 2017-12-30T05:06:29Z
+  - 2017-12-30T04:57:50Z
+  - 2017-12-30T05:20:45Z
   - 2017-12-30T07:06:31Z
   zonesRankTime:
-  - - 2017-12-30T03:10:20Z
+  - - 2017-12-30T03:01:02Z
+    - 2017-12-30T03:02:28Z
+    - 2017-12-30T03:03:55Z
+    - 2017-12-30T03:04:23Z
+    - 2017-12-30T03:07:40Z
+    - 2017-12-30T03:08:52Z
+    - 2017-12-30T03:10:20Z
+    - 2017-12-30T03:11:10Z
+    - 2017-12-30T03:11:52Z
+    - 2017-12-30T03:13:18Z
     - 2017-12-30T03:13:36Z
+    - 2017-12-30T03:17:06Z
     - 2017-12-30T03:18:01Z
+    - 2017-12-30T03:18:57Z
+    - 2017-12-30T03:19:23Z
     - 2017-12-30T03:19:49Z
+    - 2017-12-30T03:20:27Z
+    - 2017-12-30T03:22:24Z
     - 2017-12-30T03:25:04Z
+    - 2017-12-30T03:26:02Z
     - 2017-12-30T03:28:31Z
+    - 2017-12-30T03:29:52Z
+    - 2017-12-30T03:32:55Z
+    - 2017-12-30T03:34:36Z
     - 2017-12-30T03:34:51Z
     - 2017-12-30T03:36:45Z
+    - 2017-12-30T03:37:25Z
     - 2017-12-30T03:41:36Z
     - 2017-12-30T03:48:29Z
+    - 2017-12-30T03:51:27Z
+    - 2017-12-30T03:52:48Z
     - 2017-12-30T03:57:40Z
+    - 2017-12-30T04:06:01Z
     - 2017-12-30T04:08:09Z
+    - 2017-12-30T04:15:23Z
     - 2017-12-30T04:27:44Z
+    - 2017-12-30T04:42:50Z
     - 2017-12-30T04:44:05Z
+    - 2017-12-30T04:57:50Z
   - - 2017-12-30T04:00:05Z
+    - 2017-12-30T04:00:08Z
     - 2017-12-30T04:00:09Z
+    - 2017-12-30T04:00:12Z
+    - 2017-12-30T04:00:12Z
+    - 2017-12-30T04:00:12Z
+    - 2017-12-30T04:00:14Z
     - 2017-12-30T04:00:21Z
+    - 2017-12-30T04:00:22Z
+    - 2017-12-30T04:00:30Z
+    - 2017-12-30T04:00:32Z
+    - 2017-12-30T04:00:32Z
+    - 2017-12-30T04:00:33Z
+    - 2017-12-30T04:00:42Z
+    - 2017-12-30T04:02:42Z
     - 2017-12-30T04:03:01Z
+    - 2017-12-30T04:03:06Z
     - 2017-12-30T04:05:48Z
     - 2017-12-30T04:06:26Z
+    - 2017-12-30T04:07:51Z
     - 2017-12-30T04:08:41Z
     - 2017-12-30T04:15:05Z
+    - 2017-12-30T04:15:12Z
+    - 2017-12-30T04:15:13Z
+    - 2017-12-30T04:15:31Z
     - 2017-12-30T04:15:34Z
+    - 2017-12-30T04:16:25Z
+    - 2017-12-30T04:16:37Z
+    - 2017-12-30T04:20:15Z
+    - 2017-12-30T04:20:33Z
     - 2017-12-30T04:25:03Z
+    - 2017-12-30T04:32:37Z
     - 2017-12-30T04:35:21Z
     - 2017-12-30T04:39:01Z
+    - 2017-12-30T04:43:26Z
     - 2017-12-30T04:52:14Z
     - 2017-12-30T05:06:29Z
+    - 2017-12-30T05:20:45Z
   - - 2017-12-30T06:12:00Z
+    - 2017-12-30T06:14:05Z
+    - 2017-12-30T06:25:25Z
+    - 2017-12-30T06:39:45Z
+    - 2017-12-30T06:40:12Z
+    - 2017-12-30T06:43:36Z
+    - 2017-12-30T06:44:11Z
     - 2017-12-30T06:45:49Z
+    - 2017-12-30T06:48:36Z
+    - 2017-12-30T06:51:59Z
     - 2017-12-30T06:52:05Z
+    - 2017-12-30T06:52:30Z
+    - 2017-12-30T06:52:40Z
+    - 2017-12-30T06:52:41Z
+    - 2017-12-30T06:53:25Z
+    - 2017-12-30T07:03:25Z
     - 2017-12-30T07:06:31Z
   zonesRankPilot:
-  - - - '22'
+  - - - '81'
+      - Nick Purcell
+    - - '25'
+      - Tyler Borrdaile
+    - - '31'
+      - Trent Brown
+    - - '51'
+      - Craig Taylor
+    - - '8'
+      - Gordon Rigg
+    - - '23'
+      - Nils Vesk
+    - - '22'
       - Rohan Taylor
+    - - '101'
+      - Oliver Chitty
+    - - '76'
+      - Rory Duncan
+    - - '106'
+      - Jon Durand Snr
     - - '41'
       - Tony Armstrong
+    - - '27'
+      - Guy Hubbard
     - - '92'
       - Attila Bertok
+    - - '7'
+      - Olav Opsanger
+    - - '43'
+      - Jonny Durand
     - - '30'
       - Jason Kath
+    - - '32'
+      - Andrew Barnes
+    - - '62'
+      - Josh Woods
     - - '11'
       - Steve Blenkinsop
+    - - '15'
+      - Ryosuke Hattori
     - - '72'
       - Sasha Serebrennikova
+    - - '4'
+      - Frank Chetcuti
+    - - '68'
+      - Neale Halsall
+    - - '69'
+      - Niki Longshore
     - - '98'
       - Oyvind Ellefsen
     - - '108'
       - Peter Adriaans
+    - - '100'
+      - Malcolm Brown
     - - '14'
       - Peter Burkitt
     - - '80'
       - Michael Cassells
+    - - '67'
+      - Mark Alton
+    - - '71'
+      - Rob Larkin
     - - '86'
       - Ross Smith
+    - - '94'
+      - Justinas Pleikys
     - - '107'
       - Anatoly Reyter
+    - - '88'
+      - Simon West
     - - '28'
       - Mikhail Karmazin
+    - - '77'
+      - Brodrick Osborne
     - - '55'
       - Don Cramer
+    - - '34'
+      - Brad Porter
   - - - '22'
       - Rohan Taylor
+    - - '101'
+      - Oliver Chitty
     - - '41'
       - Tony Armstrong
+    - - '8'
+      - Gordon Rigg
+    - - '106'
+      - Jon Durand Snr
+    - - '23'
+      - Nils Vesk
+    - - '43'
+      - Jonny Durand
     - - '92'
       - Attila Bertok
+    - - '25'
+      - Tyler Borrdaile
+    - - '51'
+      - Craig Taylor
+    - - '27'
+      - Guy Hubbard
+    - - '31'
+      - Trent Brown
+    - - '81'
+      - Nick Purcell
+    - - '76'
+      - Rory Duncan
+    - - '100'
+      - Malcolm Brown
     - - '72'
       - Sasha Serebrennikova
+    - - '7'
+      - Olav Opsanger
     - - '30'
       - Jason Kath
     - - '14'
       - Peter Burkitt
+    - - '4'
+      - Frank Chetcuti
     - - '108'
       - Peter Adriaans
     - - '11'
       - Steve Blenkinsop
+    - - '62'
+      - Josh Woods
+    - - '69'
+      - Niki Longshore
+    - - '68'
+      - Neale Halsall
     - - '98'
       - Oyvind Ellefsen
+    - - '32'
+      - Andrew Barnes
+    - - '67'
+      - Mark Alton
+    - - '15'
+      - Ryosuke Hattori
+    - - '71'
+      - Rob Larkin
     - - '86'
       - Ross Smith
+    - - '94'
+      - Justinas Pleikys
     - - '80'
       - Michael Cassells
     - - '107'
       - Anatoly Reyter
+    - - '88'
+      - Simon West
     - - '28'
       - Mikhail Karmazin
     - - '55'
       - Don Cramer
+    - - '34'
+      - Brad Porter
   - - - '92'
       - Attila Bertok
+    - - '101'
+      - Oliver Chitty
+    - - '27'
+      - Guy Hubbard
+    - - '31'
+      - Trent Brown
+    - - '76'
+      - Rory Duncan
+    - - '25'
+      - Tyler Borrdaile
+    - - '23'
+      - Nils Vesk
     - - '30'
       - Jason Kath
+    - - '106'
+      - Jon Durand Snr
+    - - '62'
+      - Josh Woods
     - - '11'
       - Steve Blenkinsop
+    - - '69'
+      - Niki Longshore
+    - - '8'
+      - Gordon Rigg
+    - - '51'
+      - Craig Taylor
+    - - '81'
+      - Nick Purcell
+    - - '7'
+      - Olav Opsanger
     - - '22'
       - Rohan Taylor
 - zonesSum:
-  - 7
-  - 10
-  - 8
-  - 6
-  - 4
+  - 35
+  - 37
+  - 34
+  - 22
+  - 14
   zonesFirst:
-  - 2017-12-31T01:35:39Z
+  - 2017-12-31T01:33:30Z
   - 2017-12-31T02:15:46Z
   - 2017-12-31T03:43:16Z
   - 2017-12-31T05:42:29Z
-  - 2017-12-31T06:36:03Z
+  - 2017-12-31T06:35:04Z
   zonesLast:
-  - 2017-12-31T02:27:06Z
-  - 2017-12-31T03:15:11Z
-  - 2017-12-31T05:31:06Z
-  - 2017-12-31T06:54:38Z
-  - 2017-12-31T07:10:34Z
+  - 2017-12-31T03:17:58Z
+  - 2017-12-31T03:59:51Z
+  - 2017-12-31T05:47:51Z
+  - 2017-12-31T07:52:18Z
+  - 2017-12-31T07:15:45Z
   zonesRankTime:
-  - - 2017-12-31T01:35:39Z
+  - - 2017-12-31T01:33:30Z
+    - 2017-12-31T01:34:06Z
+    - 2017-12-31T01:34:06Z
+    - 2017-12-31T01:35:39Z
+    - 2017-12-31T01:41:39Z
+    - 2017-12-31T01:42:14Z
+    - 2017-12-31T01:43:01Z
+    - 2017-12-31T01:48:29Z
+    - 2017-12-31T01:49:00Z
+    - 2017-12-31T01:51:17Z
+    - 2017-12-31T01:52:36Z
+    - 2017-12-31T01:56:01Z
     - 2017-12-31T01:57:15Z
+    - 2017-12-31T01:57:34Z
+    - 2017-12-31T02:02:26Z
+    - 2017-12-31T02:04:29Z
+    - 2017-12-31T02:04:48Z
+    - 2017-12-31T02:05:15Z
     - 2017-12-31T02:08:45Z
+    - 2017-12-31T02:11:36Z
     - 2017-12-31T02:15:19Z
+    - 2017-12-31T02:16:39Z
+    - 2017-12-31T02:18:14Z
     - 2017-12-31T02:20:32Z
     - 2017-12-31T02:25:14Z
     - 2017-12-31T02:27:06Z
+    - 2017-12-31T02:30:59Z
+    - 2017-12-31T02:32:10Z
+    - 2017-12-31T02:36:35Z
+    - 2017-12-31T02:38:35Z
+    - 2017-12-31T02:39:16Z
+    - 2017-12-31T02:41:36Z
+    - 2017-12-31T02:42:52Z
+    - 2017-12-31T02:49:57Z
+    - 2017-12-31T03:17:58Z
   - - 2017-12-31T02:15:46Z
+    - 2017-12-31T02:31:22Z
+    - 2017-12-31T02:31:25Z
     - 2017-12-31T02:31:28Z
+    - 2017-12-31T02:32:45Z
+    - 2017-12-31T02:36:23Z
+    - 2017-12-31T02:45:13Z
     - 2017-12-31T02:45:41Z
     - 2017-12-31T02:45:50Z
+    - 2017-12-31T02:46:03Z
+    - 2017-12-31T02:46:15Z
+    - 2017-12-31T02:46:19Z
+    - 2017-12-31T02:46:24Z
+    - 2017-12-31T02:46:29Z
+    - 2017-12-31T02:46:32Z
+    - 2017-12-31T02:46:33Z
+    - 2017-12-31T02:46:33Z
+    - 2017-12-31T02:46:35Z
     - 2017-12-31T02:46:36Z
     - 2017-12-31T02:46:38Z
+    - 2017-12-31T02:46:44Z
+    - 2017-12-31T02:46:47Z
+    - 2017-12-31T02:46:53Z
     - 2017-12-31T02:47:05Z
+    - 2017-12-31T02:52:25Z
     - 2017-12-31T02:58:28Z
+    - 2017-12-31T03:08:26Z
     - 2017-12-31T03:12:52Z
     - 2017-12-31T03:15:11Z
+    - 2017-12-31T03:18:21Z
+    - 2017-12-31T03:18:50Z
+    - 2017-12-31T03:19:11Z
+    - 2017-12-31T03:27:59Z
+    - 2017-12-31T03:30:37Z
+    - 2017-12-31T03:30:45Z
+    - 2017-12-31T03:31:22Z
+    - 2017-12-31T03:59:51Z
   - - 2017-12-31T03:43:16Z
+    - 2017-12-31T03:44:28Z
+    - 2017-12-31T03:44:43Z
+    - 2017-12-31T03:45:02Z
+    - 2017-12-31T03:45:16Z
+    - 2017-12-31T03:45:38Z
     - 2017-12-31T03:45:54Z
+    - 2017-12-31T03:46:01Z
     - 2017-12-31T03:46:05Z
     - 2017-12-31T03:46:14Z
+    - 2017-12-31T03:49:01Z
+    - 2017-12-31T03:49:01Z
+    - 2017-12-31T03:49:50Z
+    - 2017-12-31T03:49:58Z
+    - 2017-12-31T03:51:22Z
+    - 2017-12-31T03:51:24Z
+    - 2017-12-31T03:52:39Z
+    - 2017-12-31T03:52:45Z
     - 2017-12-31T03:57:43Z
+    - 2017-12-31T03:57:46Z
+    - 2017-12-31T03:58:34Z
+    - 2017-12-31T04:01:07Z
     - 2017-12-31T04:04:42Z
+    - 2017-12-31T04:34:09Z
+    - 2017-12-31T04:44:56Z
+    - 2017-12-31T04:46:14Z
     - 2017-12-31T04:46:57Z
+    - 2017-12-31T04:48:10Z
+    - 2017-12-31T04:49:09Z
+    - 2017-12-31T04:58:59Z
+    - 2017-12-31T04:59:19Z
+    - 2017-12-31T05:15:37Z
     - 2017-12-31T05:31:06Z
+    - 2017-12-31T05:47:51Z
   - - 2017-12-31T05:42:29Z
+    - 2017-12-31T05:48:13Z
+    - 2017-12-31T05:49:16Z
+    - 2017-12-31T05:49:28Z
+    - 2017-12-31T05:49:34Z
+    - 2017-12-31T05:49:38Z
+    - 2017-12-31T05:49:47Z
+    - 2017-12-31T05:49:51Z
+    - 2017-12-31T05:54:53Z
     - 2017-12-31T05:56:08Z
     - 2017-12-31T06:05:20Z
+    - 2017-12-31T06:10:02Z
+    - 2017-12-31T06:14:28Z
+    - 2017-12-31T06:23:29Z
+    - 2017-12-31T06:26:07Z
     - 2017-12-31T06:30:27Z
     - 2017-12-31T06:35:21Z
     - 2017-12-31T06:54:38Z
-  - - 2017-12-31T06:36:03Z
+    - 2017-12-31T06:55:33Z
+    - 2017-12-31T07:21:13Z
+    - 2017-12-31T07:46:08Z
+    - 2017-12-31T07:52:18Z
+  - - 2017-12-31T06:35:04Z
+    - 2017-12-31T06:35:07Z
+    - 2017-12-31T06:36:03Z
+    - 2017-12-31T06:37:46Z
+    - 2017-12-31T06:42:52Z
+    - 2017-12-31T06:43:16Z
+    - 2017-12-31T06:43:27Z
+    - 2017-12-31T06:43:41Z
+    - 2017-12-31T06:45:03Z
     - 2017-12-31T07:00:33Z
     - 2017-12-31T07:01:43Z
+    - 2017-12-31T07:03:04Z
     - 2017-12-31T07:10:34Z
+    - 2017-12-31T07:15:45Z
   zonesRankPilot:
-  - - - '51'
+  - - - '100'
+      - Malcolm Brown
+    - - '81'
+      - Nick Purcell
+    - - '7'
+      - Olav Opsanger
+    - - '51'
       - Craig Taylor
+    - - '106'
+      - Jon Durand Snr
+    - - '25'
+      - Tyler Borrdaile
+    - - '23'
+      - Nils Vesk
+    - - '69'
+      - Niki Longshore
+    - - '31'
+      - Trent Brown
+    - - '27'
+      - Guy Hubbard
+    - - '62'
+      - Josh Woods
+    - - '101'
+      - Oliver Chitty
     - - '22'
       - Rohan Taylor
+    - - '75'
+      - Yasuhiro Noma
+    - - '15'
+      - Ryosuke Hattori
+    - - '52'
+      - Dale Regehr
+    - - '76'
+      - Rory Duncan
+    - - '6'
+      - Yoko Sano
     - - '41'
       - Tony Armstrong
+    - - '98'
+      - Oyvind Ellefsen
     - - '72'
       - Sasha Serebrennikova
+    - - '43'
+      - Jonny Durand
+    - - '71'
+      - Rob Larkin
     - - '80'
       - Michael Cassells
     - - '42'
       - Rob de Groot
     - - '14'
       - Peter Burkitt
+    - - '55'
+      - Don Cramer
+    - - '37'
+      - Gavin Myers
+    - - '34'
+      - Brad Porter
+    - - '77'
+      - Brodrick Osborne
+    - - '64'
+      - Longfei Yang
+    - - '32'
+      - Andrew Barnes
+    - - '103'
+      - Wayne Thompson
+    - - '36'
+      - Steve Docherty
+    - - '67'
+      - Mark Alton
   - - - '51'
       - Craig Taylor
+    - - '106'
+      - Jon Durand Snr
+    - - '75'
+      - Yasuhiro Noma
     - - '22'
       - Rohan Taylor
+    - - '27'
+      - Guy Hubbard
+    - - '23'
+      - Nils Vesk
+    - - '31'
+      - Trent Brown
     - - '11'
       - Steve Blenkinsop
     - - '30'
       - Jason Kath
+    - - '101'
+      - Oliver Chitty
+    - - '25'
+      - Tyler Borrdaile
+    - - '81'
+      - Nick Purcell
+    - - '69'
+      - Niki Longshore
+    - - '6'
+      - Yoko Sano
+    - - '7'
+      - Olav Opsanger
+    - - '100'
+      - Malcolm Brown
+    - - '76'
+      - Rory Duncan
+    - - '15'
+      - Ryosuke Hattori
     - - '41'
       - Tony Armstrong
     - - '8'
       - Gordon Rigg
+    - - '43'
+      - Jonny Durand
+    - - '98'
+      - Oyvind Ellefsen
+    - - '62'
+      - Josh Woods
     - - '92'
       - Attila Bertok
+    - - '52'
+      - Dale Regehr
     - - '42'
       - Rob de Groot
+    - - '71'
+      - Rob Larkin
     - - '80'
       - Michael Cassells
     - - '72'
       - Sasha Serebrennikova
+    - - '32'
+      - Andrew Barnes
+    - - '34'
+      - Brad Porter
+    - - '77'
+      - Brodrick Osborne
+    - - '36'
+      - Steve Docherty
+    - - '37'
+      - Gavin Myers
+    - - '55'
+      - Don Cramer
+    - - '103'
+      - Wayne Thompson
+    - - '67'
+      - Mark Alton
   - - - '92'
       - Attila Bertok
+    - - '27'
+      - Guy Hubbard
+    - - '43'
+      - Jonny Durand
+    - - '62'
+      - Josh Woods
+    - - '76'
+      - Rory Duncan
+    - - '31'
+      - Trent Brown
     - - '30'
       - Jason Kath
+    - - '81'
+      - Nick Purcell
     - - '41'
       - Tony Armstrong
     - - '8'
       - Gordon Rigg
+    - - '23'
+      - Nils Vesk
+    - - '75'
+      - Yasuhiro Noma
+    - - '100'
+      - Malcolm Brown
+    - - '15'
+      - Ryosuke Hattori
+    - - '101'
+      - Oliver Chitty
+    - - '25'
+      - Tyler Borrdaile
+    - - '6'
+      - Yoko Sano
+    - - '7'
+      - Olav Opsanger
     - - '11'
       - Steve Blenkinsop
+    - - '98'
+      - Oyvind Ellefsen
+    - - '69'
+      - Niki Longshore
+    - - '106'
+      - Jon Durand Snr
     - - '22'
       - Rohan Taylor
+    - - '52'
+      - Dale Regehr
+    - - '34'
+      - Brad Porter
+    - - '77'
+      - Brodrick Osborne
     - - '72'
       - Sasha Serebrennikova
+    - - '37'
+      - Gavin Myers
+    - - '32'
+      - Andrew Barnes
+    - - '71'
+      - Rob Larkin
+    - - '103'
+      - Wayne Thompson
+    - - '55'
+      - Don Cramer
     - - '80'
       - Michael Cassells
+    - - '36'
+      - Steve Docherty
   - - - '92'
       - Attila Bertok
+    - - '27'
+      - Guy Hubbard
+    - - '76'
+      - Rory Duncan
+    - - '101'
+      - Oliver Chitty
+    - - '75'
+      - Yasuhiro Noma
+    - - '25'
+      - Tyler Borrdaile
+    - - '7'
+      - Olav Opsanger
+    - - '62'
+      - Josh Woods
+    - - '43'
+      - Jonny Durand
     - - '8'
       - Gordon Rigg
     - - '11'
       - Steve Blenkinsop
+    - - '69'
+      - Niki Longshore
+    - - '6'
+      - Yoko Sano
+    - - '23'
+      - Nils Vesk
+    - - '98'
+      - Oyvind Ellefsen
     - - '41'
       - Tony Armstrong
     - - '22'
       - Rohan Taylor
     - - '30'
       - Jason Kath
-  - - - '92'
+    - - '15'
+      - Ryosuke Hattori
+    - - '37'
+      - Gavin Myers
+    - - '77'
+      - Brodrick Osborne
+    - - '103'
+      - Wayne Thompson
+  - - - '62'
+      - Josh Woods
+    - - '43'
+      - Jonny Durand
+    - - '92'
       - Attila Bertok
+    - - '76'
+      - Rory Duncan
+    - - '101'
+      - Oliver Chitty
+    - - '75'
+      - Yasuhiro Noma
+    - - '27'
+      - Guy Hubbard
+    - - '25'
+      - Tyler Borrdaile
+    - - '7'
+      - Olav Opsanger
     - - '11'
       - Steve Blenkinsop
     - - '8'
       - Gordon Rigg
+    - - '69'
+      - Niki Longshore
     - - '41'
       - Tony Armstrong
+    - - '23'
+      - Nils Vesk
 - zonesSum:
-  - 19
-  - 19
-  - 17
-  - 14
+  - 45
+  - 45
+  - 38
+  - 29
   zonesFirst:
   - 2018-01-01T01:17:00Z
   - 2018-01-01T02:28:41Z
   - 2018-01-01T04:48:01Z
   - 2018-01-01T05:53:45Z
   zonesLast:
-  - 2018-01-01T02:05:01Z
-  - 2018-01-01T03:02:27Z
+  - 2018-01-01T02:31:21Z
+  - 2018-01-01T03:16:07Z
   - 2018-01-01T06:01:55Z
   - 2018-01-01T07:18:04Z
   zonesRankTime:
   - - 2018-01-01T01:17:00Z
     - 2018-01-01T01:18:55Z
     - 2018-01-01T01:20:17Z
+    - 2018-01-01T01:22:12Z
+    - 2018-01-01T01:27:11Z
     - 2018-01-01T01:27:31Z
     - 2018-01-01T01:28:53Z
     - 2018-01-01T01:30:38Z
+    - 2018-01-01T01:31:35Z
     - 2018-01-01T01:33:36Z
     - 2018-01-01T01:35:14Z
     - 2018-01-01T01:36:54Z
+    - 2018-01-01T01:37:43Z
+    - 2018-01-01T01:37:49Z
     - 2018-01-01T01:39:01Z
+    - 2018-01-01T01:40:57Z
+    - 2018-01-01T01:43:32Z
+    - 2018-01-01T01:44:13Z
     - 2018-01-01T01:45:59Z
+    - 2018-01-01T01:46:04Z
+    - 2018-01-01T01:46:57Z
+    - 2018-01-01T01:47:44Z
     - 2018-01-01T01:49:45Z
+    - 2018-01-01T01:50:21Z
+    - 2018-01-01T01:51:58Z
     - 2018-01-01T01:52:44Z
     - 2018-01-01T01:54:58Z
+    - 2018-01-01T01:55:19Z
     - 2018-01-01T01:57:08Z
     - 2018-01-01T01:57:55Z
     - 2018-01-01T02:00:16Z
     - 2018-01-01T02:02:06Z
+    - 2018-01-01T02:03:42Z
     - 2018-01-01T02:05:01Z
+    - 2018-01-01T02:05:50Z
+    - 2018-01-01T02:06:06Z
+    - 2018-01-01T02:09:31Z
+    - 2018-01-01T02:10:03Z
+    - 2018-01-01T02:13:10Z
+    - 2018-01-01T02:14:13Z
+    - 2018-01-01T02:14:37Z
+    - 2018-01-01T02:19:01Z
+    - 2018-01-01T02:21:18Z
+    - 2018-01-01T02:22:20Z
+    - 2018-01-01T02:31:21Z
   - - 2018-01-01T02:28:41Z
     - 2018-01-01T02:30:19Z
+    - 2018-01-01T02:30:22Z
     - 2018-01-01T02:30:35Z
     - 2018-01-01T02:30:40Z
     - 2018-01-01T02:31:26Z
     - 2018-01-01T02:31:32Z
     - 2018-01-01T02:32:33Z
     - 2018-01-01T02:32:48Z
+    - 2018-01-01T02:37:07Z
+    - 2018-01-01T02:37:24Z
+    - 2018-01-01T02:38:28Z
+    - 2018-01-01T02:38:57Z
+    - 2018-01-01T02:45:08Z
+    - 2018-01-01T02:45:34Z
     - 2018-01-01T02:45:35Z
+    - 2018-01-01T02:46:07Z
     - 2018-01-01T02:47:14Z
     - 2018-01-01T02:47:29Z
+    - 2018-01-01T02:47:30Z
     - 2018-01-01T02:47:37Z
+    - 2018-01-01T02:47:38Z
+    - 2018-01-01T02:47:43Z
     - 2018-01-01T02:47:44Z
+    - 2018-01-01T02:47:44Z
+    - 2018-01-01T02:47:45Z
+    - 2018-01-01T02:47:50Z
     - 2018-01-01T02:47:52Z
     - 2018-01-01T02:47:53Z
     - 2018-01-01T02:47:55Z
     - 2018-01-01T02:47:57Z
+    - 2018-01-01T02:48:04Z
+    - 2018-01-01T02:48:13Z
+    - 2018-01-01T02:48:15Z
+    - 2018-01-01T02:48:16Z
+    - 2018-01-01T02:48:26Z
+    - 2018-01-01T02:49:14Z
+    - 2018-01-01T02:49:21Z
+    - 2018-01-01T02:56:51Z
     - 2018-01-01T03:00:14Z
+    - 2018-01-01T03:00:20Z
+    - 2018-01-01T03:00:29Z
     - 2018-01-01T03:02:27Z
+    - 2018-01-01T03:15:16Z
+    - 2018-01-01T03:16:07Z
   - - 2018-01-01T04:48:01Z
     - 2018-01-01T04:50:51Z
+    - 2018-01-01T05:01:31Z
+    - 2018-01-01T05:01:53Z
     - 2018-01-01T05:01:53Z
     - 2018-01-01T05:05:36Z
+    - 2018-01-01T05:05:42Z
+    - 2018-01-01T05:05:42Z
     - 2018-01-01T05:05:43Z
+    - 2018-01-01T05:05:55Z
+    - 2018-01-01T05:05:56Z
     - 2018-01-01T05:06:36Z
+    - 2018-01-01T05:06:36Z
+    - 2018-01-01T05:07:20Z
     - 2018-01-01T05:07:41Z
+    - 2018-01-01T05:08:06Z
+    - 2018-01-01T05:10:05Z
     - 2018-01-01T05:10:36Z
+    - 2018-01-01T05:11:00Z
     - 2018-01-01T05:13:03Z
     - 2018-01-01T05:15:10Z
     - 2018-01-01T05:17:13Z
+    - 2018-01-01T05:23:05Z
+    - 2018-01-01T05:25:12Z
     - 2018-01-01T05:25:52Z
     - 2018-01-01T05:26:04Z
+    - 2018-01-01T05:27:05Z
     - 2018-01-01T05:28:17Z
+    - 2018-01-01T05:29:44Z
+    - 2018-01-01T05:32:34Z
+    - 2018-01-01T05:32:46Z
+    - 2018-01-01T05:36:42Z
+    - 2018-01-01T05:37:02Z
+    - 2018-01-01T05:40:40Z
     - 2018-01-01T05:46:49Z
     - 2018-01-01T05:48:04Z
+    - 2018-01-01T05:49:30Z
     - 2018-01-01T06:01:55Z
   - - 2018-01-01T05:53:45Z
+    - 2018-01-01T05:54:41Z
+    - 2018-01-01T05:55:08Z
+    - 2018-01-01T05:55:53Z
+    - 2018-01-01T05:56:14Z
     - 2018-01-01T05:56:19Z
+    - 2018-01-01T05:57:05Z
     - 2018-01-01T05:58:04Z
     - 2018-01-01T05:58:07Z
+    - 2018-01-01T05:58:55Z
+    - 2018-01-01T05:59:32Z
     - 2018-01-01T05:59:36Z
     - 2018-01-01T06:05:37Z
     - 2018-01-01T06:14:54Z
@@ -317,7 +904,15 @@ timing:
     - 2018-01-01T06:23:02Z
     - 2018-01-01T06:23:06Z
     - 2018-01-01T06:24:37Z
+    - 2018-01-01T06:25:10Z
     - 2018-01-01T06:25:25Z
+    - 2018-01-01T06:25:37Z
+    - 2018-01-01T06:26:08Z
+    - 2018-01-01T06:28:42Z
+    - 2018-01-01T06:30:12Z
+    - 2018-01-01T06:41:32Z
+    - 2018-01-01T06:42:04Z
+    - 2018-01-01T06:45:15Z
     - 2018-01-01T07:18:04Z
   zonesRankPilot:
   - - - '14'
@@ -326,28 +921,56 @@ timing:
       - Dale Regehr
     - - '100'
       - Malcolm Brown
+    - - '74'
+      - Vic Hare
+    - - '28'
+      - Mikhail Karmazin
     - - '80'
       - Michael Cassells
     - - '72'
       - Sasha Serebrennikova
     - - '22'
       - Rohan Taylor
+    - - '43'
+      - Jonny Durand
     - - '30'
       - Jason Kath
     - - '8'
       - Gordon Rigg
     - - '69'
       - Niki Longshore
+    - - '81'
+      - Nick Purcell
+    - - '25'
+      - Tyler Borrdaile
     - - '41'
       - Tony Armstrong
+    - - '27'
+      - Guy Hubbard
+    - - '75'
+      - Yasuhiro Noma
+    - - '101'
+      - Oliver Chitty
     - - '23'
       - Nils Vesk
+    - - '106'
+      - Jon Durand Snr
+    - - '7'
+      - Olav Opsanger
+    - - '6'
+      - Yoko Sano
     - - '11'
       - Steve Blenkinsop
+    - - '31'
+      - Trent Brown
+    - - '76'
+      - Rory Duncan
     - - '51'
       - Craig Taylor
     - - '103'
       - Wayne Thompson
+    - - '62'
+      - Josh Woods
     - - '92'
       - Attila Bertok
     - - '107'
@@ -356,12 +979,38 @@ timing:
       - Neale Halsall
     - - '83'
       - Randal Clotworthy
+    - - '15'
+      - Ryosuke Hattori
     - - '42'
       - Rob de Groot
+    - - '77'
+      - Brodrick Osborne
+    - - '32'
+      - Andrew Barnes
+    - - '71'
+      - Rob Larkin
+    - - '67'
+      - Mark Alton
+    - - '4'
+      - Frank Chetcuti
+    - - '34'
+      - Brad Porter
+    - - '64'
+      - Longfei Yang
+    - - '55'
+      - Don Cramer
+    - - '102'
+      - Robert Davies
+    - - '36'
+      - Steve Docherty
+    - - '37'
+      - Gavin Myers
   - - - '80'
       - Michael Cassells
     - - '30'
       - Jason Kath
+    - - '106'
+      - Jon Durand Snr
     - - '22'
       - Rohan Taylor
     - - '107'
@@ -374,16 +1023,42 @@ timing:
       - Sasha Serebrennikova
     - - '83'
       - Randal Clotworthy
+    - - '4'
+      - Frank Chetcuti
+    - - '71'
+      - Rob Larkin
+    - - '6'
+      - Yoko Sano
+    - - '64'
+      - Longfei Yang
+    - - '43'
+      - Jonny Durand
+    - - '34'
+      - Brad Porter
     - - '11'
       - Steve Blenkinsop
+    - - '77'
+      - Brodrick Osborne
     - - '69'
       - Niki Longshore
     - - '92'
       - Attila Bertok
+    - - '27'
+      - Guy Hubbard
     - - '41'
       - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
+    - - '62'
+      - Josh Woods
     - - '51'
       - Craig Taylor
+    - - '81'
+      - Nick Purcell
+    - - '67'
+      - Mark Alton
+    - - '74'
+      - Vic Hare
     - - '42'
       - Rob de Groot
     - - '68'
@@ -392,52 +1067,132 @@ timing:
       - Gordon Rigg
     - - '100'
       - Malcolm Brown
+    - - '7'
+      - Olav Opsanger
+    - - '25'
+      - Tyler Borrdaile
+    - - '28'
+      - Mikhail Karmazin
+    - - '15'
+      - Ryosuke Hattori
+    - - '32'
+      - Andrew Barnes
+    - - '36'
+      - Steve Docherty
+    - - '55'
+      - Don Cramer
+    - - '102'
+      - Robert Davies
     - - '23'
       - Nils Vesk
+    - - '101'
+      - Oliver Chitty
+    - - '37'
+      - Gavin Myers
     - - '103'
       - Wayne Thompson
+    - - '31'
+      - Trent Brown
+    - - '76'
+      - Rory Duncan
   - - - '30'
       - Jason Kath
     - - '8'
       - Gordon Rigg
+    - - '34'
+      - Brad Porter
     - - '92'
       - Attila Bertok
+    - - '75'
+      - Yasuhiro Noma
     - - '11'
       - Steve Blenkinsop
+    - - '81'
+      - Nick Purcell
+    - - '7'
+      - Olav Opsanger
     - - '22'
       - Rohan Taylor
+    - - '25'
+      - Tyler Borrdaile
+    - - '106'
+      - Jon Durand Snr
     - - '51'
       - Craig Taylor
+    - - '62'
+      - Josh Woods
+    - - '6'
+      - Yoko Sano
     - - '68'
       - Neale Halsall
+    - - '67'
+      - Mark Alton
+    - - '28'
+      - Mikhail Karmazin
     - - '52'
       - Dale Regehr
+    - - '74'
+      - Vic Hare
     - - '41'
       - Tony Armstrong
     - - '80'
       - Michael Cassells
     - - '72'
       - Sasha Serebrennikova
+    - - '15'
+      - Ryosuke Hattori
+    - - '36'
+      - Steve Docherty
     - - '42'
       - Rob de Groot
     - - '100'
       - Malcolm Brown
+    - - '77'
+      - Brodrick Osborne
     - - '23'
       - Nils Vesk
+    - - '37'
+      - Gavin Myers
+    - - '31'
+      - Trent Brown
+    - - '32'
+      - Andrew Barnes
+    - - '4'
+      - Frank Chetcuti
+    - - '71'
+      - Rob Larkin
+    - - '64'
+      - Longfei Yang
     - - '14'
       - Peter Burkitt
     - - '107'
       - Anatoly Reyter
+    - - '76'
+      - Rory Duncan
     - - '103'
       - Wayne Thompson
   - - - '92'
       - Attila Bertok
+    - - '25'
+      - Tyler Borrdaile
+    - - '62'
+      - Josh Woods
+    - - '7'
+      - Olav Opsanger
+    - - '81'
+      - Nick Purcell
     - - '11'
       - Steve Blenkinsop
+    - - '6'
+      - Yoko Sano
     - - '22'
       - Rohan Taylor
     - - '51'
       - Craig Taylor
+    - - '34'
+      - Brad Porter
+    - - '106'
+      - Jon Durand Snr
     - - '8'
       - Gordon Rigg
     - - '30'
@@ -454,52 +1209,79 @@ timing:
       - Nils Vesk
     - - '80'
       - Michael Cassells
+    - - '37'
+      - Gavin Myers
     - - '42'
       - Rob de Groot
+    - - '36'
+      - Steve Docherty
+    - - '15'
+      - Ryosuke Hattori
+    - - '77'
+      - Brodrick Osborne
+    - - '32'
+      - Andrew Barnes
+    - - '31'
+      - Trent Brown
+    - - '76'
+      - Rory Duncan
+    - - '4'
+      - Frank Chetcuti
     - - '103'
       - Wayne Thompson
 - zonesSum:
-  - 29
-  - 28
-  - 12
+  - 40
+  - 38
+  - 16
   zonesFirst:
   - 2018-01-02T00:52:00Z
   - 2018-01-02T02:00:02Z
-  - 2018-01-02T07:19:29Z
+  - 2018-01-02T07:18:24Z
   zonesLast:
-  - 2018-01-02T02:13:35Z
-  - 2018-01-02T02:34:48Z
-  - 2018-01-02T08:38:52Z
+  - 2018-01-02T02:24:27Z
+  - 2018-01-02T02:44:49Z
+  - 2018-01-02T08:43:04Z
   zonesRankTime:
   - - 2018-01-02T00:52:00Z
     - 2018-01-02T00:53:02Z
     - 2018-01-02T00:53:26Z
+    - 2018-01-02T00:54:11Z
     - 2018-01-02T01:03:12Z
     - 2018-01-02T01:05:04Z
     - 2018-01-02T01:07:09Z
     - 2018-01-02T01:08:44Z
     - 2018-01-02T01:09:29Z
     - 2018-01-02T01:09:56Z
+    - 2018-01-02T01:10:59Z
     - 2018-01-02T01:11:15Z
     - 2018-01-02T01:16:02Z
     - 2018-01-02T01:20:45Z
     - 2018-01-02T01:21:51Z
+    - 2018-01-02T01:22:01Z
     - 2018-01-02T01:22:45Z
     - 2018-01-02T01:24:41Z
     - 2018-01-02T01:27:45Z
     - 2018-01-02T01:29:15Z
     - 2018-01-02T01:29:39Z
+    - 2018-01-02T01:31:02Z
     - 2018-01-02T01:32:28Z
     - 2018-01-02T01:37:14Z
+    - 2018-01-02T01:38:13Z
     - 2018-01-02T01:40:25Z
     - 2018-01-02T01:42:10Z
+    - 2018-01-02T01:43:33Z
     - 2018-01-02T01:44:39Z
     - 2018-01-02T01:46:31Z
     - 2018-01-02T01:51:27Z
     - 2018-01-02T01:52:49Z
+    - 2018-01-02T01:55:05Z
+    - 2018-01-02T02:03:41Z
     - 2018-01-02T02:07:35Z
     - 2018-01-02T02:08:12Z
+    - 2018-01-02T02:11:11Z
     - 2018-01-02T02:13:35Z
+    - 2018-01-02T02:18:58Z
+    - 2018-01-02T02:24:27Z
   - - 2018-01-02T02:00:02Z
     - 2018-01-02T02:00:04Z
     - 2018-01-02T02:00:08Z
@@ -514,21 +1296,33 @@ timing:
     - 2018-01-02T02:01:06Z
     - 2018-01-02T02:01:07Z
     - 2018-01-02T02:01:33Z
+    - 2018-01-02T02:01:41Z
+    - 2018-01-02T02:01:48Z
     - 2018-01-02T02:01:48Z
     - 2018-01-02T02:01:48Z
     - 2018-01-02T02:01:52Z
+    - 2018-01-02T02:02:01Z
     - 2018-01-02T02:02:42Z
     - 2018-01-02T02:02:44Z
     - 2018-01-02T02:04:59Z
+    - 2018-01-02T02:06:27Z
+    - 2018-01-02T02:06:29Z
+    - 2018-01-02T02:15:28Z
     - 2018-01-02T02:15:38Z
     - 2018-01-02T02:15:41Z
+    - 2018-01-02T02:16:00Z
     - 2018-01-02T02:17:22Z
     - 2018-01-02T02:22:09Z
     - 2018-01-02T02:27:38Z
     - 2018-01-02T02:27:50Z
+    - 2018-01-02T02:28:45Z
     - 2018-01-02T02:29:03Z
     - 2018-01-02T02:34:48Z
-  - - 2018-01-02T07:19:29Z
+    - 2018-01-02T02:40:12Z
+    - 2018-01-02T02:44:49Z
+  - - 2018-01-02T07:18:24Z
+    - 2018-01-02T07:19:29Z
+    - 2018-01-02T07:20:12Z
     - 2018-01-02T07:37:58Z
     - 2018-01-02T07:45:56Z
     - 2018-01-02T07:48:43Z
@@ -539,7 +1333,9 @@ timing:
     - 2018-01-02T08:27:04Z
     - 2018-01-02T08:28:17Z
     - 2018-01-02T08:37:43Z
+    - 2018-01-02T08:37:59Z
     - 2018-01-02T08:38:52Z
+    - 2018-01-02T08:43:04Z
   zonesRankPilot:
   - - - '74'
       - Vic Hare
@@ -547,6 +1343,8 @@ timing:
       - Peter Burkitt
     - - '52'
       - Dale Regehr
+    - - '72'
+      - Sasha Serebrennikova
     - - '106'
       - Jon Durand Snr
     - - '22'
@@ -559,6 +1357,8 @@ timing:
       - Jason Kath
     - - '41'
       - Tony Armstrong
+    - - '101'
+      - Oliver Chitty
     - - '81'
       - Nick Purcell
     - - '23'
@@ -567,6 +1367,8 @@ timing:
       - Olav Opsanger
     - - '76'
       - Rory Duncan
+    - - '25'
+      - Tyler Borrdaile
     - - '11'
       - Steve Blenkinsop
     - - '92'
@@ -577,14 +1379,20 @@ timing:
       - Guy Hubbard
     - - '31'
       - Trent Brown
+    - - '15'
+      - Ryosuke Hattori
     - - '51'
       - Craig Taylor
     - - '36'
       - Steve Docherty
+    - - '75'
+      - Yasuhiro Noma
     - - '34'
       - Brad Porter
     - - '68'
       - Neale Halsall
+    - - '32'
+      - Andrew Barnes
     - - '103'
       - Wayne Thompson
     - - '37'
@@ -593,12 +1401,22 @@ timing:
       - Gordon Rigg
     - - '83'
       - Randal Clotworthy
+    - - '28'
+      - Mikhail Karmazin
+    - - '71'
+      - Rob Larkin
     - - '64'
       - Longfei Yang
     - - '42'
       - Rob de Groot
+    - - '88'
+      - Simon West
     - - '77'
       - Brodrick Osborne
+    - - '67'
+      - Mark Alton
+    - - '6'
+      - Yoko Sano
   - - - '106'
       - Jon Durand Snr
     - - '43'
@@ -627,22 +1445,36 @@ timing:
       - Josh Woods
     - - '76'
       - Rory Duncan
+    - - '25'
+      - Tyler Borrdaile
     - - '92'
       - Attila Bertok
+    - - '101'
+      - Oliver Chitty
     - - '22'
       - Rohan Taylor
     - - '68'
       - Neale Halsall
+    - - '75'
+      - Yasuhiro Noma
     - - '36'
       - Steve Docherty
     - - '80'
       - Michael Cassells
     - - '34'
       - Brad Porter
+    - - '15'
+      - Ryosuke Hattori
+    - - '72'
+      - Sasha Serebrennikova
+    - - '32'
+      - Andrew Barnes
     - - '81'
       - Nick Purcell
     - - '8'
       - Gordon Rigg
+    - - '28'
+      - Mikhail Karmazin
     - - '83'
       - Randal Clotworthy
     - - '37'
@@ -651,12 +1483,22 @@ timing:
       - Longfei Yang
     - - '42'
       - Rob de Groot
+    - - '71'
+      - Rob Larkin
     - - '103'
       - Wayne Thompson
     - - '77'
       - Brodrick Osborne
-  - - - '43'
+    - - '67'
+      - Mark Alton
+    - - '88'
+      - Simon West
+  - - - '101'
+      - Oliver Chitty
+    - - '43'
       - Jonny Durand
+    - - '25'
+      - Tyler Borrdaile
     - - '27'
       - Guy Hubbard
     - - '31'
@@ -677,99 +1519,183 @@ timing:
       - Rory Duncan
     - - '23'
       - Nils Vesk
+    - - '15'
+      - Ryosuke Hattori
     - - '36'
       - Steve Docherty
+    - - '72'
+      - Sasha Serebrennikova
 - zonesSum:
-  - 19
-  - 19
-  - 17
-  - 3
+  - 37
+  - 37
+  - 34
+  - 8
   zonesFirst:
-  - 2018-01-03T03:12:08Z
+  - 2018-01-03T03:10:55Z
   - 2018-01-03T04:15:02Z
-  - 2018-01-03T05:34:05Z
-  - 2018-01-03T07:04:26Z
+  - 2018-01-03T05:29:52Z
+  - 2018-01-03T07:02:41Z
   zonesLast:
-  - 2018-01-03T04:14:04Z
-  - 2018-01-03T04:45:31Z
-  - 2018-01-03T06:16:23Z
+  - 2018-01-03T04:28:08Z
+  - 2018-01-03T04:52:37Z
+  - 2018-01-03T06:23:22Z
   - 2018-01-03T07:26:45Z
   zonesRankTime:
-  - - 2018-01-03T03:12:08Z
+  - - 2018-01-03T03:10:55Z
+    - 2018-01-03T03:11:36Z
+    - 2018-01-03T03:12:08Z
+    - 2018-01-03T03:13:28Z
+    - 2018-01-03T03:18:46Z
+    - 2018-01-03T03:19:14Z
+    - 2018-01-03T03:22:08Z
     - 2018-01-03T03:22:30Z
     - 2018-01-03T03:25:19Z
+    - 2018-01-03T03:27:31Z
     - 2018-01-03T03:27:56Z
+    - 2018-01-03T03:29:00Z
+    - 2018-01-03T03:29:21Z
     - 2018-01-03T03:33:22Z
+    - 2018-01-03T03:34:43Z
     - 2018-01-03T03:36:14Z
     - 2018-01-03T03:38:22Z
     - 2018-01-03T03:39:22Z
+    - 2018-01-03T03:43:51Z
     - 2018-01-03T03:44:34Z
     - 2018-01-03T03:45:23Z
     - 2018-01-03T03:46:12Z
     - 2018-01-03T03:46:12Z
+    - 2018-01-03T03:49:30Z
     - 2018-01-03T03:51:15Z
+    - 2018-01-03T03:51:55Z
+    - 2018-01-03T03:53:37Z
     - 2018-01-03T03:55:13Z
     - 2018-01-03T03:56:13Z
     - 2018-01-03T04:02:43Z
     - 2018-01-03T04:06:19Z
     - 2018-01-03T04:07:03Z
+    - 2018-01-03T04:08:46Z
+    - 2018-01-03T04:11:40Z
     - 2018-01-03T04:14:04Z
+    - 2018-01-03T04:16:46Z
+    - 2018-01-03T04:28:08Z
   - - 2018-01-03T04:15:02Z
     - 2018-01-03T04:15:02Z
+    - 2018-01-03T04:15:05Z
+    - 2018-01-03T04:15:08Z
+    - 2018-01-03T04:15:10Z
+    - 2018-01-03T04:15:12Z
     - 2018-01-03T04:15:15Z
     - 2018-01-03T04:15:15Z
+    - 2018-01-03T04:15:20Z
+    - 2018-01-03T04:15:23Z
+    - 2018-01-03T04:15:23Z
     - 2018-01-03T04:15:27Z
     - 2018-01-03T04:15:32Z
     - 2018-01-03T04:15:42Z
     - 2018-01-03T04:15:52Z
     - 2018-01-03T04:15:54Z
+    - 2018-01-03T04:15:57Z
+    - 2018-01-03T04:16:01Z
     - 2018-01-03T04:16:03Z
+    - 2018-01-03T04:16:07Z
+    - 2018-01-03T04:16:12Z
     - 2018-01-03T04:16:42Z
     - 2018-01-03T04:17:26Z
     - 2018-01-03T04:25:23Z
     - 2018-01-03T04:30:31Z
+    - 2018-01-03T04:30:38Z
     - 2018-01-03T04:30:49Z
     - 2018-01-03T04:31:41Z
+    - 2018-01-03T04:32:50Z
     - 2018-01-03T04:38:30Z
+    - 2018-01-03T04:42:18Z
+    - 2018-01-03T04:43:49Z
     - 2018-01-03T04:45:15Z
+    - 2018-01-03T04:45:15Z
+    - 2018-01-03T04:45:24Z
     - 2018-01-03T04:45:31Z
-  - - 2018-01-03T05:34:05Z
+    - 2018-01-03T04:52:37Z
+  - - 2018-01-03T05:29:52Z
+    - 2018-01-03T05:33:23Z
+    - 2018-01-03T05:34:05Z
     - 2018-01-03T05:34:20Z
     - 2018-01-03T05:34:24Z
     - 2018-01-03T05:34:57Z
+    - 2018-01-03T05:34:58Z
+    - 2018-01-03T05:35:07Z
+    - 2018-01-03T05:35:24Z
+    - 2018-01-03T05:37:07Z
     - 2018-01-03T05:37:19Z
+    - 2018-01-03T05:38:13Z
     - 2018-01-03T05:38:19Z
+    - 2018-01-03T05:38:24Z
     - 2018-01-03T05:38:25Z
+    - 2018-01-03T05:39:41Z
     - 2018-01-03T05:41:53Z
     - 2018-01-03T05:44:00Z
+    - 2018-01-03T05:44:45Z
     - 2018-01-03T05:45:27Z
+    - 2018-01-03T05:49:19Z
+    - 2018-01-03T05:51:05Z
     - 2018-01-03T05:55:26Z
     - 2018-01-03T05:55:51Z
     - 2018-01-03T06:01:55Z
+    - 2018-01-03T06:04:47Z
     - 2018-01-03T06:04:55Z
     - 2018-01-03T06:06:16Z
     - 2018-01-03T06:10:21Z
+    - 2018-01-03T06:15:25Z
     - 2018-01-03T06:16:23Z
-  - - 2018-01-03T07:04:26Z
+    - 2018-01-03T06:21:36Z
+    - 2018-01-03T06:22:30Z
+    - 2018-01-03T06:23:22Z
+  - - 2018-01-03T07:02:41Z
+    - 2018-01-03T07:03:34Z
+    - 2018-01-03T07:03:47Z
+    - 2018-01-03T07:04:26Z
+    - 2018-01-03T07:05:33Z
+    - 2018-01-03T07:19:11Z
     - 2018-01-03T07:19:28Z
     - 2018-01-03T07:26:45Z
   zonesRankPilot:
-  - - - '52'
+  - - - '28'
+      - Mikhail Karmazin
+    - - '4'
+      - Frank Chetcuti
+    - - '52'
       - Dale Regehr
+    - - '72'
+      - Sasha Serebrennikova
+    - - '99'
+      - Gennadiy Khramov
+    - - '67'
+      - Mark Alton
+    - - '31'
+      - Trent Brown
     - - '22'
       - Rohan Taylor
     - - '41'
       - Tony Armstrong
+    - - '27'
+      - Guy Hubbard
     - - '23'
       - Nils Vesk
+    - - '43'
+      - Jonny Durand
+    - - '101'
+      - Oliver Chitty
     - - '8'
       - Gordon Rigg
+    - - '76'
+      - Rory Duncan
     - - '92'
       - Attila Bertok
     - - '7'
       - Olav Opsanger
     - - '62'
       - Josh Woods
+    - - '25'
+      - Tyler Borrdaile
     - - '81'
       - Nick Purcell
     - - '51'
@@ -778,8 +1704,14 @@ timing:
       - Neale Halsall
     - - '36'
       - Steve Docherty
+    - - '6'
+      - Yoko Sano
     - - '14'
       - Peter Burkitt
+    - - '75'
+      - Yasuhiro Noma
+    - - '106'
+      - Jon Durand Snr
     - - '37'
       - Gavin Myers
     - - '103'
@@ -790,16 +1722,38 @@ timing:
       - Brad Porter
     - - '11'
       - Steve Blenkinsop
+    - - '74'
+      - Vic Hare
+    - - '107'
+      - Anatoly Reyter
     - - '98'
       - Oyvind Ellefsen
+    - - '64'
+      - Longfei Yang
+    - - '15'
+      - Ryosuke Hattori
   - - - '23'
       - Nils Vesk
     - - '41'
       - Tony Armstrong
+    - - '43'
+      - Jonny Durand
+    - - '27'
+      - Guy Hubbard
+    - - '72'
+      - Sasha Serebrennikova
+    - - '101'
+      - Oliver Chitty
     - - '8'
       - Gordon Rigg
     - - '22'
       - Rohan Taylor
+    - - '4'
+      - Frank Chetcuti
+    - - '28'
+      - Mikhail Karmazin
+    - - '76'
+      - Rory Duncan
     - - '37'
       - Gavin Myers
     - - '51'
@@ -810,8 +1764,16 @@ timing:
       - Josh Woods
     - - '68'
       - Neale Halsall
+    - - '6'
+      - Yoko Sano
+    - - '75'
+      - Yasuhiro Noma
     - - '36'
       - Steve Docherty
+    - - '31'
+      - Trent Brown
+    - - '106'
+      - Jon Durand Snr
     - - '7'
       - Olav Opsanger
     - - '14'
@@ -820,17 +1782,35 @@ timing:
       - Wayne Thompson
     - - '11'
       - Steve Blenkinsop
+    - - '67'
+      - Mark Alton
     - - '42'
       - Rob de Groot
     - - '34'
       - Brad Porter
+    - - '99'
+      - Gennadiy Khramov
     - - '92'
       - Attila Bertok
+    - - '64'
+      - Longfei Yang
+    - - '107'
+      - Anatoly Reyter
     - - '81'
       - Nick Purcell
+    - - '25'
+      - Tyler Borrdaile
+    - - '74'
+      - Vic Hare
     - - '98'
       - Oyvind Ellefsen
-  - - - '37'
+    - - '15'
+      - Ryosuke Hattori
+  - - - '31'
+      - Trent Brown
+    - - '76'
+      - Rory Duncan
+    - - '37'
       - Gavin Myers
     - - '22'
       - Rohan Taylor
@@ -838,60 +1818,104 @@ timing:
       - Tony Armstrong
     - - '23'
       - Nils Vesk
+    - - '27'
+      - Guy Hubbard
+    - - '43'
+      - Jonny Durand
+    - - '101'
+      - Oliver Chitty
+    - - '72'
+      - Sasha Serebrennikova
     - - '7'
       - Olav Opsanger
+    - - '75'
+      - Yasuhiro Noma
     - - '62'
       - Josh Woods
+    - - '28'
+      - Mikhail Karmazin
     - - '51'
       - Craig Taylor
+    - - '6'
+      - Yoko Sano
     - - '68'
       - Neale Halsall
     - - '92'
       - Attila Bertok
+    - - '106'
+      - Jon Durand Snr
     - - '36'
       - Steve Docherty
+    - - '4'
+      - Frank Chetcuti
+    - - '99'
+      - Gennadiy Khramov
     - - '34'
       - Brad Porter
     - - '42'
       - Rob de Groot
     - - '103'
       - Wayne Thompson
+    - - '25'
+      - Tyler Borrdaile
     - - '11'
       - Steve Blenkinsop
     - - '81'
       - Nick Purcell
     - - '52'
       - Dale Regehr
+    - - '74'
+      - Vic Hare
     - - '98'
       - Oyvind Ellefsen
-  - - - '37'
+    - - '107'
+      - Anatoly Reyter
+    - - '15'
+      - Ryosuke Hattori
+    - - '64'
+      - Longfei Yang
+  - - - '101'
+      - Oliver Chitty
+    - - '43'
+      - Jonny Durand
+    - - '27'
+      - Guy Hubbard
+    - - '37'
       - Gavin Myers
+    - - '76'
+      - Rory Duncan
+    - - '106'
+      - Jon Durand Snr
     - - '23'
       - Nils Vesk
     - - '51'
       - Craig Taylor
 - zonesSum:
+  - 44
+  - 44
+  - 40
+  - 32
   - 22
-  - 22
-  - 18
-  - 17
-  - 10
   zonesFirst:
   - 2018-01-04T01:23:51Z
   - 2018-01-04T02:49:38Z
   - 2018-01-04T03:54:45Z
   - 2018-01-04T05:04:31Z
-  - 2018-01-04T06:29:53Z
+  - 2018-01-04T06:24:00Z
   zonesLast:
   - 2018-01-04T02:37:50Z
   - 2018-01-04T07:20:50Z
-  - 2018-01-04T05:19:30Z
+  - 2018-01-04T05:23:54Z
   - 2018-01-04T06:58:23Z
   - 2018-01-04T07:30:57Z
   zonesRankTime:
   - - 2018-01-04T01:23:51Z
     - 2018-01-04T01:24:33Z
+    - 2018-01-04T01:28:08Z
     - 2018-01-04T01:28:17Z
+    - 2018-01-04T01:29:14Z
+    - 2018-01-04T01:29:51Z
+    - 2018-01-04T01:34:58Z
     - 2018-01-04T01:35:40Z
     - 2018-01-04T01:36:48Z
     - 2018-01-04T01:38:10Z
@@ -900,82 +1924,171 @@ timing:
     - 2018-01-04T01:43:10Z
     - 2018-01-04T01:43:27Z
     - 2018-01-04T01:46:30Z
+    - 2018-01-04T01:48:02Z
+    - 2018-01-04T01:48:34Z
     - 2018-01-04T01:49:13Z
+    - 2018-01-04T01:49:40Z
+    - 2018-01-04T01:52:25Z
     - 2018-01-04T01:54:40Z
+    - 2018-01-04T01:56:11Z
+    - 2018-01-04T01:57:21Z
     - 2018-01-04T01:59:31Z
+    - 2018-01-04T02:00:24Z
     - 2018-01-04T02:01:32Z
+    - 2018-01-04T02:02:43Z
     - 2018-01-04T02:02:59Z
+    - 2018-01-04T02:06:36Z
+    - 2018-01-04T02:07:45Z
+    - 2018-01-04T02:09:08Z
+    - 2018-01-04T02:09:59Z
+    - 2018-01-04T02:10:52Z
+    - 2018-01-04T02:12:42Z
     - 2018-01-04T02:14:11Z
+    - 2018-01-04T02:14:41Z
     - 2018-01-04T02:16:54Z
     - 2018-01-04T02:20:33Z
     - 2018-01-04T02:22:07Z
+    - 2018-01-04T02:23:18Z
     - 2018-01-04T02:23:44Z
+    - 2018-01-04T02:25:17Z
+    - 2018-01-04T02:31:41Z
     - 2018-01-04T02:37:50Z
   - - 2018-01-04T02:49:38Z
     - 2018-01-04T02:49:59Z
     - 2018-01-04T02:50:10Z
+    - 2018-01-04T02:50:12Z
     - 2018-01-04T02:50:14Z
     - 2018-01-04T02:50:17Z
+    - 2018-01-04T02:50:17Z
     - 2018-01-04T02:50:18Z
+    - 2018-01-04T02:50:20Z
     - 2018-01-04T02:50:22Z
     - 2018-01-04T02:50:22Z
+    - 2018-01-04T02:50:23Z
+    - 2018-01-04T02:50:23Z
     - 2018-01-04T02:50:27Z
+    - 2018-01-04T02:50:29Z
     - 2018-01-04T02:50:38Z
     - 2018-01-04T02:50:43Z
+    - 2018-01-04T02:50:43Z
+    - 2018-01-04T02:50:44Z
+    - 2018-01-04T02:50:45Z
+    - 2018-01-04T02:50:47Z
+    - 2018-01-04T02:50:49Z
+    - 2018-01-04T02:50:52Z
+    - 2018-01-04T02:51:02Z
+    - 2018-01-04T02:51:39Z
+    - 2018-01-04T02:51:41Z
+    - 2018-01-04T02:51:54Z
     - 2018-01-04T02:51:57Z
+    - 2018-01-04T02:52:38Z
     - 2018-01-04T02:54:59Z
+    - 2018-01-04T02:56:23Z
     - 2018-01-04T02:56:43Z
     - 2018-01-04T03:05:53Z
     - 2018-01-04T03:12:07Z
     - 2018-01-04T03:12:16Z
+    - 2018-01-04T03:12:25Z
+    - 2018-01-04T03:12:30Z
+    - 2018-01-04T03:12:33Z
     - 2018-01-04T03:12:45Z
+    - 2018-01-04T03:13:23Z
     - 2018-01-04T03:19:05Z
     - 2018-01-04T04:01:26Z
     - 2018-01-04T04:50:04Z
     - 2018-01-04T07:20:50Z
   - - 2018-01-04T03:54:45Z
+    - 2018-01-04T03:57:19Z
     - 2018-01-04T03:57:34Z
+    - 2018-01-04T03:57:46Z
     - 2018-01-04T03:58:14Z
+    - 2018-01-04T03:58:17Z
     - 2018-01-04T03:58:29Z
     - 2018-01-04T03:59:06Z
+    - 2018-01-04T03:59:42Z
+    - 2018-01-04T03:59:47Z
+    - 2018-01-04T03:59:59Z
     - 2018-01-04T04:00:40Z
     - 2018-01-04T04:01:01Z
+    - 2018-01-04T04:04:06Z
+    - 2018-01-04T04:04:08Z
+    - 2018-01-04T04:06:40Z
+    - 2018-01-04T04:08:31Z
+    - 2018-01-04T04:12:15Z
     - 2018-01-04T04:13:37Z
+    - 2018-01-04T04:15:20Z
+    - 2018-01-04T04:15:25Z
     - 2018-01-04T04:15:50Z
+    - 2018-01-04T04:16:06Z
+    - 2018-01-04T04:16:17Z
     - 2018-01-04T04:16:22Z
     - 2018-01-04T04:16:37Z
+    - 2018-01-04T04:16:49Z
     - 2018-01-04T04:17:06Z
     - 2018-01-04T04:17:25Z
     - 2018-01-04T04:18:08Z
     - 2018-01-04T04:18:31Z
+    - 2018-01-04T04:21:15Z
+    - 2018-01-04T04:37:34Z
+    - 2018-01-04T04:43:45Z
+    - 2018-01-04T04:43:59Z
     - 2018-01-04T04:51:07Z
+    - 2018-01-04T04:56:26Z
     - 2018-01-04T04:59:34Z
     - 2018-01-04T05:19:30Z
+    - 2018-01-04T05:23:54Z
   - - 2018-01-04T05:04:31Z
+    - 2018-01-04T05:11:14Z
+    - 2018-01-04T05:11:55Z
+    - 2018-01-04T05:16:56Z
     - 2018-01-04T05:17:15Z
     - 2018-01-04T05:17:24Z
     - 2018-01-04T05:17:38Z
+    - 2018-01-04T05:17:50Z
+    - 2018-01-04T05:17:51Z
+    - 2018-01-04T05:17:51Z
+    - 2018-01-04T05:18:03Z
+    - 2018-01-04T05:20:10Z
     - 2018-01-04T05:21:04Z
     - 2018-01-04T05:21:14Z
+    - 2018-01-04T05:26:11Z
+    - 2018-01-04T05:28:43Z
+    - 2018-01-04T05:29:53Z
     - 2018-01-04T05:30:40Z
     - 2018-01-04T05:33:14Z
     - 2018-01-04T05:33:41Z
     - 2018-01-04T05:41:04Z
     - 2018-01-04T05:41:24Z
+    - 2018-01-04T05:41:38Z
     - 2018-01-04T05:41:49Z
+    - 2018-01-04T05:42:12Z
+    - 2018-01-04T05:42:54Z
     - 2018-01-04T05:56:19Z
     - 2018-01-04T05:59:18Z
+    - 2018-01-04T06:44:56Z
     - 2018-01-04T06:47:09Z
     - 2018-01-04T06:48:01Z
     - 2018-01-04T06:58:23Z
-  - - 2018-01-04T06:29:53Z
+  - - 2018-01-04T06:24:00Z
+    - 2018-01-04T06:28:59Z
+    - 2018-01-04T06:29:53Z
+    - 2018-01-04T06:36:59Z
     - 2018-01-04T06:37:08Z
+    - 2018-01-04T06:38:42Z
+    - 2018-01-04T06:42:26Z
+    - 2018-01-04T06:44:26Z
+    - 2018-01-04T06:44:41Z
     - 2018-01-04T06:47:21Z
     - 2018-01-04T06:49:32Z
+    - 2018-01-04T06:53:10Z
+    - 2018-01-04T06:55:11Z
     - 2018-01-04T06:56:36Z
     - 2018-01-04T06:56:57Z
+    - 2018-01-04T06:57:17Z
     - 2018-01-04T06:58:06Z
+    - 2018-01-04T06:58:34Z
     - 2018-01-04T06:58:39Z
+    - 2018-01-04T07:08:27Z
     - 2018-01-04T07:26:50Z
     - 2018-01-04T07:30:57Z
   zonesRankPilot:
@@ -983,8 +2096,16 @@ timing:
       - Oyvind Ellefsen
     - - '14'
       - Peter Burkitt
+    - - '55'
+      - Don Cramer
     - - '107'
       - Anatoly Reyter
+    - - '71'
+      - Rob Larkin
+    - - '100'
+      - Malcolm Brown
+    - - '28'
+      - Mikhail Karmazin
     - - '74'
       - Vic Hare
     - - '51'
@@ -1001,26 +2122,62 @@ timing:
       - Rohan Taylor
     - - '31'
       - Trent Brown
+    - - '27'
+      - Guy Hubbard
+    - - '25'
+      - Tyler Borrdaile
     - - '30'
       - Jason Kath
+    - - '101'
+      - Oliver Chitty
+    - - '43'
+      - Jonny Durand
     - - '23'
       - Nils Vesk
+    - - '106'
+      - Jon Durand Snr
+    - - '81'
+      - Nick Purcell
     - - '11'
       - Steve Blenkinsop
+    - - '68'
+      - Neale Halsall
     - - '62'
       - Josh Woods
+    - - '76'
+      - Rory Duncan
     - - '72'
       - Sasha Serebrennikova
+    - - '15'
+      - Ryosuke Hattori
+    - - '67'
+      - Mark Alton
+    - - '32'
+      - Andrew Barnes
+    - - '37'
+      - Gavin Myers
+    - - '34'
+      - Brad Porter
+    - - '36'
+      - Steve Docherty
     - - '80'
       - Michael Cassells
+    - - '6'
+      - Yoko Sano
     - - '86'
       - Ross Smith
     - - '42'
       - Rob de Groot
     - - '52'
       - Dale Regehr
+    - - '64'
+      - Longfei Yang
     - - '85'
       - Rick Martin
+    - - '103'
+      - Wayne Thompson
+    - - '75'
+      - Yasuhiro Noma
     - - '83'
       - Randal Clotworthy
   - - - '14'
@@ -1029,26 +2186,62 @@ timing:
       - Rohan Taylor
     - - '107'
       - Anatoly Reyter
+    - - '36'
+      - Steve Docherty
     - - '11'
       - Steve Blenkinsop
     - - '8'
       - Gordon Rigg
+    - - '68'
+      - Neale Halsall
     - - '31'
       - Trent Brown
+    - - '28'
+      - Mikhail Karmazin
     - - '62'
       - Josh Woods
     - - '80'
       - Michael Cassells
+    - - '43'
+      - Jonny Durand
+    - - '100'
+      - Malcolm Brown
     - - '23'
       - Nils Vesk
+    - - '76'
+      - Rory Duncan
     - - '72'
       - Sasha Serebrennikova
+    - - '37'
+      - Gavin Myers
     - - '41'
       - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
+    - - '67'
+      - Mark Alton
+    - - '6'
+      - Yoko Sano
+    - - '34'
+      - Brad Porter
+    - - '106'
+      - Jon Durand Snr
+    - - '71'
+      - Rob Larkin
+    - - '81'
+      - Nick Purcell
+    - - '55'
+      - Don Cramer
+    - - '27'
+      - Guy Hubbard
     - - '30'
       - Jason Kath
+    - - '32'
+      - Andrew Barnes
     - - '42'
       - Rob de Groot
+    - - '103'
+      - Wayne Thompson
     - - '52'
       - Dale Regehr
     - - '85'
@@ -1057,8 +2250,16 @@ timing:
       - Attila Bertok
     - - '7'
       - Olav Opsanger
+    - - '25'
+      - Tyler Borrdaile
+    - - '64'
+      - Longfei Yang
+    - - '101'
+      - Oliver Chitty
     - - '98'
       - Oyvind Ellefsen
+    - - '15'
+      - Ryosuke Hattori
     - - '74'
       - Vic Hare
     - - '83'
@@ -1069,26 +2270,58 @@ timing:
       - Craig Taylor
   - - - '30'
       - Jason Kath
+    - - '43'
+      - Jonny Durand
     - - '23'
       - Nils Vesk
+    - - '27'
+      - Guy Hubbard
     - - '31'
       - Trent Brown
+    - - '75'
+      - Yasuhiro Noma
     - - '11'
       - Steve Blenkinsop
     - - '22'
       - Rohan Taylor
+    - - '76'
+      - Rory Duncan
+    - - '34'
+      - Brad Porter
+    - - '36'
+      - Steve Docherty
     - - '41'
       - Tony Armstrong
     - - '8'
       - Gordon Rigg
+    - - '37'
+      - Gavin Myers
+    - - '106'
+      - Jon Durand Snr
+    - - '100'
+      - Malcolm Brown
+    - - '6'
+      - Yoko Sano
+    - - '32'
+      - Andrew Barnes
     - - '92'
       - Attila Bertok
+    - - '101'
+      - Oliver Chitty
+    - - '68'
+      - Neale Halsall
     - - '62'
       - Josh Woods
+    - - '25'
+      - Tyler Borrdaile
+    - - '81'
+      - Nick Purcell
     - - '80'
       - Michael Cassells
     - - '72'
       - Sasha Serebrennikova
+    - - '28'
+      - Mikhail Karmazin
     - - '107'
       - Anatoly Reyter
     - - '7'
@@ -1097,24 +2330,58 @@ timing:
       - Oyvind Ellefsen
     - - '42'
       - Rob de Groot
+    - - '67'
+      - Mark Alton
+    - - '15'
+      - Ryosuke Hattori
+    - - '55'
+      - Don Cramer
+    - - '71'
+      - Rob Larkin
     - - '14'
       - Peter Burkitt
+    - - '64'
+      - Longfei Yang
     - - '85'
       - Rick Martin
     - - '52'
       - Dale Regehr
+    - - '103'
+      - Wayne Thompson
   - - - '30'
       - Jason Kath
+    - - '43'
+      - Jonny Durand
+    - - '76'
+      - Rory Duncan
+    - - '36'
+      - Steve Docherty
     - - '41'
       - Tony Armstrong
     - - '31'
       - Trent Brown
     - - '11'
       - Steve Blenkinsop
+    - - '106'
+      - Jon Durand Snr
+    - - '34'
+      - Brad Porter
+    - - '27'
+      - Guy Hubbard
+    - - '37'
+      - Gavin Myers
+    - - '25'
+      - Tyler Borrdaile
     - - '92'
       - Attila Bertok
     - - '8'
       - Gordon Rigg
+    - - '75'
+      - Yasuhiro Noma
+    - - '101'
+      - Oliver Chitty
+    - - '100'
+      - Malcolm Brown
     - - '62'
       - Josh Woods
     - - '72'
@@ -1125,156 +2392,295 @@ timing:
       - Olav Opsanger
     - - '80'
       - Michael Cassells
+    - - '68'
+      - Neale Halsall
     - - '98'
       - Oyvind Ellefsen
+    - - '81'
+      - Nick Purcell
+    - - '28'
+      - Mikhail Karmazin
     - - '42'
       - Rob de Groot
     - - '107'
       - Anatoly Reyter
+    - - '64'
+      - Longfei Yang
     - - '85'
       - Rick Martin
     - - '14'
       - Peter Burkitt
     - - '52'
       - Dale Regehr
-  - - - '30'
+  - - - '43'
+      - Jonny Durand
+    - - '76'
+      - Rory Duncan
+    - - '30'
       - Jason Kath
+    - - '27'
+      - Guy Hubbard
     - - '11'
       - Steve Blenkinsop
+    - - '36'
+      - Steve Docherty
+    - - '34'
+      - Brad Porter
+    - - '75'
+      - Yasuhiro Noma
+    - - '37'
+      - Gavin Myers
     - - '62'
       - Josh Woods
     - - '92'
       - Attila Bertok
+    - - '81'
+      - Nick Purcell
+    - - '100'
+      - Malcolm Brown
     - - '41'
       - Tony Armstrong
     - - '7'
       - Olav Opsanger
+    - - '101'
+      - Oliver Chitty
     - - '8'
       - Gordon Rigg
+    - - '106'
+      - Jon Durand Snr
     - - '98'
       - Oyvind Ellefsen
+    - - '68'
+      - Neale Halsall
     - - '72'
       - Sasha Serebrennikova
     - - '31'
       - Trent Brown
 - zonesSum:
-  - 18
-  - 18
-  - 14
-  - 12
-  - 12
+  - 38
+  - 38
+  - 29
+  - 23
+  - 23
   zonesFirst:
-  - 2018-01-05T01:26:26Z
-  - 2018-01-05T02:40:09Z
+  - 2018-01-05T01:23:01Z
+  - 2018-01-05T02:40:05Z
   - 2018-01-05T04:49:14Z
   - 2018-01-05T05:37:51Z
   - 2018-01-05T06:12:02Z
   zonesLast:
   - 2018-01-05T02:49:46Z
-  - 2018-01-05T03:25:48Z
-  - 2018-01-05T06:20:08Z
+  - 2018-01-05T03:41:04Z
+  - 2018-01-05T06:58:23Z
   - 2018-01-05T07:32:21Z
   - 2018-01-05T08:57:09Z
   zonesRankTime:
-  - - 2018-01-05T01:26:26Z
+  - - 2018-01-05T01:23:01Z
+    - 2018-01-05T01:25:03Z
+    - 2018-01-05T01:26:26Z
+    - 2018-01-05T01:31:25Z
     - 2018-01-05T01:32:57Z
+    - 2018-01-05T01:34:24Z
     - 2018-01-05T01:35:20Z
     - 2018-01-05T01:35:33Z
+    - 2018-01-05T01:37:23Z
+    - 2018-01-05T01:42:06Z
     - 2018-01-05T01:42:43Z
+    - 2018-01-05T01:43:15Z
+    - 2018-01-05T01:44:14Z
     - 2018-01-05T01:48:18Z
     - 2018-01-05T01:50:05Z
+    - 2018-01-05T01:51:00Z
+    - 2018-01-05T01:52:11Z
     - 2018-01-05T01:52:46Z
     - 2018-01-05T01:53:29Z
+    - 2018-01-05T01:58:49Z
+    - 2018-01-05T01:59:48Z
     - 2018-01-05T02:00:04Z
+    - 2018-01-05T02:01:20Z
     - 2018-01-05T02:01:45Z
+    - 2018-01-05T02:02:56Z
     - 2018-01-05T02:04:13Z
+    - 2018-01-05T02:05:42Z
     - 2018-01-05T02:07:19Z
     - 2018-01-05T02:08:10Z
     - 2018-01-05T02:09:12Z
     - 2018-01-05T02:11:13Z
+    - 2018-01-05T02:11:45Z
     - 2018-01-05T02:13:27Z
+    - 2018-01-05T02:16:03Z
+    - 2018-01-05T02:17:12Z
+    - 2018-01-05T02:19:38Z
+    - 2018-01-05T02:30:02Z
     - 2018-01-05T02:49:46Z
-  - - 2018-01-05T02:40:09Z
+  - - 2018-01-05T02:40:05Z
+    - 2018-01-05T02:40:09Z
+    - 2018-01-05T02:40:12Z
+    - 2018-01-05T02:40:13Z
     - 2018-01-05T02:40:21Z
     - 2018-01-05T02:40:22Z
     - 2018-01-05T02:40:26Z
+    - 2018-01-05T02:40:29Z
+    - 2018-01-05T02:40:32Z
     - 2018-01-05T02:40:38Z
+    - 2018-01-05T02:40:47Z
     - 2018-01-05T02:40:48Z
     - 2018-01-05T02:40:50Z
     - 2018-01-05T02:40:53Z
+    - 2018-01-05T02:40:53Z
+    - 2018-01-05T02:40:57Z
+    - 2018-01-05T02:41:08Z
+    - 2018-01-05T02:41:27Z
     - 2018-01-05T02:41:53Z
     - 2018-01-05T02:42:15Z
+    - 2018-01-05T02:42:18Z
     - 2018-01-05T02:42:29Z
     - 2018-01-05T02:42:34Z
     - 2018-01-05T02:42:42Z
     - 2018-01-05T02:42:49Z
+    - 2018-01-05T02:42:52Z
+    - 2018-01-05T02:43:12Z
+    - 2018-01-05T02:43:12Z
+    - 2018-01-05T02:43:18Z
+    - 2018-01-05T02:45:18Z
     - 2018-01-05T02:45:26Z
+    - 2018-01-05T02:49:34Z
+    - 2018-01-05T03:00:12Z
     - 2018-01-05T03:00:22Z
+    - 2018-01-05T03:00:36Z
     - 2018-01-05T03:00:37Z
     - 2018-01-05T03:25:48Z
+    - 2018-01-05T03:41:04Z
   - - 2018-01-05T04:49:14Z
     - 2018-01-05T04:49:45Z
     - 2018-01-05T04:49:48Z
     - 2018-01-05T04:50:22Z
     - 2018-01-05T04:50:45Z
     - 2018-01-05T04:51:10Z
+    - 2018-01-05T04:51:18Z
     - 2018-01-05T04:51:37Z
+    - 2018-01-05T04:55:45Z
+    - 2018-01-05T05:00:46Z
+    - 2018-01-05T05:03:52Z
     - 2018-01-05T05:10:55Z
     - 2018-01-05T05:18:42Z
     - 2018-01-05T05:22:35Z
+    - 2018-01-05T05:23:11Z
+    - 2018-01-05T05:23:43Z
+    - 2018-01-05T05:27:27Z
+    - 2018-01-05T05:32:31Z
+    - 2018-01-05T05:36:06Z
+    - 2018-01-05T05:44:36Z
+    - 2018-01-05T05:51:42Z
     - 2018-01-05T05:53:15Z
     - 2018-01-05T05:53:44Z
     - 2018-01-05T05:54:36Z
+    - 2018-01-05T05:59:29Z
+    - 2018-01-05T06:01:18Z
     - 2018-01-05T06:20:08Z
+    - 2018-01-05T06:23:06Z
+    - 2018-01-05T06:58:23Z
   - - 2018-01-05T05:37:51Z
     - 2018-01-05T05:40:36Z
     - 2018-01-05T05:42:14Z
+    - 2018-01-05T05:44:54Z
     - 2018-01-05T05:46:41Z
+    - 2018-01-05T05:58:37Z
+    - 2018-01-05T06:00:46Z
     - 2018-01-05T06:05:25Z
     - 2018-01-05T06:07:17Z
     - 2018-01-05T06:14:34Z
+    - 2018-01-05T06:31:36Z
+    - 2018-01-05T06:37:03Z
     - 2018-01-05T06:41:17Z
     - 2018-01-05T06:47:49Z
+    - 2018-01-05T06:49:17Z
+    - 2018-01-05T06:52:36Z
+    - 2018-01-05T06:53:56Z
+    - 2018-01-05T06:54:18Z
+    - 2018-01-05T07:02:10Z
     - 2018-01-05T07:03:55Z
     - 2018-01-05T07:08:01Z
+    - 2018-01-05T07:09:00Z
     - 2018-01-05T07:32:21Z
   - - 2018-01-05T06:12:02Z
+    - 2018-01-05T06:22:48Z
     - 2018-01-05T06:24:10Z
     - 2018-01-05T06:25:04Z
+    - 2018-01-05T06:25:12Z
+    - 2018-01-05T06:27:33Z
     - 2018-01-05T06:29:39Z
     - 2018-01-05T06:29:59Z
     - 2018-01-05T06:40:06Z
     - 2018-01-05T06:59:57Z
+    - 2018-01-05T07:10:51Z
+    - 2018-01-05T07:12:22Z
     - 2018-01-05T07:12:37Z
     - 2018-01-05T07:18:32Z
+    - 2018-01-05T07:21:33Z
+    - 2018-01-05T07:22:43Z
+    - 2018-01-05T07:24:52Z
     - 2018-01-05T07:37:12Z
+    - 2018-01-05T07:37:12Z
+    - 2018-01-05T07:49:18Z
+    - 2018-01-05T07:53:11Z
     - 2018-01-05T07:56:13Z
     - 2018-01-05T08:57:09Z
   zonesRankPilot:
-  - - - '80'
+  - - - '100'
+      - Malcolm Brown
+    - - '4'
+      - Frank Chetcuti
+    - - '80'
       - Michael Cassells
+    - - '103'
+      - Wayne Thompson
     - - '98'
       - Oyvind Ellefsen
+    - - '52'
+      - Dale Regehr
     - - '74'
       - Vic Hare
     - - '51'
       - Craig Taylor
+    - - '41'
+      - Tony Armstrong
+    - - '106'
+      - Jon Durand Snr
     - - '23'
       - Nils Vesk
+    - - '7'
+      - Olav Opsanger
+    - - '31'
+      - Trent Brown
     - - '92'
       - Attila Bertok
     - - '11'
       - Steve Blenkinsop
+    - - '62'
+      - Josh Woods
+    - - '25'
+      - Tyler Borrdaile
     - - '37'
       - Gavin Myers
     - - '27'
       - Guy Hubbard
+    - - '15'
+      - Ryosuke Hattori
+    - - '43'
+      - Jonny Durand
     - - '30'
       - Jason Kath
+    - - '101'
+      - Oliver Chitty
     - - '76'
       - Rory Duncan
+    - - '34'
+      - Brad Porter
     - - '22'
       - Rohan Taylor
+    - - '36'
+      - Steve Docherty
     - - '42'
       - Rob de Groot
     - - '81'
@@ -1283,30 +2689,62 @@ timing:
       - Sasha Serebrennikova
     - - '83'
       - Randal Clotworthy
+    - - '75'
+      - Yasuhiro Noma
     - - '8'
       - Gordon Rigg
+    - - '68'
+      - Neale Halsall
+    - - '6'
+      - Yoko Sano
+    - - '64'
+      - Longfei Yang
+    - - '28'
+      - Mikhail Karmazin
     - - '14'
       - Peter Burkitt
-  - - - '11'
+  - - - '43'
+      - Jonny Durand
+    - - '11'
       - Steve Blenkinsop
+    - - '36'
+      - Steve Docherty
+    - - '34'
+      - Brad Porter
     - - '92'
       - Attila Bertok
     - - '81'
       - Nick Purcell
     - - '22'
       - Rohan Taylor
+    - - '4'
+      - Frank Chetcuti
+    - - '25'
+      - Tyler Borrdaile
     - - '76'
       - Rory Duncan
+    - - '52'
+      - Dale Regehr
     - - '72'
       - Sasha Serebrennikova
     - - '83'
       - Randal Clotworthy
     - - '30'
       - Jason Kath
+    - - '31'
+      - Trent Brown
+    - - '62'
+      - Josh Woods
+    - - '41'
+      - Tony Armstrong
+    - - '6'
+      - Yoko Sano
     - - '80'
       - Michael Cassells
     - - '27'
       - Guy Hubbard
+    - - '103'
+      - Wayne Thompson
     - - '8'
       - Gordon Rigg
     - - '98'
@@ -1315,14 +2753,32 @@ timing:
       - Craig Taylor
     - - '37'
       - Gavin Myers
+    - - '100'
+      - Malcolm Brown
+    - - '106'
+      - Jon Durand Snr
+    - - '68'
+      - Neale Halsall
+    - - '7'
+      - Olav Opsanger
+    - - '15'
+      - Ryosuke Hattori
     - - '74'
       - Vic Hare
+    - - '64'
+      - Longfei Yang
+    - - '101'
+      - Oliver Chitty
     - - '23'
       - Nils Vesk
+    - - '75'
+      - Yasuhiro Noma
     - - '42'
       - Rob de Groot
     - - '14'
       - Peter Burkitt
+    - - '28'
+      - Mikhail Karmazin
   - - - '92'
       - Attila Bertok
     - - '81'
@@ -1335,52 +2791,110 @@ timing:
       - Rohan Taylor
     - - '27'
       - Guy Hubbard
+    - - '62'
+      - Josh Woods
     - - '76'
       - Rory Duncan
+    - - '31'
+      - Trent Brown
+    - - '6'
+      - Yoko Sano
+    - - '43'
+      - Jonny Durand
     - - '42'
       - Rob de Groot
     - - '8'
       - Gordon Rigg
     - - '37'
       - Gavin Myers
+    - - '41'
+      - Tony Armstrong
+    - - '100'
+      - Malcolm Brown
+    - - '7'
+      - Olav Opsanger
+    - - '68'
+      - Neale Halsall
+    - - '4'
+      - Frank Chetcuti
+    - - '101'
+      - Oliver Chitty
+    - - '75'
+      - Yasuhiro Noma
     - - '74'
       - Vic Hare
     - - '72'
       - Sasha Serebrennikova
     - - '80'
       - Michael Cassells
+    - - '103'
+      - Wayne Thompson
+    - - '15'
+      - Ryosuke Hattori
     - - '51'
       - Craig Taylor
+    - - '52'
+      - Dale Regehr
+    - - '28'
+      - Mikhail Karmazin
   - - - '22'
       - Rohan Taylor
     - - '30'
       - Jason Kath
     - - '92'
       - Attila Bertok
+    - - '62'
+      - Josh Woods
     - - '27'
       - Guy Hubbard
+    - - '43'
+      - Jonny Durand
+    - - '31'
+      - Trent Brown
     - - '11'
       - Steve Blenkinsop
     - - '81'
       - Nick Purcell
     - - '8'
       - Gordon Rigg
+    - - '7'
+      - Olav Opsanger
+    - - '6'
+      - Yoko Sano
     - - '42'
       - Rob de Groot
     - - '37'
       - Gavin Myers
+    - - '101'
+      - Oliver Chitty
+    - - '41'
+      - Tony Armstrong
+    - - '68'
+      - Neale Halsall
+    - - '75'
+      - Yasuhiro Noma
+    - - '100'
+      - Malcolm Brown
     - - '72'
       - Sasha Serebrennikova
     - - '74'
       - Vic Hare
+    - - '15'
+      - Ryosuke Hattori
     - - '51'
       - Craig Taylor
   - - - '92'
       - Attila Bertok
+    - - '62'
+      - Josh Woods
     - - '22'
       - Rohan Taylor
     - - '30'
       - Jason Kath
+    - - '43'
+      - Jonny Durand
+    - - '31'
+      - Trent Brown
     - - '81'
       - Nick Purcell
     - - '11'
@@ -1389,12 +2903,28 @@ timing:
       - Guy Hubbard
     - - '8'
       - Gordon Rigg
+    - - '7'
+      - Olav Opsanger
+    - - '101'
+      - Oliver Chitty
     - - '42'
       - Rob de Groot
     - - '37'
       - Gavin Myers
+    - - '75'
+      - Yasuhiro Noma
+    - - '6'
+      - Yoko Sano
+    - - '41'
+      - Tony Armstrong
+    - - '68'
+      - Neale Halsall
     - - '74'
       - Vic Hare
+    - - '15'
+      - Ryosuke Hattori
+    - - '100'
+      - Malcolm Brown
     - - '72'
       - Sasha Serebrennikova
     - - '51'
@@ -1414,7 +2944,16 @@ tagging:
       - null
   - - - '32'
       - Andrew Barnes
-    - null
+    - zonesTag:
+      - fix: 35
+        time: 2017-12-30T03:20:27Z
+        lat: -33.35843333
+        lng: 147.93023333
+      - fix: 705
+        time: 2017-12-30T04:16:25Z
+        lat: -33.26703333
+        lng: 147.94561667
+      - null
   - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -1432,13 +2971,40 @@ tagging:
         lng: 147.96621667
   - - - '34'
       - Brad Porter
-    - null
+    - zonesTag:
+      - fix: 36
+        time: 2017-12-30T04:57:50Z
+        lat: -33.35816667
+        lng: 147.93005
+      - fix: 1378
+        time: 2017-12-30T05:20:45Z
+        lat: -33.26706667
+        lng: 147.94665
+      - null
   - - - '77'
       - Brodrick Osborne
-    - null
+    - zonesTag:
+      - fix: 39
+        time: 2017-12-30T04:42:50Z
+        lat: -33.35825
+        lng: 147.93013333
+      - null
+      - null
   - - - '51'
       - Craig Taylor
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-30T03:04:23Z
+        lat: -33.35828333
+        lng: 147.93043333
+      - fix: 347
+        time: 2017-12-30T04:00:30Z
+        lat: -33.27121667
+        lng: 147.90035
+      - fix: 1379
+        time: 2017-12-30T06:52:41Z
+        lat: -32.0695
+        lng: 148
   - - - '52'
       - Dale Regehr
     - null
@@ -1456,7 +3022,16 @@ tagging:
       - null
   - - - '4'
       - Frank Chetcuti
-    - null
+    - zonesTag:
+      - fix: 18
+        time: 2017-12-30T03:29:52Z
+        lat: -33.35858333
+        lng: 147.9309
+      - fix: 466
+        time: 2017-12-30T04:07:51Z
+        lat: -33.26735
+        lng: 147.92136667
+      - null
   - - - '37'
       - Gavin Myers
     - null
@@ -1465,10 +3040,34 @@ tagging:
     - null
   - - - '8'
       - Gordon Rigg
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2017-12-30T03:07:40Z
+        lat: -33.35841667
+        lng: 147.93048333
+      - fix: 637
+        time: 2017-12-30T04:00:12Z
+        lat: -33.2719
+        lng: 147.89973333
+      - fix: 2700
+        time: 2017-12-30T06:52:40Z
+        lat: -32.06956667
+        lng: 148.0049
   - - - '27'
       - Guy Hubbard
-    - null
+    - zonesTag:
+      - fix: 14
+        time: 2017-12-30T03:17:06Z
+        lat: -33.35878333
+        lng: 147.93118333
+      - fix: 876
+        time: 2017-12-30T04:00:32Z
+        lat: -33.26958333
+        lng: 147.90673333
+      - fix: 3767
+        time: 2017-12-30T06:25:25Z
+        lat: -32.06911667
+        lng: 148.01586667
   - - - '30'
       - Jason Kath
     - zonesTag:
@@ -1486,25 +3085,88 @@ tagging:
         lng: 147.9881
   - - - '106'
       - Jon Durand Snr
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2017-12-30T03:13:18Z
+        lat: -33.35891667
+        lng: 147.93233333
+      - fix: 294
+        time: 2017-12-30T04:00:12Z
+        lat: -33.27281667
+        lng: 147.89933333
+      - fix: 1304
+        time: 2017-12-30T06:48:36Z
+        lat: -32.06886667
+        lng: 147.98965
   - - - '43'
       - Jonny Durand
-    - null
+    - zonesTag:
+      - fix: 13
+        time: 2017-12-30T03:19:23Z
+        lat: -33.35863333
+        lng: 147.93086667
+      - fix: 830
+        time: 2017-12-30T04:00:14Z
+        lat: -33.2705
+        lng: 147.90135
+      - null
   - - - '62'
       - Josh Woods
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2017-12-30T03:22:24Z
+        lat: -33.35833333
+        lng: 147.9307
+      - fix: 647
+        time: 2017-12-30T04:15:12Z
+        lat: -33.26745
+        lng: 147.92526667
+      - fix: 2527
+        time: 2017-12-30T06:51:59Z
+        lat: -32.06851667
+        lng: 148.00101667
   - - - '94'
       - Justinas Pleikys
-    - null
+    - zonesTag:
+      - fix: 21
+        time: 2017-12-30T04:06:01Z
+        lat: -33.35783333
+        lng: 147.92993333
+      - fix: 818
+        time: 2017-12-30T04:32:37Z
+        lat: -33.28216667
+        lng: 147.99421667
+      - null
   - - - '64'
       - Longfei Yang
-    - null
+    - zonesTag:
+      - null
+      - null
+      - null
   - - - '100'
       - Malcolm Brown
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-30T03:37:25Z
+        lat: -33.35638333
+        lng: 147.93361667
+      - fix: 160
+        time: 2017-12-30T04:02:42Z
+        lat: -33.27595
+        lng: 147.9812
+      - null
   - - - '67'
       - Mark Alton
-    - null
+    - zonesTag:
+      - fix: 13
+        time: 2017-12-30T03:51:27Z
+        lat: -33.35838333
+        lng: 147.93026667
+      - fix: 314
+        time: 2017-12-30T04:16:37Z
+        lat: -33.27106667
+        lng: 147.96556667
+      - null
   - - - '80'
       - Michael Cassells
     - zonesTag:
@@ -1531,22 +3193,91 @@ tagging:
       - null
   - - - '68'
       - Neale Halsall
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-30T03:32:55Z
+        lat: -33.35641667
+        lng: 147.93248333
+      - fix: 514
+        time: 2017-12-30T04:15:31Z
+        lat: -33.26663333
+        lng: 147.92681667
+      - null
   - - - '81'
       - Nick Purcell
-    - null
+    - zonesTag:
+      - fix: 24
+        time: 2017-12-30T03:01:02Z
+        lat: -33.35858333
+        lng: 147.93083333
+      - fix: 1596
+        time: 2017-12-30T04:00:33Z
+        lat: -33.27001667
+        lng: 147.90466667
+      - fix: 6747
+        time: 2017-12-30T06:53:25Z
+        lat: -32.06866667
+        lng: 147.9948
   - - - '69'
       - Niki Longshore
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-30T03:34:36Z
+        lat: -33.35766667
+        lng: 147.93011667
+      - fix: 254
+        time: 2017-12-30T04:15:13Z
+        lat: -33.2676
+        lng: 147.9287
+      - fix: 1196
+        time: 2017-12-30T06:52:30Z
+        lat: -32.06785
+        lng: 148.00301667
   - - - '23'
       - Nils Vesk
-    - null
+    - zonesTag:
+      - fix: 31
+        time: 2017-12-30T03:08:52Z
+        lat: -33.35836667
+        lng: 147.93145
+      - fix: 340
+        time: 2017-12-30T04:00:12Z
+        lat: -33.27086667
+        lng: 147.9
+      - fix: 1324
+        time: 2017-12-30T06:44:11Z
+        lat: -32.06676667
+        lng: 147.97681667
   - - - '7'
       - Olav Opsanger
-    - null
+    - zonesTag:
+      - fix: 14
+        time: 2017-12-30T03:18:57Z
+        lat: -33.35921667
+        lng: 147.93136667
+      - fix: 1337
+        time: 2017-12-30T04:03:06Z
+        lat: -33.27428333
+        lng: 147.9776
+      - fix: 6745
+        time: 2017-12-30T07:03:25Z
+        lat: -32.06808333
+        lng: 148.02266667
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 16
+        time: 2017-12-30T03:11:10Z
+        lat: -33.3586
+        lng: 147.93071667
+      - fix: 1484
+        time: 2017-12-30T04:00:08Z
+        lat: -33.27076667
+        lng: 147.90093333
+      - fix: 5498
+        time: 2017-12-30T06:14:05Z
+        lat: -32.06428333
+        lng: 147.96721667
   - - - '98'
       - Oyvind Ellefsen
     - zonesTag:
@@ -1591,7 +3322,16 @@ tagging:
     - null
   - - - '71'
       - Rob Larkin
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2017-12-30T03:52:48Z
+        lat: -33.3579
+        lng: 147.93095
+      - fix: 178
+        time: 2017-12-30T04:20:33Z
+        lat: -33.31841667
+        lng: 148.03091667
+      - null
   - - - '42'
       - Rob de Groot
     - null
@@ -1615,7 +3355,19 @@ tagging:
         lng: 148.09383333
   - - - '76'
       - Rory Duncan
-    - null
+    - zonesTag:
+      - fix: 63
+        time: 2017-12-30T03:11:52Z
+        lat: -33.3581
+        lng: 147.93025
+      - fix: 649
+        time: 2017-12-30T04:00:42Z
+        lat: -33.27021667
+        lng: 147.90306667
+      - fix: 2563
+        time: 2017-12-30T06:40:12Z
+        lat: -32.06951667
+        lng: 147.99838333
   - - - '86'
       - Ross Smith
     - zonesTag:
@@ -1630,7 +3382,16 @@ tagging:
       - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 14
+        time: 2017-12-30T03:26:02Z
+        lat: -33.35875
+        lng: 147.9307
+      - fix: 1096
+        time: 2017-12-30T04:20:15Z
+        lat: -33.31133333
+        lng: 148.02673333
+      - null
   - - - '72'
       - Sasha Serebrennikova
     - zonesTag:
@@ -1645,7 +3406,16 @@ tagging:
       - null
   - - - '88'
       - Simon West
-    - null
+    - zonesTag:
+      - fix: 13
+        time: 2017-12-30T04:15:23Z
+        lat: -33.3583
+        lng: 147.93028333
+      - fix: 348
+        time: 2017-12-30T04:43:26Z
+        lat: -33.28776667
+        lng: 148.00333333
+      - null
   - - - '11'
       - Steve Blenkinsop
     - zonesTag:
@@ -1678,10 +3448,34 @@ tagging:
       - null
   - - - '31'
       - Trent Brown
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2017-12-30T03:03:55Z
+        lat: -33.35831667
+        lng: 147.93086667
+      - fix: 689
+        time: 2017-12-30T04:00:32Z
+        lat: -33.26928333
+        lng: 147.90713333
+      - fix: 2595
+        time: 2017-12-30T06:39:45Z
+        lat: -32.06938333
+        lng: 148.01243333
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-30T03:02:28Z
+        lat: -33.35808333
+        lng: 147.93061667
+      - fix: 356
+        time: 2017-12-30T04:00:22Z
+        lat: -33.27086667
+        lng: 147.90375
+      - fix: 1334
+        time: 2017-12-30T06:43:36Z
+        lat: -32.06965
+        lng: 148.00351667
   - - - '74'
       - Vic Hare
     - null
@@ -1699,7 +3493,21 @@ tagging:
     - null
   - - - '32'
       - Andrew Barnes
-    - null
+    - zonesTag:
+      - fix: 32
+        time: 2017-12-31T02:41:36Z
+        lat: -33.35306667
+        lng: 147.9328
+      - fix: 472
+        time: 2017-12-31T03:18:21Z
+        lat: -33.43691667
+        lng: 147.98023333
+      - fix: 1560
+        time: 2017-12-31T04:49:09Z
+        lat: -33.84216667
+        lng: 147.95841667
+      - null
+      - null
   - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -1722,10 +3530,41 @@ tagging:
         lng: 148.66465
   - - - '34'
       - Brad Porter
-    - null
+    - zonesTag:
+      - fix: 17
+        time: 2017-12-31T02:36:35Z
+        lat: -33.35868333
+        lng: 147.9306
+      - fix: 2492
+        time: 2017-12-31T03:18:50Z
+        lat: -33.43883333
+        lng: 147.9758
+      - fix: 4179
+        time: 2017-12-31T04:44:56Z
+        lat: -33.83643333
+        lng: 147.9473
+      - null
+      - null
   - - - '77'
       - Brodrick Osborne
-    - null
+    - zonesTag:
+      - fix: 36
+        time: 2017-12-31T02:38:35Z
+        lat: -33.35655
+        lng: 147.9294
+      - fix: 1250
+        time: 2017-12-31T03:19:11Z
+        lat: -33.43935
+        lng: 147.97406667
+      - fix: 3854
+        time: 2017-12-31T04:46:14Z
+        lat: -33.83633333
+        lng: 147.9474
+      - fix: 9236
+        time: 2017-12-31T07:46:08Z
+        lat: -34.47
+        lng: 148.6492
+      - null
   - - - '51'
       - Craig Taylor
     - zonesTag:
@@ -1742,16 +3581,61 @@ tagging:
       - null
   - - - '52'
       - Dale Regehr
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-31T02:04:29Z
+        lat: -33.35685
+        lng: 147.92973333
+      - fix: 297
+        time: 2017-12-31T02:52:25Z
+        lat: -33.44168333
+        lng: 147.9663
+      - fix: 906
+        time: 2017-12-31T04:34:09Z
+        lat: -33.85943333
+        lng: 147.96236667
+      - null
+      - null
   - - - '55'
       - Don Cramer
-    - null
+    - zonesTag:
+      - fix: 467
+        time: 2017-12-31T02:30:59Z
+        lat: -33.35715
+        lng: 147.92945
+      - fix: 1184
+        time: 2017-12-31T03:30:45Z
+        lat: -33.4308
+        lng: 147.99323333
+      - fix: 2439
+        time: 2017-12-31T05:15:37Z
+        lat: -33.83701667
+        lng: 147.9487
+      - null
+      - null
   - - - '4'
       - Frank Chetcuti
     - null
   - - - '37'
       - Gavin Myers
-    - null
+    - zonesTag:
+      - fix: 32
+        time: 2017-12-31T02:32:10Z
+        lat: -33.35788333
+        lng: 147.93048333
+      - fix: 728
+        time: 2017-12-31T03:30:37Z
+        lat: -33.43006667
+        lng: 147.99431667
+      - fix: 1654
+        time: 2017-12-31T04:48:10Z
+        lat: -33.85473333
+        lng: 147.9635
+      - fix: 3476
+        time: 2017-12-31T07:21:13Z
+        lat: -34.49096667
+        lng: 148.6599
+      - null
   - - - '99'
       - Gennadiy Khramov
     - null
@@ -1777,7 +3661,27 @@ tagging:
         lng: 148.6683
   - - - '27'
       - Guy Hubbard
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-31T01:51:17Z
+        lat: -33.3529
+        lng: 147.93313333
+      - fix: 835
+        time: 2017-12-31T02:32:45Z
+        lat: -33.44596667
+        lng: 147.92966667
+      - fix: 2267
+        time: 2017-12-31T03:44:28Z
+        lat: -33.84361667
+        lng: 147.95978333
+      - fix: 4735
+        time: 2017-12-31T05:48:13Z
+        lat: -34.44188333
+        lng: 148.65565
+      - fix: 5837
+        time: 2017-12-31T06:43:27Z
+        lat: -34.81085
+        lng: 148.66323333
   - - - '30'
       - Jason Kath
     - zonesTag:
@@ -1797,25 +3701,112 @@ tagging:
       - null
   - - - '106'
       - Jon Durand Snr
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T01:41:39Z
+        lat: -33.35595
+        lng: 147.93398333
+      - fix: 305
+        time: 2017-12-31T02:31:22Z
+        lat: -33.44543333
+        lng: 147.9253
+      - fix: 843
+        time: 2017-12-31T04:01:07Z
+        lat: -33.85261667
+        lng: 147.96355
+      - null
+      - null
   - - - '43'
       - Jonny Durand
-    - null
+    - zonesTag:
+      - fix: 15
+        time: 2017-12-31T02:16:39Z
+        lat: -33.3541
+        lng: 147.93011667
+      - fix: 618
+        time: 2017-12-31T02:46:44Z
+        lat: -33.44421667
+        lng: 147.91343333
+      - fix: 1774
+        time: 2017-12-31T03:44:43Z
+        lat: -33.84436667
+        lng: 147.96035
+      - fix: 4372
+        time: 2017-12-31T05:54:53Z
+        lat: -34.48641667
+        lng: 148.65616667
+      - fix: 5177
+        time: 2017-12-31T06:35:07Z
+        lat: -34.8106
+        lng: 148.66425
   - - - '62'
       - Josh Woods
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T01:52:36Z
+        lat: -33.3549
+        lng: 147.93385
+      - fix: 656
+        time: 2017-12-31T02:46:53Z
+        lat: -33.4442
+        lng: 147.91415
+      - fix: 1353
+        time: 2017-12-31T03:45:02Z
+        lat: -33.84353333
+        lng: 147.9597
+      - fix: 2850
+        time: 2017-12-31T05:49:51Z
+        lat: -34.47683333
+        lng: 148.65105
+      - fix: 3394
+        time: 2017-12-31T06:35:04Z
+        lat: -34.81068333
+        lng: 148.66378333
   - - - '94'
       - Justinas Pleikys
     - null
   - - - '64'
       - Longfei Yang
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2017-12-31T02:39:16Z
+        lat: -33.35836667
+        lng: 147.93045
+      - null
+      - null
+      - null
+      - null
   - - - '100'
       - Malcolm Brown
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2017-12-31T01:33:30Z
+        lat: -33.35415
+        lng: 147.93223333
+      - fix: 449
+        time: 2017-12-31T02:46:33Z
+        lat: -33.44495
+        lng: 147.94648333
+      - fix: 829
+        time: 2017-12-31T03:49:50Z
+        lat: -33.84396667
+        lng: 147.96001667
+      - null
+      - null
   - - - '67'
       - Mark Alton
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T03:17:58Z
+        lat: -33.35596667
+        lng: 147.9328
+      - fix: 504
+        time: 2017-12-31T03:59:51Z
+        lat: -33.43745
+        lng: 147.97885
+      - null
+      - null
+      - null
   - - - '80'
       - Michael Cassells
     - zonesTag:
@@ -1841,22 +3832,133 @@ tagging:
     - null
   - - - '81'
       - Nick Purcell
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2017-12-31T01:34:06Z
+        lat: -33.3533
+        lng: 147.9311
+      - fix: 2041
+        time: 2017-12-31T02:46:19Z
+        lat: -33.4452
+        lng: 147.94703333
+      - fix: 3896
+        time: 2017-12-31T03:46:01Z
+        lat: -33.8404
+        lng: 147.9564
+      - null
+      - null
   - - - '69'
       - Niki Longshore
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-31T01:48:29Z
+        lat: -33.35348333
+        lng: 147.93406667
+      - fix: 357
+        time: 2017-12-31T02:46:24Z
+        lat: -33.44511667
+        lng: 147.946
+      - fix: 790
+        time: 2017-12-31T03:58:34Z
+        lat: -33.85851667
+        lng: 147.96266667
+      - fix: 1580
+        time: 2017-12-31T06:10:02Z
+        lat: -34.44198333
+        lng: 148.65546667
+      - fix: 1898
+        time: 2017-12-31T07:03:04Z
+        lat: -34.81023333
+        lng: 148.67091667
   - - - '23'
       - Nils Vesk
-    - null
+    - zonesTag:
+      - fix: 29
+        time: 2017-12-31T01:43:01Z
+        lat: -33.35353333
+        lng: 147.93178333
+      - fix: 350
+        time: 2017-12-31T02:36:23Z
+        lat: -33.42668333
+        lng: 147.86708333
+      - fix: 785
+        time: 2017-12-31T03:49:01Z
+        lat: -33.86398333
+        lng: 147.95966667
+      - fix: 1710
+        time: 2017-12-31T06:23:29Z
+        lat: -34.48623333
+        lng: 148.65605
+      - fix: 2024
+        time: 2017-12-31T07:15:45Z
+        lat: -34.81008333
+        lng: 148.67
   - - - '7'
       - Olav Opsanger
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T01:34:06Z
+        lat: -33.35591667
+        lng: 147.93388333
+      - fix: 2164
+        time: 2017-12-31T02:46:32Z
+        lat: -33.44525
+        lng: 147.94583333
+      - fix: 4148
+        time: 2017-12-31T03:52:45Z
+        lat: -33.85836667
+        lng: 147.96278333
+      - fix: 7658
+        time: 2017-12-31T05:49:47Z
+        lat: -34.4751
+        lng: 148.65048333
+      - fix: 9315
+        time: 2017-12-31T06:45:03Z
+        lat: -34.81256667
+        lng: 148.6603
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T01:56:01Z
+        lat: -33.35608333
+        lng: 147.9341
+      - fix: 1493
+        time: 2017-12-31T02:46:03Z
+        lat: -33.44546667
+        lng: 147.94548333
+      - fix: 3449
+        time: 2017-12-31T03:51:22Z
+        lat: -33.85851667
+        lng: 147.96278333
+      - fix: 6990
+        time: 2017-12-31T05:49:28Z
+        lat: -34.4724
+        lng: 148.64973333
+      - fix: 8592
+        time: 2017-12-31T06:42:52Z
+        lat: -34.81156667
+        lng: 148.66193333
   - - - '98'
       - Oyvind Ellefsen
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T02:11:36Z
+        lat: -33.35658333
+        lng: 147.9336
+      - fix: 427
+        time: 2017-12-31T02:46:47Z
+        lat: -33.44536667
+        lng: 147.94633333
+      - fix: 1278
+        time: 2017-12-31T03:57:46Z
+        lat: -33.84473333
+        lng: 147.96053333
+      - fix: 3056
+        time: 2017-12-31T06:26:07Z
+        lat: -34.45056667
+        lng: 148.65106667
+      - null
   - - - '108'
       - Peter Adriaans
     - null
@@ -1879,7 +3981,21 @@ tagging:
     - null
   - - - '71'
       - Rob Larkin
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2017-12-31T02:18:14Z
+        lat: -33.35613333
+        lng: 147.93045
+      - fix: 312
+        time: 2017-12-31T03:08:26Z
+        lat: -33.42396667
+        lng: 148.00428333
+      - fix: 975
+        time: 2017-12-31T04:58:59Z
+        lat: -33.83708333
+        lng: 147.93836667
+      - null
+      - null
   - - - '42'
       - Rob de Groot
     - zonesTag:
@@ -1919,13 +4035,50 @@ tagging:
       - null
   - - - '76'
       - Rory Duncan
-    - null
+    - zonesTag:
+      - fix: 119
+        time: 2017-12-31T02:04:48Z
+        lat: -33.35551667
+        lng: 147.9374
+      - fix: 620
+        time: 2017-12-31T02:46:33Z
+        lat: -33.44543333
+        lng: 147.94555
+      - fix: 1119
+        time: 2017-12-31T03:45:16Z
+        lat: -33.84143333
+        lng: 147.95773333
+      - fix: 2607
+        time: 2017-12-31T05:49:16Z
+        lat: -34.47226667
+        lng: 148.64973333
+      - fix: 3189
+        time: 2017-12-31T06:37:46Z
+        lat: -34.81048333
+        lng: 148.66453333
   - - - '86'
       - Ross Smith
     - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2017-12-31T02:02:26Z
+        lat: -33.35586667
+        lng: 147.93306667
+      - fix: 880
+        time: 2017-12-31T02:46:35Z
+        lat: -33.44521667
+        lng: 147.94843333
+      - fix: 2143
+        time: 2017-12-31T03:49:58Z
+        lat: -33.84671667
+        lng: 147.9618
+      - fix: 5840
+        time: 2017-12-31T06:55:33Z
+        lat: -34.48166667
+        lng: 148.65338333
+      - null
   - - - '72'
       - Sasha Serebrennikova
     - zonesTag:
@@ -1968,7 +4121,21 @@ tagging:
         lng: 148.66898333
   - - - '36'
       - Steve Docherty
-    - null
+    - zonesTag:
+      - fix: 27
+        time: 2017-12-31T02:49:57Z
+        lat: -33.35628333
+        lng: 147.92941667
+      - fix: 255
+        time: 2017-12-31T03:27:59Z
+        lat: -33.42481667
+        lng: 148.00303333
+      - fix: 1094
+        time: 2017-12-31T05:47:51Z
+        lat: -33.8593
+        lng: 147.96253333
+      - null
+      - null
   - - - '41'
       - Tony Armstrong
     - zonesTag:
@@ -1994,22 +4161,110 @@ tagging:
         lng: 148.66903333
   - - - '31'
       - Trent Brown
-    - null
+    - zonesTag:
+      - fix: 31
+        time: 2017-12-31T01:49:00Z
+        lat: -33.35313333
+        lng: 147.93293333
+      - fix: 703
+        time: 2017-12-31T02:45:13Z
+        lat: -33.44336667
+        lng: 147.90985
+      - fix: 1423
+        time: 2017-12-31T03:45:38Z
+        lat: -33.841
+        lng: 147.95723333
+      - null
+      - null
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2017-12-31T01:42:14Z
+        lat: -33.35618333
+        lng: 147.93353333
+      - fix: 392
+        time: 2017-12-31T02:46:15Z
+        lat: -33.44455
+        lng: 147.94691667
+      - fix: 783
+        time: 2017-12-31T03:51:24Z
+        lat: -33.86138333
+        lng: 147.96143333
+      - fix: 1492
+        time: 2017-12-31T05:49:38Z
+        lat: -34.47486667
+        lng: 148.6504
+      - fix: 1817
+        time: 2017-12-31T06:43:41Z
+        lat: -34.81166667
+        lng: 148.6615
   - - - '74'
       - Vic Hare
     - null
   - - - '103'
       - Wayne Thompson
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2017-12-31T02:42:52Z
+        lat: -33.35493333
+        lng: 147.93095
+      - fix: 301
+        time: 2017-12-31T03:31:22Z
+        lat: -33.42921667
+        lng: 147.99613333
+      - fix: 827
+        time: 2017-12-31T04:59:19Z
+        lat: -33.83813333
+        lng: 147.95273333
+      - fix: 1862
+        time: 2017-12-31T07:52:18Z
+        lat: -34.42451667
+        lng: 148.67641667
+      - null
   - - - '75'
       - Yasuhiro Noma
-    - null
+    - zonesTag:
+      - fix: 68
+        time: 2017-12-31T01:57:34Z
+        lat: -33.35273333
+        lng: 147.93366667
+      - fix: 745
+        time: 2017-12-31T02:31:25Z
+        lat: -33.44551667
+        lng: 147.92626667
+      - fix: 2297
+        time: 2017-12-31T03:49:01Z
+        lat: -33.84203333
+        lng: 147.95811667
+      - fix: 4708
+        time: 2017-12-31T05:49:34Z
+        lat: -34.47388333
+        lng: 148.6503
+      - fix: 5782
+        time: 2017-12-31T06:43:16Z
+        lat: -34.81138333
+        lng: 148.66211667
   - - - '6'
       - Yoko Sano
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2017-12-31T02:05:15Z
+        lat: -33.35721667
+        lng: 147.92953333
+      - fix: 507
+        time: 2017-12-31T02:46:29Z
+        lat: -33.44513333
+        lng: 147.94731667
+      - fix: 1300
+        time: 2017-12-31T03:52:39Z
+        lat: -33.83621667
+        lng: 147.94663333
+      - fix: 2997
+        time: 2017-12-31T06:14:28Z
+        lat: -34.43966667
+        lng: 148.65706667
+      - null
 - - - - '107'
       - Anatoly Reyter
     - zonesTag:
@@ -2028,7 +4283,23 @@ tagging:
       - null
   - - - '32'
       - Andrew Barnes
-    - null
+    - zonesTag:
+      - fix: 33
+        time: 2018-01-01T02:06:06Z
+        lat: -33.35905
+        lng: 147.93145
+      - fix: 541
+        time: 2018-01-01T02:48:26Z
+        lat: -33.28995
+        lng: 148.00598333
+      - fix: 2505
+        time: 2018-01-01T05:32:46Z
+        lat: -32.46591667
+        lng: 148.9852
+      - fix: 3193
+        time: 2018-01-01T06:30:12Z
+        lat: -32.29881667
+        lng: 149.55315
   - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -2050,10 +4321,42 @@ tagging:
         lng: 149.55331667
   - - - '34'
       - Brad Porter
-    - null
+    - zonesTag:
+      - fix: 29
+        time: 2018-01-01T02:14:13Z
+        lat: -33.35921667
+        lng: 147.93135
+      - fix: 1498
+        time: 2018-01-01T02:45:34Z
+        lat: -33.302
+        lng: 148.019
+      - fix: 4155
+        time: 2018-01-01T05:01:31Z
+        lat: -32.46861667
+        lng: 148.98833333
+      - fix: 5280
+        time: 2018-01-01T05:58:55Z
+        lat: -32.29901667
+        lng: 149.5532
   - - - '77'
       - Brodrick Osborne
-    - null
+    - zonesTag:
+      - fix: 36
+        time: 2018-01-01T02:05:50Z
+        lat: -33.35758333
+        lng: 147.92963333
+      - fix: 1242
+        time: 2018-01-01T02:46:07Z
+        lat: -33.30235
+        lng: 148.01943333
+      - fix: 5978
+        time: 2018-01-01T05:27:05Z
+        lat: -32.46568333
+        lng: 148.98538333
+      - fix: 7821
+        time: 2018-01-01T06:28:42Z
+        lat: -32.30041667
+        lng: 149.55433333
   - - - '51'
       - Craig Taylor
     - zonesTag:
@@ -2091,13 +4394,55 @@ tagging:
       - null
   - - - '55'
       - Don Cramer
-    - null
+    - zonesTag:
+      - fix: 432
+        time: 2018-01-01T02:19:01Z
+        lat: -33.35881667
+        lng: 147.93173333
+      - fix: 796
+        time: 2018-01-01T02:49:21Z
+        lat: -33.288
+        lng: 148.00331667
+      - null
+      - null
   - - - '4'
       - Frank Chetcuti
-    - null
+    - zonesTag:
+      - fix: 19
+        time: 2018-01-01T02:13:10Z
+        lat: -33.35935
+        lng: 147.9317
+      - fix: 294
+        time: 2018-01-01T02:37:07Z
+        lat: -33.30213333
+        lng: 148.01815
+      - fix: 2516
+        time: 2018-01-01T05:36:42Z
+        lat: -32.46655
+        lng: 148.98781667
+      - fix: 3217
+        time: 2018-01-01T06:45:15Z
+        lat: -32.3
+        lng: 149.55465
   - - - '37'
       - Gavin Myers
-    - null
+    - zonesTag:
+      - fix: 654
+        time: 2018-01-01T02:31:21Z
+        lat: -33.35611667
+        lng: 147.92945
+      - fix: 1463
+        time: 2018-01-01T03:00:29Z
+        lat: -33.29368333
+        lng: 148.01083333
+      - fix: 5938
+        time: 2018-01-01T05:29:44Z
+        lat: -32.46613333
+        lng: 148.99308333
+      - fix: 7718
+        time: 2018-01-01T06:25:10Z
+        lat: -32.29985
+        lng: 149.55348333
   - - - '99'
       - Gennadiy Khramov
     - null
@@ -2122,7 +4467,17 @@ tagging:
         lng: 149.5538
   - - - '27'
       - Guy Hubbard
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2018-01-01T01:40:57Z
+        lat: -33.3585
+        lng: 147.93036667
+      - fix: 1332
+        time: 2018-01-01T02:47:30Z
+        lat: -33.28958333
+        lng: 148.00573333
+      - null
+      - null
   - - - '30'
       - Jason Kath
     - zonesTag:
@@ -2144,16 +4499,71 @@ tagging:
         lng: 149.55386667
   - - - '106'
       - Jon Durand Snr
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-01T01:46:04Z
+        lat: -33.35593333
+        lng: 147.93358333
+      - fix: 273
+        time: 2018-01-01T02:30:22Z
+        lat: -33.30418333
+        lng: 148.02131667
+      - fix: 1206
+        time: 2018-01-01T05:05:56Z
+        lat: -32.4687
+        lng: 148.9883
+      - fix: 1528
+        time: 2018-01-01T05:59:32Z
+        lat: -32.30078333
+        lng: 149.55426667
   - - - '43'
       - Jonny Durand
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-01T01:31:35Z
+        lat: -33.35668333
+        lng: 147.93235
+      - fix: 1470
+        time: 2018-01-01T02:45:08Z
+        lat: -33.30248333
+        lng: 148.01971667
+      - null
+      - null
   - - - '62'
       - Josh Woods
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-01T01:55:19Z
+        lat: -33.35648333
+        lng: 147.93351667
+      - fix: 633
+        time: 2018-01-01T02:47:43Z
+        lat: -33.29016667
+        lng: 148.00625
+      - fix: 2298
+        time: 2018-01-01T05:06:36Z
+        lat: -32.4683
+        lng: 148.9874
+      - fix: 2881
+        time: 2018-01-01T05:55:08Z
+        lat: -32.29951667
+        lng: 149.55348333
   - - - '64'
       - Longfei Yang
-    - null
+    - zonesTag:
+      - fix: 17
+        time: 2018-01-01T02:14:37Z
+        lat: -33.35785
+        lng: 147.92986667
+      - fix: 748
+        time: 2018-01-01T02:38:57Z
+        lat: -33.30726667
+        lng: 148.02385
+      - fix: 6194
+        time: 2018-01-01T05:40:40Z
+        lat: -32.46738333
+        lng: 148.98616667
+      - null
   - - - '100'
       - Malcolm Brown
     - zonesTag:
@@ -2175,7 +4585,20 @@ tagging:
         lng: 149.55316667
   - - - '67'
       - Mark Alton
-    - null
+    - zonesTag:
+      - fix: 13
+        time: 2018-01-01T02:10:03Z
+        lat: -33.3575
+        lng: 147.92985
+      - fix: 464
+        time: 2018-01-01T02:47:45Z
+        lat: -33.29011667
+        lng: 148.00561667
+      - fix: 2147
+        time: 2018-01-01T05:08:06Z
+        lat: -32.46855
+        lng: 148.98796667
+      - null
   - - - '80'
       - Michael Cassells
     - zonesTag:
@@ -2197,7 +4620,20 @@ tagging:
         lng: 149.55376667
   - - - '28'
       - Mikhail Karmazin
-    - null
+    - zonesTag:
+      - fix: 740
+        time: 2018-01-01T01:27:11Z
+        lat: -33.3576
+        lng: 147.92973333
+      - fix: 5604
+        time: 2018-01-01T02:48:15Z
+        lat: -33.2908
+        lng: 148.00735
+      - fix: 14114
+        time: 2018-01-01T05:10:05Z
+        lat: -32.46855
+        lng: 148.99073333
+      - null
   - - - '68'
       - Neale Halsall
     - zonesTag:
@@ -2219,7 +4655,23 @@ tagging:
         lng: 149.55313333
   - - - '81'
       - Nick Purcell
-    - null
+    - zonesTag:
+      - fix: 24
+        time: 2018-01-01T01:37:43Z
+        lat: -33.35853333
+        lng: 147.93036667
+      - fix: 1945
+        time: 2018-01-01T02:47:44Z
+        lat: -33.28966667
+        lng: 148.00588333
+      - fix: 5898
+        time: 2018-01-01T05:05:42Z
+        lat: -32.4686
+        lng: 148.98795
+      - fix: 7635
+        time: 2018-01-01T05:56:14Z
+        lat: -32.2992
+        lng: 149.55318333
   - - - '69'
       - Niki Longshore
     - zonesTag:
@@ -2254,10 +4706,36 @@ tagging:
         lng: 149.55335
   - - - '7'
       - Olav Opsanger
-    - null
+    - zonesTag:
+      - fix: 15
+        time: 2018-01-01T01:46:57Z
+        lat: -33.35873333
+        lng: 147.93056667
+      - fix: 1848
+        time: 2018-01-01T02:48:04Z
+        lat: -33.28985
+        lng: 148.00616667
+      - fix: 5974
+        time: 2018-01-01T05:05:42Z
+        lat: -32.46783333
+        lng: 148.98656667
+      - fix: 7481
+        time: 2018-01-01T05:55:53Z
+        lat: -32.30041667
+        lng: 149.55371667
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2018-01-01T01:44:13Z
+        lat: -33.35825
+        lng: 147.93031667
+      - fix: 2290
+        time: 2018-01-01T03:00:20Z
+        lat: -33.29076667
+        lng: 148.00696667
+      - null
+      - null
   - - - '14'
       - Peter Burkitt
     - zonesTag:
@@ -2292,7 +4770,20 @@ tagging:
     - null
   - - - '71'
       - Rob Larkin
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-01T02:09:31Z
+        lat: -33.35841667
+        lng: 147.9328
+      - fix: 178
+        time: 2018-01-01T02:37:24Z
+        lat: -33.30351667
+        lng: 148.0184
+      - fix: 1255
+        time: 2018-01-01T05:37:02Z
+        lat: -32.46758333
+        lng: 148.98631667
+      - null
   - - - '42'
       - Rob de Groot
     - zonesTag:
@@ -2314,7 +4805,17 @@ tagging:
         lng: 149.559133
   - - - '102'
       - Robert Davies
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-01T02:21:18Z
+        lat: -33.35838333
+        lng: 147.93111667
+      - fix: 224
+        time: 2018-01-01T02:56:51Z
+        lat: -33.29905
+        lng: 148.01655
+      - null
+      - null
   - - - '22'
       - Rohan Taylor
     - zonesTag:
@@ -2336,13 +4837,45 @@ tagging:
         lng: 149.55561667
   - - - '76'
       - Rory Duncan
-    - null
+    - zonesTag:
+      - fix: 2
+        time: 2018-01-01T01:51:58Z
+        lat: -33.35685
+        lng: 147.93256667
+      - fix: 2488
+        time: 2018-01-01T03:16:07Z
+        lat: -33.26785
+        lng: 147.95213333
+      - fix: 7080
+        time: 2018-01-01T05:49:30Z
+        lat: -32.46793333
+        lng: 148.98668333
+      - fix: 8654
+        time: 2018-01-01T06:42:04Z
+        lat: -32.30061667
+        lng: 149.55386667
   - - - '86'
       - Ross Smith
     - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-01T02:03:42Z
+        lat: -33.35601667
+        lng: 147.93326667
+      - fix: 888
+        time: 2018-01-01T02:48:16Z
+        lat: -33.29325
+        lng: 148.00946667
+      - fix: 3978
+        time: 2018-01-01T05:23:05Z
+        lat: -32.46751667
+        lng: 148.98626667
+      - fix: 5239
+        time: 2018-01-01T06:26:08Z
+        lat: -32.30045
+        lng: 149.55396667
   - - - '72'
       - Sasha Serebrennikova
     - zonesTag:
@@ -2383,7 +4916,23 @@ tagging:
         lng: 149.5531
   - - - '36'
       - Steve Docherty
-    - null
+    - zonesTag:
+      - fix: 30
+        time: 2018-01-01T02:22:20Z
+        lat: -33.35858333
+        lng: 147.93091667
+      - fix: 193
+        time: 2018-01-01T02:49:14Z
+        lat: -33.28868333
+        lng: 148.00318333
+      - fix: 1128
+        time: 2018-01-01T05:25:12Z
+        lat: -32.46863333
+        lng: 148.99046667
+      - fix: 1492
+        time: 2018-01-01T06:25:37Z
+        lat: -32.2988
+        lng: 149.55321667
   - - - '41'
       - Tony Armstrong
     - zonesTag:
@@ -2405,13 +4954,58 @@ tagging:
         lng: 149.5536
   - - - '31'
       - Trent Brown
-    - null
+    - zonesTag:
+      - fix: 32
+        time: 2018-01-01T01:50:21Z
+        lat: -33.35738333
+        lng: 147.92971667
+      - fix: 1052
+        time: 2018-01-01T03:15:16Z
+        lat: -33.2739
+        lng: 147.97543333
+      - fix: 2696
+        time: 2018-01-01T05:32:34Z
+        lat: -32.4681
+        lng: 148.98681667
+      - fix: 3521
+        time: 2018-01-01T06:41:32Z
+        lat: -32.29736667
+        lng: 149.5534
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2018-01-01T01:37:49Z
+        lat: -33.35641667
+        lng: 147.9328
+      - fix: 430
+        time: 2018-01-01T02:48:13Z
+        lat: -33.29108333
+        lng: 148.00713333
+      - fix: 1255
+        time: 2018-01-01T05:05:55Z
+        lat: -32.46826667
+        lng: 148.98736667
+      - fix: 1549
+        time: 2018-01-01T05:54:41Z
+        lat: -32.29993333
+        lng: 149.5534
   - - - '74'
       - Vic Hare
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-01T01:22:12Z
+        lat: -33.35616667
+        lng: 147.93393333
+      - fix: 1712
+        time: 2018-01-01T02:47:50Z
+        lat: -33.292
+        lng: 148.00871667
+      - fix: 4574
+        time: 2018-01-01T05:11:00Z
+        lat: -32.4685
+        lng: 148.98758333
+      - null
   - - - '103'
       - Wayne Thompson
     - zonesTag:
@@ -2433,13 +5027,51 @@ tagging:
         lng: 149.55326667
   - - - '75'
       - Yasuhiro Noma
-    - null
+    - zonesTag:
+      - fix: 113
+        time: 2018-01-01T01:43:32Z
+        lat: -33.35873333
+        lng: 147.93113333
+      - fix: 1395
+        time: 2018-01-01T02:47:38Z
+        lat: -33.29005
+        lng: 148.0054
+      - fix: 4080
+        time: 2018-01-01T05:01:53Z
+        lat: -32.46578333
+        lng: 148.98528333
+      - null
   - - - '6'
       - Yoko Sano
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-01T01:47:44Z
+        lat: -33.35626667
+        lng: 147.93308333
+      - fix: 611
+        time: 2018-01-01T02:38:28Z
+        lat: -33.30335
+        lng: 148.02058333
+      - fix: 2394
+        time: 2018-01-01T05:07:20Z
+        lat: -32.46833333
+        lng: 148.9872
+      - fix: 2991
+        time: 2018-01-01T05:57:05Z
+        lat: -32.29856667
+        lng: 149.55313333
 - - - - '32'
       - Andrew Barnes
-    - null
+    - zonesTag:
+      - fix: 63
+        time: 2018-01-02T01:43:33Z
+        lat: -33.35781667
+        lng: 147.9298
+      - fix: 1604
+        time: 2018-01-02T02:15:28Z
+        lat: -33.33563333
+        lng: 148.03736667
+      - null
   - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -2625,7 +5257,16 @@ tagging:
     - null
   - - - '67'
       - Mark Alton
-    - null
+    - zonesTag:
+      - fix: 5
+        time: 2018-01-02T02:18:58Z
+        lat: -33.3572
+        lng: 147.92995
+      - fix: 259
+        time: 2018-01-02T02:40:12Z
+        lat: -33.31643333
+        lng: 148.0294
+      - null
   - - - '80'
       - Michael Cassells
     - zonesTag:
@@ -2640,7 +5281,16 @@ tagging:
       - null
   - - - '28'
       - Mikhail Karmazin
-    - null
+    - zonesTag:
+      - fix: 1642
+        time: 2018-01-02T01:55:05Z
+        lat: -33.35653333
+        lng: 147.92933333
+      - fix: 2897
+        time: 2018-01-02T02:16:00Z
+        lat: -33.29108333
+        lng: 148.00758333
+      - null
   - - - '68'
       - Neale Halsall
     - zonesTag:
@@ -2697,7 +5347,19 @@ tagging:
         lng: 150.71628333
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 15
+        time: 2018-01-02T01:10:59Z
+        lat: -33.35846667
+        lng: 147.93061667
+      - fix: 1539
+        time: 2018-01-02T02:01:48Z
+        lat: -33.29033333
+        lng: 148.00655
+      - fix: 11027
+        time: 2018-01-02T07:18:24Z
+        lat: -30.76973333
+        lng: 150.71621667
   - - - '98'
       - Oyvind Ellefsen
     - null
@@ -2727,7 +5389,16 @@ tagging:
     - null
   - - - '71'
       - Rob Larkin
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2018-01-02T02:03:41Z
+        lat: -33.35663333
+        lng: 147.9296
+      - fix: 162
+        time: 2018-01-02T02:28:45Z
+        lat: -33.3303
+        lng: 148.03626667
+      - null
   - - - '42'
       - Rob de Groot
     - zonesTag:
@@ -2772,13 +5443,46 @@ tagging:
     - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 15
+        time: 2018-01-02T01:31:02Z
+        lat: -33.3576
+        lng: 147.92966667
+      - fix: 722
+        time: 2018-01-02T02:06:27Z
+        lat: -33.29611667
+        lng: 148.01338333
+      - fix: 8546
+        time: 2018-01-02T08:37:59Z
+        lat: -30.77
+        lng: 150.71671667
   - - - '72'
       - Sasha Serebrennikova
-    - null
+    - zonesTag:
+      - fix: 23
+        time: 2018-01-02T00:54:11Z
+        lat: -33.3579
+        lng: 147.92985
+      - fix: 4258
+        time: 2018-01-02T02:06:29Z
+        lat: -33.29306667
+        lng: 148.01008333
+      - fix: 27485
+        time: 2018-01-02T08:43:04Z
+        lat: -30.77233333
+        lng: 150.72408333
   - - - '88'
       - Simon West
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2018-01-02T02:11:11Z
+        lat: -33.3579
+        lng: 147.93005
+      - fix: 414
+        time: 2018-01-02T02:44:49Z
+        lat: -33.30991667
+        lng: 148.02536667
+      - null
   - - - '11'
       - Steve Blenkinsop
     - zonesTag:
@@ -2841,7 +5545,19 @@ tagging:
         lng: 150.7157
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2018-01-02T01:22:01Z
+        lat: -33.35766667
+        lng: 147.93113333
+      - fix: 249
+        time: 2018-01-02T02:01:41Z
+        lat: -33.29195
+        lng: 148.00691667
+      - fix: 2158
+        time: 2018-01-02T07:20:12Z
+        lat: -30.77163333
+        lng: 150.71943333
   - - - '74'
       - Vic Hare
     - zonesTag:
@@ -2868,13 +5584,41 @@ tagging:
       - null
   - - - '75'
       - Yasuhiro Noma
-    - null
+    - zonesTag:
+      - fix: 158
+        time: 2018-01-02T01:38:13Z
+        lat: -33.35665
+        lng: 147.92938333
+      - fix: 634
+        time: 2018-01-02T02:02:01Z
+        lat: -33.2951
+        lng: 148.01141667
+      - null
   - - - '6'
       - Yoko Sano
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-02T02:24:27Z
+        lat: -33.35731667
+        lng: 147.92966667
+      - null
+      - null
 - - - - '107'
       - Anatoly Reyter
-    - null
+    - zonesTag:
+      - fix: 27
+        time: 2018-01-03T04:11:40Z
+        lat: -33.35948333
+        lng: 147.93213333
+      - fix: 990
+        time: 2018-01-03T04:43:49Z
+        lat: -33.27398333
+        lng: 147.97691667
+      - fix: 3921
+        time: 2018-01-03T06:21:36Z
+        lat: -32.63663333
+        lng: 148.29275
+      - null
   - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -2944,7 +5688,20 @@ tagging:
       - null
   - - - '4'
       - Frank Chetcuti
-    - null
+    - zonesTag:
+      - fix: 18
+        time: 2018-01-03T03:11:36Z
+        lat: -33.35793333
+        lng: 147.93005
+      - fix: 832
+        time: 2018-01-03T04:15:20Z
+        lat: -33.26813333
+        lng: 147.9171
+      - fix: 2041
+        time: 2018-01-03T05:49:19Z
+        lat: -32.65406667
+        lng: 148.20625
+      - null
   - - - '37'
       - Gavin Myers
     - zonesTag:
@@ -2966,7 +5723,20 @@ tagging:
         lng: 148.98565
   - - - '99'
       - Gennadiy Khramov
-    - null
+    - zonesTag:
+      - fix: 32
+        time: 2018-01-03T03:18:46Z
+        lat: -33.35676667
+        lng: 147.92936667
+      - fix: 4370
+        time: 2018-01-03T04:32:50Z
+        lat: -33.27398333
+        lng: 147.97693333
+      - fix: 8953
+        time: 2018-01-03T05:51:05Z
+        lat: -32.64788333
+        lng: 148.27056667
+      - null
   - - - '8'
       - Gordon Rigg
     - zonesTag:
@@ -2982,16 +5752,64 @@ tagging:
       - null
   - - - '27'
       - Guy Hubbard
-    - null
+    - zonesTag:
+      - fix: 13
+        time: 2018-01-03T03:27:31Z
+        lat: -33.35766667
+        lng: 147.93
+      - fix: 962
+        time: 2018-01-03T04:15:08Z
+        lat: -33.26753333
+        lng: 147.91776667
+      - fix: 2555
+        time: 2018-01-03T05:34:58Z
+        lat: -32.65085
+        lng: 148.26221667
+      - fix: 4332
+        time: 2018-01-03T07:03:47Z
+        lat: -32.4622
+        lng: 148.98725
   - - - '30'
       - Jason Kath
     - null
   - - - '106'
       - Jon Durand Snr
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-03T03:53:37Z
+        lat: -33.35736667
+        lng: 147.92993333
+      - fix: 148
+        time: 2018-01-03T04:16:12Z
+        lat: -33.27948333
+        lng: 147.98821667
+      - fix: 679
+        time: 2018-01-03T05:44:45Z
+        lat: -32.64648333
+        lng: 148.27433333
+      - fix: 1248
+        time: 2018-01-03T07:19:11Z
+        lat: -32.46333333
+        lng: 148.98578333
   - - - '43'
       - Jonny Durand
-    - null
+    - zonesTag:
+      - fix: 17
+        time: 2018-01-03T03:29:00Z
+        lat: -33.35816667
+        lng: 147.93015
+      - fix: 937
+        time: 2018-01-03T04:15:05Z
+        lat: -33.26766667
+        lng: 147.91753333
+      - fix: 2534
+        time: 2018-01-03T05:35:07Z
+        lat: -32.6441
+        lng: 148.27958333
+      - fix: 4300
+        time: 2018-01-03T07:03:34Z
+        lat: -32.46363333
+        lng: 148.98578333
   - - - '62'
       - Josh Woods
     - zonesTag:
@@ -3010,19 +5828,55 @@ tagging:
       - null
   - - - '64'
       - Longfei Yang
-    - null
+    - zonesTag:
+      - fix: 26
+        time: 2018-01-03T04:16:46Z
+        lat: -33.35871667
+        lng: 147.93063333
+      - fix: 790
+        time: 2018-01-03T04:42:18Z
+        lat: -33.27343333
+        lng: 147.97548333
+      - fix: 3816
+        time: 2018-01-03T06:23:22Z
+        lat: -32.65245
+        lng: 148.25573333
+      - null
   - - - '100'
       - Malcolm Brown
     - null
   - - - '67'
       - Mark Alton
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2018-01-03T03:19:14Z
+        lat: -33.35731667
+        lng: 147.93013333
+      - fix: 864
+        time: 2018-01-03T04:30:38Z
+        lat: -33.27475
+        lng: 147.9771
+      - null
+      - null
   - - - '80'
       - Michael Cassells
     - null
   - - - '28'
       - Mikhail Karmazin
-    - null
+    - zonesTag:
+      - fix: 791
+        time: 2018-01-03T03:10:55Z
+        lat: -33.35786667
+        lng: 147.92991667
+      - fix: 4658
+        time: 2018-01-03T04:15:23Z
+        lat: -33.26775
+        lng: 147.91503333
+      - fix: 9639
+        time: 2018-01-03T05:38:24Z
+        lat: -32.64543333
+        lng: 148.2766
+      - null
   - - - '68'
       - Neale Halsall
     - zonesTag:
@@ -3092,7 +5946,23 @@ tagging:
       - null
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2018-01-03T03:29:21Z
+        lat: -33.3566
+        lng: 147.92945
+      - fix: 1382
+        time: 2018-01-03T04:15:12Z
+        lat: -33.2675
+        lng: 147.91713333
+      - fix: 3783
+        time: 2018-01-03T05:35:24Z
+        lat: -32.64835
+        lng: 148.26951667
+      - fix: 6399
+        time: 2018-01-03T07:02:41Z
+        lat: -32.46295
+        lng: 148.98618333
   - - - '98'
       - Oyvind Ellefsen
     - zonesTag:
@@ -3159,16 +6029,58 @@ tagging:
       - null
   - - - '76'
       - Rory Duncan
-    - null
+    - zonesTag:
+      - fix: 161
+        time: 2018-01-03T03:34:43Z
+        lat: -33.35905
+        lng: 147.93098333
+      - fix: 648
+        time: 2018-01-03T04:15:23Z
+        lat: -33.28093333
+        lng: 147.99246667
+      - fix: 1584
+        time: 2018-01-03T05:33:23Z
+        lat: -32.6491
+        lng: 148.2673
+      - fix: 2690
+        time: 2018-01-03T07:05:33Z
+        lat: -32.46288333
+        lng: 148.9867
   - - - '86'
       - Ross Smith
     - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 13
+        time: 2018-01-03T04:28:08Z
+        lat: -33.35773333
+        lng: 147.92985
+      - fix: 501
+        time: 2018-01-03T04:52:37Z
+        lat: -33.27436667
+        lng: 147.97671667
+      - fix: 2295
+        time: 2018-01-03T06:22:30Z
+        lat: -32.63321667
+        lng: 148.29758333
+      - null
   - - - '72'
       - Sasha Serebrennikova
-    - null
+    - zonesTag:
+      - fix: 28
+        time: 2018-01-03T03:13:28Z
+        lat: -33.35851667
+        lng: 147.93045
+      - fix: 3642
+        time: 2018-01-03T04:15:10Z
+        lat: -33.29075
+        lng: 148.00711667
+      - fix: 8442
+        time: 2018-01-03T05:37:07Z
+        lat: -32.65398333
+        lng: 148.24821667
+      - null
   - - - '11'
       - Steve Blenkinsop
     - zonesTag:
@@ -3219,13 +6131,52 @@ tagging:
       - null
   - - - '31'
       - Trent Brown
-    - null
+    - zonesTag:
+      - fix: 33
+        time: 2018-01-03T03:22:08Z
+        lat: -33.3575
+        lng: 147.93021667
+      - fix: 680
+        time: 2018-01-03T04:16:07Z
+        lat: -33.27748333
+        lng: 147.98306667
+      - fix: 1563
+        time: 2018-01-03T05:29:52Z
+        lat: -32.6559
+        lng: 148.22948333
+      - null
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-03T03:43:51Z
+        lat: -33.35741667
+        lng: 147.93086667
+      - fix: 380
+        time: 2018-01-03T04:45:15Z
+        lat: -33.27133333
+        lng: 147.96913333
+      - fix: 858
+        time: 2018-01-03T06:04:47Z
+        lat: -32.61253333
+        lng: 148.31776667
+      - null
   - - - '74'
       - Vic Hare
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-03T04:08:46Z
+        lat: -33.35601667
+        lng: 147.93426667
+      - fix: 735
+        time: 2018-01-03T04:45:24Z
+        lat: -33.27316667
+        lng: 147.9743
+      - fix: 2535
+        time: 2018-01-03T06:15:25Z
+        lat: -32.65063333
+        lng: 148.26221667
+      - null
   - - - '103'
       - Wayne Thompson
     - zonesTag:
@@ -3244,10 +6195,36 @@ tagging:
       - null
   - - - '75'
       - Yasuhiro Noma
-    - null
+    - zonesTag:
+      - fix: 102
+        time: 2018-01-03T03:51:55Z
+        lat: -33.3591
+        lng: 147.9312
+      - fix: 584
+        time: 2018-01-03T04:16:01Z
+        lat: -33.27981667
+        lng: 147.98981667
+      - fix: 2228
+        time: 2018-01-03T05:38:13Z
+        lat: -32.6465
+        lng: 148.27318333
+      - null
   - - - '6'
       - Yoko Sano
-    - null
+    - zonesTag:
+      - fix: 14
+        time: 2018-01-03T03:49:30Z
+        lat: -33.35715
+        lng: 147.92993333
+      - fix: 332
+        time: 2018-01-03T04:15:57Z
+        lat: -33.27965
+        lng: 147.99
+      - fix: 1336
+        time: 2018-01-03T05:39:41Z
+        lat: -32.65438333
+        lng: 148.20641667
+      - null
 - - - - '107'
       - Anatoly Reyter
     - zonesTag:
@@ -3270,7 +6247,21 @@ tagging:
       - null
   - - - '32'
       - Andrew Barnes
-    - null
+    - zonesTag:
+      - fix: 32
+        time: 2018-01-04T02:09:08Z
+        lat: -33.35723333
+        lng: 147.92951667
+      - fix: 554
+        time: 2018-01-04T02:52:38Z
+        lat: -33.36998333
+        lng: 147.9846
+      - fix: 1506
+        time: 2018-01-04T04:12:15Z
+        lat: -33.7736
+        lng: 148.13346667
+      - null
+      - null
   - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -3296,7 +6287,27 @@ tagging:
         lng: 147.93755
   - - - '34'
       - Brad Porter
-    - null
+    - zonesTag:
+      - fix: 6
+        time: 2018-01-04T02:10:52Z
+        lat: -33.35675
+        lng: 147.92996667
+      - fix: 786
+        time: 2018-01-04T02:50:49Z
+        lat: -33.36788333
+        lng: 147.98553333
+      - fix: 2137
+        time: 2018-01-04T03:59:47Z
+        lat: -33.77396667
+        lng: 148.14955
+      - fix: 3673
+        time: 2018-01-04T05:17:51Z
+        lat: -33.29578333
+        lng: 148.51008333
+      - fix: 5328
+        time: 2018-01-04T06:42:26Z
+        lat: -33.35506667
+        lng: 147.93751667
   - - - '51'
       - Craig Taylor
     - zonesTag:
@@ -3333,10 +6344,44 @@ tagging:
       - null
   - - - '55'
       - Don Cramer
-    - null
+    - zonesTag:
+      - fix: 120
+        time: 2018-01-04T01:28:08Z
+        lat: -33.35318333
+        lng: 147.93178333
+      - fix: 962
+        time: 2018-01-04T02:51:41Z
+        lat: -33.36963333
+        lng: 147.98435
+      - fix: 2039
+        time: 2018-01-04T04:43:45Z
+        lat: -33.77726667
+        lng: 148.09635
+      - null
+      - null
   - - - '37'
       - Gavin Myers
-    - null
+    - zonesTag:
+      - fix: 30
+        time: 2018-01-04T02:09:59Z
+        lat: -33.35785
+        lng: 147.93061667
+      - fix: 513
+        time: 2018-01-04T02:50:43Z
+        lat: -33.36765
+        lng: 147.98553333
+      - fix: 1386
+        time: 2018-01-04T04:04:06Z
+        lat: -33.77611667
+        lng: 148.16718333
+      - fix: 2267
+        time: 2018-01-04T05:18:03Z
+        lat: -33.29488333
+        lng: 148.5092
+      - fix: 3302
+        time: 2018-01-04T06:44:41Z
+        lat: -33.35641667
+        lng: 147.93786667
   - - - '99'
       - Gennadiy Khramov
     - null
@@ -3365,7 +6410,27 @@ tagging:
         lng: 147.93763333
   - - - '27'
       - Guy Hubbard
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2018-01-04T01:48:02Z
+        lat: -33.35853333
+        lng: 147.93035
+      - fix: 1279
+        time: 2018-01-04T02:51:54Z
+        lat: -33.40038333
+        lng: 147.94195
+      - fix: 2584
+        time: 2018-01-04T03:57:46Z
+        lat: -33.77336667
+        lng: 148.13225
+      - fix: 4178
+        time: 2018-01-04T05:17:51Z
+        lat: -33.29636667
+        lng: 148.51071667
+      - fix: 5749
+        time: 2018-01-04T06:36:59Z
+        lat: -33.35546667
+        lng: 147.93763333
   - - - '30'
       - Jason Kath
     - zonesTag:
@@ -3391,10 +6456,50 @@ tagging:
         lng: 147.93778333
   - - - '106'
       - Jon Durand Snr
-    - null
+    - zonesTag:
+      - fix: 2
+        time: 2018-01-04T01:56:11Z
+        lat: -33.35653333
+        lng: 147.92973333
+      - fix: 331
+        time: 2018-01-04T02:50:52Z
+        lat: -33.36613333
+        lng: 147.98556667
+      - fix: 771
+        time: 2018-01-04T04:04:08Z
+        lat: -33.77688333
+        lng: 148.17095
+      - fix: 1213
+        time: 2018-01-04T05:17:50Z
+        lat: -33.2949
+        lng: 148.50931667
+      - fix: 1817
+        time: 2018-01-04T06:58:34Z
+        lat: -33.35598333
+        lng: 147.93773333
   - - - '43'
       - Jonny Durand
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-04T01:52:25Z
+        lat: -33.35458333
+        lng: 147.93331667
+      - fix: 1157
+        time: 2018-01-04T02:50:23Z
+        lat: -33.36601667
+        lng: 147.986
+      - fix: 2493
+        time: 2018-01-04T03:57:19Z
+        lat: -33.77668333
+        lng: 148.17036667
+      - fix: 3971
+        time: 2018-01-04T05:11:14Z
+        lat: -33.28958333
+        lng: 148.50461667
+      - fix: 5424
+        time: 2018-01-04T06:24:00Z
+        lat: -33.35571667
+        lng: 147.93763333
   - - - '62'
       - Josh Woods
     - zonesTag:
@@ -3420,13 +6525,64 @@ tagging:
         lng: 147.9377
   - - - '64'
       - Longfei Yang
-    - null
+    - zonesTag:
+      - fix: 15
+        time: 2018-01-04T02:23:18Z
+        lat: -33.35855
+        lng: 147.93066667
+      - fix: 1488
+        time: 2018-01-04T03:12:30Z
+        lat: -33.38033333
+        lng: 147.97895
+      - fix: 4598
+        time: 2018-01-04T04:56:26Z
+        lat: -33.77498333
+        lng: 148.15976667
+      - fix: 7848
+        time: 2018-01-04T06:44:56Z
+        lat: -33.2503
+        lng: 148.47928333
+      - null
   - - - '100'
       - Malcolm Brown
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2018-01-04T01:29:51Z
+        lat: -33.35608333
+        lng: 147.93385
+      - fix: 491
+        time: 2018-01-04T02:50:23Z
+        lat: -33.3627
+        lng: 147.986
+      - fix: 950
+        time: 2018-01-04T04:06:40Z
+        lat: -33.77661667
+        lng: 148.16936667
+      - fix: 1449
+        time: 2018-01-04T05:29:53Z
+        lat: -33.29773333
+        lng: 148.51191667
+      - fix: 1962
+        time: 2018-01-04T06:55:11Z
+        lat: -33.3541
+        lng: 147.93693333
   - - - '67'
       - Mark Alton
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-04T02:07:45Z
+        lat: -33.35635
+        lng: 147.93373333
+      - fix: 518
+        time: 2018-01-04T02:50:45Z
+        lat: -33.36536667
+        lng: 147.98568333
+      - fix: 1601
+        time: 2018-01-04T04:21:15Z
+        lat: -33.77481667
+        lng: 148.15771667
+      - null
+      - null
   - - - '80'
       - Michael Cassells
     - zonesTag:
@@ -3449,13 +6605,70 @@ tagging:
       - null
   - - - '28'
       - Mikhail Karmazin
-    - null
+    - zonesTag:
+      - fix: 1149
+        time: 2018-01-04T01:34:58Z
+        lat: -33.35845
+        lng: 147.93033333
+      - fix: 5671
+        time: 2018-01-04T02:50:20Z
+        lat: -33.36458333
+        lng: 147.98646667
+      - fix: 10860
+        time: 2018-01-04T04:16:49Z
+        lat: -33.77411667
+        lng: 148.15125
+      - fix: 16025
+        time: 2018-01-04T05:42:54Z
+        lat: -33.29273333
+        lng: 148.50735
+      - null
   - - - '68'
       - Neale Halsall
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-04T02:00:24Z
+        lat: -33.35551667
+        lng: 147.93351667
+      - fix: 602
+        time: 2018-01-04T02:50:17Z
+        lat: -33.3636
+        lng: 147.9859
+      - fix: 1619
+        time: 2018-01-04T04:15:25Z
+        lat: -33.77695
+        lng: 148.1716
+      - fix: 2649
+        time: 2018-01-04T05:41:38Z
+        lat: -33.28561667
+        lng: 148.5013
+      - fix: 3689
+        time: 2018-01-04T07:08:27Z
+        lat: -33.35365
+        lng: 147.9361
   - - - '81'
       - Nick Purcell
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2018-01-04T01:57:21Z
+        lat: -33.35363333
+        lng: 147.93105
+      - fix: 1399
+        time: 2018-01-04T02:51:39Z
+        lat: -33.3804
+        lng: 147.97866667
+      - fix: 3783
+        time: 2018-01-04T04:16:17Z
+        lat: -33.77385
+        lng: 148.148
+      - fix: 6364
+        time: 2018-01-04T05:42:12Z
+        lat: -33.29046667
+        lng: 148.50546667
+      - fix: 8579
+        time: 2018-01-04T06:53:10Z
+        lat: -33.35575
+        lng: 147.9377
   - - - '23'
       - Nils Vesk
     - zonesTag:
@@ -3498,7 +6711,27 @@ tagging:
         lng: 147.93778333
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 14
+        time: 2018-01-04T01:49:40Z
+        lat: -33.3576
+        lng: 147.92971667
+      - fix: 2499
+        time: 2018-01-04T03:12:33Z
+        lat: -33.36478333
+        lng: 147.98613333
+      - fix: 4381
+        time: 2018-01-04T04:15:20Z
+        lat: -33.77373333
+        lng: 148.14683333
+      - fix: 6580
+        time: 2018-01-04T05:28:43Z
+        lat: -33.29578333
+        lng: 148.5102
+      - fix: 9234
+        time: 2018-01-04T06:57:17Z
+        lat: -33.35463333
+        lng: 147.9374
   - - - '98'
       - Oyvind Ellefsen
     - zonesTag:
@@ -3578,7 +6811,21 @@ tagging:
       - null
   - - - '71'
       - Rob Larkin
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-04T01:29:14Z
+        lat: -33.35548333
+        lng: 147.93368333
+      - fix: 496
+        time: 2018-01-04T02:51:02Z
+        lat: -33.36591667
+        lng: 147.9858
+      - fix: 1174
+        time: 2018-01-04T04:43:59Z
+        lat: -33.77731667
+        lng: 148.09513333
+      - null
+      - null
   - - - '42'
       - Rob de Groot
     - zonesTag:
@@ -3621,7 +6868,27 @@ tagging:
       - null
   - - - '76'
       - Rory Duncan
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2018-01-04T02:02:43Z
+        lat: -33.35746667
+        lng: 147.92988333
+      - fix: 1438
+        time: 2018-01-04T02:50:29Z
+        lat: -33.36545
+        lng: 147.98608333
+      - fix: 3506
+        time: 2018-01-04T03:59:42Z
+        lat: -33.7744
+        lng: 148.1543
+      - fix: 5669
+        time: 2018-01-04T05:11:55Z
+        lat: -33.29225
+        lng: 148.50681667
+      - fix: 7964
+        time: 2018-01-04T06:28:59Z
+        lat: -33.35455
+        lng: 147.93728333
   - - - '86'
       - Ross Smith
     - zonesTag:
@@ -3638,7 +6905,21 @@ tagging:
       - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-04T02:06:36Z
+        lat: -33.35693333
+        lng: 147.9297
+      - fix: 1347
+        time: 2018-01-04T03:13:23Z
+        lat: -33.37176667
+        lng: 147.984
+      - fix: 3029
+        time: 2018-01-04T04:37:34Z
+        lat: -33.77715
+        lng: 148.17233333
+      - null
+      - null
   - - - '72'
       - Sasha Serebrennikova
     - zonesTag:
@@ -3687,7 +6968,27 @@ tagging:
         lng: 147.9376
   - - - '36'
       - Steve Docherty
-    - null
+    - zonesTag:
+      - fix: 30
+        time: 2018-01-04T02:12:42Z
+        lat: -33.3577
+        lng: 147.93113333
+      - fix: 256
+        time: 2018-01-04T02:50:12Z
+        lat: -33.36346667
+        lng: 147.98536667
+      - fix: 676
+        time: 2018-01-04T03:59:59Z
+        lat: -33.77405
+        lng: 148.15101667
+      - fix: 1138
+        time: 2018-01-04T05:16:56Z
+        lat: -33.29801667
+        lng: 148.51215
+      - fix: 1630
+        time: 2018-01-04T06:38:42Z
+        lat: -33.35531667
+        lng: 147.93766667
   - - - '41'
       - Tony Armstrong
     - zonesTag:
@@ -3736,7 +7037,24 @@ tagging:
         lng: 147.9377
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-04T01:48:34Z
+        lat: -33.35745
+        lng: 147.93028333
+      - fix: 515
+        time: 2018-01-04T03:12:25Z
+        lat: -33.36915
+        lng: 147.9843
+      - fix: 898
+        time: 2018-01-04T04:16:06Z
+        lat: -33.77393333
+        lng: 148.14801667
+      - fix: 1283
+        time: 2018-01-04T05:20:10Z
+        lat: -33.29458333
+        lng: 148.50906667
+      - null
   - - - '74'
       - Vic Hare
     - zonesTag:
@@ -3753,13 +7071,61 @@ tagging:
       - null
   - - - '103'
       - Wayne Thompson
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-04T02:25:17Z
+        lat: -33.35668333
+        lng: 147.93176667
+      - fix: 194
+        time: 2018-01-04T02:56:23Z
+        lat: -33.37031667
+        lng: 147.98343333
+      - fix: 1076
+        time: 2018-01-04T05:23:54Z
+        lat: -33.77521667
+        lng: 148.10793333
+      - null
+      - null
   - - - '75'
       - Yasuhiro Noma
-    - null
+    - zonesTag:
+      - fix: 423
+        time: 2018-01-04T02:31:41Z
+        lat: -33.35796667
+        lng: 147.93058333
+      - fix: 804
+        time: 2018-01-04T02:50:44Z
+        lat: -33.36808333
+        lng: 147.9851
+      - fix: 2155
+        time: 2018-01-04T03:58:17Z
+        lat: -33.77776667
+        lng: 148.17418333
+      - fix: 3913
+        time: 2018-01-04T05:26:11Z
+        lat: -33.2608
+        lng: 148.48503333
+      - fix: 5478
+        time: 2018-01-04T06:44:26Z
+        lat: -33.3566
+        lng: 147.9371
   - - - '6'
       - Yoko Sano
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2018-01-04T02:14:41Z
+        lat: -33.35756667
+        lng: 147.93058333
+      - fix: 445
+        time: 2018-01-04T02:50:47Z
+        lat: -33.36415
+        lng: 147.98623333
+      - fix: 1374
+        time: 2018-01-04T04:08:31Z
+        lat: -33.77371667
+        lng: 148.1244
+      - null
+      - null
 - - - - '92'
       - Attila Bertok
     - zonesTag:
@@ -3785,7 +7151,18 @@ tagging:
         lng: 148.20873333
   - - - '34'
       - Brad Porter
-    - null
+    - zonesTag:
+      - fix: 21
+        time: 2018-01-05T02:02:56Z
+        lat: -33.35376667
+        lng: 147.93063333
+      - fix: 2205
+        time: 2018-01-05T02:40:13Z
+        lat: -33.35483333
+        lng: 147.98728333
+      - null
+      - null
+      - null
   - - - '51'
       - Craig Taylor
     - zonesTag:
@@ -3811,10 +7188,38 @@ tagging:
         lng: 148.21083333
   - - - '52'
       - Dale Regehr
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-05T01:34:24Z
+        lat: -33.35548333
+        lng: 147.9338
+      - fix: 405
+        time: 2018-01-05T02:40:47Z
+        lat: -33.34588333
+        lng: 147.98475
+      - fix: 1739
+        time: 2018-01-05T06:23:06Z
+        lat: -32.6596
+        lng: 148.63251667
+      - null
+      - null
   - - - '4'
       - Frank Chetcuti
-    - null
+    - zonesTag:
+      - fix: 12
+        time: 2018-01-05T01:25:03Z
+        lat: -33.35541667
+        lng: 147.93045
+      - fix: 1068
+        time: 2018-01-05T02:40:29Z
+        lat: -33.33363333
+        lng: 147.97953333
+      - fix: 3224
+        time: 2018-01-05T05:36:06Z
+        lat: -32.64753333
+        lng: 148.62195
+      - null
+      - null
   - - - '37'
       - Gavin Myers
     - zonesTag:
@@ -3912,19 +7317,101 @@ tagging:
         lng: 148.21015
   - - - '106'
       - Jon Durand Snr
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2018-01-05T01:42:06Z
+        lat: -33.35335
+        lng: 147.93453333
+      - fix: 377
+        time: 2018-01-05T02:43:12Z
+        lat: -33.31916667
+        lng: 147.96205
+      - null
+      - null
+      - null
   - - - '43'
       - Jonny Durand
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-05T01:59:48Z
+        lat: -33.35628333
+        lng: 147.9338
+      - fix: 804
+        time: 2018-01-05T02:40:05Z
+        lat: -33.31813333
+        lng: 147.96086667
+      - fix: 3673
+        time: 2018-01-05T05:03:52Z
+        lat: -32.56125
+        lng: 148.57871667
+      - fix: 4767
+        time: 2018-01-05T05:58:37Z
+        lat: -32.49216667
+        lng: 148.1611
+      - fix: 5298
+        time: 2018-01-05T06:25:12Z
+        lat: -32.72555
+        lng: 148.2108
   - - - '62'
       - Josh Woods
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-05T01:51:00Z
+        lat: -33.35545
+        lng: 147.9323
+      - fix: 603
+        time: 2018-01-05T02:40:57Z
+        lat: -33.31963333
+        lng: 147.9648
+      - fix: 2166
+        time: 2018-01-05T04:51:18Z
+        lat: -32.59913333
+        lng: 148.59336667
+      - fix: 2810
+        time: 2018-01-05T05:44:54Z
+        lat: -32.4868
+        lng: 148.1666
+      - fix: 3266
+        time: 2018-01-05T06:22:48Z
+        lat: -32.72566667
+        lng: 148.2105
   - - - '64'
       - Longfei Yang
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-05T02:19:38Z
+        lat: -33.35513333
+        lng: 147.93353333
+      - fix: 890
+        time: 2018-01-05T02:49:34Z
+        lat: -33.314
+        lng: 147.9518
+      - null
+      - null
+      - null
   - - - '100'
       - Malcolm Brown
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-05T01:23:01Z
+        lat: -33.35396667
+        lng: 147.93046667
+      - fix: 491
+        time: 2018-01-05T02:42:52Z
+        lat: -33.31155
+        lng: 147.93646667
+      - fix: 1457
+        time: 2018-01-05T05:23:43Z
+        lat: -32.71928333
+        lng: 148.68825
+      - fix: 2049
+        time: 2018-01-05T07:02:10Z
+        lat: -32.4213
+        lng: 148.22183333
+      - fix: 2355
+        time: 2018-01-05T07:53:11Z
+        lat: -32.72628333
+        lng: 148.20843333
   - - - '80'
       - Michael Cassells
     - zonesTag:
@@ -3944,10 +7431,44 @@ tagging:
       - null
   - - - '28'
       - Mikhail Karmazin
-    - null
+    - zonesTag:
+      - fix: 681
+        time: 2018-01-05T02:30:02Z
+        lat: -33.3547
+        lng: 147.92971667
+      - fix: 4895
+        time: 2018-01-05T03:41:04Z
+        lat: -33.31831667
+        lng: 147.96238333
+      - fix: 16643
+        time: 2018-01-05T06:58:23Z
+        lat: -32.5926
+        lng: 148.5904
+      - null
+      - null
   - - - '68'
       - Neale Halsall
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-05T02:16:03Z
+        lat: -33.35586667
+        lng: 147.93393333
+      - fix: 330
+        time: 2018-01-05T02:43:12Z
+        lat: -33.32053333
+        lng: 147.96486667
+      - fix: 2360
+        time: 2018-01-05T05:32:31Z
+        lat: -32.5805
+        lng: 148.58598333
+      - fix: 3337
+        time: 2018-01-05T06:53:56Z
+        lat: -32.49038333
+        lng: 148.16228333
+      - fix: 3856
+        time: 2018-01-05T07:37:12Z
+        lat: -32.72571667
+        lng: 148.20941667
   - - - '81'
       - Nick Purcell
     - zonesTag:
@@ -3987,10 +7508,50 @@ tagging:
       - null
   - - - '7'
       - Olav Opsanger
-    - null
+    - zonesTag:
+      - fix: 8
+        time: 2018-01-05T01:43:15Z
+        lat: -33.35631667
+        lng: 147.93371667
+      - fix: 1794
+        time: 2018-01-05T02:43:18Z
+        lat: -33.31936667
+        lng: 147.96331667
+      - fix: 6710
+        time: 2018-01-05T05:27:27Z
+        lat: -32.54163333
+        lng: 148.57273333
+      - fix: 8633
+        time: 2018-01-05T06:31:36Z
+        lat: -32.50983333
+        lng: 148.1421
+      - fix: 9809
+        time: 2018-01-05T07:10:51Z
+        lat: -32.72615
+        lng: 148.20861667
   - - - '101'
       - Oliver Chitty
-    - null
+    - zonesTag:
+      - fix: 17
+        time: 2018-01-05T02:01:20Z
+        lat: -33.3536
+        lng: 147.93105
+      - fix: 1781
+        time: 2018-01-05T03:00:12Z
+        lat: -33.32285
+        lng: 147.9696
+      - fix: 6705
+        time: 2018-01-05T05:44:36Z
+        lat: -32.5464
+        lng: 148.5738
+      - fix: 8644
+        time: 2018-01-05T06:49:17Z
+        lat: -32.49418333
+        lng: 148.15946667
+      - fix: 9336
+        time: 2018-01-05T07:12:22Z
+        lat: -32.72576667
+        lng: 148.20985
   - - - '98'
       - Oyvind Ellefsen
     - zonesTag:
@@ -4101,7 +7662,27 @@ tagging:
       - null
   - - - '15'
       - Ryosuke Hattori
-    - null
+    - zonesTag:
+      - fix: 11
+        time: 2018-01-05T01:58:49Z
+        lat: -33.3559
+        lng: 147.92948333
+      - fix: 941
+        time: 2018-01-05T02:45:18Z
+        lat: -33.32956667
+        lng: 147.97673333
+      - fix: 4859
+        time: 2018-01-05T06:01:18Z
+        lat: -32.44483333
+        lng: 148.5642
+      - fix: 6214
+        time: 2018-01-05T07:09:00Z
+        lat: -32.50236667
+        lng: 148.15028333
+      - fix: 7021
+        time: 2018-01-05T07:49:18Z
+        lat: -32.72563333
+        lng: 148.2109
   - - - '72'
       - Sasha Serebrennikova
     - zonesTag:
@@ -4150,16 +7731,78 @@ tagging:
         lng: 148.20975
   - - - '36'
       - Steve Docherty
-    - null
+    - zonesTag:
+      - fix: 30
+        time: 2018-01-05T02:05:42Z
+        lat: -33.35395
+        lng: 147.93153333
+      - fix: 238
+        time: 2018-01-05T02:40:12Z
+        lat: -33.3534
+        lng: 147.98553333
+      - null
+      - null
+      - null
   - - - '41'
       - Tony Armstrong
-    - null
+    - zonesTag:
+      - fix: 7
+        time: 2018-01-05T01:37:23Z
+        lat: -33.35506667
+        lng: 147.93325
+      - fix: 1273
+        time: 2018-01-05T02:41:08Z
+        lat: -33.31958333
+        lng: 147.9638
+      - fix: 4513
+        time: 2018-01-05T05:23:11Z
+        lat: -32.61325
+        lng: 148.60055
+      - fix: 6301
+        time: 2018-01-05T06:52:36Z
+        lat: -32.5317
+        lng: 148.11456667
+      - fix: 6946
+        time: 2018-01-05T07:24:52Z
+        lat: -32.72575
+        lng: 148.20983333
   - - - '31'
       - Trent Brown
-    - null
+    - zonesTag:
+      - fix: 31
+        time: 2018-01-05T01:44:14Z
+        lat: -33.35278333
+        lng: 147.93235
+      - fix: 709
+        time: 2018-01-05T02:40:53Z
+        lat: -33.31126667
+        lng: 147.93446667
+      - fix: 2323
+        time: 2018-01-05T04:55:45Z
+        lat: -32.63043333
+        lng: 148.61046667
+      - fix: 3103
+        time: 2018-01-05T06:00:46Z
+        lat: -32.50115
+        lng: 148.15145
+      - fix: 3424
+        time: 2018-01-05T06:27:33Z
+        lat: -32.72553333
+        lng: 148.20998333
   - - - '25'
       - Tyler Borrdaile
-    - null
+    - zonesTag:
+      - fix: 10
+        time: 2018-01-05T01:52:11Z
+        lat: -33.35385
+        lng: 147.93363333
+      - fix: 301
+        time: 2018-01-05T02:40:32Z
+        lat: -33.31936667
+        lng: 147.96251667
+      - null
+      - null
+      - null
   - - - '74'
       - Vic Hare
     - zonesTag:
@@ -4185,10 +7828,64 @@ tagging:
         lng: 148.21031667
   - - - '103'
       - Wayne Thompson
-    - null
+    - zonesTag:
+      - fix: 9
+        time: 2018-01-05T01:31:25Z
+        lat: -33.35401667
+        lng: 147.9316
+      - fix: 434
+        time: 2018-01-05T02:42:18Z
+        lat: -33.336
+        lng: 147.98053333
+      - fix: 1615
+        time: 2018-01-05T05:59:29Z
+        lat: -32.59195
+        lng: 148.59025
+      - null
+      - null
   - - - '75'
       - Yasuhiro Noma
-    - null
+    - zonesTag:
+      - fix: 126
+        time: 2018-01-05T02:11:45Z
+        lat: -33.35836667
+        lng: 147.93078333
+      - fix: 1103
+        time: 2018-01-05T03:00:36Z
+        lat: -33.3185
+        lng: 147.96223333
+      - fix: 4525
+        time: 2018-01-05T05:51:42Z
+        lat: -32.55371667
+        lng: 148.57588333
+      - fix: 5777
+        time: 2018-01-05T06:54:18Z
+        lat: -32.50573333
+        lng: 148.14671667
+      - fix: 6322
+        time: 2018-01-05T07:21:33Z
+        lat: -32.72588333
+        lng: 148.21283333
   - - - '6'
       - Yoko Sano
-    - null
+    - zonesTag:
+      - fix: 1
+        time: 2018-01-05T02:17:12Z
+        lat: -33.35578333
+        lng: 147.9332
+      - fix: 288
+        time: 2018-01-05T02:41:27Z
+        lat: -33.318
+        lng: 147.9612
+      - fix: 1958
+        time: 2018-01-05T05:00:46Z
+        lat: -32.70845
+        lng: 148.67475
+      - fix: 3114
+        time: 2018-01-05T06:37:03Z
+        lat: -32.45526667
+        lng: 148.19521667
+      - fix: 3662
+        time: 2018-01-05T07:22:43Z
+        lat: -32.72548333
+        lng: 148.21136667
