@@ -12,10 +12,10 @@ validityWorking:
   distance:
     sum: 3643.9 km
     flying: 40
-    area: 66.02355988
+    area: 62.89855988
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 153.2 km
 - time:
     nominalTime: 1.500000 h
@@ -30,10 +30,10 @@ validityWorking:
   distance:
     sum: 4821.5 km
     flying: 39
-    area: 70.26181162
+    area: 67.13681162
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 187.1 km
 - time:
     nominalTime: 1.500000 h
@@ -48,10 +48,10 @@ validityWorking:
   distance:
     sum: 7312.1 km
     flying: 45
-    area: 71.39493163
+    area: 68.26993163
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 196.2 km
 - time:
     nominalTime: 1.500000 h
@@ -66,10 +66,10 @@ validityWorking:
   distance:
     sum: 10835.3 km
     flying: 40
-    area: 95.643765
+    area: 92.518765
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 390.2 km
 - time:
     nominalTime: 1.500000 h
@@ -84,10 +84,10 @@ validityWorking:
   distance:
     sum: 4128.4 km
     flying: 37
-    area: 66.25133338
+    area: 63.12633338
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 155.0 km
 - time:
     nominalTime: 1.500000 h
@@ -102,10 +102,10 @@ validityWorking:
   distance:
     sum: 5498.8 km
     flying: 44
-    area: 67.96152388
+    area: 64.83652388
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 168.7 km
 - time:
     nominalTime: 1.500000 h
@@ -120,10 +120,10 @@ validityWorking:
   distance:
     sum: 5090.5 km
     flying: 38
-    area: 68.90467012
+    area: 65.77967012
     nominalGoal: 0.25
     nominalDistance: 100.0 km
-    minimumDistance: 5.0 km
+    minimumDistance: 10.0 km
     bestDistance: 176.2 km
 validity:
 - time: 1
