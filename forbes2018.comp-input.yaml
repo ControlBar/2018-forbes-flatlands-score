@@ -2,18 +2,18 @@ comp:
   compName: Forbes Flatlands 2018
   discipline: hg
   location: Forbes, Australia
-  from: '2017-12-28'
-  to: '2018-01-05'
+  from: 2017-12-28
+  to: 2018-01-05
   civilId: '12209'
   utcOffset:
     timeZoneMinutes: 660
-  scoreBack: 900.0 s
+  scoreBack: 900.000 s
 nominal:
   launch: 1
   goal: 0.25
   distance: 100.0 km
   free: 10.0 km
-  time: 1.5 h
+  time: 1.500000 h
 tasks:
 - taskName: Task 1
   zones:
@@ -22,32 +22,38 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      give: 9995.0 m
+      alt: 230.000 m
     - zoneName: TRANG
       lat: -31.9798
       lng: 148.0035
       radius: 10000.0 m
+      give: 10005.0 m
+      alt: 213.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -31.9798 deg
-          - 148.0035 deg
+          - -31.97980000 deg
+          - 148.00350000 deg
           radius: 10000.0 m
     openKind: null
   speedSection:
@@ -76,50 +82,60 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      give: 9995.0 m
+      alt: 245.000 m
     - zoneName: PINEY
       lat: -33.85373
       lng: 147.94195
       radius: 2000.0 m
+      give: 2005.0 m
+      alt: 279.000 m
     - zoneName: ATTILA
       lat: -34.46358
       lng: 148.70315
       radius: 5000.0 m
+      give: 5005.0 m
+      alt: 518.000 m
     - zoneName: BOOKHA
       lat: -34.8188
       lng: 148.66808
       radius: 1000.0 m
+      give: 1005.0 m
+      alt: 515.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -33.85373 deg
-          - 147.94195 deg
+          - -33.85373000 deg
+          - 147.94195000 deg
           radius: 2000.0 m
       - cylinder:
           center:
-          - -34.46358 deg
-          - 148.70315 deg
+          - -34.46358000 deg
+          - 148.70315000 deg
           radius: 5000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -34.8188 deg
-          - 148.66808 deg
+          - -34.81880000 deg
+          - 148.66808000 deg
           radius: 1000.0 m
     openKind: null
   speedSection:
@@ -151,41 +167,49 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      give: 9995.0 m
+      alt: 230.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 400.0 m
+      give: 405.0 m
+      alt: 395.000 m
     - zoneName: GULGO
       lat: -32.2985
       lng: 149.5573
       radius: 400.0 m
+      give: 405.0 m
+      alt: 445.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -32.46522 deg
-          - 148.9893 deg
+          - -32.46522000 deg
+          - 148.98930000 deg
           radius: 400.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.2985 deg
-          - 149.5573 deg
+          - -32.29850000 deg
+          - 149.55730000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -221,32 +245,38 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      give: 9995.0 m
+      alt: 230.000 m
     - zoneName: MAN037
       lat: -30.7635
       lng: 150.7237
       radius: 1000.0 m
+      give: 1005.0 m
+      alt: 370.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -30.7635 deg
-          - 150.7237 deg
+          - -30.76350000 deg
+          - 150.72370000 deg
           radius: 1000.0 m
     openKind: null
   speedSection:
@@ -284,41 +314,49 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
+      give: 9995.0 m
+      alt: 230.000 m
     - zoneName: TOMING
       lat: -32.56608
       lng: 148.22657
       radius: 10000.0 m
+      give: 10005.0 m
+      alt: 278.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 400.0 m
+      give: 405.0 m
+      alt: 395.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -32.56608 deg
-          - 148.22657 deg
+          - -32.56608000 deg
+          - 148.22657000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.46522 deg
-          - 148.9893 deg
+          - -32.46522000 deg
+          - 148.98930000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -354,50 +392,60 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 5000.0 m
+      give: 4995.0 m
+      alt: 230.000 m
     - zoneName: GRENFE
       lat: -33.9082
       lng: 148.13425
       radius: 15000.0 m
+      give: 15007.5 m
+      alt: 369.000 m
     - zoneName: MANILD
       lat: -33.18538
       lng: 148.67978
       radius: 20000.0 m
+      give: 20010.0 m
+      alt: 440.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 405.0 m
+      alt: 230.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 5000.0 m
       - cylinder:
           center:
-          - -33.9082 deg
-          - 148.13425 deg
+          - -33.90820000 deg
+          - 148.13425000 deg
           radius: 15000.0 m
       - cylinder:
           center:
-          - -33.18538 deg
-          - 148.67978 deg
+          - -33.18538000 deg
+          - 148.67978000 deg
           radius: 20000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -443,50 +491,60 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
+      give: 395.0 m
+      alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 5000.0 m
+      give: 4995.0 m
+      alt: 230.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 40000.0 m
+      give: 40020.0 m
+      alt: 395.000 m
     - zoneName: BUMF
       lat: -32.19498
       lng: 147.76218
       radius: 50000.0 m
+      give: 50025.0 m
+      alt: 211.000 m
     - zoneName: PEAKHI
       lat: -32.729
       lng: 148.2111
       radius: 400.0 m
+      give: 405.0 m
+      alt: 285.000 m
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3562 deg
-          - 147.9336 deg
+          - -33.35620000 deg
+          - 147.93360000 deg
           radius: 5000.0 m
       - cylinder:
           center:
-          - -32.46522 deg
-          - 148.9893 deg
+          - -32.46522000 deg
+          - 148.98930000 deg
           radius: 40000.0 m
       - cylinder:
           center:
-          - -32.19498 deg
-          - 147.76218 deg
+          - -32.19498000 deg
+          - 147.76218000 deg
           radius: 50000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.729 deg
-          - 148.2111 deg
+          - -32.72900000 deg
+          - 148.21110000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
