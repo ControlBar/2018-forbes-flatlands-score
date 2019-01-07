@@ -157,6 +157,8 @@ validity:
 allocation:
 - goalRatio: 0.425
   weight:
+    reach: 0.2283621
+    effort: 0.2283621
     distance: 0.4567242
     leading: 9.507326e-2
     arrival: 6.790947e-2
@@ -171,6 +173,8 @@ allocation:
   taskPoints: 862
 - goalRatio: 0.35897436
   weight:
+    reach: 0.24794782
+    effort: 0.24794782
     distance: 0.49589565
     leading: 8.821826e-2
     arrival: 6.301304e-2
@@ -185,6 +189,8 @@ allocation:
   taskPoints: 841
 - goalRatio: 0.64444444
   weight:
+    reach: 0.19065853
+    effort: 0.19065853
     distance: 0.38131706
     leading: 0.10826951
     arrival: 7.733537e-2
@@ -199,6 +205,8 @@ allocation:
   taskPoints: 987
 - goalRatio: 0.4
   weight:
+    reach: 0.235256
+    effort: 0.235256
     distance: 0.470512
     leading: 9.26604e-2
     arrival: 6.6186e-2
@@ -213,6 +221,8 @@ allocation:
   taskPoints: 937
 - goalRatio: 0.21621622
   weight:
+    reach: 0.30707421
+    effort: 0.30707421
     distance: 0.61414842
     leading: 6.752403e-2
     arrival: 4.823145e-2
@@ -227,6 +237,8 @@ allocation:
   taskPoints: 959
 - goalRatio: 0.5
   weight:
+    reach: 0.2111875
+    effort: 0.2111875
     distance: 0.422375
     leading: 0.10108438
     arrival: 7.220312e-2
@@ -241,6 +253,8 @@ allocation:
   taskPoints: 998
 - goalRatio: 0.60526316
   weight:
+    reach: 0.19481263
+    effort: 0.19481263
     distance: 0.38962526
     leading: 0.10681558
     arrival: 7.629684e-2
