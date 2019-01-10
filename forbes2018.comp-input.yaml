@@ -63,27 +63,6 @@ tasks:
           - 148.00350000 deg
           radius: 10000.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '52'
-    - Dale Regehr
-  - - '37'
-    - Gavin Myers
-  - - '83'
-    - Randal Clotworthy
-  - - '42'
-    - Rob de Groot
-  - - '102'
-    - Robert Davies
-  - - '36'
-    - Steve Docherty
-  - - '74'
-    - Vic Hare
-  - - '103'
-    - Wayne Thompson
-  - - '75'
-    - Yasuhiro Noma
-  - - '6'
-    - Yoko Sano
   speedSection:
   - 2
   - 3
@@ -101,7 +80,6 @@ tasks:
   - 2017-12-30T04:45:00Z
   - 2017-12-30T05:00:00Z
   - 2017-12-30T05:15:00Z
-  absent: []
   stopped: null
 - taskName: task 2
   zones:
@@ -166,31 +144,6 @@ tasks:
           - 148.66808000 deg
           radius: 1000.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '107'
-    - Anatoly Reyter
-  - - '4'
-    - Frank Chetcuti
-  - - '99'
-    - Gennadiy Khramov
-  - - '94'
-    - Justinas Pleikys
-  - - '28'
-    - Mikhail Karmazin
-  - - '68'
-    - Neale Halsall
-  - - '108'
-    - Peter Adriaans
-  - - '83'
-    - Randal Clotworthy
-  - - '102'
-    - Robert Davies
-  - - '86'
-    - Ross Smith
-  - - '88'
-    - Simon West
-  - - '74'
-    - Vic Hare
   speedSection:
   - 2
   - 5
@@ -211,7 +164,6 @@ tasks:
   - 2017-12-31T03:00:00Z
   - 2017-12-31T03:15:00Z
   - 2017-12-31T03:30:00Z
-  absent: []
   stopped: null
 - taskName: Task 3
   zones:
@@ -265,7 +217,6 @@ tasks:
           - 149.55730000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog: []
   speedSection:
   - 2
   - 4
@@ -284,13 +235,6 @@ tasks:
   - 2018-01-01T03:00:00Z
   - 2018-01-01T03:15:00Z
   - 2018-01-01T03:30:00Z
-  absent:
-  - - '94'
-    - Justinas Pleikys
-  - - '98'
-    - Oyvind Ellefsen
-  - - '108'
-    - Peter Adriaans
   stopped: null
 - taskName: Task 4
   zones:
@@ -333,19 +277,6 @@ tasks:
           - 150.72370000 deg
           radius: 1000.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '55'
-    - Don Cramer
-  - - '4'
-    - Frank Chetcuti
-  - - '100'
-    - Malcolm Brown
-  - - '98'
-    - Oyvind Ellefsen
-  - - '85'
-    - Rick Martin
-  - - '86'
-    - Ross Smith
   speedSection:
   - 2
   - 3
@@ -362,17 +293,6 @@ tasks:
   - 2018-01-02T02:30:00Z
   - 2018-01-02T02:45:00Z
   - 2018-01-02T03:00:00Z
-  absent:
-  - - '107'
-    - Anatoly Reyter
-  - - '94'
-    - Justinas Pleikys
-  - - '69'
-    - Niki Longshore
-  - - '108'
-    - Peter Adriaans
-  - - '102'
-    - Robert Davies
   stopped: null
 - taskName: Task 5
   zones:
@@ -426,11 +346,6 @@ tasks:
           - 148.98930000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '80'
-    - Michael Cassells
-  - - '71'
-    - Rob Larkin
   speedSection:
   - 2
   - 4
@@ -449,13 +364,6 @@ tasks:
   - 2018-01-03T04:45:00Z
   - 2018-01-03T05:00:00Z
   - 2018-01-03T05:15:00Z
-  absent:
-  - - '94'
-    - Justinas Pleikys
-  - - '69'
-    - Niki Longshore
-  - - '108'
-    - Peter Adriaans
   stopped: null
 - taskName: Task 6
   zones:
@@ -520,9 +428,6 @@ tasks:
           - 147.93360000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '99'
-    - Gennadiy Khramov
   speedSection:
   - 2
   - 5
@@ -543,21 +448,6 @@ tasks:
   - 2018-01-04T03:30:00Z
   - 2018-01-04T03:50:00Z
   - 2018-01-04T04:10:00Z
-  absent:
-  - - '77'
-    - Brodrick Osborne
-  - - '4'
-    - Frank Chetcuti
-  - - '94'
-    - Justinas Pleikys
-  - - '69'
-    - Niki Longshore
-  - - '108'
-    - Peter Adriaans
-  - - '102'
-    - Robert Davies
-  - - '88'
-    - Simon West
   stopped: null
 - taskName: Task 7
   zones:
@@ -622,9 +512,6 @@ tasks:
           - 148.21110000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '85'
-    - Rick Martin
   speedSection:
   - 2
   - 5
@@ -645,31 +532,6 @@ tasks:
   - 2018-01-05T03:20:00Z
   - 2018-01-05T03:40:00Z
   - 2018-01-05T04:00:00Z
-  absent:
-  - - '107'
-    - Anatoly Reyter
-  - - '32'
-    - Andrew Barnes
-  - - '77'
-    - Brodrick Osborne
-  - - '55'
-    - Don Cramer
-  - - '94'
-    - Justinas Pleikys
-  - - '67'
-    - Mark Alton
-  - - '69'
-    - Niki Longshore
-  - - '108'
-    - Peter Adriaans
-  - - '71'
-    - Rob Larkin
-  - - '102'
-    - Robert Davies
-  - - '86'
-    - Ross Smith
-  - - '88'
-    - Simon West
   stopped: null
 taskFolders:
 - - task 1
@@ -1658,3 +1520,151 @@ pilots:
   - - - '6'
       - Yoko Sano
     - Yoko Sano.20180105-093233.12517.6.igc
+pilotGroups:
+- absent: []
+  didFlyNoTracklog:
+  - - '52'
+    - Dale Regehr
+  - - '37'
+    - Gavin Myers
+  - - '83'
+    - Randal Clotworthy
+  - - '42'
+    - Rob de Groot
+  - - '102'
+    - Robert Davies
+  - - '36'
+    - Steve Docherty
+  - - '74'
+    - Vic Hare
+  - - '103'
+    - Wayne Thompson
+  - - '75'
+    - Yasuhiro Noma
+  - - '6'
+    - Yoko Sano
+  dnf: []
+- absent: []
+  didFlyNoTracklog:
+  - - '107'
+    - Anatoly Reyter
+  - - '4'
+    - Frank Chetcuti
+  - - '99'
+    - Gennadiy Khramov
+  - - '94'
+    - Justinas Pleikys
+  - - '28'
+    - Mikhail Karmazin
+  - - '68'
+    - Neale Halsall
+  - - '108'
+    - Peter Adriaans
+  - - '83'
+    - Randal Clotworthy
+  - - '102'
+    - Robert Davies
+  - - '86'
+    - Ross Smith
+  - - '88'
+    - Simon West
+  - - '74'
+    - Vic Hare
+  dnf: []
+- absent:
+  - - '94'
+    - Justinas Pleikys
+  - - '98'
+    - Oyvind Ellefsen
+  - - '108'
+    - Peter Adriaans
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '107'
+    - Anatoly Reyter
+  - - '94'
+    - Justinas Pleikys
+  - - '69'
+    - Niki Longshore
+  - - '108'
+    - Peter Adriaans
+  - - '102'
+    - Robert Davies
+  didFlyNoTracklog:
+  - - '55'
+    - Don Cramer
+  - - '4'
+    - Frank Chetcuti
+  - - '100'
+    - Malcolm Brown
+  - - '98'
+    - Oyvind Ellefsen
+  - - '85'
+    - Rick Martin
+  - - '86'
+    - Ross Smith
+  dnf: []
+- absent:
+  - - '94'
+    - Justinas Pleikys
+  - - '69'
+    - Niki Longshore
+  - - '108'
+    - Peter Adriaans
+  didFlyNoTracklog:
+  - - '80'
+    - Michael Cassells
+  - - '71'
+    - Rob Larkin
+  dnf:
+  - - '100'
+    - Malcolm Brown
+- absent:
+  - - '77'
+    - Brodrick Osborne
+  - - '4'
+    - Frank Chetcuti
+  - - '94'
+    - Justinas Pleikys
+  - - '69'
+    - Niki Longshore
+  - - '108'
+    - Peter Adriaans
+  - - '102'
+    - Robert Davies
+  - - '88'
+    - Simon West
+  didFlyNoTracklog:
+  - - '99'
+    - Gennadiy Khramov
+  dnf: []
+- absent:
+  - - '107'
+    - Anatoly Reyter
+  - - '32'
+    - Andrew Barnes
+  - - '77'
+    - Brodrick Osborne
+  - - '55'
+    - Don Cramer
+  - - '94'
+    - Justinas Pleikys
+  - - '67'
+    - Mark Alton
+  - - '69'
+    - Niki Longshore
+  - - '108'
+    - Peter Adriaans
+  - - '71'
+    - Rob Larkin
+  - - '102'
+    - Robert Davies
+  - - '86'
+    - Ross Smith
+  - - '88'
+    - Simon West
+  didFlyNoTracklog:
+  - - '85'
+    - Rick Martin
+  dnf: []

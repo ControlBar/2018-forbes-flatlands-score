@@ -1,25 +1,3 @@
-dnf:
-- - - '99'
-    - Gennadiy Khramov
-  - - '85'
-    - Rick Martin
-- - - '85'
-    - Rick Martin
-- - - '99'
-    - Gennadiy Khramov
-  - - '85'
-    - Rick Martin
-  - - '86'
-    - Ross Smith
-- - - '99'
-    - Gennadiy Khramov
-- - - '30'
-    - Jason Kath
-  - - '86'
-    - Ross Smith
-- []
-- - - '99'
-    - Gennadiy Khramov
 flying:
 - - - - '107'
       - Anatoly Reyter
@@ -59931,6 +59909,28 @@ crossing:
           inZone:
           - false
           - true
+suspectDnf:
+- - - '99'
+    - Gennadiy Khramov
+  - - '85'
+    - Rick Martin
+- - - '85'
+    - Rick Martin
+- - - '99'
+    - Gennadiy Khramov
+  - - '85'
+    - Rick Martin
+  - - '86'
+    - Ross Smith
+- - - '99'
+    - Gennadiy Khramov
+- - - '30'
+    - Jason Kath
+  - - '86'
+    - Ross Smith
+- []
+- - - '99'
+    - Gennadiy Khramov
 trackLogError:
 - fileUnset:
   - - '52'
