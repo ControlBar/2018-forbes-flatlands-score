@@ -667,11 +667,11 @@ score:
   - - - '15'
       - Ryosuke Hattori
     - place: '19'
-      total: 437
+      total: 439
       breakdown:
         reach: 202.417
-        effort: 235.037
-        distance: 437.454
+        effort: 236.377
+        distance: 438.794
         leading: 0
         arrival: 0
         time: 0
@@ -686,14 +686,70 @@ score:
         gsVelocity: null
       reachDistance: 121.264 km
       landedDistance: 127.862 km
+  - - - '42'
+      - Rob de Groot
+    - place: '20'
+      total: 438
+      breakdown:
+        reach: 205.716
+        effort: 232.438
+        distance: 438.153
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 123.240 km
+      landedDistance: 123.240 km
+  - - - '75'
+      - Yasuhiro Noma
+    - place: '21'
+      total: 428
+      breakdown:
+        reach: 199.69
+        effort: 228.498
+        distance: 428.188
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 119.630 km
+      landedDistance: 119.630 km
+  - - - '74'
+      - Vic Hare
+    - place: '22'
+      total: 422
+      breakdown:
+        reach: 198.972
+        effort: 222.589
+        distance: 421.561
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 119.200 km
+      landedDistance: 119.200 km
+  - - - '6'
+      - Yoko Sano
+    - place: '23'
+      total: 408
+      breakdown:
+        reach: 193.597
+        effort: 214.709
+        distance: 408.307
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 115.980 km
+      landedDistance: 115.980 km
   - - - '108'
       - Peter Adriaans
-    - place: '20'
-      total: 405
+    - place: '24'
+      total: 382
       breakdown:
         reach: 176.886
-        effort: 228.416
-        distance: 405.302
+        effort: 204.86
+        distance: 381.746
         leading: 0
         arrival: 0
         time: 0
@@ -708,14 +764,28 @@ score:
         gsVelocity: null
       reachDistance: 105.969 km
       landedDistance: 115.766 km
+  - - - '52'
+      - Dale Regehr
+    - place: 25=
+      total: 363
+      breakdown:
+        reach: 182.196
+        effort: 181.223
+        distance: 363.419
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 109.150 km
+      landedDistance: 109.150 km
   - - - '41'
       - Tony Armstrong
-    - place: '21'
-      total: 392
+    - place: 25=
+      total: 363
       breakdown:
         reach: 169.884
-        effort: 221.795
-        distance: 391.679
+        effort: 193.041
+        distance: 362.925
         leading: 0
         arrival: 0
         time: 0
@@ -732,12 +802,12 @@ score:
       landedDistance: 111.388 km
   - - - '72'
       - Sasha Serebrennikova
-    - place: '22'
-      total: 376
+    - place: '27'
+      total: 330
       breakdown:
         reach: 160.878
-        effort: 215.174
-        distance: 376.052
+        effort: 169.404
+        distance: 330.282
         leading: 0
         arrival: 0
         time: 0
@@ -752,14 +822,28 @@ score:
         gsVelocity: null
       reachDistance: 96.379 km
       landedDistance: 106.214 km
+  - - - '103'
+      - Wayne Thompson
+    - place: '28'
+      total: 311
+      breakdown:
+        reach: 161.114
+        effort: 149.706
+        distance: 310.82
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 96.520 km
+      landedDistance: 96.520 km
   - - - '68'
       - Neale Halsall
-    - place: '23'
-      total: 354
+    - place: '29'
+      total: 306
       breakdown:
         reach: 148.901
-        effort: 205.243
-        distance: 354.145
+        effort: 157.585
+        distance: 306.486
         leading: 0
         arrival: 0
         time: 0
@@ -774,14 +858,28 @@ score:
         gsVelocity: null
       reachDistance: 89.204 km
       landedDistance: 99.038 km
+  - - - '36'
+      - Steve Docherty
+    - place: '30'
+      total: 302
+      breakdown:
+        reach: 159.879
+        effort: 141.826
+        distance: 301.705
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 95.780 km
+      landedDistance: 95.780 km
   - - - '28'
       - Mikhail Karmazin
-    - place: '24'
-      total: 317
+    - place: '31'
+      total: 256
       breakdown:
         reach: 121.554
-        effort: 195.312
-        distance: 316.867
+        effort: 133.947
+        distance: 255.501
         leading: 0
         arrival: 0
         time: 0
@@ -798,12 +896,12 @@ score:
       landedDistance: 82.733 km
   - - - '64'
       - Longfei Yang
-    - place: '25'
-      total: 293
+    - place: '32'
+      total: 231
       breakdown:
         reach: 100.823
-        effort: 192.002
-        distance: 292.824
+        effort: 130.007
+        distance: 230.83
         leading: 0
         arrival: 0
         time: 0
@@ -820,12 +918,12 @@ score:
       landedDistance: 70.296 km
   - - - '98'
       - Oyvind Ellefsen
-    - place: '26'
-      total: 281
+    - place: '33'
+      total: 222
       breakdown:
         reach: 95.982
-        effort: 185.381
-        distance: 281.363
+        effort: 126.068
+        distance: 222.05
         leading: 0
         arrival: 0
         time: 0
@@ -842,12 +940,12 @@ score:
       landedDistance: 67.143 km
   - - - '43'
       - Jonny Durand
-    - place: '27'
-      total: 271
+    - place: '34'
+      total: 215
       breakdown:
         reach: 92.662
-        effort: 178.76
-        distance: 271.422
+        effort: 122.128
+        distance: 214.79
         leading: 0
         arrival: 0
         time: 0
@@ -862,14 +960,28 @@ score:
         gsVelocity: null
       reachDistance: 55.512 km
       landedDistance: 65.448 km
+  - - - '83'
+      - Randal Clotworthy
+    - place: '35'
+      total: 211
+      breakdown:
+        reach: 102.891
+        effort: 108.34
+        distance: 211.231
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 61.640 km
+      landedDistance: 61.640 km
   - - - '107'
       - Anatoly Reyter
-    - place: '28'
-      total: 260
+    - place: '36'
+      total: 207
       breakdown:
         reach: 90.936
-        effort: 168.829
-        distance: 259.765
+        effort: 116.219
+        distance: 207.154
         leading: 0
         arrival: 0
         time: 0
@@ -886,12 +998,12 @@ score:
       landedDistance: 62.664 km
   - - - '4'
       - Frank Chetcuti
-    - place: '29'
-      total: 234
+    - place: '37'
+      total: 177
       breakdown:
         reach: 78.872
-        effort: 155.588
-        distance: 234.46
+        effort: 98.491
+        distance: 177.363
         leading: 0
         arrival: 0
         time: 0
@@ -908,12 +1020,12 @@ score:
       landedDistance: 56.091 km
   - - - '80'
       - Michael Cassells
-    - place: '30'
-      total: 219
+    - place: '38'
+      total: 166
       breakdown:
         reach: 76.891
-        effort: 142.346
-        distance: 219.237
+        effort: 88.641
+        distance: 165.532
         leading: 0
         arrival: 0
         time: 0
@@ -928,56 +1040,14 @@ score:
         gsVelocity: null
       reachDistance: 46.064 km
       landedDistance: 55.904 km
-  - - - '42'
-      - Rob de Groot
-    - place: '31'
-      total: 206
-      breakdown:
-        reach: 205.716
-        effort: 0
-        distance: 205.716
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 123.240 km
-      landedDistance: 123.240 km
-  - - - '75'
-      - Yasuhiro Noma
-    - place: '32'
-      total: 200
-      breakdown:
-        reach: 199.69
-        effort: 0
-        distance: 199.69
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 119.630 km
-      landedDistance: 119.630 km
-  - - - '74'
-      - Vic Hare
-    - place: '33'
-      total: 199
-      breakdown:
-        reach: 198.972
-        effort: 0
-        distance: 198.972
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 119.200 km
-      landedDistance: 119.200 km
   - - - '71'
       - Rob Larkin
-    - place: '34'
-      total: 195
+    - place: '39'
+      total: 146
       breakdown:
         reach: 69.187
-        effort: 125.794
-        distance: 194.982
+        effort: 76.823
+        distance: 146.01
         leading: 0
         arrival: 0
         time: 0
@@ -992,42 +1062,14 @@ score:
         gsVelocity: null
       reachDistance: 41.449 km
       landedDistance: 51.415 km
-  - - - '6'
-      - Yoko Sano
-    - place: '35'
-      total: 194
-      breakdown:
-        reach: 193.597
-        effort: 0
-        distance: 193.597
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 115.980 km
-      landedDistance: 115.980 km
-  - - - '52'
-      - Dale Regehr
-    - place: '36'
-      total: 182
-      breakdown:
-        reach: 182.196
-        effort: 0
-        distance: 182.196
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 109.150 km
-      landedDistance: 109.150 km
   - - - '86'
       - Ross Smith
-    - place: '37'
-      total: 177
+    - place: '40'
+      total: 131
       breakdown:
         reach: 64.17
-        effort: 112.553
-        distance: 176.722
+        effort: 66.974
+        distance: 131.143
         leading: 0
         arrival: 0
         time: 0
@@ -1042,42 +1084,14 @@ score:
         gsVelocity: null
       reachDistance: 38.443 km
       landedDistance: 48.228 km
-  - - - '103'
-      - Wayne Thompson
-    - place: '38'
-      total: 161
-      breakdown:
-        reach: 161.114
-        effort: 0
-        distance: 161.114
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 96.520 km
-      landedDistance: 96.520 km
-  - - - '36'
-      - Steve Docherty
-    - place: '39'
-      total: 160
-      breakdown:
-        reach: 159.879
-        effort: 0
-        distance: 159.879
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 95.780 km
-      landedDistance: 95.780 km
   - - - '100'
       - Malcolm Brown
-    - place: '40'
-      total: 133
+    - place: '41'
+      total: 93
       breakdown:
         reach: 33.795
-        effort: 99.311
-        distance: 133.106
+        effort: 59.094
+        distance: 92.889
         leading: 0
         arrival: 0
         time: 0
@@ -1094,12 +1108,12 @@ score:
       landedDistance: 29.380 km
   - - - '34'
       - Brad Porter
-    - place: '41'
-      total: 123
+    - place: '42'
+      total: 85
       breakdown:
         reach: 27.425
-        effort: 96.001
-        distance: 123.426
+        effort: 57.124
+        distance: 84.549
         leading: 0
         arrival: 0
         time: 0
@@ -1116,12 +1130,12 @@ score:
       landedDistance: 26.269 km
   - - - '14'
       - Peter Burkitt
-    - place: '42'
-      total: 113
+    - place: '43'
+      total: 77
       breakdown:
         reach: 23.347
-        effort: 89.38
-        distance: 112.727
+        effort: 53.185
+        distance: 76.532
         leading: 0
         arrival: 0
         time: 0
@@ -1136,28 +1150,14 @@ score:
         gsVelocity: null
       reachDistance: 13.987 km
       landedDistance: 23.761 km
-  - - - '83'
-      - Randal Clotworthy
-    - place: '43'
-      total: 103
-      breakdown:
-        reach: 102.891
-        effort: 0
-        distance: 102.891
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 61.640 km
-      landedDistance: 61.640 km
   - - - '67'
       - Mark Alton
     - place: '44'
-      total: 102
+      total: 70
       breakdown:
         reach: 22.28
-        effort: 79.449
-        distance: 101.729
+        effort: 47.275
+        distance: 69.556
         leading: 0
         arrival: 0
         time: 0
@@ -1175,11 +1175,11 @@ score:
   - - - '88'
       - Simon West
     - place: '45'
-      total: 83
+      total: 56
       breakdown:
         reach: 16.692
-        effort: 66.208
-        distance: 82.9
+        effort: 39.396
+        distance: 56.089
         leading: 0
         arrival: 0
         time: 0
@@ -1197,11 +1197,11 @@ score:
   - - - '94'
       - Justinas Pleikys
     - place: '46'
-      total: 66
+      total: 46
       breakdown:
         reach: 16.692
-        effort: 49.656
-        distance: 66.348
+        effort: 29.547
+        distance: 46.239
         leading: 0
         arrival: 0
         time: 0
@@ -1219,11 +1219,11 @@ score:
   - - - '55'
       - Don Cramer
     - place: '47'
-      total: 46
+      total: 34
       breakdown:
         reach: 16.692
-        effort: 29.793
-        distance: 46.486
+        effort: 17.728
+        distance: 34.421
         leading: 0
         arrival: 0
         time: 0
@@ -1241,11 +1241,11 @@ score:
   - - - '77'
       - Brodrick Osborne
     - place: 48=
-      total: 30
+      total: 25
       breakdown:
         reach: 16.692
-        effort: 13.242
-        distance: 29.934
+        effort: 7.879
+        distance: 24.572
         leading: 0
         arrival: 0
         time: 0
@@ -1263,11 +1263,11 @@ score:
   - - - '37'
       - Gavin Myers
     - place: 48=
-      total: 30
+      total: 25
       breakdown:
         reach: 16.692
-        effort: 13.242
-        distance: 29.934
+        effort: 7.879
+        distance: 24.572
         leading: 0
         arrival: 0
         time: 0
@@ -1277,11 +1277,11 @@ score:
   - - - '102'
       - Robert Davies
     - place: 48=
-      total: 30
+      total: 25
       breakdown:
         reach: 16.692
-        effort: 13.242
-        distance: 29.934
+        effort: 7.879
+        distance: 24.572
         leading: 0
         arrival: 0
         time: 0
@@ -3681,11 +3681,11 @@ score:
   - - - '37'
       - Gavin Myers
     - place: '18'
-      total: 510
+      total: 511
       breakdown:
         reach: 245.416
-        effort: 265.031
-        distance: 510.448
+        effort: 265.304
+        distance: 510.72
         leading: 0
         arrival: 0
         time: 0
@@ -3703,11 +3703,11 @@ score:
   - - - '51'
       - Craig Taylor
     - place: '19'
-      total: 501
+      total: 502
       breakdown:
         reach: 243.054
-        effort: 257.77
-        distance: 500.825
+        effort: 258.587
+        distance: 501.641
         leading: 0
         arrival: 0
         time: 0
@@ -3725,11 +3725,11 @@ score:
   - - - '22'
       - Rohan Taylor
     - place: '20'
-      total: 484
+      total: 486
       breakdown:
         reach: 237.436
-        effort: 246.879
-        distance: 484.314
+        effort: 248.512
+        distance: 485.948
         leading: 0
         arrival: 0
         time: 0
@@ -3747,11 +3747,11 @@ score:
   - - - '80'
       - Michael Cassells
     - place: '21'
-      total: 462
+      total: 465
       breakdown:
         reach: 229.487
-        effort: 232.356
-        distance: 461.843
+        effort: 235.079
+        distance: 464.566
         leading: 0
         arrival: 0
         time: 0
@@ -3769,11 +3769,11 @@ score:
   - - - '77'
       - Brodrick Osborne
     - place: '22'
-      total: 437
+      total: 441
       breakdown:
         reach: 222.462
-        effort: 214.203
-        distance: 436.665
+        effort: 218.288
+        distance: 440.75
         leading: 0
         arrival: 0
         time: 0
@@ -3791,11 +3791,11 @@ score:
   - - - '42'
       - Rob de Groot
     - place: '23'
-      total: 406
+      total: 412
       breakdown:
         reach: 213.506
-        effort: 192.42
-        distance: 405.926
+        effort: 198.138
+        distance: 411.644
         leading: 0
         arrival: 0
         time: 0
@@ -3813,11 +3813,11 @@ score:
   - - - '68'
       - Neale Halsall
     - place: '24'
-      total: 377
+      total: 384
       breakdown:
         reach: 199.443
-        effort: 177.898
-        distance: 377.341
+        effort: 184.705
+        distance: 384.148
         leading: 0
         arrival: 0
         time: 0
@@ -3835,11 +3835,11 @@ score:
   - - - '103'
       - Wayne Thompson
     - place: '25'
-      total: 351
+      total: 359
       breakdown:
         reach: 184.085
-        effort: 167.006
-        distance: 351.091
+        effort: 174.63
+        distance: 358.715
         leading: 0
         arrival: 0
         time: 0
@@ -3857,11 +3857,11 @@ score:
   - - - '34'
       - Brad Porter
     - place: '26'
-      total: 324
+      total: 332
       breakdown:
         reach: 164.317
-        effort: 159.745
-        distance: 324.062
+        effort: 167.914
+        distance: 332.231
         leading: 0
         arrival: 0
         time: 0
@@ -3879,11 +3879,11 @@ score:
   - - - '52'
       - Dale Regehr
     - place: '27'
-      total: 312
+      total: 321
       breakdown:
         reach: 159.909
-        effort: 152.484
-        distance: 312.393
+        effort: 161.197
+        distance: 321.106
         leading: 0
         arrival: 0
         time: 0
@@ -3898,14 +3898,28 @@ score:
         gsVelocity: null
       reachDistance: 231.387 km
       landedDistance: 231.992 km
+  - - - '85'
+      - Rick Martin
+    - place: '28'
+      total: 306
+      breakdown:
+        reach: 155.345
+        effort: 151.122
+        distance: 306.467
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 224.782 km
+      landedDistance: 224.782 km
   - - - '28'
       - Mikhail Karmazin
-    - place: '28'
-      total: 284
+    - place: '29'
+      total: 283
       breakdown:
         reach: 141.919
-        effort: 141.592
-        distance: 283.511
+        effort: 141.048
+        distance: 282.967
         leading: 0
         arrival: 0
         time: 0
@@ -3922,12 +3936,12 @@ score:
       landedDistance: 206.061 km
   - - - '88'
       - Simon West
-    - place: '29'
-      total: 274
+    - place: '30'
+      total: 271
       breakdown:
         reach: 142.984
-        effort: 130.7
-        distance: 273.684
+        effort: 127.614
+        distance: 270.598
         leading: 0
         arrival: 0
         time: 0
@@ -3944,12 +3958,12 @@ score:
       landedDistance: 205.807 km
   - - - '92'
       - Attila Bertok
-    - place: '30'
-      total: 255
+    - place: '31'
+      total: 249
       breakdown:
         reach: 138.535
-        effort: 116.178
-        distance: 254.713
+        effort: 110.823
+        distance: 249.358
         leading: 0
         arrival: 0
         time: 0
@@ -3966,12 +3980,12 @@ score:
       landedDistance: 201.360 km
   - - - '75'
       - Yasuhiro Noma
-    - place: '31'
-      total: 226
+    - place: '32'
+      total: 218
       breakdown:
         reach: 127.673
-        effort: 98.025
-        distance: 225.698
+        effort: 90.673
+        distance: 218.347
         leading: 0
         arrival: 0
         time: 0
@@ -3988,12 +4002,12 @@ score:
       landedDistance: 185.583 km
   - - - '67'
       - Mark Alton
-    - place: '32'
-      total: 208
+    - place: '33'
+      total: 202
       breakdown:
         reach: 124.31
-        effort: 83.503
-        distance: 207.813
+        effort: 77.24
+        distance: 201.551
         leading: 0
         arrival: 0
         time: 0
@@ -4010,12 +4024,12 @@ score:
       landedDistance: 180.428 km
   - - - '71'
       - Rob Larkin
-    - place: '33'
-      total: 186
+    - place: '34'
+      total: 181
       breakdown:
         reach: 120.941
-        effort: 65.35
-        distance: 186.291
+        effort: 60.449
+        distance: 181.39
         leading: 0
         arrival: 0
         time: 0
@@ -4030,28 +4044,14 @@ score:
         gsVelocity: null
       reachDistance: 175.001 km
       landedDistance: 175.572 km
-  - - - '85'
-      - Rick Martin
-    - place: '34'
-      total: 155
-      breakdown:
-        reach: 155.345
-        effort: 0
-        distance: 155.345
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 224.782 km
-      landedDistance: 224.782 km
   - - - '74'
       - Vic Hare
     - place: '35'
-      total: 137
+      total: 134
       breakdown:
         reach: 93.792
-        effort: 43.567
-        distance: 137.359
+        effort: 40.299
+        distance: 134.092
         leading: 0
         arrival: 0
         time: 0
@@ -4069,11 +4069,11 @@ score:
   - - - '106'
       - Jon Durand Snr
     - place: '36'
-      total: 104
+      total: 101
       breakdown:
         reach: 64.438
-        effort: 39.936
-        distance: 104.375
+        effort: 36.941
+        distance: 101.379
         leading: 0
         arrival: 0
         time: 0
@@ -4091,11 +4091,11 @@ score:
   - - - '83'
       - Randal Clotworthy
     - place: '37'
-      total: 74
+      total: 72
       breakdown:
         reach: 38.178
-        effort: 36.306
-        distance: 74.483
+        effort: 33.583
+        distance: 71.76
         leading: 0
         arrival: 0
         time: 0
@@ -4113,11 +4113,11 @@ score:
   - - - '64'
       - Longfei Yang
     - place: '38'
-      total: 68
+      total: 66
       breakdown:
         reach: 38.695
-        effort: 29.045
-        distance: 67.739
+        effort: 26.866
+        distance: 65.561
         leading: 0
         arrival: 0
         time: 0
@@ -4135,11 +4135,11 @@ score:
   - - - '81'
       - Nick Purcell
     - place: '39'
-      total: 56
+      total: 55
       breakdown:
         reach: 38.214
-        effort: 18.153
-        distance: 56.367
+        effort: 16.791
+        distance: 55.006
         leading: 0
         arrival: 0
         time: 0
@@ -4157,11 +4157,11 @@ score:
   - - - '14'
       - Peter Burkitt
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4179,11 +4179,11 @@ score:
   - - - '6'
       - Yoko Sano
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4201,11 +4201,11 @@ score:
   - - - '55'
       - Don Cramer
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4215,11 +4215,11 @@ score:
   - - - '4'
       - Frank Chetcuti
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4229,11 +4229,11 @@ score:
   - - - '100'
       - Malcolm Brown
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4243,11 +4243,11 @@ score:
   - - - '98'
       - Oyvind Ellefsen
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4257,11 +4257,11 @@ score:
   - - - '86'
       - Ross Smith
     - place: 40=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -4472,8 +4472,8 @@ score:
       total: 628
       breakdown:
         reach: 306.112
-        effort: 321.669
-        distance: 627.781
+        effort: 321.718
+        distance: 627.83
         leading: 0
         arrival: 0
         time: 0
@@ -4494,8 +4494,8 @@ score:
       total: 621
       breakdown:
         reach: 305.086
-        effort: 315.976
-        distance: 621.061
+        effort: 316.123
+        distance: 621.209
         leading: 0
         arrival: 0
         time: 0
@@ -4516,8 +4516,8 @@ score:
       total: 612
       breakdown:
         reach: 304.24
-        effort: 307.436
-        distance: 611.676
+        effort: 307.73
+        distance: 611.971
         leading: 0
         arrival: 0
         time: 0
@@ -4535,11 +4535,11 @@ score:
   - - - '4'
       - Frank Chetcuti
     - place: '13'
-      total: 598
+      total: 599
       breakdown:
         reach: 302.364
-        effort: 296.049
-        distance: 598.413
+        effort: 296.54
+        distance: 598.904
         leading: 0
         arrival: 0
         time: 0
@@ -4557,11 +4557,11 @@ score:
   - - - '15'
       - Ryosuke Hattori
     - place: '14'
-      total: 568
+      total: 569
       breakdown:
         reach: 286.261
-        effort: 281.816
-        distance: 568.077
+        effort: 282.552
+        distance: 568.813
         leading: 0
         arrival: 0
         time: 0
@@ -4579,11 +4579,11 @@ score:
   - - - '92'
       - Attila Bertok
     - place: '15'
-      total: 548
+      total: 549
       breakdown:
         reach: 283.219
-        effort: 264.736
-        distance: 547.955
+        effort: 265.767
+        distance: 548.986
         leading: 0
         arrival: 0
         time: 0
@@ -4601,11 +4601,11 @@ score:
   - - - '74'
       - Vic Hare
     - place: '16'
-      total: 517
+      total: 519
       breakdown:
         reach: 272.493
-        effort: 244.81
-        distance: 517.303
+        effort: 246.184
+        distance: 518.677
         leading: 0
         arrival: 0
         time: 0
@@ -4623,11 +4623,11 @@ score:
   - - - '72'
       - Sasha Serebrennikova
     - place: '17'
-      total: 502
+      total: 504
       breakdown:
         reach: 268.778
-        effort: 233.423
-        distance: 502.202
+        effort: 234.994
+        distance: 503.772
         leading: 0
         arrival: 0
         time: 0
@@ -4644,12 +4644,12 @@ score:
       landedDistance: 127.682 km
   - - - '28'
       - Mikhail Karmazin
-    - place: '18'
-      total: 490
+    - place: 18=
+      total: 491
       breakdown:
         reach: 267.514
-        effort: 222.037
-        distance: 489.551
+        effort: 223.804
+        distance: 491.317
         leading: 0
         arrival: 0
         time: 0
@@ -4666,12 +4666,12 @@ score:
       landedDistance: 126.919 km
   - - - '36'
       - Steve Docherty
-    - place: '19'
-      total: 489
+    - place: 18=
+      total: 491
       breakdown:
         reach: 266.917
-        effort: 222.037
-        distance: 488.954
+        effort: 223.804
+        distance: 490.721
         leading: 0
         arrival: 0
         time: 0
@@ -4689,11 +4689,11 @@ score:
   - - - '62'
       - Josh Woods
     - place: '20'
-      total: 474
+      total: 476
       breakdown:
         reach: 266.464
-        effort: 207.804
-        distance: 474.268
+        effort: 209.816
+        distance: 476.28
         leading: 0
         arrival: 0
         time: 0
@@ -4711,11 +4711,11 @@ score:
   - - - '6'
       - Yoko Sano
     - place: '21'
-      total: 454
+      total: 457
       breakdown:
         reach: 263.55
-        effort: 190.724
-        distance: 454.275
+        effort: 193.031
+        distance: 456.581
         leading: 0
         arrival: 0
         time: 0
@@ -4733,11 +4733,11 @@ score:
   - - - '64'
       - Longfei Yang
     - place: '22'
-      total: 414
+      total: 417
       breakdown:
         reach: 243.144
-        effort: 170.798
-        distance: 413.942
+        effort: 173.448
+        distance: 416.592
         leading: 0
         arrival: 0
         time: 0
@@ -4755,11 +4755,11 @@ score:
   - - - '75'
       - Yasuhiro Noma
     - place: '23'
-      total: 394
+      total: 397
       breakdown:
         reach: 240.054
-        effort: 153.718
-        distance: 393.772
+        effort: 156.663
+        distance: 396.717
         leading: 0
         arrival: 0
         time: 0
@@ -4777,11 +4777,11 @@ score:
   - - - '98'
       - Oyvind Ellefsen
     - place: '24'
-      total: 393
+      total: 396
       breakdown:
         reach: 239.759
-        effort: 153.718
-        distance: 393.477
+        effort: 156.663
+        distance: 396.422
         leading: 0
         arrival: 0
         time: 0
@@ -4799,11 +4799,11 @@ score:
   - - - '41'
       - Tony Armstrong
     - place: '25'
-      total: 375
+      total: 379
       breakdown:
         reach: 238.646
-        effort: 136.638
-        distance: 375.284
+        effort: 139.877
+        distance: 378.523
         leading: 0
         arrival: 0
         time: 0
@@ -4821,11 +4821,11 @@ score:
   - - - '7'
       - Olav Opsanger
     - place: '26'
-      total: 353
+      total: 357
       breakdown:
         reach: 236.209
-        effort: 116.712
-        distance: 352.921
+        effort: 120.295
+        distance: 356.503
         leading: 0
         arrival: 0
         time: 0
@@ -4843,11 +4843,11 @@ score:
   - - - '103'
       - Wayne Thompson
     - place: '27'
-      total: 331
+      total: 329
       breakdown:
         reach: 228.474
-        effort: 102.479
-        distance: 330.953
+        effort: 100.712
+        distance: 329.186
         leading: 0
         arrival: 0
         time: 0
@@ -4865,11 +4865,11 @@ score:
   - - - '68'
       - Neale Halsall
     - place: '28'
-      total: 292
+      total: 291
       breakdown:
         reach: 203.804
-        effort: 88.245
-        distance: 292.049
+        effort: 86.724
+        distance: 290.528
         leading: 0
         arrival: 0
         time: 0
@@ -4887,11 +4887,11 @@ score:
   - - - '52'
       - Dale Regehr
     - place: '29'
-      total: 290
+      total: 289
       breakdown:
         reach: 202.046
-        effort: 88.245
-        distance: 290.291
+        effort: 86.724
+        distance: 288.77
         leading: 0
         arrival: 0
         time: 0
@@ -4909,11 +4909,11 @@ score:
   - - - '25'
       - Tyler Borrdaile
     - place: '30'
-      total: 283
+      total: 281
       breakdown:
         reach: 200.007
-        effort: 82.552
-        distance: 282.559
+        effort: 81.129
+        distance: 281.136
         leading: 0
         arrival: 0
         time: 0
@@ -4931,11 +4931,11 @@ score:
   - - - '42'
       - Rob de Groot
     - place: '31'
-      total: 267
+      total: 266
       breakdown:
         reach: 193.441
-        effort: 74.012
-        distance: 267.453
+        effort: 72.736
+        distance: 266.177
         leading: 0
         arrival: 0
         time: 0
@@ -4953,11 +4953,11 @@ score:
   - - - '34'
       - Brad Porter
     - place: '32'
-      total: 253
+      total: 252
       breakdown:
         reach: 187.565
-        effort: 65.472
-        distance: 253.038
+        effort: 64.344
+        distance: 251.909
         leading: 0
         arrival: 0
         time: 0
@@ -4975,11 +4975,11 @@ score:
   - - - '107'
       - Anatoly Reyter
     - place: '33'
-      total: 243
+      total: 242
       breakdown:
         reach: 189.222
-        effort: 54.086
-        distance: 243.308
+        effort: 53.153
+        distance: 242.376
         leading: 0
         arrival: 0
         time: 0
@@ -5000,8 +5000,8 @@ score:
       total: 219
       breakdown:
         reach: 179.348
-        effort: 39.853
-        distance: 219.201
+        effort: 39.166
+        distance: 218.514
         leading: 0
         arrival: 0
         time: 0
@@ -5019,11 +5019,11 @@ score:
   - - - '8'
       - Gordon Rigg
     - place: '35'
-      total: 170
+      total: 169
       breakdown:
         reach: 146.789
-        effort: 22.773
-        distance: 169.562
+        effort: 22.38
+        distance: 169.17
         leading: 0
         arrival: 0
         time: 0
@@ -5044,8 +5044,8 @@ score:
       total: 155
       breakdown:
         reach: 141.224
-        effort: 14.233
-        distance: 155.457
+        effort: 13.988
+        distance: 155.212
         leading: 0
         arrival: 0
         time: 0
@@ -5066,8 +5066,8 @@ score:
       total: 39
       breakdown:
         reach: 30.264
-        effort: 8.54
-        distance: 38.804
+        effort: 8.393
+        distance: 38.657
         leading: 0
         arrival: 0
         time: 0
@@ -5088,8 +5088,8 @@ score:
       total: 27
       breakdown:
         reach: 21.081
-        effort: 5.693
-        distance: 26.774
+        effort: 5.595
+        distance: 26.676
         leading: 0
         arrival: 0
         time: 0
@@ -5102,8 +5102,8 @@ score:
       total: 27
       breakdown:
         reach: 21.081
-        effort: 5.693
-        distance: 26.774
+        effort: 5.595
+        distance: 26.676
         leading: 0
         arrival: 0
         time: 0
@@ -6601,11 +6601,11 @@ score:
   - - - '76'
       - Rory Duncan
     - place: '24'
-      total: 360
+      total: 361
       breakdown:
         reach: 163.179
-        effort: 197.308
-        distance: 360.487
+        effort: 197.801
+        distance: 360.98
         leading: 0
         arrival: 0
         time: 0
@@ -6645,11 +6645,11 @@ score:
   - - - '28'
       - Mikhail Karmazin
     - place: '26'
-      total: 324
+      total: 325
       breakdown:
         reach: 133.476
-        effort: 190.504
-        distance: 323.98
+        effort: 191.983
+        distance: 325.459
         leading: 0
         arrival: 0
         time: 0
@@ -6667,11 +6667,11 @@ score:
   - - - '103'
       - Wayne Thompson
     - place: '27'
-      total: 315
+      total: 318
       breakdown:
         reach: 134.608
-        effort: 180.299
-        distance: 314.906
+        effort: 183.257
+        distance: 317.864
         leading: 0
         arrival: 0
         time: 0
@@ -6689,11 +6689,11 @@ score:
   - - - '80'
       - Michael Cassells
     - place: '28'
-      total: 292
+      total: 297
       breakdown:
         reach: 124.885
-        effort: 166.691
-        distance: 291.576
+        effort: 171.621
+        distance: 296.506
         leading: 0
         arrival: 0
         time: 0
@@ -6711,11 +6711,11 @@ score:
   - - - '4'
       - Frank Chetcuti
     - place: '29'
-      total: 272
+      total: 280
       breakdown:
         reach: 122.582
-        effort: 149.682
-        distance: 272.264
+        effort: 157.077
+        distance: 279.66
         leading: 0
         arrival: 0
         time: 0
@@ -6733,11 +6733,11 @@ score:
   - - - '23'
       - Nils Vesk
     - place: '30'
-      total: 245
+      total: 255
       breakdown:
         reach: 115.864
-        effort: 129.271
-        distance: 245.135
+        effort: 139.624
+        distance: 255.488
         leading: 0
         arrival: 0
         time: 0
@@ -6752,14 +6752,28 @@ score:
         gsVelocity: null
       reachDistance: 99.376 km
       landedDistance: 104.687 km
+  - - - '85'
+      - Rick Martin
+    - place: '31'
+      total: 230
+      breakdown:
+        reach: 110.798
+        effort: 119.262
+        distance: 230.06
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 95.030 km
+      landedDistance: 95.030 km
   - - - '83'
       - Randal Clotworthy
-    - place: '31'
-      total: 207
+    - place: '32'
+      total: 200
       breakdown:
         reach: 101.161
-        effort: 105.458
-        distance: 206.619
+        effort: 98.9
+        distance: 200.061
         leading: 0
         arrival: 0
         time: 0
@@ -6776,12 +6790,12 @@ score:
       landedDistance: 93.236 km
   - - - '36'
       - Steve Docherty
-    - place: '32'
-      total: 202
+    - place: '33'
+      total: 196
       breakdown:
         reach: 117.441
-        effort: 85.047
-        distance: 202.487
+        effort: 78.539
+        distance: 195.979
         leading: 0
         arrival: 0
         time: 0
@@ -6798,12 +6812,12 @@ score:
       landedDistance: 73.431 km
   - - - '25'
       - Tyler Borrdaile
-    - place: '33'
-      total: 177
+    - place: '34'
+      total: 168
       breakdown:
         reach: 112.397
-        effort: 64.635
-        distance: 177.032
+        effort: 55.268
+        distance: 167.665
         leading: 0
         arrival: 0
         time: 0
@@ -6820,12 +6834,12 @@ score:
       landedDistance: 67.061 km
   - - - '34'
       - Brad Porter
-    - place: '34'
-      total: 146
+    - place: '35'
+      total: 139
       breakdown:
         reach: 71.602
-        effort: 74.841
-        distance: 146.443
+        effort: 66.903
+        distance: 138.506
         leading: 0
         arrival: 0
         time: 0
@@ -6842,12 +6856,12 @@ score:
       landedDistance: 67.108 km
   - - - '106'
       - Jon Durand Snr
-    - place: '35'
-      total: 136
+    - place: '36'
+      total: 127
       breakdown:
         reach: 71.501
-        effort: 64.635
-        distance: 136.136
+        effort: 55.268
+        distance: 126.769
         leading: 0
         arrival: 0
         time: 0
@@ -6864,12 +6878,12 @@ score:
       landedDistance: 67.029 km
   - - - '64'
       - Longfei Yang
-    - place: '36'
-      total: 118
+    - place: '37'
+      total: 108
       breakdown:
         reach: 66.891
-        effort: 51.028
-        distance: 117.919
+        effort: 40.724
+        distance: 107.615
         leading: 0
         arrival: 0
         time: 0
@@ -6884,28 +6898,14 @@ score:
         gsVelocity: null
       reachDistance: 57.372 km
       landedDistance: 63.566 km
-  - - - '85'
-      - Rick Martin
-    - place: '37'
-      total: 111
-      breakdown:
-        reach: 110.798
-        effort: 0
-        distance: 110.798
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 95.030 km
-      landedDistance: 95.030 km
   - - - '98'
       - Oyvind Ellefsen
     - place: '38'
-      total: 95
+      total: 84
       breakdown:
         reach: 60.602
-        effort: 34.019
-        distance: 94.62
+        effort: 23.271
+        distance: 83.873
         leading: 0
         arrival: 0
         time: 0
@@ -6923,11 +6923,11 @@ score:
   - - - '14'
       - Peter Burkitt
     - place: '39'
-      total: 50
+      total: 42
       breakdown:
         reach: 33.259
-        effort: 17.009
-        distance: 50.268
+        effort: 8.727
+        distance: 41.985
         leading: 0
         arrival: 0
         time: 0
@@ -7342,11 +7342,11 @@ scoreDf:
   - - - '15'
       - Ryosuke Hattori
     - place: '19'
-      total: 437
+      total: 439
       breakdown:
         reach: 202.417
-        effort: 235.037
-        distance: 437.454
+        effort: 236.377
+        distance: 438.794
         leading: 0
         arrival: 0
         time: 0
@@ -7364,11 +7364,11 @@ scoreDf:
   - - - '108'
       - Peter Adriaans
     - place: '20'
-      total: 405
+      total: 382
       breakdown:
         reach: 176.886
-        effort: 228.416
-        distance: 405.302
+        effort: 204.86
+        distance: 381.746
         leading: 0
         arrival: 0
         time: 0
@@ -7386,11 +7386,11 @@ scoreDf:
   - - - '41'
       - Tony Armstrong
     - place: '21'
-      total: 392
+      total: 363
       breakdown:
         reach: 169.884
-        effort: 221.795
-        distance: 391.679
+        effort: 193.041
+        distance: 362.925
         leading: 0
         arrival: 0
         time: 0
@@ -7408,11 +7408,11 @@ scoreDf:
   - - - '72'
       - Sasha Serebrennikova
     - place: '22'
-      total: 376
+      total: 330
       breakdown:
         reach: 160.878
-        effort: 215.174
-        distance: 376.052
+        effort: 169.404
+        distance: 330.282
         leading: 0
         arrival: 0
         time: 0
@@ -7430,11 +7430,11 @@ scoreDf:
   - - - '68'
       - Neale Halsall
     - place: '23'
-      total: 354
+      total: 306
       breakdown:
         reach: 148.901
-        effort: 205.243
-        distance: 354.145
+        effort: 157.585
+        distance: 306.486
         leading: 0
         arrival: 0
         time: 0
@@ -7452,11 +7452,11 @@ scoreDf:
   - - - '28'
       - Mikhail Karmazin
     - place: '24'
-      total: 317
+      total: 256
       breakdown:
         reach: 121.554
-        effort: 195.312
-        distance: 316.867
+        effort: 133.947
+        distance: 255.501
         leading: 0
         arrival: 0
         time: 0
@@ -7474,11 +7474,11 @@ scoreDf:
   - - - '64'
       - Longfei Yang
     - place: '25'
-      total: 293
+      total: 231
       breakdown:
         reach: 100.823
-        effort: 192.002
-        distance: 292.824
+        effort: 130.007
+        distance: 230.83
         leading: 0
         arrival: 0
         time: 0
@@ -7496,11 +7496,11 @@ scoreDf:
   - - - '98'
       - Oyvind Ellefsen
     - place: '26'
-      total: 281
+      total: 222
       breakdown:
         reach: 95.982
-        effort: 185.381
-        distance: 281.363
+        effort: 126.068
+        distance: 222.05
         leading: 0
         arrival: 0
         time: 0
@@ -7518,11 +7518,11 @@ scoreDf:
   - - - '43'
       - Jonny Durand
     - place: '27'
-      total: 271
+      total: 215
       breakdown:
         reach: 92.662
-        effort: 178.76
-        distance: 271.422
+        effort: 122.128
+        distance: 214.79
         leading: 0
         arrival: 0
         time: 0
@@ -7540,11 +7540,11 @@ scoreDf:
   - - - '107'
       - Anatoly Reyter
     - place: '28'
-      total: 260
+      total: 207
       breakdown:
         reach: 90.936
-        effort: 168.829
-        distance: 259.765
+        effort: 116.219
+        distance: 207.154
         leading: 0
         arrival: 0
         time: 0
@@ -7562,11 +7562,11 @@ scoreDf:
   - - - '4'
       - Frank Chetcuti
     - place: '29'
-      total: 234
+      total: 177
       breakdown:
         reach: 78.872
-        effort: 155.588
-        distance: 234.46
+        effort: 98.491
+        distance: 177.363
         leading: 0
         arrival: 0
         time: 0
@@ -7584,11 +7584,11 @@ scoreDf:
   - - - '80'
       - Michael Cassells
     - place: '30'
-      total: 219
+      total: 166
       breakdown:
         reach: 76.891
-        effort: 142.346
-        distance: 219.237
+        effort: 88.641
+        distance: 165.532
         leading: 0
         arrival: 0
         time: 0
@@ -7606,11 +7606,11 @@ scoreDf:
   - - - '71'
       - Rob Larkin
     - place: '31'
-      total: 195
+      total: 146
       breakdown:
         reach: 69.187
-        effort: 125.794
-        distance: 194.982
+        effort: 76.823
+        distance: 146.01
         leading: 0
         arrival: 0
         time: 0
@@ -7628,11 +7628,11 @@ scoreDf:
   - - - '86'
       - Ross Smith
     - place: '32'
-      total: 177
+      total: 131
       breakdown:
         reach: 64.17
-        effort: 112.553
-        distance: 176.722
+        effort: 66.974
+        distance: 131.143
         leading: 0
         arrival: 0
         time: 0
@@ -7650,11 +7650,11 @@ scoreDf:
   - - - '100'
       - Malcolm Brown
     - place: '33'
-      total: 133
+      total: 93
       breakdown:
         reach: 33.795
-        effort: 99.311
-        distance: 133.106
+        effort: 59.094
+        distance: 92.889
         leading: 0
         arrival: 0
         time: 0
@@ -7672,11 +7672,11 @@ scoreDf:
   - - - '34'
       - Brad Porter
     - place: '34'
-      total: 123
+      total: 85
       breakdown:
         reach: 27.425
-        effort: 96.001
-        distance: 123.426
+        effort: 57.124
+        distance: 84.549
         leading: 0
         arrival: 0
         time: 0
@@ -7694,11 +7694,11 @@ scoreDf:
   - - - '14'
       - Peter Burkitt
     - place: '35'
-      total: 113
+      total: 77
       breakdown:
         reach: 23.347
-        effort: 89.38
-        distance: 112.727
+        effort: 53.185
+        distance: 76.532
         leading: 0
         arrival: 0
         time: 0
@@ -7716,11 +7716,11 @@ scoreDf:
   - - - '67'
       - Mark Alton
     - place: '36'
-      total: 102
+      total: 70
       breakdown:
         reach: 22.28
-        effort: 79.449
-        distance: 101.729
+        effort: 47.275
+        distance: 69.556
         leading: 0
         arrival: 0
         time: 0
@@ -7738,11 +7738,11 @@ scoreDf:
   - - - '88'
       - Simon West
     - place: '37'
-      total: 83
+      total: 56
       breakdown:
         reach: 16.692
-        effort: 66.208
-        distance: 82.9
+        effort: 39.396
+        distance: 56.089
         leading: 0
         arrival: 0
         time: 0
@@ -7760,11 +7760,11 @@ scoreDf:
   - - - '94'
       - Justinas Pleikys
     - place: '38'
-      total: 66
+      total: 46
       breakdown:
         reach: 16.692
-        effort: 49.656
-        distance: 66.348
+        effort: 29.547
+        distance: 46.239
         leading: 0
         arrival: 0
         time: 0
@@ -7782,11 +7782,11 @@ scoreDf:
   - - - '55'
       - Don Cramer
     - place: '39'
-      total: 46
+      total: 34
       breakdown:
         reach: 16.692
-        effort: 29.793
-        distance: 46.486
+        effort: 17.728
+        distance: 34.421
         leading: 0
         arrival: 0
         time: 0
@@ -7804,11 +7804,11 @@ scoreDf:
   - - - '77'
       - Brodrick Osborne
     - place: '40'
-      total: 30
+      total: 25
       breakdown:
         reach: 16.692
-        effort: 13.242
-        distance: 29.934
+        effort: 7.879
+        distance: 24.572
         leading: 0
         arrival: 0
         time: 0
@@ -10048,11 +10048,11 @@ scoreDf:
   - - - '37'
       - Gavin Myers
     - place: '18'
-      total: 510
+      total: 511
       breakdown:
         reach: 245.416
-        effort: 265.031
-        distance: 510.448
+        effort: 265.304
+        distance: 510.72
         leading: 0
         arrival: 0
         time: 0
@@ -10070,11 +10070,11 @@ scoreDf:
   - - - '51'
       - Craig Taylor
     - place: '19'
-      total: 501
+      total: 502
       breakdown:
         reach: 243.054
-        effort: 257.77
-        distance: 500.825
+        effort: 258.587
+        distance: 501.641
         leading: 0
         arrival: 0
         time: 0
@@ -10092,11 +10092,11 @@ scoreDf:
   - - - '22'
       - Rohan Taylor
     - place: '20'
-      total: 484
+      total: 486
       breakdown:
         reach: 237.436
-        effort: 246.879
-        distance: 484.314
+        effort: 248.512
+        distance: 485.948
         leading: 0
         arrival: 0
         time: 0
@@ -10114,11 +10114,11 @@ scoreDf:
   - - - '80'
       - Michael Cassells
     - place: '21'
-      total: 462
+      total: 465
       breakdown:
         reach: 229.487
-        effort: 232.356
-        distance: 461.843
+        effort: 235.079
+        distance: 464.566
         leading: 0
         arrival: 0
         time: 0
@@ -10136,11 +10136,11 @@ scoreDf:
   - - - '77'
       - Brodrick Osborne
     - place: '22'
-      total: 437
+      total: 441
       breakdown:
         reach: 222.462
-        effort: 214.203
-        distance: 436.665
+        effort: 218.288
+        distance: 440.75
         leading: 0
         arrival: 0
         time: 0
@@ -10158,11 +10158,11 @@ scoreDf:
   - - - '42'
       - Rob de Groot
     - place: '23'
-      total: 406
+      total: 412
       breakdown:
         reach: 213.506
-        effort: 192.42
-        distance: 405.926
+        effort: 198.138
+        distance: 411.644
         leading: 0
         arrival: 0
         time: 0
@@ -10180,11 +10180,11 @@ scoreDf:
   - - - '68'
       - Neale Halsall
     - place: '24'
-      total: 377
+      total: 384
       breakdown:
         reach: 199.443
-        effort: 177.898
-        distance: 377.341
+        effort: 184.705
+        distance: 384.148
         leading: 0
         arrival: 0
         time: 0
@@ -10202,11 +10202,11 @@ scoreDf:
   - - - '103'
       - Wayne Thompson
     - place: '25'
-      total: 351
+      total: 359
       breakdown:
         reach: 184.085
-        effort: 167.006
-        distance: 351.091
+        effort: 174.63
+        distance: 358.715
         leading: 0
         arrival: 0
         time: 0
@@ -10224,11 +10224,11 @@ scoreDf:
   - - - '34'
       - Brad Porter
     - place: '26'
-      total: 324
+      total: 332
       breakdown:
         reach: 164.317
-        effort: 159.745
-        distance: 324.062
+        effort: 167.914
+        distance: 332.231
         leading: 0
         arrival: 0
         time: 0
@@ -10246,11 +10246,11 @@ scoreDf:
   - - - '52'
       - Dale Regehr
     - place: '27'
-      total: 312
+      total: 321
       breakdown:
         reach: 159.909
-        effort: 152.484
-        distance: 312.393
+        effort: 161.197
+        distance: 321.106
         leading: 0
         arrival: 0
         time: 0
@@ -10268,11 +10268,11 @@ scoreDf:
   - - - '28'
       - Mikhail Karmazin
     - place: '28'
-      total: 284
+      total: 283
       breakdown:
         reach: 141.919
-        effort: 141.592
-        distance: 283.511
+        effort: 141.048
+        distance: 282.967
         leading: 0
         arrival: 0
         time: 0
@@ -10290,11 +10290,11 @@ scoreDf:
   - - - '88'
       - Simon West
     - place: '29'
-      total: 274
+      total: 271
       breakdown:
         reach: 142.984
-        effort: 130.7
-        distance: 273.684
+        effort: 127.614
+        distance: 270.598
         leading: 0
         arrival: 0
         time: 0
@@ -10312,11 +10312,11 @@ scoreDf:
   - - - '92'
       - Attila Bertok
     - place: '30'
-      total: 255
+      total: 249
       breakdown:
         reach: 138.535
-        effort: 116.178
-        distance: 254.713
+        effort: 110.823
+        distance: 249.358
         leading: 0
         arrival: 0
         time: 0
@@ -10334,11 +10334,11 @@ scoreDf:
   - - - '75'
       - Yasuhiro Noma
     - place: '31'
-      total: 226
+      total: 218
       breakdown:
         reach: 127.673
-        effort: 98.025
-        distance: 225.698
+        effort: 90.673
+        distance: 218.347
         leading: 0
         arrival: 0
         time: 0
@@ -10356,11 +10356,11 @@ scoreDf:
   - - - '67'
       - Mark Alton
     - place: '32'
-      total: 208
+      total: 202
       breakdown:
         reach: 124.31
-        effort: 83.503
-        distance: 207.813
+        effort: 77.24
+        distance: 201.551
         leading: 0
         arrival: 0
         time: 0
@@ -10378,11 +10378,11 @@ scoreDf:
   - - - '71'
       - Rob Larkin
     - place: '33'
-      total: 186
+      total: 181
       breakdown:
         reach: 120.941
-        effort: 65.35
-        distance: 186.291
+        effort: 60.449
+        distance: 181.39
         leading: 0
         arrival: 0
         time: 0
@@ -10400,11 +10400,11 @@ scoreDf:
   - - - '74'
       - Vic Hare
     - place: '34'
-      total: 137
+      total: 134
       breakdown:
         reach: 93.792
-        effort: 43.567
-        distance: 137.359
+        effort: 40.299
+        distance: 134.092
         leading: 0
         arrival: 0
         time: 0
@@ -10422,11 +10422,11 @@ scoreDf:
   - - - '106'
       - Jon Durand Snr
     - place: '35'
-      total: 104
+      total: 101
       breakdown:
         reach: 64.438
-        effort: 39.936
-        distance: 104.375
+        effort: 36.941
+        distance: 101.379
         leading: 0
         arrival: 0
         time: 0
@@ -10444,11 +10444,11 @@ scoreDf:
   - - - '83'
       - Randal Clotworthy
     - place: '36'
-      total: 74
+      total: 72
       breakdown:
         reach: 38.178
-        effort: 36.306
-        distance: 74.483
+        effort: 33.583
+        distance: 71.76
         leading: 0
         arrival: 0
         time: 0
@@ -10466,11 +10466,11 @@ scoreDf:
   - - - '64'
       - Longfei Yang
     - place: '37'
-      total: 68
+      total: 66
       breakdown:
         reach: 38.695
-        effort: 29.045
-        distance: 67.739
+        effort: 26.866
+        distance: 65.561
         leading: 0
         arrival: 0
         time: 0
@@ -10488,11 +10488,11 @@ scoreDf:
   - - - '81'
       - Nick Purcell
     - place: '38'
-      total: 56
+      total: 55
       breakdown:
         reach: 38.214
-        effort: 18.153
-        distance: 56.367
+        effort: 16.791
+        distance: 55.006
         leading: 0
         arrival: 0
         time: 0
@@ -10510,11 +10510,11 @@ scoreDf:
   - - - '14'
       - Peter Burkitt
     - place: 39=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -10532,11 +10532,11 @@ scoreDf:
   - - - '6'
       - Yoko Sano
     - place: 39=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -10755,8 +10755,8 @@ scoreDf:
       total: 628
       breakdown:
         reach: 306.112
-        effort: 321.669
-        distance: 627.781
+        effort: 321.718
+        distance: 627.83
         leading: 0
         arrival: 0
         time: 0
@@ -10777,8 +10777,8 @@ scoreDf:
       total: 621
       breakdown:
         reach: 305.086
-        effort: 315.976
-        distance: 621.061
+        effort: 316.123
+        distance: 621.209
         leading: 0
         arrival: 0
         time: 0
@@ -10799,8 +10799,8 @@ scoreDf:
       total: 612
       breakdown:
         reach: 304.24
-        effort: 307.436
-        distance: 611.676
+        effort: 307.73
+        distance: 611.971
         leading: 0
         arrival: 0
         time: 0
@@ -10818,11 +10818,11 @@ scoreDf:
   - - - '4'
       - Frank Chetcuti
     - place: '13'
-      total: 598
+      total: 599
       breakdown:
         reach: 302.364
-        effort: 296.049
-        distance: 598.413
+        effort: 296.54
+        distance: 598.904
         leading: 0
         arrival: 0
         time: 0
@@ -10840,11 +10840,11 @@ scoreDf:
   - - - '15'
       - Ryosuke Hattori
     - place: '14'
-      total: 568
+      total: 569
       breakdown:
         reach: 286.261
-        effort: 281.816
-        distance: 568.077
+        effort: 282.552
+        distance: 568.813
         leading: 0
         arrival: 0
         time: 0
@@ -10862,11 +10862,11 @@ scoreDf:
   - - - '92'
       - Attila Bertok
     - place: '15'
-      total: 548
+      total: 549
       breakdown:
         reach: 283.219
-        effort: 264.736
-        distance: 547.955
+        effort: 265.767
+        distance: 548.986
         leading: 0
         arrival: 0
         time: 0
@@ -10884,11 +10884,11 @@ scoreDf:
   - - - '74'
       - Vic Hare
     - place: '16'
-      total: 517
+      total: 519
       breakdown:
         reach: 272.493
-        effort: 244.81
-        distance: 517.303
+        effort: 246.184
+        distance: 518.677
         leading: 0
         arrival: 0
         time: 0
@@ -10906,11 +10906,11 @@ scoreDf:
   - - - '72'
       - Sasha Serebrennikova
     - place: '17'
-      total: 502
+      total: 504
       breakdown:
         reach: 268.778
-        effort: 233.423
-        distance: 502.202
+        effort: 234.994
+        distance: 503.772
         leading: 0
         arrival: 0
         time: 0
@@ -10927,12 +10927,12 @@ scoreDf:
       landedDistance: 127.682 km
   - - - '28'
       - Mikhail Karmazin
-    - place: '18'
-      total: 490
+    - place: 18=
+      total: 491
       breakdown:
         reach: 267.514
-        effort: 222.037
-        distance: 489.551
+        effort: 223.804
+        distance: 491.317
         leading: 0
         arrival: 0
         time: 0
@@ -10949,12 +10949,12 @@ scoreDf:
       landedDistance: 126.919 km
   - - - '36'
       - Steve Docherty
-    - place: '19'
-      total: 489
+    - place: 18=
+      total: 491
       breakdown:
         reach: 266.917
-        effort: 222.037
-        distance: 488.954
+        effort: 223.804
+        distance: 490.721
         leading: 0
         arrival: 0
         time: 0
@@ -10972,11 +10972,11 @@ scoreDf:
   - - - '62'
       - Josh Woods
     - place: '20'
-      total: 474
+      total: 476
       breakdown:
         reach: 266.464
-        effort: 207.804
-        distance: 474.268
+        effort: 209.816
+        distance: 476.28
         leading: 0
         arrival: 0
         time: 0
@@ -10994,11 +10994,11 @@ scoreDf:
   - - - '6'
       - Yoko Sano
     - place: '21'
-      total: 454
+      total: 457
       breakdown:
         reach: 263.55
-        effort: 190.724
-        distance: 454.275
+        effort: 193.031
+        distance: 456.581
         leading: 0
         arrival: 0
         time: 0
@@ -11016,11 +11016,11 @@ scoreDf:
   - - - '64'
       - Longfei Yang
     - place: '22'
-      total: 414
+      total: 417
       breakdown:
         reach: 243.144
-        effort: 170.798
-        distance: 413.942
+        effort: 173.448
+        distance: 416.592
         leading: 0
         arrival: 0
         time: 0
@@ -11038,11 +11038,11 @@ scoreDf:
   - - - '75'
       - Yasuhiro Noma
     - place: '23'
-      total: 394
+      total: 397
       breakdown:
         reach: 240.054
-        effort: 153.718
-        distance: 393.772
+        effort: 156.663
+        distance: 396.717
         leading: 0
         arrival: 0
         time: 0
@@ -11060,11 +11060,11 @@ scoreDf:
   - - - '98'
       - Oyvind Ellefsen
     - place: '24'
-      total: 393
+      total: 396
       breakdown:
         reach: 239.759
-        effort: 153.718
-        distance: 393.477
+        effort: 156.663
+        distance: 396.422
         leading: 0
         arrival: 0
         time: 0
@@ -11082,11 +11082,11 @@ scoreDf:
   - - - '41'
       - Tony Armstrong
     - place: '25'
-      total: 375
+      total: 379
       breakdown:
         reach: 238.646
-        effort: 136.638
-        distance: 375.284
+        effort: 139.877
+        distance: 378.523
         leading: 0
         arrival: 0
         time: 0
@@ -11104,11 +11104,11 @@ scoreDf:
   - - - '7'
       - Olav Opsanger
     - place: '26'
-      total: 353
+      total: 357
       breakdown:
         reach: 236.209
-        effort: 116.712
-        distance: 352.921
+        effort: 120.295
+        distance: 356.503
         leading: 0
         arrival: 0
         time: 0
@@ -11126,11 +11126,11 @@ scoreDf:
   - - - '103'
       - Wayne Thompson
     - place: '27'
-      total: 331
+      total: 329
       breakdown:
         reach: 228.474
-        effort: 102.479
-        distance: 330.953
+        effort: 100.712
+        distance: 329.186
         leading: 0
         arrival: 0
         time: 0
@@ -11148,11 +11148,11 @@ scoreDf:
   - - - '68'
       - Neale Halsall
     - place: '28'
-      total: 292
+      total: 291
       breakdown:
         reach: 203.804
-        effort: 88.245
-        distance: 292.049
+        effort: 86.724
+        distance: 290.528
         leading: 0
         arrival: 0
         time: 0
@@ -11170,11 +11170,11 @@ scoreDf:
   - - - '52'
       - Dale Regehr
     - place: '29'
-      total: 290
+      total: 289
       breakdown:
         reach: 202.046
-        effort: 88.245
-        distance: 290.291
+        effort: 86.724
+        distance: 288.77
         leading: 0
         arrival: 0
         time: 0
@@ -11192,11 +11192,11 @@ scoreDf:
   - - - '25'
       - Tyler Borrdaile
     - place: '30'
-      total: 283
+      total: 281
       breakdown:
         reach: 200.007
-        effort: 82.552
-        distance: 282.559
+        effort: 81.129
+        distance: 281.136
         leading: 0
         arrival: 0
         time: 0
@@ -11214,11 +11214,11 @@ scoreDf:
   - - - '42'
       - Rob de Groot
     - place: '31'
-      total: 267
+      total: 266
       breakdown:
         reach: 193.441
-        effort: 74.012
-        distance: 267.453
+        effort: 72.736
+        distance: 266.177
         leading: 0
         arrival: 0
         time: 0
@@ -11236,11 +11236,11 @@ scoreDf:
   - - - '34'
       - Brad Porter
     - place: '32'
-      total: 253
+      total: 252
       breakdown:
         reach: 187.565
-        effort: 65.472
-        distance: 253.038
+        effort: 64.344
+        distance: 251.909
         leading: 0
         arrival: 0
         time: 0
@@ -11258,11 +11258,11 @@ scoreDf:
   - - - '107'
       - Anatoly Reyter
     - place: '33'
-      total: 243
+      total: 242
       breakdown:
         reach: 189.222
-        effort: 54.086
-        distance: 243.308
+        effort: 53.153
+        distance: 242.376
         leading: 0
         arrival: 0
         time: 0
@@ -11283,8 +11283,8 @@ scoreDf:
       total: 219
       breakdown:
         reach: 179.348
-        effort: 39.853
-        distance: 219.201
+        effort: 39.166
+        distance: 218.514
         leading: 0
         arrival: 0
         time: 0
@@ -11302,11 +11302,11 @@ scoreDf:
   - - - '8'
       - Gordon Rigg
     - place: '35'
-      total: 170
+      total: 169
       breakdown:
         reach: 146.789
-        effort: 22.773
-        distance: 169.562
+        effort: 22.38
+        distance: 169.17
         leading: 0
         arrival: 0
         time: 0
@@ -11327,8 +11327,8 @@ scoreDf:
       total: 155
       breakdown:
         reach: 141.224
-        effort: 14.233
-        distance: 155.457
+        effort: 13.988
+        distance: 155.212
         leading: 0
         arrival: 0
         time: 0
@@ -11349,8 +11349,8 @@ scoreDf:
       total: 39
       breakdown:
         reach: 30.264
-        effort: 8.54
-        distance: 38.804
+        effort: 8.393
+        distance: 38.657
         leading: 0
         arrival: 0
         time: 0
@@ -12842,11 +12842,11 @@ scoreDf:
   - - - '76'
       - Rory Duncan
     - place: '24'
-      total: 360
+      total: 361
       breakdown:
         reach: 163.179
-        effort: 197.308
-        distance: 360.487
+        effort: 197.801
+        distance: 360.98
         leading: 0
         arrival: 0
         time: 0
@@ -12886,11 +12886,11 @@ scoreDf:
   - - - '28'
       - Mikhail Karmazin
     - place: '26'
-      total: 324
+      total: 325
       breakdown:
         reach: 133.476
-        effort: 190.504
-        distance: 323.98
+        effort: 191.983
+        distance: 325.459
         leading: 0
         arrival: 0
         time: 0
@@ -12908,11 +12908,11 @@ scoreDf:
   - - - '103'
       - Wayne Thompson
     - place: '27'
-      total: 315
+      total: 318
       breakdown:
         reach: 134.608
-        effort: 180.299
-        distance: 314.906
+        effort: 183.257
+        distance: 317.864
         leading: 0
         arrival: 0
         time: 0
@@ -12930,11 +12930,11 @@ scoreDf:
   - - - '80'
       - Michael Cassells
     - place: '28'
-      total: 292
+      total: 297
       breakdown:
         reach: 124.885
-        effort: 166.691
-        distance: 291.576
+        effort: 171.621
+        distance: 296.506
         leading: 0
         arrival: 0
         time: 0
@@ -12952,11 +12952,11 @@ scoreDf:
   - - - '4'
       - Frank Chetcuti
     - place: '29'
-      total: 272
+      total: 280
       breakdown:
         reach: 122.582
-        effort: 149.682
-        distance: 272.264
+        effort: 157.077
+        distance: 279.66
         leading: 0
         arrival: 0
         time: 0
@@ -12974,11 +12974,11 @@ scoreDf:
   - - - '23'
       - Nils Vesk
     - place: '30'
-      total: 245
+      total: 255
       breakdown:
         reach: 115.864
-        effort: 129.271
-        distance: 245.135
+        effort: 139.624
+        distance: 255.488
         leading: 0
         arrival: 0
         time: 0
@@ -12996,11 +12996,11 @@ scoreDf:
   - - - '83'
       - Randal Clotworthy
     - place: '31'
-      total: 207
+      total: 200
       breakdown:
         reach: 101.161
-        effort: 105.458
-        distance: 206.619
+        effort: 98.9
+        distance: 200.061
         leading: 0
         arrival: 0
         time: 0
@@ -13018,11 +13018,11 @@ scoreDf:
   - - - '36'
       - Steve Docherty
     - place: '32'
-      total: 202
+      total: 196
       breakdown:
         reach: 117.441
-        effort: 85.047
-        distance: 202.487
+        effort: 78.539
+        distance: 195.979
         leading: 0
         arrival: 0
         time: 0
@@ -13040,11 +13040,11 @@ scoreDf:
   - - - '25'
       - Tyler Borrdaile
     - place: '33'
-      total: 177
+      total: 168
       breakdown:
         reach: 112.397
-        effort: 64.635
-        distance: 177.032
+        effort: 55.268
+        distance: 167.665
         leading: 0
         arrival: 0
         time: 0
@@ -13062,11 +13062,11 @@ scoreDf:
   - - - '34'
       - Brad Porter
     - place: '34'
-      total: 146
+      total: 139
       breakdown:
         reach: 71.602
-        effort: 74.841
-        distance: 146.443
+        effort: 66.903
+        distance: 138.506
         leading: 0
         arrival: 0
         time: 0
@@ -13084,11 +13084,11 @@ scoreDf:
   - - - '106'
       - Jon Durand Snr
     - place: '35'
-      total: 136
+      total: 127
       breakdown:
         reach: 71.501
-        effort: 64.635
-        distance: 136.136
+        effort: 55.268
+        distance: 126.769
         leading: 0
         arrival: 0
         time: 0
@@ -13106,11 +13106,11 @@ scoreDf:
   - - - '64'
       - Longfei Yang
     - place: '36'
-      total: 118
+      total: 108
       breakdown:
         reach: 66.891
-        effort: 51.028
-        distance: 117.919
+        effort: 40.724
+        distance: 107.615
         leading: 0
         arrival: 0
         time: 0
@@ -13128,11 +13128,11 @@ scoreDf:
   - - - '98'
       - Oyvind Ellefsen
     - place: '37'
-      total: 95
+      total: 84
       breakdown:
         reach: 60.602
-        effort: 34.019
-        distance: 94.62
+        effort: 23.271
+        distance: 83.873
         leading: 0
         arrival: 0
         time: 0
@@ -13150,11 +13150,11 @@ scoreDf:
   - - - '14'
       - Peter Burkitt
     - place: '38'
-      total: 50
+      total: 42
       breakdown:
         reach: 33.259
-        effort: 17.009
-        distance: 50.268
+        effort: 8.727
+        distance: 41.985
         leading: 0
         arrival: 0
         time: 0
@@ -13173,11 +13173,11 @@ scoreDfNoTrack:
 - - - - '42'
       - Rob de Groot
     - place: '1'
-      total: 206
+      total: 438
       breakdown:
         reach: 205.716
-        effort: 0
-        distance: 205.716
+        effort: 232.438
+        distance: 438.153
         leading: 0
         arrival: 0
         time: 0
@@ -13187,11 +13187,11 @@ scoreDfNoTrack:
   - - - '75'
       - Yasuhiro Noma
     - place: '2'
-      total: 200
+      total: 428
       breakdown:
         reach: 199.69
-        effort: 0
-        distance: 199.69
+        effort: 228.498
+        distance: 428.188
         leading: 0
         arrival: 0
         time: 0
@@ -13201,11 +13201,11 @@ scoreDfNoTrack:
   - - - '74'
       - Vic Hare
     - place: '3'
-      total: 199
+      total: 422
       breakdown:
         reach: 198.972
-        effort: 0
-        distance: 198.972
+        effort: 222.589
+        distance: 421.561
         leading: 0
         arrival: 0
         time: 0
@@ -13215,11 +13215,11 @@ scoreDfNoTrack:
   - - - '6'
       - Yoko Sano
     - place: '4'
-      total: 194
+      total: 408
       breakdown:
         reach: 193.597
-        effort: 0
-        distance: 193.597
+        effort: 214.709
+        distance: 408.307
         leading: 0
         arrival: 0
         time: 0
@@ -13229,11 +13229,11 @@ scoreDfNoTrack:
   - - - '52'
       - Dale Regehr
     - place: '5'
-      total: 182
+      total: 363
       breakdown:
         reach: 182.196
-        effort: 0
-        distance: 182.196
+        effort: 181.223
+        distance: 363.419
         leading: 0
         arrival: 0
         time: 0
@@ -13243,11 +13243,11 @@ scoreDfNoTrack:
   - - - '103'
       - Wayne Thompson
     - place: '6'
-      total: 161
+      total: 311
       breakdown:
         reach: 161.114
-        effort: 0
-        distance: 161.114
+        effort: 149.706
+        distance: 310.82
         leading: 0
         arrival: 0
         time: 0
@@ -13257,11 +13257,11 @@ scoreDfNoTrack:
   - - - '36'
       - Steve Docherty
     - place: '7'
-      total: 160
+      total: 302
       breakdown:
         reach: 159.879
-        effort: 0
-        distance: 159.879
+        effort: 141.826
+        distance: 301.705
         leading: 0
         arrival: 0
         time: 0
@@ -13271,11 +13271,11 @@ scoreDfNoTrack:
   - - - '83'
       - Randal Clotworthy
     - place: '8'
-      total: 103
+      total: 211
       breakdown:
         reach: 102.891
-        effort: 0
-        distance: 102.891
+        effort: 108.34
+        distance: 211.231
         leading: 0
         arrival: 0
         time: 0
@@ -13285,11 +13285,11 @@ scoreDfNoTrack:
   - - - '37'
       - Gavin Myers
     - place: 9=
-      total: 30
+      total: 25
       breakdown:
         reach: 16.692
-        effort: 13.242
-        distance: 29.934
+        effort: 7.879
+        distance: 24.572
         leading: 0
         arrival: 0
         time: 0
@@ -13299,11 +13299,11 @@ scoreDfNoTrack:
   - - - '102'
       - Robert Davies
     - place: 9=
-      total: 30
+      total: 25
       breakdown:
         reach: 16.692
-        effort: 13.242
-        distance: 29.934
+        effort: 7.879
+        distance: 24.572
         leading: 0
         arrival: 0
         time: 0
@@ -13482,11 +13482,11 @@ scoreDfNoTrack:
 - - - - '85'
       - Rick Martin
     - place: '1'
-      total: 155
+      total: 306
       breakdown:
         reach: 155.345
-        effort: 0
-        distance: 155.345
+        effort: 151.122
+        distance: 306.467
         leading: 0
         arrival: 0
         time: 0
@@ -13496,11 +13496,11 @@ scoreDfNoTrack:
   - - - '55'
       - Don Cramer
     - place: 2=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -13510,11 +13510,11 @@ scoreDfNoTrack:
   - - - '4'
       - Frank Chetcuti
     - place: 2=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -13524,11 +13524,11 @@ scoreDfNoTrack:
   - - - '100'
       - Malcolm Brown
     - place: 2=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -13538,11 +13538,11 @@ scoreDfNoTrack:
   - - - '98'
       - Oyvind Ellefsen
     - place: 2=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -13552,11 +13552,11 @@ scoreDfNoTrack:
   - - - '86'
       - Ross Smith
     - place: 2=
-      total: 11
+      total: 10
       breakdown:
         reach: 6.911
-        effort: 3.631
-        distance: 10.541
+        effort: 3.358
+        distance: 10.269
         leading: 0
         arrival: 0
         time: 0
@@ -13569,8 +13569,8 @@ scoreDfNoTrack:
       total: 27
       breakdown:
         reach: 21.081
-        effort: 5.693
-        distance: 26.774
+        effort: 5.595
+        distance: 26.676
         leading: 0
         arrival: 0
         time: 0
@@ -13583,8 +13583,8 @@ scoreDfNoTrack:
       total: 27
       breakdown:
         reach: 21.081
-        effort: 5.693
-        distance: 26.774
+        effort: 5.595
+        distance: 26.676
         leading: 0
         arrival: 0
         time: 0
@@ -13608,11 +13608,11 @@ scoreDfNoTrack:
 - - - - '85'
       - Rick Martin
     - place: '1'
-      total: 111
+      total: 230
       breakdown:
         reach: 110.798
-        effort: 0
-        distance: 110.798
+        effort: 119.262
+        distance: 230.06
         leading: 0
         arrival: 0
         time: 0

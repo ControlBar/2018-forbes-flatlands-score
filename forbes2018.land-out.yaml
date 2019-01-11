@@ -12,7 +12,7 @@ landout:
 - 37
 - 16
 - 30
-- 32
+- 31
 - 23
 - 16
 lookahead:
@@ -20,61 +20,37 @@ lookahead:
 - 151
 - 366
 - 389
-- 144
+- 149
 - 217
 - 323
 sumOfDifficulty:
-- 72
+- 121
 - 66
 - 57
-- 74
-- 114
+- 80
+- 116
 - 105
-- 59
+- 69
 difficulty:
 - - chunk: 0
     startChunk: 10.0 km
     endChunk: 10.0 km
     endAhead: 23.0 km
-    down: 11
+    down: 3
     downs:
+    - 0.000 km
+    - 0.000 km
     - 4.868 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
     downers:
-    - - '77'
-      - Brodrick Osborne
-    - - '6'
-      - Yoko Sano
-    - - '75'
-      - Yasuhiro Noma
-    - - '103'
-      - Wayne Thompson
-    - - '74'
-      - Vic Hare
-    - - '36'
-      - Steve Docherty
     - - '102'
       - Robert Davies
-    - - '42'
-      - Rob de Groot
-    - - '83'
-      - Randal Clotworthy
     - - '37'
       - Gavin Myers
-    - - '52'
-      - Dale Regehr
+    - - '77'
+      - Brodrick Osborne
     downward: 4
-    rel: 2.777778e-2
-    frac: 2.777778e-2
+    rel: 1.652893e-2
+    frac: 1.652893e-2
   - chunk: 26
     startChunk: 12.5 km
     endChunk: 12.6 km
@@ -86,8 +62,8 @@ difficulty:
     - - '55'
       - Don Cramer
     downward: 5
-    rel: 3.472222e-2
-    frac: 6.25e-2
+    rel: 2.066116e-2
+    frac: 3.719008e-2
   - chunk: 64
     startChunk: 16.3 km
     endChunk: 16.4 km
@@ -99,8 +75,8 @@ difficulty:
     - - '94'
       - Justinas Pleikys
     downward: 6
-    rel: 4.166667e-2
-    frac: 0.10416667
+    rel: 2.479339e-2
+    frac: 6.198347e-2
   - chunk: 75
     startChunk: 17.4 km
     endChunk: 17.5 km
@@ -112,8 +88,8 @@ difficulty:
     - - '88'
       - Simon West
     downward: 5
-    rel: 3.472222e-2
-    frac: 0.13888889
+    rel: 2.066116e-2
+    frac: 8.264463e-2
   - chunk: 133
     startChunk: 23.2 km
     endChunk: 23.3 km
@@ -125,8 +101,8 @@ difficulty:
     - - '67'
       - Mark Alton
     downward: 4
-    rel: 2.777778e-2
-    frac: 0.16666667
+    rel: 1.652893e-2
+    frac: 9.917355e-2
   - chunk: 138
     startChunk: 23.7 km
     endChunk: 23.8 km
@@ -138,8 +114,8 @@ difficulty:
     - - '14'
       - Peter Burkitt
     downward: 3
-    rel: 2.083333e-2
-    frac: 0.1875
+    rel: 1.239669e-2
+    frac: 0.11157025
   - chunk: 163
     startChunk: 26.2 km
     endChunk: 26.3 km
@@ -151,8 +127,8 @@ difficulty:
     - - '34'
       - Brad Porter
     downward: 2
-    rel: 1.388889e-2
-    frac: 0.20138889
+    rel: 8.26446e-3
+    frac: 0.11983471
   - chunk: 194
     startChunk: 29.3 km
     endChunk: 29.4 km
@@ -164,8 +140,8 @@ difficulty:
     - - '100'
       - Malcolm Brown
     downward: 1
-    rel: 6.94444e-3
-    frac: 0.20833333
+    rel: 4.13223e-3
+    frac: 0.12396694
   - chunk: 383
     startChunk: 48.2 km
     endChunk: 48.3 km
@@ -177,8 +153,8 @@ difficulty:
     - - '86'
       - Ross Smith
     downward: 4
-    rel: 2.777778e-2
-    frac: 0.23611111
+    rel: 1.652893e-2
+    frac: 0.14049587
   - chunk: 415
     startChunk: 51.4 km
     endChunk: 51.5 km
@@ -189,9 +165,9 @@ difficulty:
     downers:
     - - '71'
       - Rob Larkin
-    downward: 4
-    rel: 2.777778e-2
-    frac: 0.26388889
+    downward: 5
+    rel: 2.066116e-2
+    frac: 0.16115702
   - chunk: 460
     startChunk: 55.9 km
     endChunk: 56.0 km
@@ -202,9 +178,9 @@ difficulty:
     downers:
     - - '80'
       - Michael Cassells
-    downward: 5
-    rel: 3.472222e-2
-    frac: 0.29861111
+    downward: 6
+    rel: 2.479339e-2
+    frac: 0.18595041
   - chunk: 461
     startChunk: 56.0 km
     endChunk: 56.1 km
@@ -215,9 +191,22 @@ difficulty:
     downers:
     - - '4'
       - Frank Chetcuti
-    downward: 4
-    rel: 2.777778e-2
-    frac: 0.32638889
+    downward: 5
+    rel: 2.066116e-2
+    frac: 0.20661157
+  - chunk: 517
+    startChunk: 61.6 km
+    endChunk: 61.7 km
+    endAhead: 74.7 km
+    down: 1
+    downs:
+    - 61.640 km
+    downers:
+    - - '83'
+      - Randal Clotworthy
+    downward: 5
+    rel: 2.066116e-2
+    frac: 0.22727273
   - chunk: 527
     startChunk: 62.6 km
     endChunk: 62.7 km
@@ -229,8 +218,8 @@ difficulty:
     - - '107'
       - Anatoly Reyter
     downward: 4
-    rel: 2.777778e-2
-    frac: 0.35416667
+    rel: 1.652893e-2
+    frac: 0.24380165
   - chunk: 555
     startChunk: 65.4 km
     endChunk: 65.5 km
@@ -242,8 +231,8 @@ difficulty:
     - - '43'
       - Jonny Durand
     downward: 3
-    rel: 2.083333e-2
-    frac: 0.375
+    rel: 1.239669e-2
+    frac: 0.25619835
   - chunk: 572
     startChunk: 67.1 km
     endChunk: 67.2 km
@@ -255,8 +244,8 @@ difficulty:
     - - '98'
       - Oyvind Ellefsen
     downward: 2
-    rel: 1.388889e-2
-    frac: 0.38888889
+    rel: 8.26446e-3
+    frac: 0.26446281
   - chunk: 603
     startChunk: 70.2 km
     endChunk: 70.3 km
@@ -268,8 +257,8 @@ difficulty:
     - - '64'
       - Longfei Yang
     downward: 2
-    rel: 1.388889e-2
-    frac: 0.40277778
+    rel: 8.26446e-3
+    frac: 0.27272727
   - chunk: 728
     startChunk: 82.7 km
     endChunk: 82.8 km
@@ -280,9 +269,35 @@ difficulty:
     downers:
     - - '28'
       - Mikhail Karmazin
-    downward: 1
-    rel: 6.94444e-3
-    frac: 0.40972222
+    downward: 2
+    rel: 8.26446e-3
+    frac: 0.28099174
+  - chunk: 858
+    startChunk: 95.7 km
+    endChunk: 95.8 km
+    endAhead: 108.8 km
+    down: 1
+    downs:
+    - 95.780 km
+    downers:
+    - - '36'
+      - Steve Docherty
+    downward: 4
+    rel: 1.652893e-2
+    frac: 0.29752066
+  - chunk: 866
+    startChunk: 96.5 km
+    endChunk: 96.6 km
+    endAhead: 109.6 km
+    down: 1
+    downs:
+    - 96.520 km
+    downers:
+    - - '103'
+      - Wayne Thompson
+    downward: 4
+    rel: 1.652893e-2
+    frac: 0.31404959
   - chunk: 891
     startChunk: 99.0 km
     endChunk: 99.1 km
@@ -293,9 +308,9 @@ difficulty:
     downers:
     - - '68'
       - Neale Halsall
-    downward: 3
-    rel: 2.083333e-2
-    frac: 0.43055556
+    downward: 4
+    rel: 1.652893e-2
+    frac: 0.33057851
   - chunk: 963
     startChunk: 106.2 km
     endChunk: 106.3 km
@@ -306,9 +321,22 @@ difficulty:
     downers:
     - - '72'
       - Sasha Serebrennikova
-    downward: 3
-    rel: 2.083333e-2
-    frac: 0.45138889
+    downward: 6
+    rel: 2.479339e-2
+    frac: 0.3553719
+  - chunk: 992
+    startChunk: 109.1 km
+    endChunk: 109.2 km
+    endAhead: 122.2 km
+    down: 1
+    downs:
+    - 109.150 km
+    downers:
+    - - '52'
+      - Dale Regehr
+    downward: 6
+    rel: 2.479339e-2
+    frac: 0.38016529
   - chunk: 1014
     startChunk: 111.3 km
     endChunk: 111.4 km
@@ -319,9 +347,9 @@ difficulty:
     downers:
     - - '41'
       - Tony Armstrong
-    downward: 2
-    rel: 1.388889e-2
-    frac: 0.46527778
+    downward: 6
+    rel: 2.479339e-2
+    frac: 0.40495868
   - chunk: 1058
     startChunk: 115.7 km
     endChunk: 115.8 km
@@ -332,9 +360,61 @@ difficulty:
     downers:
     - - '108'
       - Peter Adriaans
+    downward: 6
+    rel: 2.479339e-2
+    frac: 0.42975207
+  - chunk: 1060
+    startChunk: 115.9 km
+    endChunk: 116.0 km
+    endAhead: 129.0 km
+    down: 1
+    downs:
+    - 115.980 km
+    downers:
+    - - '6'
+      - Yoko Sano
+    downward: 5
+    rel: 2.066116e-2
+    frac: 0.45041322
+  - chunk: 1092
+    startChunk: 119.1 km
+    endChunk: 119.2 km
+    endAhead: 132.2 km
+    down: 1
+    downs:
+    - 119.200 km
+    downers:
+    - - '74'
+      - Vic Hare
+    downward: 4
+    rel: 1.652893e-2
+    frac: 0.46694215
+  - chunk: 1097
+    startChunk: 119.6 km
+    endChunk: 119.7 km
+    endAhead: 132.7 km
+    down: 1
+    downs:
+    - 119.630 km
+    downers:
+    - - '75'
+      - Yasuhiro Noma
+    downward: 3
+    rel: 1.239669e-2
+    frac: 0.47933884
+  - chunk: 1133
+    startChunk: 123.2 km
+    endChunk: 123.3 km
+    endAhead: 136.3 km
+    down: 1
+    downs:
+    - 123.240 km
+    downers:
+    - - '42'
+      - Rob de Groot
     downward: 2
-    rel: 1.388889e-2
-    frac: 0.47916667
+    rel: 8.26446e-3
+    frac: 0.48760331
   - chunk: 1179
     startChunk: 127.8 km
     endChunk: 127.9 km
@@ -346,8 +426,8 @@ difficulty:
     - - '15'
       - Ryosuke Hattori
     downward: 2
-    rel: 1.388889e-2
-    frac: 0.49305556
+    rel: 8.26446e-3
+    frac: 0.49586777
   - chunk: 1298
     startChunk: 139.7 km
     endChunk: 139.8 km
@@ -359,7 +439,7 @@ difficulty:
     - - '32'
       - Andrew Barnes
     downward: 1
-    rel: 6.94444e-3
+    rel: 4.13223e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 10.0 km
@@ -367,40 +447,40 @@ difficulty:
     endAhead: 25.1 km
     down: 15
     downs:
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 5.689 km
+    - 6.284 km
     downers:
-    - - '77'
-      - Brodrick Osborne
-    - - '6'
-      - Yoko Sano
-    - - '75'
-      - Yasuhiro Noma
-    - - '103'
-      - Wayne Thompson
-    - - '74'
-      - Vic Hare
-    - - '36'
-      - Steve Docherty
     - - '102'
       - Robert Davies
-    - - '42'
-      - Rob de Groot
-    - - '83'
-      - Randal Clotworthy
     - - '37'
       - Gavin Myers
-    - - '52'
-      - Dale Regehr
+    - - '77'
+      - Brodrick Osborne
+    - - '55'
+      - Don Cramer
+    - - '94'
+      - Justinas Pleikys
+    - - '88'
+      - Simon West
+    - - '67'
+      - Mark Alton
+    - - '14'
+      - Peter Burkitt
+    - - '34'
+      - Brad Porter
+    - - '100'
+      - Malcolm Brown
+    - - '86'
+      - Ross Smith
     downward: 2
     rel: 1.515152e-2
     frac: 1.515152e-2
@@ -412,8 +492,8 @@ difficulty:
     downs:
     - 14.582 km
     downers:
-    - - '55'
-      - Don Cramer
+    - - '71'
+      - Rob Larkin
     downward: 1
     rel: 7.57576e-3
     frac: 2.272727e-2
@@ -425,8 +505,8 @@ difficulty:
     downs:
     - 46.692 km
     downers:
-    - - '94'
-      - Justinas Pleikys
+    - - '80'
+      - Michael Cassells
     downward: 3
     rel: 2.272727e-2
     frac: 4.545455e-2
@@ -438,8 +518,8 @@ difficulty:
     downs:
     - 56.076 km
     downers:
-    - - '88'
-      - Simon West
+    - - '4'
+      - Frank Chetcuti
     downward: 3
     rel: 2.272727e-2
     frac: 6.818182e-2
@@ -451,8 +531,8 @@ difficulty:
     downs:
     - 57.867 km
     downers:
-    - - '67'
-      - Mark Alton
+    - - '83'
+      - Randal Clotworthy
     downward: 2
     rel: 1.515152e-2
     frac: 8.333333e-2
@@ -464,8 +544,8 @@ difficulty:
     downs:
     - 67.388 km
     downers:
-    - - '14'
-      - Peter Burkitt
+    - - '107'
+      - Anatoly Reyter
     downward: 1
     rel: 7.57576e-3
     frac: 9.090909e-2
@@ -477,8 +557,8 @@ difficulty:
     downs:
     - 91.161 km
     downers:
-    - - '34'
-      - Brad Porter
+    - - '43'
+      - Jonny Durand
     downward: 4
     rel: 3.030303e-2
     frac: 0.12121212
@@ -490,8 +570,8 @@ difficulty:
     downs:
     - 98.560 km
     downers:
-    - - '100'
-      - Malcolm Brown
+    - - '98'
+      - Oyvind Ellefsen
     downward: 5
     rel: 3.787879e-2
     frac: 0.15909091
@@ -503,8 +583,8 @@ difficulty:
     downs:
     - 103.637 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '64'
+      - Longfei Yang
     downward: 4
     rel: 3.030303e-2
     frac: 0.18939394
@@ -516,8 +596,8 @@ difficulty:
     downs:
     - 103.881 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '28'
+      - Mikhail Karmazin
     downward: 3
     rel: 2.272727e-2
     frac: 0.21212121
@@ -529,8 +609,8 @@ difficulty:
     downs:
     - 108.655 km
     downers:
-    - - '80'
-      - Michael Cassells
+    - - '36'
+      - Steve Docherty
     downward: 4
     rel: 3.030303e-2
     frac: 0.24242424
@@ -542,8 +622,8 @@ difficulty:
     downs:
     - 111.051 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '103'
+      - Wayne Thompson
     downward: 3
     rel: 2.272727e-2
     frac: 0.26515152
@@ -555,8 +635,8 @@ difficulty:
     downs:
     - 120.420 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '68'
+      - Neale Halsall
     downward: 3
     rel: 2.272727e-2
     frac: 0.28787879
@@ -568,8 +648,8 @@ difficulty:
     downs:
     - 122.358 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '72'
+      - Sasha Serebrennikova
     downward: 2
     rel: 1.515152e-2
     frac: 0.3030303
@@ -581,8 +661,8 @@ difficulty:
     downs:
     - 135.575 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '52'
+      - Dale Regehr
     downward: 2
     rel: 1.515152e-2
     frac: 0.31818182
@@ -594,8 +674,8 @@ difficulty:
     downs:
     - 149.832 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '41'
+      - Tony Armstrong
     downward: 4
     rel: 3.030303e-2
     frac: 0.34848485
@@ -607,8 +687,8 @@ difficulty:
     downs:
     - 155.737 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '108'
+      - Peter Adriaans
     downward: 4
     rel: 3.030303e-2
     frac: 0.37878788
@@ -620,8 +700,8 @@ difficulty:
     downs:
     - 155.808 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '6'
+      - Yoko Sano
     downward: 3
     rel: 2.272727e-2
     frac: 0.40151515
@@ -633,8 +713,8 @@ difficulty:
     downs:
     - 162.685 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '74'
+      - Vic Hare
     downward: 3
     rel: 2.272727e-2
     frac: 0.42424242
@@ -646,8 +726,8 @@ difficulty:
     downs:
     - 167.061 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
     rel: 3.030303e-2
     frac: 0.45454545
@@ -659,8 +739,8 @@ difficulty:
     downs:
     - 174.889 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 3
     rel: 2.272727e-2
     frac: 0.47727273
@@ -698,8 +778,8 @@ difficulty:
     downs:
     - 51.027 km
     downers:
-    - - '100'
-      - Malcolm Brown
+    - - '98'
+      - Oyvind Ellefsen
     downward: 5
     rel: 4.385965e-2
     frac: 4.385965e-2
@@ -711,8 +791,8 @@ difficulty:
     downs:
     - 55.849 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '64'
+      - Longfei Yang
     downward: 4
     rel: 3.508772e-2
     frac: 7.894737e-2
@@ -724,8 +804,8 @@ difficulty:
     downs:
     - 71.919 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '28'
+      - Mikhail Karmazin
     downward: 5
     rel: 4.385965e-2
     frac: 0.12280702
@@ -737,8 +817,8 @@ difficulty:
     downs:
     - 73.246 km
     downers:
-    - - '80'
-      - Michael Cassells
+    - - '36'
+      - Steve Docherty
     downward: 4
     rel: 3.508772e-2
     frac: 0.15789474
@@ -750,8 +830,8 @@ difficulty:
     downs:
     - 74.958 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '103'
+      - Wayne Thompson
     downward: 3
     rel: 2.631579e-2
     frac: 0.18421053
@@ -763,8 +843,8 @@ difficulty:
     downs:
     - 100.625 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '68'
+      - Neale Halsall
     downward: 2
     rel: 1.754386e-2
     frac: 0.20175439
@@ -776,8 +856,8 @@ difficulty:
     downs:
     - 107.625 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '72'
+      - Sasha Serebrennikova
     downward: 2
     rel: 1.754386e-2
     frac: 0.21929825
@@ -789,8 +869,8 @@ difficulty:
     downs:
     - 141.456 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '52'
+      - Dale Regehr
     downward: 5
     rel: 4.385965e-2
     frac: 0.26315789
@@ -802,8 +882,8 @@ difficulty:
     downs:
     - 149.833 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '41'
+      - Tony Armstrong
     downward: 6
     rel: 5.263158e-2
     frac: 0.31578947
@@ -816,10 +896,10 @@ difficulty:
     - 167.276 km
     - 167.294 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
-    - - '68'
-      - Neale Halsall
+    - - '108'
+      - Peter Adriaans
+    - - '6'
+      - Yoko Sano
     downward: 6
     rel: 5.263158e-2
     frac: 0.36842105
@@ -831,8 +911,8 @@ difficulty:
     downs:
     - 167.307 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '74'
+      - Vic Hare
     downward: 5
     rel: 4.385965e-2
     frac: 0.4122807
@@ -844,8 +924,8 @@ difficulty:
     downs:
     - 170.881 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
     rel: 3.508772e-2
     frac: 0.44736842
@@ -857,8 +937,8 @@ difficulty:
     downs:
     - 181.933 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 3
     rel: 2.631579e-2
     frac: 0.47368421
@@ -892,36 +972,33 @@ difficulty:
     startChunk: 10.0 km
     endChunk: 10.0 km
     endAhead: 48.9 km
-    down: 8
+    down: 7
     downs:
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
+    - 0.000 km
     - 2.825 km
     - 5.124 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
     downers:
-    - - '103'
-      - Wayne Thompson
-    - - '74'
-      - Vic Hare
-    - - '36'
-      - Steve Docherty
-    - - '102'
-      - Robert Davies
-    - - '42'
-      - Rob de Groot
-    - - '83'
-      - Randal Clotworthy
-    - - '37'
-      - Gavin Myers
-    - - '52'
-      - Dale Regehr
+    - - '55'
+      - Don Cramer
+    - - '94'
+      - Justinas Pleikys
+    - - '88'
+      - Simon West
+    - - '67'
+      - Mark Alton
+    - - '14'
+      - Peter Burkitt
+    - - '34'
+      - Brad Porter
+    - - '100'
+      - Malcolm Brown
     downward: 1
-    rel: 6.75676e-3
-    frac: 6.75676e-3
+    rel: 6.25e-3
+    frac: 6.25e-3
   - chunk: 455
     startChunk: 55.4 km
     endChunk: 55.5 km
@@ -930,11 +1007,11 @@ difficulty:
     downs:
     - 55.474 km
     downers:
-    - - '55'
-      - Don Cramer
+    - - '86'
+      - Ross Smith
     downward: 4
-    rel: 2.702703e-2
-    frac: 3.378378e-2
+    rel: 2.5e-2
+    frac: 3.125e-2
   - chunk: 458
     startChunk: 55.7 km
     endChunk: 55.8 km
@@ -943,11 +1020,11 @@ difficulty:
     downs:
     - 55.741 km
     downers:
-    - - '94'
-      - Justinas Pleikys
+    - - '71'
+      - Rob Larkin
     downward: 3
-    rel: 2.027027e-2
-    frac: 5.405405e-2
+    rel: 1.875e-2
+    frac: 5.0e-2
   - chunk: 459
     startChunk: 55.8 km
     endChunk: 55.9 km
@@ -956,11 +1033,11 @@ difficulty:
     downs:
     - 55.839 km
     downers:
-    - - '88'
-      - Simon West
+    - - '80'
+      - Michael Cassells
     downward: 2
-    rel: 1.351351e-2
-    frac: 6.756757e-2
+    rel: 1.25e-2
+    frac: 6.25e-2
   - chunk: 832
     startChunk: 93.1 km
     endChunk: 93.2 km
@@ -969,11 +1046,11 @@ difficulty:
     downs:
     - 93.199 km
     downers:
-    - - '67'
-      - Mark Alton
+    - - '4'
+      - Frank Chetcuti
     downward: 1
-    rel: 6.75676e-3
-    frac: 7.432432e-2
+    rel: 6.25e-3
+    frac: 6.875e-2
   - chunk: 1259
     startChunk: 135.8 km
     endChunk: 135.9 km
@@ -982,11 +1059,11 @@ difficulty:
     downs:
     - 135.887 km
     downers:
-    - - '14'
-      - Peter Burkitt
+    - - '83'
+      - Randal Clotworthy
     downward: 1
-    rel: 6.75676e-3
-    frac: 8.108108e-2
+    rel: 6.25e-3
+    frac: 7.5e-2
   - chunk: 1656
     startChunk: 175.5 km
     endChunk: 175.6 km
@@ -995,11 +1072,11 @@ difficulty:
     downs:
     - 175.572 km
     downers:
-    - - '34'
-      - Brad Porter
+    - - '107'
+      - Anatoly Reyter
     downward: 6
-    rel: 4.054054e-2
-    frac: 0.12162162
+    rel: 3.75e-2
+    frac: 0.1125
   - chunk: 1705
     startChunk: 180.4 km
     endChunk: 180.5 km
@@ -1008,11 +1085,11 @@ difficulty:
     downs:
     - 180.428 km
     downers:
-    - - '100'
-      - Malcolm Brown
+    - - '43'
+      - Jonny Durand
     downward: 5
-    rel: 3.378378e-2
-    frac: 0.15540541
+    rel: 3.125e-2
+    frac: 0.14375
   - chunk: 1756
     startChunk: 185.5 km
     endChunk: 185.6 km
@@ -1021,11 +1098,11 @@ difficulty:
     downs:
     - 185.583 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '98'
+      - Oyvind Ellefsen
     downward: 4
-    rel: 2.702703e-2
-    frac: 0.18243243
+    rel: 2.5e-2
+    frac: 0.16875
   - chunk: 1914
     startChunk: 201.3 km
     endChunk: 201.4 km
@@ -1034,11 +1111,11 @@ difficulty:
     downs:
     - 201.360 km
     downers:
-    - - '71'
-      - Rob Larkin
-    downward: 5
-    rel: 3.378378e-2
-    frac: 0.21621622
+    - - '64'
+      - Longfei Yang
+    downward: 6
+    rel: 3.75e-2
+    frac: 0.20625
   - chunk: 1959
     startChunk: 205.8 km
     endChunk: 205.9 km
@@ -1047,11 +1124,11 @@ difficulty:
     downs:
     - 205.807 km
     downers:
-    - - '80'
-      - Michael Cassells
-    downward: 4
-    rel: 2.702703e-2
-    frac: 0.24324324
+    - - '28'
+      - Mikhail Karmazin
+    downward: 5
+    rel: 3.125e-2
+    frac: 0.2375
   - chunk: 1961
     startChunk: 206.0 km
     endChunk: 206.1 km
@@ -1060,11 +1137,24 @@ difficulty:
     downs:
     - 206.061 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '36'
+      - Steve Docherty
+    downward: 4
+    rel: 2.5e-2
+    frac: 0.2625
+  - chunk: 2148
+    startChunk: 224.7 km
+    endChunk: 224.8 km
+    endAhead: 263.7 km
+    down: 1
+    downs:
+    - 224.782 km
+    downers:
+    - - '103'
+      - Wayne Thompson
     downward: 3
-    rel: 2.027027e-2
-    frac: 0.26351351
+    rel: 1.875e-2
+    frac: 0.28125
   - chunk: 2220
     startChunk: 231.9 km
     endChunk: 232.0 km
@@ -1073,11 +1163,11 @@ difficulty:
     downs:
     - 231.992 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '68'
+      - Neale Halsall
     downward: 3
-    rel: 2.027027e-2
-    frac: 0.28378378
+    rel: 1.875e-2
+    frac: 0.3
   - chunk: 2278
     startChunk: 237.7 km
     endChunk: 237.8 km
@@ -1086,11 +1176,11 @@ difficulty:
     downs:
     - 237.741 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '72'
+      - Sasha Serebrennikova
     downward: 2
-    rel: 1.351351e-2
-    frac: 0.2972973
+    rel: 1.25e-2
+    frac: 0.3125
   - chunk: 2571
     startChunk: 267.0 km
     endChunk: 267.1 km
@@ -1099,11 +1189,11 @@ difficulty:
     downs:
     - 267.036 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '52'
+      - Dale Regehr
     downward: 2
-    rel: 1.351351e-2
-    frac: 0.31081081
+    rel: 1.25e-2
+    frac: 0.325
   - chunk: 2794
     startChunk: 289.3 km
     endChunk: 289.4 km
@@ -1112,11 +1202,11 @@ difficulty:
     downs:
     - 289.355 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '41'
+      - Tony Armstrong
     downward: 3
-    rel: 2.027027e-2
-    frac: 0.33108108
+    rel: 1.875e-2
+    frac: 0.34375
   - chunk: 2999
     startChunk: 309.8 km
     endChunk: 309.9 km
@@ -1125,11 +1215,11 @@ difficulty:
     downs:
     - 309.834 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '108'
+      - Peter Adriaans
     downward: 4
-    rel: 2.702703e-2
-    frac: 0.35810811
+    rel: 2.5e-2
+    frac: 0.36875
   - chunk: 3118
     startChunk: 321.7 km
     endChunk: 321.8 km
@@ -1138,11 +1228,11 @@ difficulty:
     downs:
     - 321.748 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '6'
+      - Yoko Sano
     downward: 6
-    rel: 4.054054e-2
-    frac: 0.39864865
+    rel: 3.75e-2
+    frac: 0.40625
   - chunk: 3227
     startChunk: 332.6 km
     endChunk: 332.7 km
@@ -1151,11 +1241,11 @@ difficulty:
     downs:
     - 332.648 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '74'
+      - Vic Hare
     downward: 5
-    rel: 3.378378e-2
-    frac: 0.43243243
+    rel: 3.125e-2
+    frac: 0.4375
   - chunk: 3339
     startChunk: 343.8 km
     endChunk: 343.9 km
@@ -1164,11 +1254,11 @@ difficulty:
     downs:
     - 343.892 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
-    rel: 2.702703e-2
-    frac: 0.45945946
+    rel: 2.5e-2
+    frac: 0.4625
   - chunk: 3427
     startChunk: 352.6 km
     endChunk: 352.7 km
@@ -1177,11 +1267,11 @@ difficulty:
     downs:
     - 352.658 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 3
-    rel: 2.027027e-2
-    frac: 0.47972973
+    rel: 1.875e-2
+    frac: 0.48125
   - chunk: 3455
     startChunk: 355.4 km
     endChunk: 355.5 km
@@ -1193,8 +1283,8 @@ difficulty:
     - - '15'
       - Ryosuke Hattori
     downward: 2
-    rel: 1.351351e-2
-    frac: 0.49324324
+    rel: 1.25e-2
+    frac: 0.49375
   - chunk: 3475
     startChunk: 357.4 km
     endChunk: 357.5 km
@@ -1206,352 +1296,349 @@ difficulty:
     - - '32'
       - Andrew Barnes
     downward: 1
-    rel: 6.75676e-3
+    rel: 6.25e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 10.0 km
     endChunk: 10.0 km
-    endAhead: 24.4 km
-    down: 3
+    endAhead: 24.9 km
+    down: 2
     downs:
-    - 10.000 km
-    - 10.000 km
-    - 10.000 km
+    - 0.000 km
+    - 0.000 km
     downers:
-    - - '6'
-      - Yoko Sano
-    - - '75'
-      - Yasuhiro Noma
-    - - '103'
-      - Wayne Thompson
+    - - '77'
+      - Brodrick Osborne
+    - - '55'
+      - Don Cramer
     downward: 2
-    rel: 8.77193e-3
-    frac: 8.77193e-3
+    rel: 8.62069e-3
+    frac: 8.62069e-3
   - chunk: 49
     startChunk: 14.8 km
     endChunk: 14.9 km
-    endAhead: 29.3 km
+    endAhead: 29.8 km
     down: 1
     downs:
     - 14.816 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '94'
+      - Justinas Pleikys
     downward: 1
-    rel: 4.38596e-3
-    frac: 1.315789e-2
+    rel: 4.31034e-3
+    frac: 1.293103e-2
   - chunk: 574
     startChunk: 67.3 km
     endChunk: 67.4 km
-    endAhead: 81.8 km
+    endAhead: 82.3 km
     down: 1
     downs:
     - 67.303 km
     downers:
-    - - '36'
-      - Steve Docherty
+    - - '88'
+      - Simon West
     downward: 2
-    rel: 8.77193e-3
-    frac: 2.192982e-2
+    rel: 8.62069e-3
+    frac: 2.155172e-2
   - chunk: 603
     startChunk: 70.2 km
     endChunk: 70.3 km
-    endAhead: 84.7 km
+    endAhead: 85.2 km
     down: 1
     downs:
     - 70.243 km
     downers:
-    - - '102'
-      - Robert Davies
+    - - '67'
+      - Mark Alton
     downward: 3
-    rel: 1.315789e-2
-    frac: 3.508772e-2
+    rel: 1.293103e-2
+    frac: 3.448276e-2
   - chunk: 726
     startChunk: 82.5 km
     endChunk: 82.6 km
-    endAhead: 97.0 km
+    endAhead: 97.5 km
     down: 1
     downs:
     - 82.531 km
     downers:
-    - - '42'
-      - Rob de Groot
+    - - '14'
+      - Peter Burkitt
     downward: 6
-    rel: 2.631579e-2
-    frac: 6.140351e-2
+    rel: 2.586207e-2
+    frac: 6.034483e-2
   - chunk: 747
     startChunk: 84.6 km
     endChunk: 84.7 km
-    endAhead: 99.1 km
+    endAhead: 99.6 km
     down: 1
     downs:
     - 84.621 km
     downers:
-    - - '83'
-      - Randal Clotworthy
+    - - '34'
+      - Brad Porter
     downward: 5
-    rel: 2.192982e-2
-    frac: 8.333333e-2
+    rel: 2.155172e-2
+    frac: 8.189655e-2
   - chunk: 774
     startChunk: 87.3 km
     endChunk: 87.4 km
-    endAhead: 101.8 km
+    endAhead: 102.3 km
     down: 1
     downs:
     - 87.308 km
     downers:
-    - - '37'
-      - Gavin Myers
+    - - '100'
+      - Malcolm Brown
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.10087719
+    rel: 1.724138e-2
+    frac: 9.913793e-2
   - chunk: 819
     startChunk: 91.8 km
     endChunk: 91.9 km
-    endAhead: 106.3 km
+    endAhead: 106.8 km
     down: 1
     downs:
     - 91.875 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '86'
+      - Ross Smith
     downward: 3
-    rel: 1.315789e-2
-    frac: 0.11403509
+    rel: 1.293103e-2
+    frac: 0.11206897
   - chunk: 840
     startChunk: 93.9 km
     endChunk: 94.0 km
-    endAhead: 108.4 km
+    endAhead: 108.9 km
     down: 1
     downs:
     - 93.973 km
     downers:
-    - - '55'
-      - Don Cramer
+    - - '71'
+      - Rob Larkin
     downward: 3
-    rel: 1.315789e-2
-    frac: 0.12719298
+    rel: 1.293103e-2
+    frac: 0.125
   - chunk: 856
     startChunk: 95.5 km
     endChunk: 95.6 km
-    endAhead: 110.0 km
+    endAhead: 110.5 km
     down: 2
     downs:
     - 95.505 km
     - 95.511 km
     downers:
-    - - '94'
-      - Justinas Pleikys
-    - - '88'
-      - Simon West
+    - - '80'
+      - Michael Cassells
+    - - '4'
+      - Frank Chetcuti
     downward: 2
-    rel: 8.77193e-3
-    frac: 0.13596491
+    rel: 8.62069e-3
+    frac: 0.13362069
   - chunk: 982
     startChunk: 108.1 km
     endChunk: 108.2 km
-    endAhead: 122.6 km
+    endAhead: 123.1 km
     down: 1
     downs:
     - 108.125 km
     downers:
-    - - '67'
-      - Mark Alton
+    - - '83'
+      - Randal Clotworthy
     downward: 5
-    rel: 2.192982e-2
-    frac: 0.15789474
+    rel: 2.155172e-2
+    frac: 0.15517241
   - chunk: 1022
     startChunk: 112.1 km
     endChunk: 112.2 km
-    endAhead: 126.6 km
+    endAhead: 127.1 km
     down: 1
     downs:
     - 112.186 km
     downers:
-    - - '14'
-      - Peter Burkitt
-    downward: 5
-    rel: 2.192982e-2
-    frac: 0.17982456
+    - - '107'
+      - Anatoly Reyter
+    downward: 7
+    rel: 3.017241e-2
+    frac: 0.18534483
   - chunk: 1034
     startChunk: 113.3 km
     endChunk: 113.4 km
-    endAhead: 127.8 km
+    endAhead: 128.3 km
     down: 1
     downs:
     - 113.390 km
     downers:
-    - - '34'
-      - Brad Porter
+    - - '43'
+      - Jonny Durand
     downward: 7
-    rel: 3.070175e-2
-    frac: 0.21052632
+    rel: 3.017241e-2
+    frac: 0.21551724
   - chunk: 1039
     startChunk: 113.8 km
     endChunk: 113.9 km
-    endAhead: 128.3 km
+    endAhead: 128.8 km
     down: 2
     downs:
     - 113.828 km
     - 113.846 km
     downers:
-    - - '100'
-      - Malcolm Brown
-    - - '86'
-      - Ross Smith
+    - - '98'
+      - Oyvind Ellefsen
+    - - '64'
+      - Longfei Yang
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.23684211
+    rel: 2.586207e-2
+    frac: 0.24137931
   - chunk: 1056
     startChunk: 115.5 km
     endChunk: 115.6 km
-    endAhead: 130.0 km
+    endAhead: 130.5 km
     down: 1
     downs:
     - 115.536 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '28'
+      - Mikhail Karmazin
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.26315789
+    rel: 2.586207e-2
+    frac: 0.26724138
   - chunk: 1152
     startChunk: 125.1 km
     endChunk: 125.2 km
-    endAhead: 139.6 km
+    endAhead: 140.1 km
     down: 1
     downs:
     - 125.106 km
     downers:
-    - - '80'
-      - Michael Cassells
+    - - '36'
+      - Steve Docherty
     downward: 7
-    rel: 3.070175e-2
-    frac: 0.29385965
+    rel: 3.017241e-2
+    frac: 0.29741379
   - chunk: 1167
     startChunk: 126.6 km
     endChunk: 126.7 km
-    endAhead: 141.1 km
+    endAhead: 141.6 km
     down: 1
     downs:
     - 126.682 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '103'
+      - Wayne Thompson
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.32017544
+    rel: 2.586207e-2
+    frac: 0.32327586
   - chunk: 1170
     startChunk: 126.9 km
     endChunk: 127.0 km
-    endAhead: 141.4 km
+    endAhead: 141.9 km
     down: 2
     downs:
     - 126.904 km
     - 126.919 km
     downers:
-    - - '107'
-      - Anatoly Reyter
-    - - '43'
-      - Jonny Durand
+    - - '68'
+      - Neale Halsall
+    - - '72'
+      - Sasha Serebrennikova
     downward: 5
-    rel: 2.192982e-2
-    frac: 0.34210526
+    rel: 2.155172e-2
+    frac: 0.34482759
   - chunk: 1177
     startChunk: 127.6 km
     endChunk: 127.7 km
-    endAhead: 142.1 km
+    endAhead: 142.6 km
     down: 1
     downs:
     - 127.682 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '52'
+      - Dale Regehr
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.35964912
+    rel: 1.724138e-2
+    frac: 0.36206897
   - chunk: 1193
     startChunk: 129.2 km
     endChunk: 129.3 km
-    endAhead: 143.7 km
+    endAhead: 144.2 km
     down: 1
     downs:
     - 129.293 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '41'
+      - Tony Armstrong
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.37719298
+    rel: 1.724138e-2
+    frac: 0.37931034
   - chunk: 1247
     startChunk: 134.6 km
     endChunk: 134.7 km
-    endAhead: 149.1 km
+    endAhead: 149.6 km
     down: 1
     downs:
     - 134.660 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '108'
+      - Peter Adriaans
     downward: 7
-    rel: 3.070175e-2
-    frac: 0.40789474
+    rel: 3.017241e-2
+    frac: 0.40948276
   - chunk: 1257
     startChunk: 135.6 km
     endChunk: 135.7 km
-    endAhead: 150.1 km
+    endAhead: 150.6 km
     down: 1
     downs:
     - 135.627 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '6'
+      - Yoko Sano
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.43421053
+    rel: 2.586207e-2
+    frac: 0.43534483
   - chunk: 1335
     startChunk: 143.4 km
     endChunk: 143.5 km
-    endAhead: 157.9 km
+    endAhead: 158.4 km
     down: 1
     downs:
     - 143.485 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '74'
+      - Vic Hare
     downward: 5
-    rel: 2.192982e-2
-    frac: 0.45614035
+    rel: 2.155172e-2
+    frac: 0.45689655
   - chunk: 1345
     startChunk: 144.4 km
     endChunk: 144.5 km
-    endAhead: 158.9 km
+    endAhead: 159.4 km
     down: 1
     downs:
     - 144.451 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.47368421
+    rel: 1.724138e-2
+    frac: 0.47413793
   - chunk: 1352
     startChunk: 145.1 km
     endChunk: 145.2 km
-    endAhead: 159.6 km
+    endAhead: 160.1 km
     down: 1
     downs:
     - 145.123 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 3
-    rel: 1.315789e-2
-    frac: 0.48684211
+    rel: 1.293103e-2
+    frac: 0.48706897
   - chunk: 1356
     startChunk: 145.5 km
     endChunk: 145.6 km
-    endAhead: 160.0 km
+    endAhead: 160.5 km
     down: 1
     downs:
     - 145.523 km
@@ -1559,12 +1646,12 @@ difficulty:
     - - '15'
       - Ryosuke Hattori
     downward: 2
-    rel: 8.77193e-3
-    frac: 0.49561404
+    rel: 8.62069e-3
+    frac: 0.49568966
   - chunk: 1376
     startChunk: 147.5 km
     endChunk: 147.6 km
-    endAhead: 162.0 km
+    endAhead: 162.5 km
     down: 1
     downs:
     - 147.554 km
@@ -1572,7 +1659,7 @@ difficulty:
     - - '32'
       - Andrew Barnes
     downward: 1
-    rel: 4.38596e-3
+    rel: 4.31034e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 10.0 km
@@ -1582,14 +1669,14 @@ difficulty:
     downs:
     - -0.332 km
     - -0.305 km
-    - 10.000 km
+    - 0.000 km
     downers:
-    - - '52'
-      - Dale Regehr
-    - - '55'
-      - Don Cramer
-    - - '94'
-      - Justinas Pleikys
+    - - '86'
+      - Ross Smith
+    - - '71'
+      - Rob Larkin
+    - - '80'
+      - Michael Cassells
     downward: 2
     rel: 9.52381e-3
     frac: 9.52381e-3
@@ -1601,8 +1688,8 @@ difficulty:
     downs:
     - 26.485 km
     downers:
-    - - '88'
-      - Simon West
+    - - '4'
+      - Frank Chetcuti
     downward: 3
     rel: 1.428571e-2
     frac: 2.380952e-2
@@ -1614,8 +1701,8 @@ difficulty:
     downs:
     - 45.058 km
     downers:
-    - - '67'
-      - Mark Alton
+    - - '83'
+      - Randal Clotworthy
     downward: 3
     rel: 1.428571e-2
     frac: 3.809524e-2
@@ -1627,8 +1714,8 @@ difficulty:
     downs:
     - 47.891 km
     downers:
-    - - '14'
-      - Peter Burkitt
+    - - '107'
+      - Anatoly Reyter
     downward: 2
     rel: 9.52381e-3
     frac: 4.761905e-2
@@ -1641,10 +1728,10 @@ difficulty:
     - 63.129 km
     - 63.141 km
     downers:
-    - - '34'
-      - Brad Porter
-    - - '100'
-      - Malcolm Brown
+    - - '43'
+      - Jonny Durand
+    - - '98'
+      - Oyvind Ellefsen
     downward: 1
     rel: 4.7619e-3
     frac: 5.238095e-2
@@ -1656,8 +1743,8 @@ difficulty:
     downs:
     - 96.410 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '64'
+      - Longfei Yang
     downward: 6
     rel: 2.857143e-2
     frac: 8.095238e-2
@@ -1669,8 +1756,8 @@ difficulty:
     downs:
     - 104.553 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '28'
+      - Mikhail Karmazin
     downward: 9
     rel: 4.285714e-2
     frac: 0.12380952
@@ -1682,8 +1769,8 @@ difficulty:
     downs:
     - 107.852 km
     downers:
-    - - '80'
-      - Michael Cassells
+    - - '36'
+      - Steve Docherty
     downward: 10
     rel: 4.761905e-2
     frac: 0.17142857
@@ -1695,8 +1782,8 @@ difficulty:
     downs:
     - 108.472 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '103'
+      - Wayne Thompson
     downward: 9
     rel: 4.285714e-2
     frac: 0.21428571
@@ -1708,8 +1795,8 @@ difficulty:
     downs:
     - 109.111 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '68'
+      - Neale Halsall
     downward: 8
     rel: 3.809524e-2
     frac: 0.25238095
@@ -1721,8 +1808,8 @@ difficulty:
     downs:
     - 112.202 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '72'
+      - Sasha Serebrennikova
     downward: 7
     rel: 3.333333e-2
     frac: 0.28571429
@@ -1734,8 +1821,8 @@ difficulty:
     downs:
     - 119.594 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '52'
+      - Dale Regehr
     downward: 9
     rel: 4.285714e-2
     frac: 0.32857143
@@ -1747,8 +1834,8 @@ difficulty:
     downs:
     - 119.807 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '41'
+      - Tony Armstrong
     downward: 8
     rel: 3.809524e-2
     frac: 0.36666667
@@ -1760,8 +1847,8 @@ difficulty:
     downs:
     - 119.921 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '108'
+      - Peter Adriaans
     downward: 7
     rel: 3.333333e-2
     frac: 0.4
@@ -1773,8 +1860,8 @@ difficulty:
     downs:
     - 123.086 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '6'
+      - Yoko Sano
     downward: 6
     rel: 2.857143e-2
     frac: 0.42857143
@@ -1786,8 +1873,8 @@ difficulty:
     downs:
     - 126.963 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '74'
+      - Vic Hare
     downward: 5
     rel: 2.380952e-2
     frac: 0.45238095
@@ -1799,8 +1886,8 @@ difficulty:
     downs:
     - 127.461 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
     rel: 1.904762e-2
     frac: 0.47142857
@@ -1812,8 +1899,8 @@ difficulty:
     downs:
     - 134.800 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 3
     rel: 1.428571e-2
     frac: 0.48571429
@@ -1843,20 +1930,7 @@ difficulty:
     downward: 1
     rel: 4.7619e-3
     frac: 0.5
-- - chunk: 0
-    startChunk: 10.0 km
-    endChunk: 10.0 km
-    endAhead: 42.3 km
-    down: 1
-    downs:
-    - 10.000 km
-    downers:
-    - - '100'
-      - Malcolm Brown
-    downward: 2
-    rel: 1.694915e-2
-    frac: 1.694915e-2
-  - chunk: 217
+- - chunk: 217
     startChunk: 31.6 km
     endChunk: 31.7 km
     endAhead: 64.0 km
@@ -1864,11 +1938,11 @@ difficulty:
     downs:
     - 31.626 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
-    rel: 2.542373e-2
-    frac: 4.237288e-2
+    rel: 2.173913e-2
+    frac: 2.173913e-2
   - chunk: 463
     startChunk: 56.2 km
     endChunk: 56.3 km
@@ -1877,11 +1951,11 @@ difficulty:
     downs:
     - 56.236 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '64'
+      - Longfei Yang
     downward: 5
-    rel: 4.237288e-2
-    frac: 8.474576e-2
+    rel: 3.623188e-2
+    frac: 5.797101e-2
   - chunk: 536
     startChunk: 63.5 km
     endChunk: 63.6 km
@@ -1890,11 +1964,11 @@ difficulty:
     downs:
     - 63.566 km
     downers:
-    - - '80'
-      - Michael Cassells
-    downward: 5
-    rel: 4.237288e-2
-    frac: 0.12711864
+    - - '28'
+      - Mikhail Karmazin
+    downward: 6
+    rel: 4.347826e-2
+    frac: 0.10144928
   - chunk: 571
     startChunk: 67.0 km
     endChunk: 67.1 km
@@ -1904,13 +1978,13 @@ difficulty:
     - 67.029 km
     - 67.061 km
     downers:
-    - - '4'
-      - Frank Chetcuti
-    - - '107'
-      - Anatoly Reyter
-    downward: 4
-    rel: 3.389831e-2
-    frac: 0.16101695
+    - - '36'
+      - Steve Docherty
+    - - '103'
+      - Wayne Thompson
+    downward: 5
+    rel: 3.623188e-2
+    frac: 0.13768116
   - chunk: 572
     startChunk: 67.1 km
     endChunk: 67.2 km
@@ -1919,11 +1993,11 @@ difficulty:
     downs:
     - 67.108 km
     downers:
-    - - '43'
-      - Jonny Durand
-    downward: 3
-    rel: 2.542373e-2
-    frac: 0.18644068
+    - - '68'
+      - Neale Halsall
+    downward: 4
+    rel: 2.898551e-2
+    frac: 0.16666667
   - chunk: 635
     startChunk: 73.4 km
     endChunk: 73.5 km
@@ -1932,11 +2006,11 @@ difficulty:
     downs:
     - 73.431 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
-    downward: 3
-    rel: 2.542373e-2
-    frac: 0.21186441
+    - - '72'
+      - Sasha Serebrennikova
+    downward: 4
+    rel: 2.898551e-2
+    frac: 0.19565217
   - chunk: 833
     startChunk: 93.2 km
     endChunk: 93.3 km
@@ -1945,11 +2019,24 @@ difficulty:
     downs:
     - 93.236 km
     downers:
-    - - '64'
-      - Longfei Yang
-    downward: 6
-    rel: 5.084746e-2
-    frac: 0.26271186
+    - - '52'
+      - Dale Regehr
+    downward: 7
+    rel: 5.072464e-2
+    frac: 0.24637681
+  - chunk: 851
+    startChunk: 95.0 km
+    endChunk: 95.1 km
+    endAhead: 127.4 km
+    down: 1
+    downs:
+    - 95.030 km
+    downers:
+    - - '41'
+      - Tony Armstrong
+    downward: 7
+    rel: 5.072464e-2
+    frac: 0.29710145
   - chunk: 947
     startChunk: 104.6 km
     endChunk: 104.7 km
@@ -1958,11 +2045,11 @@ difficulty:
     downs:
     - 104.687 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '108'
+      - Peter Adriaans
     downward: 7
-    rel: 5.932203e-2
-    frac: 0.3220339
+    rel: 5.072464e-2
+    frac: 0.34782609
   - chunk: 977
     startChunk: 107.6 km
     endChunk: 107.7 km
@@ -1971,11 +2058,11 @@ difficulty:
     downs:
     - 107.601 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '6'
+      - Yoko Sano
     downward: 6
-    rel: 5.084746e-2
-    frac: 0.37288136
+    rel: 4.347826e-2
+    frac: 0.39130435
   - chunk: 1001
     startChunk: 110.0 km
     endChunk: 110.1 km
@@ -1984,11 +2071,11 @@ difficulty:
     downs:
     - 110.028 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '74'
+      - Vic Hare
     downward: 5
-    rel: 4.237288e-2
-    frac: 0.41525424
+    rel: 3.623188e-2
+    frac: 0.42753623
   - chunk: 1053
     startChunk: 115.2 km
     endChunk: 115.3 km
@@ -1997,11 +2084,11 @@ difficulty:
     downs:
     - 115.281 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
-    rel: 3.389831e-2
-    frac: 0.44915254
+    rel: 2.898551e-2
+    frac: 0.45652174
   - chunk: 1060
     startChunk: 115.9 km
     endChunk: 116.0 km
@@ -2010,11 +2097,11 @@ difficulty:
     downs:
     - 115.933 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 3
-    rel: 2.542373e-2
-    frac: 0.47457627
+    rel: 2.173913e-2
+    frac: 0.47826087
   - chunk: 1168
     startChunk: 126.7 km
     endChunk: 126.8 km
@@ -2026,8 +2113,8 @@ difficulty:
     - - '15'
       - Ryosuke Hattori
     downward: 2
-    rel: 1.694915e-2
-    frac: 0.49152542
+    rel: 1.449275e-2
+    frac: 0.49275362
   - chunk: 1245
     startChunk: 134.4 km
     endChunk: 134.5 km
@@ -2039,5 +2126,5 @@ difficulty:
     - - '32'
       - Andrew Barnes
     downward: 1
-    rel: 8.47458e-3
+    rel: 7.24638e-3
     frac: 0.5
