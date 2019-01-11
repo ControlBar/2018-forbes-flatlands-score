@@ -1523,53 +1523,77 @@ pilots:
 pilotGroups:
 - absent: []
   didFlyNoTracklog:
-  - - '52'
-    - Dale Regehr
-  - - '37'
-    - Gavin Myers
-  - - '83'
-    - Randal Clotworthy
-  - - '42'
-    - Rob de Groot
-  - - '102'
-    - Robert Davies
-  - - '36'
-    - Steve Docherty
-  - - '74'
-    - Vic Hare
-  - - '103'
-    - Wayne Thompson
-  - - '75'
-    - Yasuhiro Noma
-  - - '6'
-    - Yoko Sano
+    unDfNoTrack:
+    - - - '52'
+        - Dale Regehr
+      - null
+    - - - '37'
+        - Gavin Myers
+      - null
+    - - - '83'
+        - Randal Clotworthy
+      - null
+    - - - '42'
+        - Rob de Groot
+      - null
+    - - - '102'
+        - Robert Davies
+      - null
+    - - - '36'
+        - Steve Docherty
+      - null
+    - - - '74'
+        - Vic Hare
+      - null
+    - - - '103'
+        - Wayne Thompson
+      - null
+    - - - '75'
+        - Yasuhiro Noma
+      - null
+    - - - '6'
+        - Yoko Sano
+      - null
   dnf: []
 - absent: []
   didFlyNoTracklog:
-  - - '107'
-    - Anatoly Reyter
-  - - '4'
-    - Frank Chetcuti
-  - - '99'
-    - Gennadiy Khramov
-  - - '94'
-    - Justinas Pleikys
-  - - '28'
-    - Mikhail Karmazin
-  - - '68'
-    - Neale Halsall
-  - - '108'
-    - Peter Adriaans
-  - - '83'
-    - Randal Clotworthy
-  - - '102'
-    - Robert Davies
-  - - '86'
-    - Ross Smith
-  - - '88'
-    - Simon West
-  - - '74'
-    - Vic Hare
+    unDfNoTrack:
+    - - - '107'
+        - Anatoly Reyter
+      - null
+    - - - '4'
+        - Frank Chetcuti
+      - null
+    - - - '99'
+        - Gennadiy Khramov
+      - null
+    - - - '94'
+        - Justinas Pleikys
+      - null
+    - - - '28'
+        - Mikhail Karmazin
+      - null
+    - - - '68'
+        - Neale Halsall
+      - null
+    - - - '108'
+        - Peter Adriaans
+      - null
+    - - - '83'
+        - Randal Clotworthy
+      - null
+    - - - '102'
+        - Robert Davies
+      - null
+    - - - '86'
+        - Ross Smith
+      - null
+    - - - '88'
+        - Simon West
+      - null
+    - - - '74'
+        - Vic Hare
+      - null
   dnf: []
 - absent:
   - - '94'
@@ -1578,7 +1602,8 @@ pilotGroups:
     - Oyvind Ellefsen
   - - '108'
     - Peter Adriaans
-  didFlyNoTracklog: []
+  didFlyNoTracklog:
+    unDfNoTrack: []
   dnf: []
 - absent:
   - - '107'
@@ -1592,18 +1617,25 @@ pilotGroups:
   - - '102'
     - Robert Davies
   didFlyNoTracklog:
-  - - '55'
-    - Don Cramer
-  - - '4'
-    - Frank Chetcuti
-  - - '100'
-    - Malcolm Brown
-  - - '98'
-    - Oyvind Ellefsen
-  - - '85'
-    - Rick Martin
-  - - '86'
-    - Ross Smith
+    unDfNoTrack:
+    - - - '55'
+        - Don Cramer
+      - null
+    - - - '4'
+        - Frank Chetcuti
+      - null
+    - - - '100'
+        - Malcolm Brown
+      - null
+    - - - '98'
+        - Oyvind Ellefsen
+      - null
+    - - - '85'
+        - Rick Martin
+      - null
+    - - - '86'
+        - Ross Smith
+      - null
   dnf: []
 - absent:
   - - '94'
@@ -1613,10 +1645,13 @@ pilotGroups:
   - - '108'
     - Peter Adriaans
   didFlyNoTracklog:
-  - - '80'
-    - Michael Cassells
-  - - '71'
-    - Rob Larkin
+    unDfNoTrack:
+    - - - '80'
+        - Michael Cassells
+      - null
+    - - - '71'
+        - Rob Larkin
+      - null
   dnf:
   - - '100'
     - Malcolm Brown
@@ -1636,8 +1671,10 @@ pilotGroups:
   - - '88'
     - Simon West
   didFlyNoTracklog:
-  - - '99'
-    - Gennadiy Khramov
+    unDfNoTrack:
+    - - - '99'
+        - Gennadiy Khramov
+      - null
   dnf: []
 - absent:
   - - '107'
@@ -1665,6 +1702,8 @@ pilotGroups:
   - - '88'
     - Simon West
   didFlyNoTracklog:
-  - - '85'
-    - Rick Martin
+    unDfNoTrack:
+    - - - '85'
+        - Rick Martin
+      - null
   dnf: []
