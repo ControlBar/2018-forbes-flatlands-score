@@ -1526,74 +1526,74 @@ pilotGroups:
     unDfNoTrack:
     - - - '52'
         - Dale Regehr
-      - null
+      - unawarded: 109.150000 km
     - - - '37'
         - Gavin Myers
-      - null
+      - unawarded: 0.000000 km
     - - - '83'
         - Randal Clotworthy
-      - null
+      - unawarded: 61.640000 km
     - - - '42'
         - Rob de Groot
-      - null
+      - unawarded: 123.240000 km
     - - - '102'
         - Robert Davies
-      - null
+      - unawarded: 0.000000 km
     - - - '36'
         - Steve Docherty
-      - null
+      - unawarded: 95.780000 km
     - - - '74'
         - Vic Hare
-      - null
+      - unawarded: 119.200000 km
     - - - '103'
         - Wayne Thompson
-      - null
+      - unawarded: 96.520000 km
     - - - '75'
         - Yasuhiro Noma
-      - null
+      - unawarded: 119.630000 km
     - - - '6'
         - Yoko Sano
-      - null
+      - unawarded: 115.980000 km
   dnf: []
 - absent: []
   didFlyNoTracklog:
     unDfNoTrack:
     - - - '107'
         - Anatoly Reyter
-      - null
+      - unawarded: 0.000000 km
     - - - '4'
         - Frank Chetcuti
-      - null
+      - unawarded: 0.000000 km
     - - - '99'
         - Gennadiy Khramov
-      - null
+      - unawarded: 0.000000 km
     - - - '94'
         - Justinas Pleikys
-      - null
+      - unawarded: 0.000000 km
     - - - '28'
         - Mikhail Karmazin
-      - null
+      - unawarded: 0.000000 km
     - - - '68'
         - Neale Halsall
-      - null
+      - unawarded: 0.000000 km
     - - - '108'
         - Peter Adriaans
-      - null
+      - unawarded: 0.000000 km
     - - - '83'
         - Randal Clotworthy
-      - null
+      - unawarded: 0.000000 km
     - - - '102'
         - Robert Davies
-      - null
+      - unawarded: 0.000000 km
     - - - '86'
         - Ross Smith
-      - null
+      - unawarded: 0.000000 km
     - - - '88'
         - Simon West
-      - null
+      - unawarded: 0.000000 km
     - - - '74'
         - Vic Hare
-      - null
+      - unawarded: 0.000000 km
   dnf: []
 - absent:
   - - '94'
@@ -1620,22 +1620,22 @@ pilotGroups:
     unDfNoTrack:
     - - - '55'
         - Don Cramer
-      - null
+      - unawarded: 0.000000 km
     - - - '4'
         - Frank Chetcuti
-      - null
+      - unawarded: 0.000000 km
     - - - '100'
         - Malcolm Brown
-      - null
+      - unawarded: 0.000000 km
     - - - '98'
         - Oyvind Ellefsen
-      - null
+      - unawarded: 0.000000 km
     - - - '85'
         - Rick Martin
-      - null
+      - unawarded: 224.782000 km
     - - - '86'
         - Ross Smith
-      - null
+      - unawarded: 0.000000 km
   dnf: []
 - absent:
   - - '94'
@@ -1648,10 +1648,10 @@ pilotGroups:
     unDfNoTrack:
     - - - '80'
         - Michael Cassells
-      - null
+      - unawarded: 0.000000 km
     - - - '71'
         - Rob Larkin
-      - null
+      - unawarded: 0.000000 km
   dnf:
   - - '100'
     - Malcolm Brown
@@ -1674,7 +1674,7 @@ pilotGroups:
     unDfNoTrack:
     - - - '99'
         - Gennadiy Khramov
-      - null
+      - unawarded: 0.000000 km
   dnf: []
 - absent:
   - - '107'
@@ -1705,5 +1705,5 @@ pilotGroups:
     unDfNoTrack:
     - - - '85'
         - Rick Martin
-      - null
+      - unawarded: 95.030000 km
   dnf: []
