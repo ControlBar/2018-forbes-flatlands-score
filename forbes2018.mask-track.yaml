@@ -5234,20 +5234,20 @@ land:
       made: 127.862189 km
   - - - '42'
       - Rob de Groot
-    - togo: 19.548632 km
-      made: 123.240000 km
+    - togo: 19.520461 km
+      made: 123.268171 km
   - - - '75'
       - Yasuhiro Noma
-    - togo: 23.158632 km
-      made: 119.630000 km
+    - togo: 23.131286 km
+      made: 119.657346 km
   - - - '74'
       - Vic Hare
-    - togo: 23.588632 km
-      made: 119.200000 km
+    - togo: 23.561385 km
+      made: 119.227247 km
   - - - '6'
       - Yoko Sano
-    - togo: 26.808632 km
-      made: 115.980000 km
+    - togo: 26.782121 km
+      made: 116.006511 km
   - - - '108'
       - Peter Adriaans
     - togo: 27.022789 km
@@ -5258,8 +5258,8 @@ land:
       made: 111.387731 km
   - - - '52'
       - Dale Regehr
-    - togo: 33.638632 km
-      made: 109.150000 km
+    - togo: 33.613682 km
+      made: 109.174950 km
   - - - '72'
       - Sasha Serebrennikova
     - togo: 36.574695 km
@@ -5270,12 +5270,12 @@ land:
       made: 99.038288 km
   - - - '103'
       - Wayne Thompson
-    - togo: 46.268632 km
-      made: 96.520000 km
+    - togo: 46.246569 km
+      made: 96.542063 km
   - - - '36'
       - Steve Docherty
-    - togo: 47.008632 km
-      made: 95.780000 km
+    - togo: 46.986738 km
+      made: 95.801894 km
   - - - '28'
       - Mikhail Karmazin
     - togo: 60.055271 km
@@ -5298,8 +5298,8 @@ land:
       made: 62.663571 km
   - - - '83'
       - Randal Clotworthy
-    - togo: 81.148632 km
-      made: 61.640000 km
+    - togo: 81.134542 km
+      made: 61.654090 km
   - - - '4'
       - Frank Chetcuti
     - togo: 86.697209 km
@@ -5344,18 +5344,18 @@ land:
       - Don Cramer
     - togo: 130.227469 km
       made: 12.561163 km
+  - - - '37'
+      - Gavin Myers
+    - togo: 132.788632 km
+      made: 10.000000 km
+  - - - '102'
+      - Robert Davies
+    - togo: 132.788632 km
+      made: 10.000000 km
   - - - '77'
       - Brodrick Osborne
     - togo: 137.920179 km
       made: 4.868453 km
-  - - - '37'
-      - Gavin Myers
-    - togo: 142.788632 km
-      made: 0.000000 km
-  - - - '102'
-      - Robert Davies
-    - togo: 142.788632 km
-      made: 0.000000 km
 - - - - '30'
       - Jason Kath
     - togo: 5.133714 km
@@ -5444,6 +5444,54 @@ land:
       - Rob de Groot
     - togo: 171.164512 km
       made: 14.581671 km
+  - - - '107'
+      - Anatoly Reyter
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '4'
+      - Frank Chetcuti
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '99'
+      - Gennadiy Khramov
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '94'
+      - Justinas Pleikys
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '28'
+      - Mikhail Karmazin
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '68'
+      - Neale Halsall
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '108'
+      - Peter Adriaans
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '83'
+      - Randal Clotworthy
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '102'
+      - Robert Davies
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '86'
+      - Ross Smith
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '88'
+      - Simon West
+    - togo: 175.746183 km
+      made: 10.000000 km
+  - - - '74'
+      - Vic Hare
+    - togo: 175.746183 km
+      made: 10.000000 km
   - - - '14'
       - Peter Burkitt
     - togo: 179.462336 km
@@ -5452,54 +5500,6 @@ land:
       - Craig Taylor
     - togo: 180.056979 km
       made: 5.689204 km
-  - - - '107'
-      - Anatoly Reyter
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '4'
-      - Frank Chetcuti
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '99'
-      - Gennadiy Khramov
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '94'
-      - Justinas Pleikys
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '28'
-      - Mikhail Karmazin
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '68'
-      - Neale Halsall
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '108'
-      - Peter Adriaans
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '83'
-      - Randal Clotworthy
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '102'
-      - Robert Davies
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '86'
-      - Ross Smith
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '88'
-      - Simon West
-    - togo: 185.746183 km
-      made: 0.000000 km
-  - - - '74'
-      - Vic Hare
-    - togo: 185.746183 km
-      made: 0.000000 km
   - - - '64'
       - Longfei Yang
     - togo: 188.716680 km
@@ -5614,8 +5614,8 @@ land:
       made: 231.992198 km
   - - - '85'
       - Rick Martin
-    - togo: 163.968522 km
-      made: 224.782000 km
+    - togo: 163.968220 km
+      made: 224.782302 km
   - - - '28'
       - Mikhail Karmazin
     - togo: 182.689284 km
@@ -5660,6 +5660,26 @@ land:
       - Nick Purcell
     - togo: 333.276040 km
       made: 55.474482 km
+  - - - '55'
+      - Don Cramer
+    - togo: 378.750522 km
+      made: 10.000000 km
+  - - - '4'
+      - Frank Chetcuti
+    - togo: 378.750522 km
+      made: 10.000000 km
+  - - - '100'
+      - Malcolm Brown
+    - togo: 378.750522 km
+      made: 10.000000 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - togo: 378.750522 km
+      made: 10.000000 km
+  - - - '86'
+      - Ross Smith
+    - togo: 378.750522 km
+      made: 10.000000 km
   - - - '6'
       - Yoko Sano
     - togo: 383.626491 km
@@ -5668,26 +5688,6 @@ land:
       - Peter Burkitt
     - togo: 385.925533 km
       made: 2.824989 km
-  - - - '55'
-      - Don Cramer
-    - togo: 388.750522 km
-      made: 0.000000 km
-  - - - '4'
-      - Frank Chetcuti
-    - togo: 388.750522 km
-      made: 0.000000 km
-  - - - '100'
-      - Malcolm Brown
-    - togo: 388.750522 km
-      made: 0.000000 km
-  - - - '98'
-      - Oyvind Ellefsen
-    - togo: 388.750522 km
-      made: 0.000000 km
-  - - - '86'
-      - Ross Smith
-    - togo: 388.750522 km
-      made: 0.000000 km
 - - - - '11'
       - Steve Blenkinsop
     - togo: 6.386776 km
@@ -5806,12 +5806,12 @@ land:
       made: 14.815729 km
   - - - '80'
       - Michael Cassells
-    - togo: 153.940289 km
-      made: 0.000000 km
+    - togo: 143.940289 km
+      made: 10.000000 km
   - - - '71'
       - Rob Larkin
-    - togo: 153.940289 km
-      made: 0.000000 km
+    - togo: 143.940289 km
+      made: 10.000000 km
 - - - - '64'
       - Longfei Yang
     - togo: 28.257746 km
@@ -5894,8 +5894,8 @@ land:
       made: 26.484795 km
   - - - '99'
       - Gennadiy Khramov
-    - togo: 166.445178 km
-      made: 0.000000 km
+    - togo: 156.445178 km
+      made: 10.000000 km
   - - - '51'
       - Craig Taylor
     - togo: 166.749983 km
@@ -5934,8 +5934,8 @@ land:
       made: 104.686608 km
   - - - '85'
       - Rick Martin
-    - togo: 77.116534 km
-      made: 95.030000 km
+    - togo: 77.115687 km
+      made: 95.030847 km
   - - - '83'
       - Randal Clotworthy
     - togo: 78.910695 km
