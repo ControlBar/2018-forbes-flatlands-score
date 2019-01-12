@@ -447,6 +447,10 @@ difficulty:
     endAhead: 25.1 km
     down: 15
     downs:
+    - -2.970 km
+    - 5.689 km
+    - 6.284 km
+    - 10.000 km
     - 10.000 km
     - 10.000 km
     - 10.000 km
@@ -459,28 +463,36 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '77'
-      - Brodrick Osborne
-    - - '102'
-      - Robert Davies
-    - - '37'
-      - Gavin Myers
-    - - '55'
-      - Don Cramer
-    - - '94'
-      - Justinas Pleikys
-    - - '88'
-      - Simon West
-    - - '67'
-      - Mark Alton
+    - - '64'
+      - Longfei Yang
+    - - '51'
+      - Craig Taylor
     - - '14'
       - Peter Burkitt
-    - - '34'
-      - Brad Porter
-    - - '100'
-      - Malcolm Brown
+    - - '74'
+      - Vic Hare
+    - - '88'
+      - Simon West
     - - '86'
       - Ross Smith
+    - - '102'
+      - Robert Davies
+    - - '83'
+      - Randal Clotworthy
+    - - '108'
+      - Peter Adriaans
+    - - '68'
+      - Neale Halsall
+    - - '28'
+      - Mikhail Karmazin
+    - - '94'
+      - Justinas Pleikys
+    - - '99'
+      - Gennadiy Khramov
+    - - '4'
+      - Frank Chetcuti
+    - - '107'
+      - Anatoly Reyter
     downward: 2
     rel: 1.515152e-2
     frac: 1.515152e-2
@@ -492,8 +504,8 @@ difficulty:
     downs:
     - 14.582 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '42'
+      - Rob de Groot
     downward: 1
     rel: 7.57576e-3
     frac: 2.272727e-2
@@ -505,8 +517,8 @@ difficulty:
     downs:
     - 46.692 km
     downers:
-    - - '80'
-      - Michael Cassells
+    - - '67'
+      - Mark Alton
     downward: 3
     rel: 2.272727e-2
     frac: 4.545455e-2
@@ -518,8 +530,8 @@ difficulty:
     downs:
     - 56.076 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '72'
+      - Sasha Serebrennikova
     downward: 3
     rel: 2.272727e-2
     frac: 6.818182e-2
@@ -531,8 +543,8 @@ difficulty:
     downs:
     - 57.867 km
     downers:
-    - - '83'
-      - Randal Clotworthy
+    - - '55'
+      - Don Cramer
     downward: 2
     rel: 1.515152e-2
     frac: 8.333333e-2
@@ -544,8 +556,8 @@ difficulty:
     downs:
     - 67.388 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '31'
+      - Trent Brown
     downward: 1
     rel: 7.57576e-3
     frac: 9.090909e-2
@@ -557,8 +569,8 @@ difficulty:
     downs:
     - 91.161 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '32'
+      - Andrew Barnes
     downward: 4
     rel: 3.030303e-2
     frac: 0.12121212
@@ -570,8 +582,8 @@ difficulty:
     downs:
     - 98.560 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 3.787879e-2
     frac: 0.15909091
@@ -583,8 +595,8 @@ difficulty:
     downs:
     - 103.637 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '71'
+      - Rob Larkin
     downward: 4
     rel: 3.030303e-2
     frac: 0.18939394
@@ -596,8 +608,8 @@ difficulty:
     downs:
     - 103.881 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '52'
+      - Dale Regehr
     downward: 3
     rel: 2.272727e-2
     frac: 0.21212121
@@ -609,8 +621,8 @@ difficulty:
     downs:
     - 108.655 km
     downers:
-    - - '36'
-      - Steve Docherty
+    - - '106'
+      - Jon Durand Snr
     downward: 4
     rel: 3.030303e-2
     frac: 0.24242424
@@ -622,8 +634,8 @@ difficulty:
     downs:
     - 111.051 km
     downers:
-    - - '103'
-      - Wayne Thompson
+    - - '34'
+      - Brad Porter
     downward: 3
     rel: 2.272727e-2
     frac: 0.26515152
@@ -635,8 +647,8 @@ difficulty:
     downs:
     - 120.420 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '36'
+      - Steve Docherty
     downward: 3
     rel: 2.272727e-2
     frac: 0.28787879
@@ -648,8 +660,8 @@ difficulty:
     downs:
     - 122.358 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '81'
+      - Nick Purcell
     downward: 2
     rel: 1.515152e-2
     frac: 0.3030303
@@ -661,8 +673,8 @@ difficulty:
     downs:
     - 135.575 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '100'
+      - Malcolm Brown
     downward: 2
     rel: 1.515152e-2
     frac: 0.31818182
@@ -674,8 +686,8 @@ difficulty:
     downs:
     - 149.832 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '103'
+      - Wayne Thompson
     downward: 4
     rel: 3.030303e-2
     frac: 0.34848485
@@ -687,8 +699,8 @@ difficulty:
     downs:
     - 155.737 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '37'
+      - Gavin Myers
     downward: 4
     rel: 3.030303e-2
     frac: 0.37878788
@@ -700,8 +712,8 @@ difficulty:
     downs:
     - 155.808 km
     downers:
-    - - '6'
-      - Yoko Sano
+    - - '22'
+      - Rohan Taylor
     downward: 3
     rel: 2.272727e-2
     frac: 0.40151515
@@ -713,8 +725,8 @@ difficulty:
     downs:
     - 162.685 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '98'
+      - Oyvind Ellefsen
     downward: 3
     rel: 2.272727e-2
     frac: 0.42424242
@@ -726,8 +738,8 @@ difficulty:
     downs:
     - 167.061 km
     downers:
-    - - '75'
-      - Yasuhiro Noma
+    - - '77'
+      - Brodrick Osborne
     downward: 4
     rel: 3.030303e-2
     frac: 0.45454545
@@ -739,8 +751,8 @@ difficulty:
     downs:
     - 174.889 km
     downers:
-    - - '42'
-      - Rob de Groot
+    - - '15'
+      - Ryosuke Hattori
     downward: 3
     rel: 2.272727e-2
     frac: 0.47727273
@@ -752,8 +764,8 @@ difficulty:
     downs:
     - 179.079 km
     downers:
-    - - '15'
-      - Ryosuke Hattori
+    - - '6'
+      - Yoko Sano
     downward: 2
     rel: 1.515152e-2
     frac: 0.49242424
@@ -765,8 +777,8 @@ difficulty:
     downs:
     - 180.612 km
     downers:
-    - - '32'
-      - Andrew Barnes
+    - - '30'
+      - Jason Kath
     downward: 1
     rel: 7.57576e-3
     frac: 0.5
@@ -778,8 +790,8 @@ difficulty:
     downs:
     - 51.027 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '55'
+      - Don Cramer
     downward: 5
     rel: 4.385965e-2
     frac: 4.385965e-2
@@ -791,8 +803,8 @@ difficulty:
     downs:
     - 55.849 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '27'
+      - Guy Hubbard
     downward: 4
     rel: 3.508772e-2
     frac: 7.894737e-2
@@ -804,8 +816,8 @@ difficulty:
     downs:
     - 71.919 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '69'
+      - Niki Longshore
     downward: 5
     rel: 4.385965e-2
     frac: 0.12280702
@@ -817,8 +829,8 @@ difficulty:
     downs:
     - 73.246 km
     downers:
-    - - '36'
-      - Steve Docherty
+    - - '101'
+      - Oliver Chitty
     downward: 4
     rel: 3.508772e-2
     frac: 0.15789474
@@ -830,8 +842,8 @@ difficulty:
     downs:
     - 74.958 km
     downers:
-    - - '103'
-      - Wayne Thompson
+    - - '43'
+      - Jonny Durand
     downward: 3
     rel: 2.631579e-2
     frac: 0.18421053
@@ -843,8 +855,8 @@ difficulty:
     downs:
     - 100.625 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '83'
+      - Randal Clotworthy
     downward: 2
     rel: 1.754386e-2
     frac: 0.20175439
@@ -856,8 +868,8 @@ difficulty:
     downs:
     - 107.625 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '102'
+      - Robert Davies
     downward: 2
     rel: 1.754386e-2
     frac: 0.21929825
@@ -869,8 +881,8 @@ difficulty:
     downs:
     - 141.456 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '75'
+      - Yasuhiro Noma
     downward: 5
     rel: 4.385965e-2
     frac: 0.26315789
@@ -882,8 +894,8 @@ difficulty:
     downs:
     - 149.833 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '64'
+      - Longfei Yang
     downward: 6
     rel: 5.263158e-2
     frac: 0.31578947
@@ -896,10 +908,10 @@ difficulty:
     - 167.276 km
     - 167.294 km
     downers:
-    - - '108'
-      - Peter Adriaans
-    - - '6'
-      - Yoko Sano
+    - - '74'
+      - Vic Hare
+    - - '67'
+      - Mark Alton
     downward: 6
     rel: 5.263158e-2
     frac: 0.36842105
@@ -911,8 +923,8 @@ difficulty:
     downs:
     - 167.307 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '52'
+      - Dale Regehr
     downward: 5
     rel: 4.385965e-2
     frac: 0.4122807
@@ -924,8 +936,8 @@ difficulty:
     downs:
     - 170.881 km
     downers:
-    - - '75'
-      - Yasuhiro Noma
+    - - '28'
+      - Mikhail Karmazin
     downward: 4
     rel: 3.508772e-2
     frac: 0.44736842
@@ -937,8 +949,8 @@ difficulty:
     downs:
     - 181.933 km
     downers:
-    - - '42'
-      - Rob de Groot
+    - - '71'
+      - Rob Larkin
     downward: 3
     rel: 2.631579e-2
     frac: 0.47368421
@@ -950,8 +962,8 @@ difficulty:
     downs:
     - 185.953 km
     downers:
-    - - '15'
-      - Ryosuke Hattori
+    - - '14'
+      - Peter Burkitt
     downward: 2
     rel: 1.754386e-2
     frac: 0.49122807
@@ -963,8 +975,8 @@ difficulty:
     downs:
     - 191.301 km
     downers:
-    - - '32'
-      - Andrew Barnes
+    - - '107'
+      - Anatoly Reyter
     downward: 1
     rel: 8.77193e-3
     frac: 0.5
@@ -982,20 +994,20 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '55'
-      - Don Cramer
-    - - '94'
-      - Justinas Pleikys
-    - - '88'
-      - Simon West
-    - - '67'
-      - Mark Alton
     - - '14'
       - Peter Burkitt
-    - - '34'
-      - Brad Porter
+    - - '6'
+      - Yoko Sano
+    - - '86'
+      - Ross Smith
+    - - '98'
+      - Oyvind Ellefsen
     - - '100'
       - Malcolm Brown
+    - - '4'
+      - Frank Chetcuti
+    - - '55'
+      - Don Cramer
     downward: 1
     rel: 6.25e-3
     frac: 6.25e-3
@@ -1007,8 +1019,8 @@ difficulty:
     downs:
     - 55.474 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '81'
+      - Nick Purcell
     downward: 4
     rel: 2.5e-2
     frac: 3.125e-2
@@ -1020,8 +1032,8 @@ difficulty:
     downs:
     - 55.741 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '64'
+      - Longfei Yang
     downward: 3
     rel: 1.875e-2
     frac: 5.0e-2
@@ -1033,8 +1045,8 @@ difficulty:
     downs:
     - 55.839 km
     downers:
-    - - '80'
-      - Michael Cassells
+    - - '83'
+      - Randal Clotworthy
     downward: 2
     rel: 1.25e-2
     frac: 6.25e-2
@@ -1046,8 +1058,8 @@ difficulty:
     downs:
     - 93.199 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '106'
+      - Jon Durand Snr
     downward: 1
     rel: 6.25e-3
     frac: 6.875e-2
@@ -1059,8 +1071,8 @@ difficulty:
     downs:
     - 135.887 km
     downers:
-    - - '83'
-      - Randal Clotworthy
+    - - '74'
+      - Vic Hare
     downward: 1
     rel: 6.25e-3
     frac: 7.5e-2
@@ -1072,8 +1084,8 @@ difficulty:
     downs:
     - 175.572 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '71'
+      - Rob Larkin
     downward: 6
     rel: 3.75e-2
     frac: 0.1125
@@ -1085,8 +1097,8 @@ difficulty:
     downs:
     - 180.428 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '67'
+      - Mark Alton
     downward: 5
     rel: 3.125e-2
     frac: 0.14375
@@ -1098,8 +1110,8 @@ difficulty:
     downs:
     - 185.583 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '75'
+      - Yasuhiro Noma
     downward: 4
     rel: 2.5e-2
     frac: 0.16875
@@ -1111,8 +1123,8 @@ difficulty:
     downs:
     - 201.360 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '92'
+      - Attila Bertok
     downward: 6
     rel: 3.75e-2
     frac: 0.20625
@@ -1124,8 +1136,8 @@ difficulty:
     downs:
     - 205.807 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '88'
+      - Simon West
     downward: 5
     rel: 3.125e-2
     frac: 0.2375
@@ -1137,8 +1149,8 @@ difficulty:
     downs:
     - 206.061 km
     downers:
-    - - '36'
-      - Steve Docherty
+    - - '28'
+      - Mikhail Karmazin
     downward: 4
     rel: 2.5e-2
     frac: 0.2625
@@ -1150,8 +1162,8 @@ difficulty:
     downs:
     - 224.782 km
     downers:
-    - - '103'
-      - Wayne Thompson
+    - - '85'
+      - Rick Martin
     downward: 3
     rel: 1.875e-2
     frac: 0.28125
@@ -1163,8 +1175,8 @@ difficulty:
     downs:
     - 231.992 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '52'
+      - Dale Regehr
     downward: 3
     rel: 1.875e-2
     frac: 0.3
@@ -1176,8 +1188,8 @@ difficulty:
     downs:
     - 237.741 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '34'
+      - Brad Porter
     downward: 2
     rel: 1.25e-2
     frac: 0.3125
@@ -1189,8 +1201,8 @@ difficulty:
     downs:
     - 267.036 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '103'
+      - Wayne Thompson
     downward: 2
     rel: 1.25e-2
     frac: 0.325
@@ -1202,8 +1214,8 @@ difficulty:
     downs:
     - 289.355 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '68'
+      - Neale Halsall
     downward: 3
     rel: 1.875e-2
     frac: 0.34375
@@ -1215,8 +1227,8 @@ difficulty:
     downs:
     - 309.834 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '42'
+      - Rob de Groot
     downward: 4
     rel: 2.5e-2
     frac: 0.36875
@@ -1228,8 +1240,8 @@ difficulty:
     downs:
     - 321.748 km
     downers:
-    - - '6'
-      - Yoko Sano
+    - - '77'
+      - Brodrick Osborne
     downward: 6
     rel: 3.75e-2
     frac: 0.40625
@@ -1241,8 +1253,8 @@ difficulty:
     downs:
     - 332.648 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 3.125e-2
     frac: 0.4375
@@ -1254,8 +1266,8 @@ difficulty:
     downs:
     - 343.892 km
     downers:
-    - - '75'
-      - Yasuhiro Noma
+    - - '22'
+      - Rohan Taylor
     downward: 4
     rel: 2.5e-2
     frac: 0.4625
@@ -1267,8 +1279,8 @@ difficulty:
     downs:
     - 352.658 km
     downers:
-    - - '42'
-      - Rob de Groot
+    - - '51'
+      - Craig Taylor
     downward: 3
     rel: 1.875e-2
     frac: 0.48125
@@ -1280,8 +1292,8 @@ difficulty:
     downs:
     - 355.443 km
     downers:
-    - - '15'
-      - Ryosuke Hattori
+    - - '37'
+      - Gavin Myers
     downward: 2
     rel: 1.25e-2
     frac: 0.49375
@@ -1307,10 +1319,10 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '37'
-      - Gavin Myers
-    - - '55'
-      - Don Cramer
+    - - '71'
+      - Rob Larkin
+    - - '80'
+      - Michael Cassells
     downward: 2
     rel: 8.62069e-3
     frac: 8.62069e-3
@@ -1322,8 +1334,8 @@ difficulty:
     downs:
     - 14.816 km
     downers:
-    - - '94'
-      - Justinas Pleikys
+    - - '14'
+      - Peter Burkitt
     downward: 1
     rel: 4.31034e-3
     frac: 1.293103e-2
@@ -1335,8 +1347,8 @@ difficulty:
     downs:
     - 67.303 km
     downers:
-    - - '88'
-      - Simon West
+    - - '67'
+      - Mark Alton
     downward: 2
     rel: 8.62069e-3
     frac: 2.155172e-2
@@ -1348,8 +1360,8 @@ difficulty:
     downs:
     - 70.243 km
     downers:
-    - - '67'
-      - Mark Alton
+    - - '8'
+      - Gordon Rigg
     downward: 3
     rel: 1.293103e-2
     frac: 3.448276e-2
@@ -1361,8 +1373,8 @@ difficulty:
     downs:
     - 82.531 km
     downers:
-    - - '14'
-      - Peter Burkitt
+    - - '99'
+      - Gennadiy Khramov
     downward: 6
     rel: 2.586207e-2
     frac: 6.034483e-2
@@ -1374,8 +1386,8 @@ difficulty:
     downs:
     - 84.621 km
     downers:
-    - - '34'
-      - Brad Porter
+    - - '107'
+      - Anatoly Reyter
     downward: 5
     rel: 2.155172e-2
     frac: 8.189655e-2
@@ -1387,8 +1399,8 @@ difficulty:
     downs:
     - 87.308 km
     downers:
-    - - '100'
-      - Malcolm Brown
+    - - '34'
+      - Brad Porter
     downward: 4
     rel: 1.724138e-2
     frac: 9.913793e-2
@@ -1400,8 +1412,8 @@ difficulty:
     downs:
     - 91.875 km
     downers:
-    - - '86'
-      - Ross Smith
+    - - '42'
+      - Rob de Groot
     downward: 3
     rel: 1.293103e-2
     frac: 0.11206897
@@ -1413,8 +1425,8 @@ difficulty:
     downs:
     - 93.973 km
     downers:
-    - - '71'
-      - Rob Larkin
+    - - '25'
+      - Tyler Borrdaile
     downward: 3
     rel: 1.293103e-2
     frac: 0.125
@@ -1427,10 +1439,10 @@ difficulty:
     - 95.505 km
     - 95.511 km
     downers:
-    - - '80'
-      - Michael Cassells
-    - - '4'
-      - Frank Chetcuti
+    - - '52'
+      - Dale Regehr
+    - - '68'
+      - Neale Halsall
     downward: 2
     rel: 8.62069e-3
     frac: 0.13362069
@@ -1442,8 +1454,8 @@ difficulty:
     downs:
     - 108.125 km
     downers:
-    - - '83'
-      - Randal Clotworthy
+    - - '103'
+      - Wayne Thompson
     downward: 5
     rel: 2.155172e-2
     frac: 0.15517241
@@ -1455,8 +1467,8 @@ difficulty:
     downs:
     - 112.186 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '7'
+      - Olav Opsanger
     downward: 7
     rel: 3.017241e-2
     frac: 0.18534483
@@ -1468,8 +1480,8 @@ difficulty:
     downs:
     - 113.390 km
     downers:
-    - - '43'
-      - Jonny Durand
+    - - '41'
+      - Tony Armstrong
     downward: 7
     rel: 3.017241e-2
     frac: 0.21551724
@@ -1482,10 +1494,10 @@ difficulty:
     - 113.828 km
     - 113.846 km
     downers:
+    - - '75'
+      - Yasuhiro Noma
     - - '98'
       - Oyvind Ellefsen
-    - - '64'
-      - Longfei Yang
     downward: 6
     rel: 2.586207e-2
     frac: 0.24137931
@@ -1497,8 +1509,8 @@ difficulty:
     downs:
     - 115.536 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '64'
+      - Longfei Yang
     downward: 6
     rel: 2.586207e-2
     frac: 0.26724138
@@ -1510,8 +1522,8 @@ difficulty:
     downs:
     - 125.106 km
     downers:
-    - - '36'
-      - Steve Docherty
+    - - '6'
+      - Yoko Sano
     downward: 7
     rel: 3.017241e-2
     frac: 0.29741379
@@ -1523,8 +1535,8 @@ difficulty:
     downs:
     - 126.682 km
     downers:
-    - - '103'
-      - Wayne Thompson
+    - - '62'
+      - Josh Woods
     downward: 6
     rel: 2.586207e-2
     frac: 0.32327586
@@ -1537,10 +1549,10 @@ difficulty:
     - 126.904 km
     - 126.919 km
     downers:
-    - - '68'
-      - Neale Halsall
-    - - '72'
-      - Sasha Serebrennikova
+    - - '36'
+      - Steve Docherty
+    - - '28'
+      - Mikhail Karmazin
     downward: 5
     rel: 2.155172e-2
     frac: 0.34482759
@@ -1552,8 +1564,8 @@ difficulty:
     downs:
     - 127.682 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '72'
+      - Sasha Serebrennikova
     downward: 4
     rel: 1.724138e-2
     frac: 0.36206897
@@ -1565,8 +1577,8 @@ difficulty:
     downs:
     - 129.293 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '74'
+      - Vic Hare
     downward: 4
     rel: 1.724138e-2
     frac: 0.37931034
@@ -1578,8 +1590,8 @@ difficulty:
     downs:
     - 134.660 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '92'
+      - Attila Bertok
     downward: 7
     rel: 3.017241e-2
     frac: 0.40948276
@@ -1591,8 +1603,8 @@ difficulty:
     downs:
     - 135.627 km
     downers:
-    - - '6'
-      - Yoko Sano
+    - - '15'
+      - Ryosuke Hattori
     downward: 6
     rel: 2.586207e-2
     frac: 0.43534483
@@ -1604,8 +1616,8 @@ difficulty:
     downs:
     - 143.485 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '4'
+      - Frank Chetcuti
     downward: 5
     rel: 2.155172e-2
     frac: 0.45689655
@@ -1617,8 +1629,8 @@ difficulty:
     downs:
     - 144.451 km
     downers:
-    - - '75'
-      - Yasuhiro Noma
+    - - '22'
+      - Rohan Taylor
     downward: 4
     rel: 1.724138e-2
     frac: 0.47413793
@@ -1630,8 +1642,8 @@ difficulty:
     downs:
     - 145.123 km
     downers:
-    - - '42'
-      - Rob de Groot
+    - - '31'
+      - Trent Brown
     downward: 3
     rel: 1.293103e-2
     frac: 0.48706897
@@ -1643,8 +1655,8 @@ difficulty:
     downs:
     - 145.523 km
     downers:
-    - - '15'
-      - Ryosuke Hattori
+    - - '81'
+      - Nick Purcell
     downward: 2
     rel: 8.62069e-3
     frac: 0.49568966
@@ -1656,8 +1668,8 @@ difficulty:
     downs:
     - 147.554 km
     downers:
-    - - '32'
-      - Andrew Barnes
+    - - '11'
+      - Steve Blenkinsop
     downward: 1
     rel: 4.31034e-3
     frac: 0.5
@@ -1673,10 +1685,10 @@ difficulty:
     downers:
     - - '86'
       - Ross Smith
-    - - '71'
-      - Rob Larkin
-    - - '80'
-      - Michael Cassells
+    - - '51'
+      - Craig Taylor
+    - - '99'
+      - Gennadiy Khramov
     downward: 2
     rel: 9.52381e-3
     frac: 9.52381e-3
@@ -1688,8 +1700,8 @@ difficulty:
     downs:
     - 26.485 km
     downers:
-    - - '4'
-      - Frank Chetcuti
+    - - '83'
+      - Randal Clotworthy
     downward: 3
     rel: 1.428571e-2
     frac: 2.380952e-2
@@ -1701,8 +1713,8 @@ difficulty:
     downs:
     - 45.058 km
     downers:
-    - - '83'
-      - Randal Clotworthy
+    - - '71'
+      - Rob Larkin
     downward: 3
     rel: 1.428571e-2
     frac: 3.809524e-2
@@ -1714,8 +1726,8 @@ difficulty:
     downs:
     - 47.891 km
     downers:
-    - - '107'
-      - Anatoly Reyter
+    - - '74'
+      - Vic Hare
     downward: 2
     rel: 9.52381e-3
     frac: 4.761905e-2
@@ -1728,10 +1740,10 @@ difficulty:
     - 63.129 km
     - 63.141 km
     downers:
-    - - '43'
-      - Jonny Durand
-    - - '98'
-      - Oyvind Ellefsen
+    - - '32'
+      - Andrew Barnes
+    - - '15'
+      - Ryosuke Hattori
     downward: 1
     rel: 4.7619e-3
     frac: 5.238095e-2
@@ -1743,8 +1755,8 @@ difficulty:
     downs:
     - 96.410 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '67'
+      - Mark Alton
     downward: 6
     rel: 2.857143e-2
     frac: 8.095238e-2
@@ -1756,8 +1768,8 @@ difficulty:
     downs:
     - 104.553 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '55'
+      - Don Cramer
     downward: 9
     rel: 4.285714e-2
     frac: 0.12380952
@@ -1769,8 +1781,8 @@ difficulty:
     downs:
     - 107.852 km
     downers:
-    - - '36'
-      - Steve Docherty
+    - - '6'
+      - Yoko Sano
     downward: 10
     rel: 4.761905e-2
     frac: 0.17142857
@@ -1795,8 +1807,8 @@ difficulty:
     downs:
     - 109.111 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '23'
+      - Nils Vesk
     downward: 8
     rel: 3.809524e-2
     frac: 0.25238095
@@ -1808,8 +1820,8 @@ difficulty:
     downs:
     - 112.202 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '14'
+      - Peter Burkitt
     downward: 7
     rel: 3.333333e-2
     frac: 0.28571429
@@ -1821,8 +1833,8 @@ difficulty:
     downs:
     - 119.594 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '107'
+      - Anatoly Reyter
     downward: 9
     rel: 4.285714e-2
     frac: 0.32857143
@@ -1834,8 +1846,8 @@ difficulty:
     downs:
     - 119.807 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '28'
+      - Mikhail Karmazin
     downward: 8
     rel: 3.809524e-2
     frac: 0.36666667
@@ -1847,8 +1859,8 @@ difficulty:
     downs:
     - 119.921 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '22'
+      - Rohan Taylor
     downward: 7
     rel: 3.333333e-2
     frac: 0.4
@@ -1860,8 +1872,8 @@ difficulty:
     downs:
     - 123.086 km
     downers:
-    - - '6'
-      - Yoko Sano
+    - - '85'
+      - Rick Martin
     downward: 6
     rel: 2.857143e-2
     frac: 0.42857143
@@ -1873,8 +1885,8 @@ difficulty:
     downs:
     - 126.963 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 2.380952e-2
     frac: 0.45238095
@@ -1886,8 +1898,8 @@ difficulty:
     downs:
     - 127.461 km
     downers:
-    - - '75'
-      - Yasuhiro Noma
+    - - '25'
+      - Tyler Borrdaile
     downward: 4
     rel: 1.904762e-2
     frac: 0.47142857
@@ -1912,8 +1924,8 @@ difficulty:
     downs:
     - 134.973 km
     downers:
-    - - '15'
-      - Ryosuke Hattori
+    - - '52'
+      - Dale Regehr
     downward: 2
     rel: 9.52381e-3
     frac: 0.4952381
@@ -1925,8 +1937,8 @@ difficulty:
     downs:
     - 138.187 km
     downers:
-    - - '32'
-      - Andrew Barnes
+    - - '64'
+      - Longfei Yang
     downward: 1
     rel: 4.7619e-3
     frac: 0.5
@@ -1938,8 +1950,8 @@ difficulty:
     downs:
     - 31.626 km
     downers:
-    - - '98'
-      - Oyvind Ellefsen
+    - - '14'
+      - Peter Burkitt
     downward: 3
     rel: 2.173913e-2
     frac: 2.173913e-2
@@ -1951,8 +1963,8 @@ difficulty:
     downs:
     - 56.236 km
     downers:
-    - - '64'
-      - Longfei Yang
+    - - '98'
+      - Oyvind Ellefsen
     downward: 5
     rel: 3.623188e-2
     frac: 5.797101e-2
@@ -1964,8 +1976,8 @@ difficulty:
     downs:
     - 63.566 km
     downers:
-    - - '28'
-      - Mikhail Karmazin
+    - - '64'
+      - Longfei Yang
     downward: 6
     rel: 4.347826e-2
     frac: 0.10144928
@@ -1978,10 +1990,10 @@ difficulty:
     - 67.029 km
     - 67.061 km
     downers:
-    - - '36'
-      - Steve Docherty
-    - - '103'
-      - Wayne Thompson
+    - - '106'
+      - Jon Durand Snr
+    - - '25'
+      - Tyler Borrdaile
     downward: 5
     rel: 3.623188e-2
     frac: 0.13768116
@@ -1993,8 +2005,8 @@ difficulty:
     downs:
     - 67.108 km
     downers:
-    - - '68'
-      - Neale Halsall
+    - - '34'
+      - Brad Porter
     downward: 4
     rel: 2.898551e-2
     frac: 0.16666667
@@ -2006,8 +2018,8 @@ difficulty:
     downs:
     - 73.431 km
     downers:
-    - - '72'
-      - Sasha Serebrennikova
+    - - '36'
+      - Steve Docherty
     downward: 4
     rel: 2.898551e-2
     frac: 0.19565217
@@ -2019,8 +2031,8 @@ difficulty:
     downs:
     - 93.236 km
     downers:
-    - - '52'
-      - Dale Regehr
+    - - '83'
+      - Randal Clotworthy
     downward: 7
     rel: 5.072464e-2
     frac: 0.24637681
@@ -2032,8 +2044,8 @@ difficulty:
     downs:
     - 95.031 km
     downers:
-    - - '41'
-      - Tony Armstrong
+    - - '85'
+      - Rick Martin
     downward: 7
     rel: 5.072464e-2
     frac: 0.29710145
@@ -2045,8 +2057,8 @@ difficulty:
     downs:
     - 104.687 km
     downers:
-    - - '108'
-      - Peter Adriaans
+    - - '23'
+      - Nils Vesk
     downward: 7
     rel: 5.072464e-2
     frac: 0.34782609
@@ -2058,8 +2070,8 @@ difficulty:
     downs:
     - 107.601 km
     downers:
-    - - '6'
-      - Yoko Sano
+    - - '4'
+      - Frank Chetcuti
     downward: 6
     rel: 4.347826e-2
     frac: 0.39130435
@@ -2071,8 +2083,8 @@ difficulty:
     downs:
     - 110.028 km
     downers:
-    - - '74'
-      - Vic Hare
+    - - '80'
+      - Michael Cassells
     downward: 5
     rel: 3.623188e-2
     frac: 0.42753623
@@ -2084,8 +2096,8 @@ difficulty:
     downs:
     - 115.281 km
     downers:
-    - - '75'
-      - Yasuhiro Noma
+    - - '103'
+      - Wayne Thompson
     downward: 4
     rel: 2.898551e-2
     frac: 0.45652174
@@ -2097,8 +2109,8 @@ difficulty:
     downs:
     - 115.933 km
     downers:
-    - - '42'
-      - Rob de Groot
+    - - '28'
+      - Mikhail Karmazin
     downward: 3
     rel: 2.173913e-2
     frac: 0.47826087
@@ -2110,8 +2122,8 @@ difficulty:
     downs:
     - 126.721 km
     downers:
-    - - '15'
-      - Ryosuke Hattori
+    - - '76'
+      - Rory Duncan
     downward: 2
     rel: 1.449275e-2
     frac: 0.49275362
@@ -2123,8 +2135,8 @@ difficulty:
     downs:
     - 134.471 km
     downers:
-    - - '32'
-      - Andrew Barnes
+    - - '52'
+      - Dale Regehr
     downward: 1
     rel: 7.24638e-3
     frac: 0.5
