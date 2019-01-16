@@ -21,6 +21,8 @@ nominal:
   distance: 100.0 km
   free: 10.0 km
   time: 1.500000 h
+tweak:
+  leadingWeightScaling: null
 tasks:
 - taskName: Task 1
   zones:
