@@ -32,14 +32,14 @@ flying:
       - 3308
       scoredFixes:
       - 26
-      - 3308
+      - 2754
       loggedSeconds: 16610
       flyingSeconds:
       - 130
       - 16610
       scoredSeconds:
       - 130
-      - 16610
+      - 13826
       loggedTimes:
       - 2017-12-30T03:17:31Z
       - 2017-12-30T07:54:21Z
@@ -48,7 +48,7 @@ flying:
       - 2017-12-30T07:54:21Z
       scoredTimes:
       - 2017-12-30T03:19:41Z
-      - 2017-12-30T07:54:21Z
+      - 2017-12-30T07:07:57Z
   - - - '92'
       - Attila Bertok
     - loggedFixes: 10648
@@ -541,14 +541,14 @@ flying:
       - 6924
       scoredFixes:
       - 3
-      - 6924
+      - 6921
       loggedSeconds: 15163
       flyingSeconds:
       - 14
       - 15163
       scoredSeconds:
       - 14
-      - 15163
+      - 14936
       loggedTimes:
       - 2017-12-30T02:58:24Z
       - 2017-12-30T07:11:07Z
@@ -557,7 +557,7 @@ flying:
       - 2017-12-30T07:11:07Z
       scoredTimes:
       - 2017-12-30T02:58:38Z
-      - 2017-12-30T07:11:07Z
+      - 2017-12-30T07:07:20Z
   - - - '69'
       - Niki Longshore
     - loggedFixes: 1225
@@ -778,14 +778,14 @@ flying:
       - 14213
       scoredFixes:
       - 8
-      - 14213
+      - 14119
       loggedSeconds: 14408
       flyingSeconds:
       - 8
       - 14408
       scoredSeconds:
       - 8
-      - 14408
+      - 14314
       loggedTimes:
       - 2017-12-30T03:09:26Z
       - 2017-12-30T07:09:34Z
@@ -794,7 +794,7 @@ flying:
       - 2017-12-30T07:09:34Z
       scoredTimes:
       - 2017-12-30T03:09:34Z
-      - 2017-12-30T07:09:34Z
+      - 2017-12-30T07:08:00Z
   - - - '76'
       - Rory Duncan
     - loggedFixes: 2761
@@ -853,14 +853,14 @@ flying:
       - 5158
       scoredFixes:
       - 0
-      - 5158
+      - 4448
       loggedSeconds: 15736
       flyingSeconds:
       - 0
       - 15733
       scoredSeconds:
       - 0
-      - 15733
+      - 13602
       loggedTimes:
       - 2017-12-30T03:21:16Z
       - 2017-12-30T07:43:32Z
@@ -869,7 +869,7 @@ flying:
       - 2017-12-30T07:43:29Z
       scoredTimes:
       - 2017-12-30T03:21:16Z
-      - 2017-12-30T07:43:29Z
+      - 2017-12-30T07:07:58Z
   - - - '72'
       - Sasha Serebrennikova
     - loggedFixes: 12425
