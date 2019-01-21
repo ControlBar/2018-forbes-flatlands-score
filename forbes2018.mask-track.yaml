@@ -8,14 +8,14 @@ pilotsAtEss:
 - 23
 raceTime:
 - openTask: 2017-12-30T04:00:00Z
-  closeTask: 2017-12-30T10:00:00Z
+  closeTask: 2017-12-30T07:08:00Z
   firstStart: 2017-12-30T04:00:05Z
   firstLead: 2017-12-30T04:00:05Z
   lastArrival: 2017-12-30T07:06:31Z
   leadArrival: 11186
-  leadClose: 21595
-  openClose: 21600
-  tickClose: 21595
+  leadClose: 11275
+  openClose: 11280
+  tickClose: 11275
 - openTask: 2017-12-31T02:45:00Z
   closeTask: 2017-12-31T10:00:00Z
   firstStart: 2017-12-31T02:15:46Z
@@ -111,14 +111,22 @@ bestDistance:
 - 166.445178 km
 - 172.146534 km
 sumDistance:
-- 3454.832648 km
+- 3405.430648 km
 - 4781.308588 km
 - 7277.586955 km
 - 10804.070836 km
 - 4101.538693 km
 - 5417.790832 km
 - 5015.303292 km
-minLead:
+leadScaling:
+- 3.131794e-8
+- 1.790527e-8
+- 1.612329e-8
+- 3.86459e-9
+- 2.666564e-8
+- 2.120929e-8
+- 1.979048e-8
+leadCoefMin:
 - 1.39163248
 - 3.20709788
 - 1.96836886
@@ -217,7 +225,7 @@ lead:
       frac: 0
   - - - '15'
       - Ryosuke Hattori
-    - coef: 2.73885868
+    - coef: 2.71179163
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
@@ -225,7 +233,7 @@ lead:
       frac: 0
   - - - '32'
       - Andrew Barnes
-    - coef: 2.8016461
+    - coef: 2.76288864
       frac: 0
   - - - '4'
       - Frank Chetcuti
@@ -311,6 +319,10 @@ lead:
       - Yasuhiro Noma
     - coef: 3.3851382
       frac: 0.78539418
+  - - - '8'
+      - Gordon Rigg
+    - coef: 3.39931618
+      frac: 0.77414706
   - - - '23'
       - Nils Vesk
     - coef: 3.47492408
@@ -355,10 +367,6 @@ lead:
       - Attila Bertok
     - coef: 4.51122612
       frac: 0.19057591
-  - - - '8'
-      - Gordon Rigg
-    - coef: 4.57304087
-      frac: 0.1651964
   - - - '11'
       - Steve Blenkinsop
     - coef: 4.78866452
@@ -2779,35 +2787,7 @@ gsSpeed:
     - time: 6.285833 h
       frac: 0
 nigh:
-- - - - '32'
-      - Andrew Barnes
-    - togo:
-        distance: 2.631621 km
-        legs:
-        - 2.631621 km
-        legsSum:
-        - 2.631621 km
-        waypoints:
-        - lat: -32.09316667
-          lng: 147.99606667
-        - lat: -32.06966276
-          lng: 147.99933756
-      made: 140.156632 km
-  - - - '15'
-      - Ryosuke Hattori
-    - togo:
-        distance: 14.926443 km
-        legs:
-        - 14.926443 km
-        legsSum:
-        - 14.926443 km
-        waypoints:
-        - lat: -32.0441
-          lng: 148.25673333
-        - lat: -32.00417635
-          lng: 148.10556717
-      made: 127.862632 km
-  - - - '108'
+- - - - '108'
       - Peter Adriaans
     - togo:
         distance: 26.821342 km
@@ -2821,6 +2801,20 @@ nigh:
         - lat: -32.04818775
           lng: 148.07237787
       made: 115.967632 km
+  - - - '15'
+      - Ryosuke Hattori
+    - togo:
+        distance: 31.083987 km
+        legs:
+        - 31.083987 km
+        legsSum:
+        - 31.083987 km
+        waypoints:
+        - lat: -32.26146667
+          lng: 148.28583333
+        - lat: -32.04818775
+          lng: 148.07237787
+      made: 111.704632 km
   - - - '41'
       - Tony Armstrong
     - togo:
@@ -2835,6 +2829,20 @@ nigh:
         - lat: -32.06945516
           lng: 148.0118185
       made: 111.771632 km
+  - - - '32'
+      - Andrew Barnes
+    - togo:
+        distance: 35.875723 km
+        legs:
+        - 35.875723 km
+        legsSum:
+        - 35.875723 km
+        waypoints:
+        - lat: -32.3922
+          lng: 148.0172
+        - lat: -32.06966276
+          lng: 148.00766244
+      made: 106.912632 km
   - - - '72'
       - Sasha Serebrennikova
     - togo:
@@ -5224,15 +5232,7 @@ nigh:
           lng: 148.20993927
       made: 31.986534 km
 land:
-- - - - '32'
-      - Andrew Barnes
-    - togo: 3.073753 km
-      made: 139.714879 km
-  - - - '15'
-      - Ryosuke Hattori
-    - togo: 14.926443 km
-      made: 127.862189 km
-  - - - '42'
+- - - - '42'
       - Rob de Groot
     - togo: 19.520461 km
       made: 123.268171 km
@@ -5252,6 +5252,10 @@ land:
       - Peter Adriaans
     - togo: 27.022789 km
       made: 115.765843 km
+  - - - '15'
+      - Ryosuke Hattori
+    - togo: 31.083987 km
+      made: 111.704645 km
   - - - '41'
       - Tony Armstrong
     - togo: 31.400901 km
@@ -5260,6 +5264,10 @@ land:
       - Dale Regehr
     - togo: 33.613682 km
       made: 109.174950 km
+  - - - '32'
+      - Andrew Barnes
+    - togo: 35.875723 km
+      made: 106.912909 km
   - - - '72'
       - Sasha Serebrennikova
     - togo: 36.574695 km
