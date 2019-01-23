@@ -156,28 +156,35 @@ tasks:
   penalties:
   - - - '74'
       - Vic Hare
-    - []
+    - - contents: -242
+        tag: PenaltyPoints
   - - - '108'
       - Peter Adriaans
     - []
   - - - '68'
       - Neale Halsall
-    - []
+    - - contents: -391
+        tag: PenaltyPoints
   - - - '28'
       - Mikhail Karmazin
-    - []
+    - - contents: -253
+        tag: PenaltyPoints
   - - - '107'
       - Anatoly Reyter
-    - []
+    - - contents: -107
+        tag: PenaltyPoints
   - - - '83'
       - Randal Clotworthy
-    - []
+    - - contents: -26
+        tag: PenaltyPoints
   - - - '4'
       - Frank Chetcuti
-    - []
+    - - contents: -176
+        tag: PenaltyPoints
   - - - '86'
       - Ross Smith
-    - []
+    - - contents: -80
+        tag: PenaltyPoints
   - - - '88'
       - Simon West
     - []
@@ -260,7 +267,8 @@ tasks:
   penalties:
   - - - '43'
       - Jonny Durand
-    - []
+    - - contents: -704
+        tag: PenaltyPoints
   speedSection:
   - 2
   - 4
@@ -574,7 +582,8 @@ tasks:
   penalties:
   - - - '85'
       - Rick Martin
-    - []
+    - - contents: 70
+        tag: PenaltyPoints
   speedSection:
   - 2
   - 5
