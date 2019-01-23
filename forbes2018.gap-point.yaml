@@ -171,6 +171,7 @@ allocation:
     arrival: 0
     time: 481.8
   taskPoints: 1000
+  penalties: []
 - goalRatio: 0.26923077
   weight:
     reach: 0.28222124
@@ -187,6 +188,7 @@ allocation:
     arrival: 54.4
     time: 304.9
   taskPoints: 1000
+  penalties: []
 - goalRatio: 0.60416667
   weight:
     reach: 0.19494268
@@ -203,6 +205,7 @@ allocation:
     arrival: 76.3
     time: 427.1
   taskPoints: 1000
+  penalties: []
 - goalRatio: 0.34042553
   weight:
     reach: 0.25427605
@@ -219,6 +222,7 @@ allocation:
     arrival: 61.4
     time: 344
   taskPoints: 1000
+  penalties: []
 - goalRatio: 0.19512195
   weight:
     reach: 0.31798979
@@ -235,6 +239,7 @@ allocation:
     arrival: 45.4
     time: 254.2
   taskPoints: 998
+  penalties: []
 - goalRatio: 0.48888889
   weight:
     reach: 0.21341846
@@ -251,6 +256,7 @@ allocation:
     arrival: 71.6
     time: 401.2
   taskPoints: 1000
+  penalties: []
 - goalRatio: 0.575
   weight:
     reach: 0.19869571
@@ -267,6 +273,7 @@ allocation:
     arrival: 75.3
     time: 421.8
   taskPoints: 1000
+  penalties: []
 score:
 - - - - '92'
       - Attila Bertok
@@ -290,6 +297,7 @@ score:
         gsVelocity: 60.54 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: '2'
@@ -312,6 +320,7 @@ score:
         gsVelocity: 59.60 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '3'
@@ -334,6 +343,7 @@ score:
         gsVelocity: 54.95 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: 4=
@@ -356,6 +366,7 @@ score:
         gsVelocity: 50.91 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: 4=
@@ -378,6 +389,7 @@ score:
         gsVelocity: 50.87 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '69'
       - Niki Longshore
     - place: '6'
@@ -400,6 +412,7 @@ score:
         gsVelocity: 50.74 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '7'
@@ -422,6 +435,7 @@ score:
         gsVelocity: 50.02 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '8'
@@ -444,6 +458,7 @@ score:
         gsVelocity: 49.88 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '9'
@@ -466,6 +481,7 @@ score:
         gsVelocity: 48.85 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '10'
@@ -488,6 +504,7 @@ score:
         gsVelocity: 48.67 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '11'
@@ -510,6 +527,7 @@ score:
         gsVelocity: 48.19 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: '12'
@@ -532,6 +550,7 @@ score:
         gsVelocity: 47.40 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: 13=
@@ -554,6 +573,7 @@ score:
         gsVelocity: 46.28 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '51'
       - Craig Taylor
     - place: 13=
@@ -576,6 +596,7 @@ score:
         gsVelocity: 46.28 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '15'
@@ -598,6 +619,7 @@ score:
         gsVelocity: 46.08 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '16'
@@ -620,6 +642,7 @@ score:
         gsVelocity: 43.57 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
     - place: '17'
@@ -642,6 +665,7 @@ score:
         gsVelocity: 42.85 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '18'
@@ -656,6 +680,7 @@ score:
       velocity: null
       reachDistance: 123.268 km
       landedDistance: 123.268 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '19'
@@ -670,6 +695,7 @@ score:
       velocity: null
       reachDistance: 119.657 km
       landedDistance: 119.657 km
+      stoppedAlt: null
   - - - '74'
       - Vic Hare
     - place: '20'
@@ -684,6 +710,7 @@ score:
       velocity: null
       reachDistance: 119.227 km
       landedDistance: 119.227 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '21'
@@ -698,6 +725,7 @@ score:
       velocity: null
       reachDistance: 116.007 km
       landedDistance: 116.007 km
+      stoppedAlt: null
   - - - '108'
       - Peter Adriaans
     - place: '22'
@@ -720,6 +748,7 @@ score:
         gsVelocity: null
       reachDistance: 115.968 km
       landedDistance: 115.766 km
+      stoppedAlt: 293.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: '23'
@@ -742,6 +771,7 @@ score:
         gsVelocity: null
       reachDistance: 111.705 km
       landedDistance: 111.705 km
+      stoppedAlt: 1974.000 m
   - - - '41'
       - Tony Armstrong
     - place: '24'
@@ -764,6 +794,7 @@ score:
         gsVelocity: null
       reachDistance: 111.772 km
       landedDistance: 111.388 km
+      stoppedAlt: 274.000 m
   - - - '52'
       - Dale Regehr
     - place: '25'
@@ -778,6 +809,7 @@ score:
       velocity: null
       reachDistance: 109.175 km
       landedDistance: 109.175 km
+      stoppedAlt: null
   - - - '32'
       - Andrew Barnes
     - place: '26'
@@ -800,6 +832,7 @@ score:
         gsVelocity: null
       reachDistance: 106.913 km
       landedDistance: 106.913 km
+      stoppedAlt: 1347.000 m
   - - - '72'
       - Sasha Serebrennikova
     - place: '27'
@@ -822,6 +855,7 @@ score:
         gsVelocity: null
       reachDistance: 106.378 km
       landedDistance: 106.214 km
+      stoppedAlt: 321.000 m
   - - - '68'
       - Neale Halsall
     - place: '28'
@@ -844,6 +878,7 @@ score:
         gsVelocity: null
       reachDistance: 99.204 km
       landedDistance: 99.038 km
+      stoppedAlt: 282.000 m
   - - - '103'
       - Wayne Thompson
     - place: '29'
@@ -858,6 +893,7 @@ score:
       velocity: null
       reachDistance: 96.542 km
       landedDistance: 96.542 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '30'
@@ -872,6 +908,7 @@ score:
       velocity: null
       reachDistance: 95.802 km
       landedDistance: 95.802 km
+      stoppedAlt: null
   - - - '28'
       - Mikhail Karmazin
     - place: '31'
@@ -894,6 +931,7 @@ score:
         gsVelocity: null
       reachDistance: 82.819 km
       landedDistance: 82.733 km
+      stoppedAlt: 296.000 m
   - - - '64'
       - Longfei Yang
     - place: '32'
@@ -916,6 +954,7 @@ score:
         gsVelocity: null
       reachDistance: 70.401 km
       landedDistance: 70.296 km
+      stoppedAlt: 323.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: '33'
@@ -938,6 +977,7 @@ score:
         gsVelocity: null
       reachDistance: 67.500 km
       landedDistance: 67.143 km
+      stoppedAlt: 334.000 m
   - - - '43'
       - Jonny Durand
     - place: '34'
@@ -960,6 +1000,7 @@ score:
         gsVelocity: null
       reachDistance: 65.512 km
       landedDistance: 65.448 km
+      stoppedAlt: 324.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '35'
@@ -982,6 +1023,7 @@ score:
         gsVelocity: null
       reachDistance: 64.478 km
       landedDistance: 62.664 km
+      stoppedAlt: 323.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '36'
@@ -996,6 +1038,7 @@ score:
       velocity: null
       reachDistance: 61.654 km
       landedDistance: 61.654 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: '37'
@@ -1018,6 +1061,7 @@ score:
         gsVelocity: null
       reachDistance: 57.249 km
       landedDistance: 56.091 km
+      stoppedAlt: 0.000 m
   - - - '80'
       - Michael Cassells
     - place: '38'
@@ -1040,6 +1084,7 @@ score:
         gsVelocity: null
       reachDistance: 56.062 km
       landedDistance: 55.904 km
+      stoppedAlt: 324.000 m
   - - - '71'
       - Rob Larkin
     - place: '39'
@@ -1062,6 +1107,7 @@ score:
         gsVelocity: null
       reachDistance: 51.448 km
       landedDistance: 51.415 km
+      stoppedAlt: 343.000 m
   - - - '86'
       - Ross Smith
     - place: '40'
@@ -1084,6 +1130,7 @@ score:
         gsVelocity: null
       reachDistance: 48.442 km
       landedDistance: 48.228 km
+      stoppedAlt: 278.000 m
   - - - '100'
       - Malcolm Brown
     - place: '41'
@@ -1106,6 +1153,7 @@ score:
         gsVelocity: null
       reachDistance: 30.246 km
       landedDistance: 29.380 km
+      stoppedAlt: 353.000 m
   - - - '34'
       - Brad Porter
     - place: '42'
@@ -1128,6 +1176,7 @@ score:
         gsVelocity: null
       reachDistance: 26.429 km
       landedDistance: 26.269 km
+      stoppedAlt: 286.000 m
   - - - '14'
       - Peter Burkitt
     - place: '43'
@@ -1150,6 +1199,7 @@ score:
         gsVelocity: null
       reachDistance: 23.986 km
       landedDistance: 23.761 km
+      stoppedAlt: 323.000 m
   - - - '67'
       - Mark Alton
     - place: '44'
@@ -1172,6 +1222,7 @@ score:
         gsVelocity: null
       reachDistance: 23.348 km
       landedDistance: 23.283 km
+      stoppedAlt: 317.000 m
   - - - '88'
       - Simon West
     - place: '45'
@@ -1194,6 +1245,7 @@ score:
         gsVelocity: null
       reachDistance: 17.693 km
       landedDistance: 17.477 km
+      stoppedAlt: 311.000 m
   - - - '94'
       - Justinas Pleikys
     - place: '46'
@@ -1216,6 +1268,7 @@ score:
         gsVelocity: null
       reachDistance: 17.146 km
       landedDistance: 16.310 km
+      stoppedAlt: 301.000 m
   - - - '55'
       - Don Cramer
     - place: '47'
@@ -1238,6 +1291,7 @@ score:
         gsVelocity: null
       reachDistance: 13.333 km
       landedDistance: 12.561 km
+      stoppedAlt: 310.000 m
   - - - '77'
       - Brodrick Osborne
     - place: 48=
@@ -1260,6 +1314,7 @@ score:
         gsVelocity: null
       reachDistance: 5.512 km
       landedDistance: 4.868 km
+      stoppedAlt: 297.000 m
   - - - '37'
       - Gavin Myers
     - place: 48=
@@ -1274,6 +1329,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '102'
       - Robert Davies
     - place: 48=
@@ -1288,6 +1344,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '62'
       - Josh Woods
     - place: '1'
@@ -1310,6 +1367,7 @@ score:
         gsVelocity: 45.94 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '2'
@@ -1332,6 +1390,7 @@ score:
         gsVelocity: 45.93 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '3'
@@ -1354,6 +1413,7 @@ score:
         gsVelocity: 45.41 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: 4=
@@ -1376,6 +1436,7 @@ score:
         gsVelocity: 44.43 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '92'
       - Attila Bertok
     - place: 4=
@@ -1398,6 +1459,7 @@ score:
         gsVelocity: 45.74 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '6'
@@ -1420,6 +1482,7 @@ score:
         gsVelocity: 44.28 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '7'
@@ -1442,6 +1505,7 @@ score:
         gsVelocity: 44.03 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '8'
@@ -1464,6 +1528,7 @@ score:
         gsVelocity: 41.70 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '9'
@@ -1486,6 +1551,7 @@ score:
         gsVelocity: 41.73 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '10'
@@ -1508,6 +1574,7 @@ score:
         gsVelocity: 41.17 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '69'
       - Niki Longshore
     - place: '11'
@@ -1530,6 +1597,7 @@ score:
         gsVelocity: 40.95 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '12'
@@ -1552,6 +1620,7 @@ score:
         gsVelocity: 39.80 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '13'
@@ -1574,6 +1643,7 @@ score:
         gsVelocity: 41.36 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '14'
@@ -1596,6 +1666,7 @@ score:
         gsVelocity: 36.99 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '15'
@@ -1618,6 +1689,7 @@ score:
         gsVelocity: null
       reachDistance: 179.276 km
       landedDistance: 179.079 km
+      stoppedAlt: 504.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: '16'
@@ -1640,6 +1712,7 @@ score:
         gsVelocity: null
       reachDistance: 174.916 km
       landedDistance: 174.889 km
+      stoppedAlt: 590.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: '17'
@@ -1662,6 +1735,7 @@ score:
         gsVelocity: null
       reachDistance: 162.884 km
       landedDistance: 162.685 km
+      stoppedAlt: 643.000 m
   - - - '77'
       - Brodrick Osborne
     - place: '18'
@@ -1684,6 +1758,7 @@ score:
         gsVelocity: null
       reachDistance: 167.566 km
       landedDistance: 167.061 km
+      stoppedAlt: 535.000 m
   - - - '30'
       - Jason Kath
     - place: '19'
@@ -1706,6 +1781,7 @@ score:
         gsVelocity: null
       reachDistance: 149.816 km
       landedDistance: 180.612 km
+      stoppedAlt: 568.000 m
   - - - '22'
       - Rohan Taylor
     - place: '20'
@@ -1728,6 +1804,7 @@ score:
         gsVelocity: null
       reachDistance: 155.935 km
       landedDistance: 155.808 km
+      stoppedAlt: 820.000 m
   - - - '37'
       - Gavin Myers
     - place: '21'
@@ -1750,6 +1827,7 @@ score:
         gsVelocity: null
       reachDistance: 156.252 km
       landedDistance: 155.737 km
+      stoppedAlt: 600.000 m
   - - - '100'
       - Malcolm Brown
     - place: '22'
@@ -1772,6 +1850,7 @@ score:
         gsVelocity: null
       reachDistance: 135.968 km
       landedDistance: 135.575 km
+      stoppedAlt: 640.000 m
   - - - '103'
       - Wayne Thompson
     - place: '23'
@@ -1794,6 +1873,7 @@ score:
         gsVelocity: null
       reachDistance: 149.837 km
       landedDistance: 149.832 km
+      stoppedAlt: 580.000 m
   - - - '81'
       - Nick Purcell
     - place: '24'
@@ -1816,6 +1896,7 @@ score:
         gsVelocity: null
       reachDistance: 122.686 km
       landedDistance: 122.358 km
+      stoppedAlt: 0.000 m
   - - - '36'
       - Steve Docherty
     - place: '25'
@@ -1838,6 +1919,7 @@ score:
         gsVelocity: null
       reachDistance: 121.546 km
       landedDistance: 120.420 km
+      stoppedAlt: 485.000 m
   - - - '106'
       - Jon Durand Snr
     - place: '26'
@@ -1860,6 +1942,7 @@ score:
         gsVelocity: null
       reachDistance: 108.800 km
       landedDistance: 108.655 km
+      stoppedAlt: 549.000 m
   - - - '34'
       - Brad Porter
     - place: '27'
@@ -1882,6 +1965,7 @@ score:
         gsVelocity: null
       reachDistance: 111.847 km
       landedDistance: 111.051 km
+      stoppedAlt: 490.000 m
   - - - '52'
       - Dale Regehr
     - place: '28'
@@ -1904,6 +1988,7 @@ score:
         gsVelocity: null
       reachDistance: 103.950 km
       landedDistance: 103.881 km
+      stoppedAlt: 556.000 m
   - - - '71'
       - Rob Larkin
     - place: '29'
@@ -1926,6 +2011,7 @@ score:
         gsVelocity: null
       reachDistance: 104.352 km
       landedDistance: 103.637 km
+      stoppedAlt: 428.000 m
   - - - '80'
       - Michael Cassells
     - place: '30'
@@ -1948,6 +2034,7 @@ score:
         gsVelocity: null
       reachDistance: 99.024 km
       landedDistance: 98.560 km
+      stoppedAlt: 401.000 m
   - - - '32'
       - Andrew Barnes
     - place: '31'
@@ -1970,6 +2057,7 @@ score:
         gsVelocity: null
       reachDistance: 91.388 km
       landedDistance: 91.161 km
+      stoppedAlt: 444.000 m
   - - - '31'
       - Trent Brown
     - place: '32'
@@ -1992,6 +2080,7 @@ score:
         gsVelocity: null
       reachDistance: 67.482 km
       landedDistance: 67.388 km
+      stoppedAlt: 423.000 m
   - - - '55'
       - Don Cramer
     - place: '33'
@@ -2014,6 +2103,7 @@ score:
         gsVelocity: null
       reachDistance: 57.934 km
       landedDistance: 57.867 km
+      stoppedAlt: 0.000 m
   - - - '72'
       - Sasha Serebrennikova
     - place: '34'
@@ -2036,6 +2126,7 @@ score:
         gsVelocity: null
       reachDistance: 57.468 km
       landedDistance: 56.076 km
+      stoppedAlt: 350.000 m
   - - - '67'
       - Mark Alton
     - place: '35'
@@ -2058,6 +2149,7 @@ score:
         gsVelocity: null
       reachDistance: 47.016 km
       landedDistance: 46.692 km
+      stoppedAlt: 322.000 m
   - - - '42'
       - Rob de Groot
     - place: '36'
@@ -2080,6 +2172,7 @@ score:
         gsVelocity: null
       reachDistance: 14.915 km
       landedDistance: 14.582 km
+      stoppedAlt: 304.000 m
   - - - '51'
       - Craig Taylor
     - place: 37=
@@ -2102,6 +2195,7 @@ score:
         gsVelocity: null
       reachDistance: 7.641 km
       landedDistance: 5.689 km
+      stoppedAlt: 276.000 m
   - - - '64'
       - Longfei Yang
     - place: 37=
@@ -2124,6 +2218,7 @@ score:
         gsVelocity: null
       reachDistance: 0.034 km
       landedDistance: -2.970 km
+      stoppedAlt: 283.000 m
   - - - '14'
       - Peter Burkitt
     - place: 37=
@@ -2146,6 +2241,7 @@ score:
         gsVelocity: null
       reachDistance: 7.242 km
       landedDistance: 6.284 km
+      stoppedAlt: 234.000 m
   - - - '107'
       - Anatoly Reyter
     - place: 37=
@@ -2160,6 +2256,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: 37=
@@ -2174,6 +2271,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '99'
       - Gennadiy Khramov
     - place: 37=
@@ -2188,6 +2286,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '94'
       - Justinas Pleikys
     - place: 37=
@@ -2202,6 +2301,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '28'
       - Mikhail Karmazin
     - place: 37=
@@ -2216,6 +2316,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: 37=
@@ -2230,6 +2331,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '108'
       - Peter Adriaans
     - place: 37=
@@ -2244,6 +2346,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '83'
       - Randal Clotworthy
     - place: 37=
@@ -2258,6 +2361,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '102'
       - Robert Davies
     - place: 37=
@@ -2272,6 +2376,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '86'
       - Ross Smith
     - place: 37=
@@ -2286,6 +2391,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '88'
       - Simon West
     - place: 37=
@@ -2300,6 +2406,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '74'
       - Vic Hare
     - place: 37=
@@ -2314,6 +2421,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '92'
       - Attila Bertok
     - place: '1'
@@ -2336,6 +2444,7 @@ score:
         gsVelocity: 59.01 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '2'
@@ -2358,6 +2467,7 @@ score:
         gsVelocity: 58.72 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: '3'
@@ -2380,6 +2490,7 @@ score:
         gsVelocity: 58.58 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '4'
@@ -2402,6 +2513,7 @@ score:
         gsVelocity: 58.35 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '5'
@@ -2424,6 +2536,7 @@ score:
         gsVelocity: 58.24 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '6'
@@ -2446,6 +2559,7 @@ score:
         gsVelocity: 58.22 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '51'
       - Craig Taylor
     - place: '7'
@@ -2468,6 +2582,7 @@ score:
         gsVelocity: 57.67 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '8'
@@ -2490,6 +2605,7 @@ score:
         gsVelocity: 57.23 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '34'
       - Brad Porter
     - place: '9'
@@ -2512,6 +2628,7 @@ score:
         gsVelocity: 57.43 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '10'
@@ -2534,6 +2651,7 @@ score:
         gsVelocity: 53.78 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
     - place: '11'
@@ -2556,6 +2674,7 @@ score:
         gsVelocity: 53.53 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '12'
@@ -2578,6 +2697,7 @@ score:
         gsVelocity: 51.65 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: '13'
@@ -2600,6 +2720,7 @@ score:
         gsVelocity: 53.15 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '14'
@@ -2622,6 +2743,7 @@ score:
         gsVelocity: 53.06 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '15'
@@ -2644,6 +2766,7 @@ score:
         gsVelocity: 54.84 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: '16'
@@ -2666,6 +2789,7 @@ score:
         gsVelocity: 52.66 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '17'
@@ -2688,6 +2812,7 @@ score:
         gsVelocity: 54.29 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '18'
@@ -2710,6 +2835,7 @@ score:
         gsVelocity: 53.93 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '19'
@@ -2732,6 +2858,7 @@ score:
         gsVelocity: 53.79 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: '20'
@@ -2754,6 +2881,7 @@ score:
         gsVelocity: 51.08 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '21'
@@ -2776,6 +2904,7 @@ score:
         gsVelocity: 50.53 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
     - place: '22'
@@ -2798,6 +2927,7 @@ score:
         gsVelocity: 50.37 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '23'
@@ -2820,6 +2950,7 @@ score:
         gsVelocity: 49.17 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '24'
@@ -2842,6 +2973,7 @@ score:
         gsVelocity: 50.48 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '77'
       - Brodrick Osborne
     - place: '25'
@@ -2864,6 +2996,7 @@ score:
         gsVelocity: 49.79 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '32'
       - Andrew Barnes
     - place: '26'
@@ -2886,6 +3019,7 @@ score:
         gsVelocity: 49.46 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '80'
       - Michael Cassells
     - place: '27'
@@ -2908,6 +3042,7 @@ score:
         gsVelocity: 47.47 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: '28'
@@ -2930,6 +3065,7 @@ score:
         gsVelocity: 43.63 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '103'
       - Wayne Thompson
     - place: '29'
@@ -2952,6 +3088,7 @@ score:
         gsVelocity: 43.16 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '14'
       - Peter Burkitt
     - place: '30'
@@ -2974,6 +3111,7 @@ score:
         gsVelocity: null
       reachDistance: 186.168 km
       landedDistance: 185.953 km
+      stoppedAlt: 458.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '31'
@@ -2996,6 +3134,7 @@ score:
         gsVelocity: null
       reachDistance: 191.856 km
       landedDistance: 191.301 km
+      stoppedAlt: 507.000 m
   - - - '71'
       - Rob Larkin
     - place: '32'
@@ -3018,6 +3157,7 @@ score:
         gsVelocity: null
       reachDistance: 182.678 km
       landedDistance: 181.933 km
+      stoppedAlt: 476.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '33'
@@ -3040,6 +3180,7 @@ score:
         gsVelocity: null
       reachDistance: 171.047 km
       landedDistance: 170.881 km
+      stoppedAlt: 0.000 m
   - - - '52'
       - Dale Regehr
     - place: '34'
@@ -3062,6 +3203,7 @@ score:
         gsVelocity: null
       reachDistance: 167.524 km
       landedDistance: 167.307 km
+      stoppedAlt: 489.000 m
   - - - '67'
       - Mark Alton
     - place: '35'
@@ -3084,6 +3226,7 @@ score:
         gsVelocity: null
       reachDistance: 168.012 km
       landedDistance: 167.294 km
+      stoppedAlt: 496.000 m
   - - - '74'
       - Vic Hare
     - place: '36'
@@ -3106,6 +3249,7 @@ score:
         gsVelocity: null
       reachDistance: 167.524 km
       landedDistance: 167.276 km
+      stoppedAlt: 500.000 m
   - - - '64'
       - Longfei Yang
     - place: '37'
@@ -3128,6 +3272,7 @@ score:
         gsVelocity: null
       reachDistance: 150.814 km
       landedDistance: 149.833 km
+      stoppedAlt: 632.000 m
   - - - '75'
       - Yasuhiro Noma
     - place: '38'
@@ -3150,6 +3295,7 @@ score:
         gsVelocity: null
       reachDistance: 141.699 km
       landedDistance: 141.456 km
+      stoppedAlt: 0.000 m
   - - - '102'
       - Robert Davies
     - place: '39'
@@ -3172,6 +3318,7 @@ score:
         gsVelocity: null
       reachDistance: 109.353 km
       landedDistance: 107.625 km
+      stoppedAlt: 475.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '40'
@@ -3194,6 +3341,7 @@ score:
         gsVelocity: null
       reachDistance: 101.263 km
       landedDistance: 100.625 km
+      stoppedAlt: 432.000 m
   - - - '43'
       - Jonny Durand
     - place: '41'
@@ -3216,6 +3364,7 @@ score:
         gsVelocity: null
       reachDistance: 75.552 km
       landedDistance: 74.958 km
+      stoppedAlt: 503.000 m
   - - - '101'
       - Oliver Chitty
     - place: '42'
@@ -3238,6 +3387,7 @@ score:
         gsVelocity: null
       reachDistance: 73.532 km
       landedDistance: 73.246 km
+      stoppedAlt: 516.000 m
   - - - '69'
       - Niki Longshore
     - place: '43'
@@ -3260,6 +3410,7 @@ score:
         gsVelocity: null
       reachDistance: 71.919 km
       landedDistance: 71.919 km
+      stoppedAlt: 2609.000 m
   - - - '27'
       - Guy Hubbard
     - place: '44'
@@ -3282,6 +3433,7 @@ score:
         gsVelocity: null
       reachDistance: 56.094 km
       landedDistance: 55.849 km
+      stoppedAlt: 490.000 m
   - - - '55'
       - Don Cramer
     - place: '45'
@@ -3304,6 +3456,7 @@ score:
         gsVelocity: null
       reachDistance: 51.027 km
       landedDistance: 51.027 km
+      stoppedAlt: 0.000 m
 - - - - '101'
       - Oliver Chitty
     - place: '1'
@@ -3326,6 +3479,7 @@ score:
         gsVelocity: 71.45 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '2'
@@ -3348,6 +3502,7 @@ score:
         gsVelocity: 71.21 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '3'
@@ -3370,6 +3525,7 @@ score:
         gsVelocity: 71.05 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '4'
@@ -3392,6 +3548,7 @@ score:
         gsVelocity: 67.31 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '5'
@@ -3414,6 +3571,7 @@ score:
         gsVelocity: 65.76 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '6'
@@ -3436,6 +3594,7 @@ score:
         gsVelocity: 65.24 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '7'
@@ -3458,6 +3617,7 @@ score:
         gsVelocity: 64.99 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: '8'
@@ -3480,6 +3640,7 @@ score:
         gsVelocity: 62.70 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '9'
@@ -3502,6 +3663,7 @@ score:
         gsVelocity: 62.71 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '10'
@@ -3524,6 +3686,7 @@ score:
         gsVelocity: 61.14 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '11'
@@ -3546,6 +3709,7 @@ score:
         gsVelocity: 60.28 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '12'
@@ -3568,6 +3732,7 @@ score:
         gsVelocity: 58.59 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '13'
@@ -3590,6 +3755,7 @@ score:
         gsVelocity: 57.20 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
     - place: '14'
@@ -3612,6 +3778,7 @@ score:
         gsVelocity: 57.16 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '15'
@@ -3634,6 +3801,7 @@ score:
         gsVelocity: 57.03 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '16'
@@ -3656,6 +3824,7 @@ score:
         gsVelocity: 56.44 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '17'
@@ -3678,6 +3847,7 @@ score:
         gsVelocity: null
       reachDistance: 356.115 km
       landedDistance: 355.443 km
+      stoppedAlt: 548.000 m
   - - - '51'
       - Craig Taylor
     - place: '18'
@@ -3700,6 +3870,7 @@ score:
         gsVelocity: null
       reachDistance: 352.697 km
       landedDistance: 352.658 km
+      stoppedAlt: 384.000 m
   - - - '22'
       - Rohan Taylor
     - place: '19'
@@ -3722,6 +3893,7 @@ score:
         gsVelocity: null
       reachDistance: 344.566 km
       landedDistance: 343.892 km
+      stoppedAlt: 286.000 m
   - - - '32'
       - Andrew Barnes
     - place: '20'
@@ -3744,6 +3916,7 @@ score:
         gsVelocity: null
       reachDistance: 357.858 km
       landedDistance: 357.457 km
+      stoppedAlt: 296.000 m
   - - - '80'
       - Michael Cassells
     - place: '21'
@@ -3766,6 +3939,7 @@ score:
         gsVelocity: null
       reachDistance: 333.065 km
       landedDistance: 332.648 km
+      stoppedAlt: 379.000 m
   - - - '77'
       - Brodrick Osborne
     - place: '22'
@@ -3788,6 +3962,7 @@ score:
         gsVelocity: null
       reachDistance: 322.900 km
       landedDistance: 321.748 km
+      stoppedAlt: 435.000 m
   - - - '42'
       - Rob de Groot
     - place: '23'
@@ -3810,6 +3985,7 @@ score:
         gsVelocity: null
       reachDistance: 309.941 km
       landedDistance: 309.834 km
+      stoppedAlt: 408.000 m
   - - - '68'
       - Neale Halsall
     - place: '24'
@@ -3832,6 +4008,7 @@ score:
         gsVelocity: null
       reachDistance: 289.592 km
       landedDistance: 289.355 km
+      stoppedAlt: 492.000 m
   - - - '103'
       - Wayne Thompson
     - place: '25'
@@ -3854,6 +4031,7 @@ score:
         gsVelocity: null
       reachDistance: 267.369 km
       landedDistance: 267.036 km
+      stoppedAlt: 584.000 m
   - - - '34'
       - Brad Porter
     - place: '26'
@@ -3876,6 +4054,7 @@ score:
         gsVelocity: null
       reachDistance: 238.765 km
       landedDistance: 237.741 km
+      stoppedAlt: 566.000 m
   - - - '52'
       - Dale Regehr
     - place: '27'
@@ -3898,6 +4077,7 @@ score:
         gsVelocity: null
       reachDistance: 232.387 km
       landedDistance: 231.992 km
+      stoppedAlt: 553.000 m
   - - - '85'
       - Rick Martin
     - place: '28'
@@ -3912,6 +4092,7 @@ score:
       velocity: null
       reachDistance: 224.782 km
       landedDistance: 224.782 km
+      stoppedAlt: null
   - - - '28'
       - Mikhail Karmazin
     - place: '29'
@@ -3934,6 +4115,7 @@ score:
         gsVelocity: null
       reachDistance: 206.356 km
       landedDistance: 206.061 km
+      stoppedAlt: 0.000 m
   - - - '88'
       - Simon West
     - place: '30'
@@ -3956,6 +4138,7 @@ score:
         gsVelocity: null
       reachDistance: 207.896 km
       landedDistance: 205.807 km
+      stoppedAlt: 459.000 m
   - - - '92'
       - Attila Bertok
     - place: '31'
@@ -3978,6 +4161,7 @@ score:
         gsVelocity: null
       reachDistance: 201.459 km
       landedDistance: 201.360 km
+      stoppedAlt: 541.000 m
   - - - '75'
       - Yasuhiro Noma
     - place: '32'
@@ -4000,6 +4184,7 @@ score:
         gsVelocity: null
       reachDistance: 185.742 km
       landedDistance: 185.583 km
+      stoppedAlt: 0.000 m
   - - - '67'
       - Mark Alton
     - place: '33'
@@ -4022,6 +4207,7 @@ score:
         gsVelocity: null
       reachDistance: 180.876 km
       landedDistance: 180.428 km
+      stoppedAlt: 540.000 m
   - - - '71'
       - Rob Larkin
     - place: '34'
@@ -4044,6 +4230,7 @@ score:
         gsVelocity: null
       reachDistance: 176.001 km
       landedDistance: 175.572 km
+      stoppedAlt: 601.000 m
   - - - '74'
       - Vic Hare
     - place: '35'
@@ -4066,6 +4253,7 @@ score:
         gsVelocity: null
       reachDistance: 136.716 km
       landedDistance: 135.887 km
+      stoppedAlt: 421.000 m
   - - - '106'
       - Jon Durand Snr
     - place: '36'
@@ -4088,6 +4276,7 @@ score:
         gsVelocity: null
       reachDistance: 94.242 km
       landedDistance: 93.199 km
+      stoppedAlt: 471.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '37'
@@ -4110,6 +4299,7 @@ score:
         gsVelocity: null
       reachDistance: 56.243 km
       landedDistance: 55.839 km
+      stoppedAlt: 491.000 m
   - - - '64'
       - Longfei Yang
     - place: '38'
@@ -4132,6 +4322,7 @@ score:
         gsVelocity: null
       reachDistance: 56.991 km
       landedDistance: 55.741 km
+      stoppedAlt: 494.000 m
   - - - '81'
       - Nick Purcell
     - place: '39'
@@ -4154,6 +4345,7 @@ score:
         gsVelocity: null
       reachDistance: 56.296 km
       landedDistance: 55.474 km
+      stoppedAlt: 500.000 m
   - - - '14'
       - Peter Burkitt
     - place: 40=
@@ -4176,6 +4368,7 @@ score:
         gsVelocity: null
       reachDistance: 2.999 km
       landedDistance: 2.825 km
+      stoppedAlt: 250.000 m
   - - - '6'
       - Yoko Sano
     - place: 40=
@@ -4198,6 +4391,7 @@ score:
         gsVelocity: null
       reachDistance: 5.263 km
       landedDistance: 5.124 km
+      stoppedAlt: 335.000 m
   - - - '55'
       - Don Cramer
     - place: 40=
@@ -4212,6 +4406,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: 40=
@@ -4226,6 +4421,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: 40=
@@ -4240,6 +4436,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '98'
       - Oyvind Ellefsen
     - place: 40=
@@ -4254,6 +4451,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '86'
       - Ross Smith
     - place: 40=
@@ -4268,6 +4466,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '101'
       - Oliver Chitty
     - place: '1'
@@ -4290,6 +4489,7 @@ score:
         gsVelocity: 51.65 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '2'
@@ -4312,6 +4512,7 @@ score:
         gsVelocity: 51.38 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '3'
@@ -4334,6 +4535,7 @@ score:
         gsVelocity: 51.31 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '4'
@@ -4356,6 +4558,7 @@ score:
         gsVelocity: 51.11 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '5'
@@ -4378,6 +4581,7 @@ score:
         gsVelocity: 50.78 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '6'
@@ -4400,6 +4604,7 @@ score:
         gsVelocity: 46.95 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: '7'
@@ -4422,6 +4627,7 @@ score:
         gsVelocity: 47.02 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '51'
       - Craig Taylor
     - place: '8'
@@ -4444,6 +4650,7 @@ score:
         gsVelocity: 45.17 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '9'
@@ -4466,6 +4673,7 @@ score:
         gsVelocity: null
       reachDistance: 145.123 km
       landedDistance: 145.123 km
+      stoppedAlt: 424.000 m
   - - - '22'
       - Rohan Taylor
     - place: '10'
@@ -4488,6 +4696,7 @@ score:
         gsVelocity: null
       reachDistance: 144.722 km
       landedDistance: 144.451 km
+      stoppedAlt: 381.000 m
   - - - '11'
       - Steve Blenkinsop
     - place: '11'
@@ -4510,6 +4719,7 @@ score:
         gsVelocity: null
       reachDistance: 147.560 km
       landedDistance: 147.554 km
+      stoppedAlt: 370.000 m
   - - - '81'
       - Nick Purcell
     - place: '12'
@@ -4532,6 +4742,7 @@ score:
         gsVelocity: null
       reachDistance: 145.610 km
       landedDistance: 145.523 km
+      stoppedAlt: 387.000 m
   - - - '4'
       - Frank Chetcuti
     - place: '13'
@@ -4554,6 +4765,7 @@ score:
         gsVelocity: null
       reachDistance: 143.832 km
       landedDistance: 143.485 km
+      stoppedAlt: 0.000 m
   - - - '92'
       - Attila Bertok
     - place: '14'
@@ -4576,6 +4788,7 @@ score:
         gsVelocity: null
       reachDistance: 134.750 km
       landedDistance: 134.660 km
+      stoppedAlt: 377.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: '15'
@@ -4598,6 +4811,7 @@ score:
         gsVelocity: null
       reachDistance: 136.193 km
       landedDistance: 135.627 km
+      stoppedAlt: 400.000 m
   - - - '72'
       - Sasha Serebrennikova
     - place: '16'
@@ -4620,6 +4834,7 @@ score:
         gsVelocity: null
       reachDistance: 127.900 km
       landedDistance: 127.682 km
+      stoppedAlt: 346.000 m
   - - - '36'
       - Steve Docherty
     - place: '17'
@@ -4642,6 +4857,7 @@ score:
         gsVelocity: null
       reachDistance: 127.017 km
       landedDistance: 126.904 km
+      stoppedAlt: 329.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '18'
@@ -4664,6 +4880,7 @@ score:
         gsVelocity: null
       reachDistance: 127.300 km
       landedDistance: 126.919 km
+      stoppedAlt: 0.000 m
   - - - '62'
       - Josh Woods
     - place: '19'
@@ -4686,6 +4903,7 @@ score:
         gsVelocity: null
       reachDistance: 126.802 km
       landedDistance: 126.682 km
+      stoppedAlt: 330.000 m
   - - - '74'
       - Vic Hare
     - place: '20'
@@ -4708,6 +4926,7 @@ score:
         gsVelocity: null
       reachDistance: 129.662 km
       landedDistance: 129.293 km
+      stoppedAlt: 328.000 m
   - - - '6'
       - Yoko Sano
     - place: '21'
@@ -4730,6 +4949,7 @@ score:
         gsVelocity: null
       reachDistance: 125.420 km
       landedDistance: 125.106 km
+      stoppedAlt: 361.000 m
   - - - '75'
       - Yasuhiro Noma
     - place: '22'
@@ -4752,6 +4972,7 @@ score:
         gsVelocity: null
       reachDistance: 114.274 km
       landedDistance: 113.828 km
+      stoppedAlt: 0.000 m
   - - - '41'
       - Tony Armstrong
     - place: '23'
@@ -4774,6 +4995,7 @@ score:
         gsVelocity: null
       reachDistance: 113.606 km
       landedDistance: 113.390 km
+      stoppedAlt: 397.000 m
   - - - '64'
       - Longfei Yang
     - place: '24'
@@ -4796,6 +5018,7 @@ score:
         gsVelocity: null
       reachDistance: 115.740 km
       landedDistance: 115.536 km
+      stoppedAlt: 329.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: 25=
@@ -4818,6 +5041,7 @@ score:
         gsVelocity: null
       reachDistance: 114.134 km
       landedDistance: 113.846 km
+      stoppedAlt: 368.000 m
   - - - '7'
       - Olav Opsanger
     - place: 25=
@@ -4840,6 +5064,7 @@ score:
         gsVelocity: null
       reachDistance: 112.450 km
       landedDistance: 112.186 km
+      stoppedAlt: 390.000 m
   - - - '103'
       - Wayne Thompson
     - place: '27'
@@ -4862,6 +5087,7 @@ score:
         gsVelocity: null
       reachDistance: 108.781 km
       landedDistance: 108.125 km
+      stoppedAlt: 380.000 m
   - - - '68'
       - Neale Halsall
     - place: '28'
@@ -4884,6 +5110,7 @@ score:
         gsVelocity: null
       reachDistance: 97.078 km
       landedDistance: 95.511 km
+      stoppedAlt: 450.000 m
   - - - '52'
       - Dale Regehr
     - place: '29'
@@ -4906,6 +5133,7 @@ score:
         gsVelocity: null
       reachDistance: 96.244 km
       landedDistance: 95.505 km
+      stoppedAlt: 471.000 m
   - - - '25'
       - Tyler Borrdaile
     - place: '30'
@@ -4928,6 +5156,7 @@ score:
         gsVelocity: null
       reachDistance: 95.277 km
       landedDistance: 93.973 km
+      stoppedAlt: 403.000 m
   - - - '42'
       - Rob de Groot
     - place: '31'
@@ -4950,6 +5179,7 @@ score:
         gsVelocity: null
       reachDistance: 92.162 km
       landedDistance: 91.875 km
+      stoppedAlt: 365.000 m
   - - - '34'
       - Brad Porter
     - place: '32'
@@ -4972,6 +5202,7 @@ score:
         gsVelocity: null
       reachDistance: 89.375 km
       landedDistance: 87.308 km
+      stoppedAlt: 365.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '33'
@@ -4994,6 +5225,7 @@ score:
         gsVelocity: null
       reachDistance: 90.161 km
       landedDistance: 84.621 km
+      stoppedAlt: 346.000 m
   - - - '99'
       - Gennadiy Khramov
     - place: '34'
@@ -5016,6 +5248,7 @@ score:
         gsVelocity: null
       reachDistance: 85.477 km
       landedDistance: 82.531 km
+      stoppedAlt: 320.000 m
   - - - '8'
       - Gordon Rigg
     - place: '35'
@@ -5038,6 +5271,7 @@ score:
         gsVelocity: null
       reachDistance: 70.415 km
       landedDistance: 70.243 km
+      stoppedAlt: 291.000 m
   - - - '67'
       - Mark Alton
     - place: '36'
@@ -5060,6 +5294,7 @@ score:
         gsVelocity: null
       reachDistance: 67.775 km
       landedDistance: 67.303 km
+      stoppedAlt: 335.000 m
   - - - '14'
       - Peter Burkitt
     - place: '37'
@@ -5082,6 +5317,7 @@ score:
         gsVelocity: null
       reachDistance: 15.168 km
       landedDistance: 14.816 km
+      stoppedAlt: 260.000 m
   - - - '80'
       - Michael Cassells
     - place: 38=
@@ -5096,6 +5332,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '71'
       - Rob Larkin
     - place: 38=
@@ -5110,6 +5347,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '43'
       - Jonny Durand
     - place: '1'
@@ -5132,6 +5370,7 @@ score:
         gsVelocity: 45.38 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '2'
@@ -5154,6 +5393,7 @@ score:
         gsVelocity: 44.34 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '3'
@@ -5176,6 +5416,7 @@ score:
         gsVelocity: 44.16 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '4'
@@ -5198,6 +5439,7 @@ score:
         gsVelocity: 42.78 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '5'
@@ -5220,6 +5462,7 @@ score:
         gsVelocity: 42.75 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '6'
@@ -5242,6 +5485,7 @@ score:
         gsVelocity: 42.46 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '92'
       - Attila Bertok
     - place: '7'
@@ -5264,6 +5508,7 @@ score:
         gsVelocity: 44.23 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '34'
       - Brad Porter
     - place: '8'
@@ -5286,6 +5531,7 @@ score:
         gsVelocity: 41.78 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '9'
@@ -5308,6 +5554,7 @@ score:
         gsVelocity: 41.42 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '10'
@@ -5330,6 +5577,7 @@ score:
         gsVelocity: 41.38 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: '11'
@@ -5352,6 +5600,7 @@ score:
         gsVelocity: 42.73 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '12'
@@ -5374,6 +5623,7 @@ score:
         gsVelocity: 42.79 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: '13'
@@ -5396,6 +5646,7 @@ score:
         gsVelocity: 40.91 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '98'
       - Oyvind Ellefsen
     - place: '14'
@@ -5418,6 +5669,7 @@ score:
         gsVelocity: 42.47 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '15'
@@ -5440,6 +5692,7 @@ score:
         gsVelocity: 39.38 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: '16'
@@ -5462,6 +5715,7 @@ score:
         gsVelocity: 39.61 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '17'
@@ -5484,6 +5738,7 @@ score:
         gsVelocity: 39.93 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: 18=
@@ -5506,6 +5761,7 @@ score:
         gsVelocity: 39.07 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: 18=
@@ -5528,6 +5784,7 @@ score:
         gsVelocity: 39.14 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: '20'
@@ -5550,6 +5807,7 @@ score:
         gsVelocity: 37.57 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '21'
@@ -5572,6 +5830,7 @@ score:
         gsVelocity: 34.56 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '22'
@@ -5594,6 +5853,7 @@ score:
         gsVelocity: 35.08 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '23'
@@ -5616,6 +5876,7 @@ score:
         gsVelocity: null
       reachDistance: 135.102 km
       landedDistance: 134.800 km
+      stoppedAlt: 385.000 m
   - - - '25'
       - Tyler Borrdaile
     - place: '24'
@@ -5638,6 +5899,7 @@ score:
         gsVelocity: null
       reachDistance: 127.490 km
       landedDistance: 127.461 km
+      stoppedAlt: 394.000 m
   - - - '80'
       - Michael Cassells
     - place: '25'
@@ -5660,6 +5922,7 @@ score:
         gsVelocity: null
       reachDistance: 127.748 km
       landedDistance: 126.963 km
+      stoppedAlt: 488.000 m
   - - - '64'
       - Longfei Yang
     - place: '26'
@@ -5682,6 +5945,7 @@ score:
         gsVelocity: null
       reachDistance: 138.187 km
       landedDistance: 138.187 km
+      stoppedAlt: 291.000 m
   - - - '52'
       - Dale Regehr
     - place: '27'
@@ -5704,6 +5968,7 @@ score:
         gsVelocity: null
       reachDistance: 135.052 km
       landedDistance: 134.973 km
+      stoppedAlt: 411.000 m
   - - - '22'
       - Rohan Taylor
     - place: '28'
@@ -5726,6 +5991,7 @@ score:
         gsVelocity: null
       reachDistance: 120.341 km
       landedDistance: 119.921 km
+      stoppedAlt: 417.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '29'
@@ -5748,6 +6014,7 @@ score:
         gsVelocity: null
       reachDistance: 119.807 km
       landedDistance: 119.807 km
+      stoppedAlt: 0.000 m
   - - - '85'
       - Rick Martin
     - place: '30'
@@ -5770,6 +6037,7 @@ score:
         gsVelocity: null
       reachDistance: 124.533 km
       landedDistance: 123.086 km
+      stoppedAlt: 443.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '31'
@@ -5792,6 +6060,7 @@ score:
         gsVelocity: null
       reachDistance: 120.039 km
       landedDistance: 119.594 km
+      stoppedAlt: 324.000 m
   - - - '23'
       - Nils Vesk
     - place: '32'
@@ -5814,6 +6083,7 @@ score:
         gsVelocity: null
       reachDistance: 111.007 km
       landedDistance: 109.111 km
+      stoppedAlt: 389.000 m
   - - - '14'
       - Peter Burkitt
     - place: '33'
@@ -5836,6 +6106,7 @@ score:
         gsVelocity: null
       reachDistance: 114.270 km
       landedDistance: 112.202 km
+      stoppedAlt: 469.000 m
   - - - '6'
       - Yoko Sano
     - place: '34'
@@ -5858,6 +6129,7 @@ score:
         gsVelocity: null
       reachDistance: 108.551 km
       landedDistance: 107.852 km
+      stoppedAlt: 370.000 m
   - - - '103'
       - Wayne Thompson
     - place: '35'
@@ -5880,6 +6152,7 @@ score:
         gsVelocity: null
       reachDistance: 109.045 km
       landedDistance: 108.472 km
+      stoppedAlt: 386.000 m
   - - - '55'
       - Don Cramer
     - place: '36'
@@ -5902,6 +6175,7 @@ score:
         gsVelocity: null
       reachDistance: 107.657 km
       landedDistance: 104.553 km
+      stoppedAlt: 0.000 m
   - - - '67'
       - Mark Alton
     - place: 37=
@@ -5924,6 +6198,7 @@ score:
         gsVelocity: null
       reachDistance: 96.880 km
       landedDistance: 96.410 km
+      stoppedAlt: 341.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: 37=
@@ -5946,6 +6221,7 @@ score:
         gsVelocity: null
       reachDistance: 114.328 km
       landedDistance: 63.141 km
+      stoppedAlt: 262.000 m
   - - - '32'
       - Andrew Barnes
     - place: '39'
@@ -5968,6 +6244,7 @@ score:
         gsVelocity: null
       reachDistance: 85.803 km
       landedDistance: 63.129 km
+      stoppedAlt: 245.000 m
   - - - '74'
       - Vic Hare
     - place: '40'
@@ -5990,6 +6267,7 @@ score:
         gsVelocity: null
       reachDistance: 48.382 km
       landedDistance: 47.891 km
+      stoppedAlt: 316.000 m
   - - - '71'
       - Rob Larkin
     - place: '41'
@@ -6012,6 +6290,7 @@ score:
         gsVelocity: null
       reachDistance: 47.148 km
       landedDistance: 45.058 km
+      stoppedAlt: 289.000 m
   - - - '51'
       - Craig Taylor
     - place: '42'
@@ -6034,6 +6313,7 @@ score:
         gsVelocity: null
       reachDistance: 50.330 km
       landedDistance: -0.305 km
+      stoppedAlt: 243.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '43'
@@ -6056,6 +6336,7 @@ score:
         gsVelocity: null
       reachDistance: 26.552 km
       landedDistance: 26.485 km
+      stoppedAlt: 241.000 m
   - - - '86'
       - Ross Smith
     - place: '44'
@@ -6078,6 +6359,7 @@ score:
         gsVelocity: null
       reachDistance: 27.741 km
       landedDistance: -0.332 km
+      stoppedAlt: 238.000 m
   - - - '99'
       - Gennadiy Khramov
     - place: '45'
@@ -6092,6 +6374,7 @@ score:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '92'
       - Attila Bertok
     - place: '1'
@@ -6114,6 +6397,7 @@ score:
         gsVelocity: 47.41 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '2'
@@ -6136,6 +6420,7 @@ score:
         gsVelocity: 44.67 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: 3=
@@ -6158,6 +6443,7 @@ score:
         gsVelocity: 45.12 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
     - place: 3=
@@ -6180,6 +6466,7 @@ score:
         gsVelocity: 44.85 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '5'
@@ -6202,6 +6489,7 @@ score:
         gsVelocity: 44.64 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '6'
@@ -6224,6 +6512,7 @@ score:
         gsVelocity: 44.18 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '7'
@@ -6246,6 +6535,7 @@ score:
         gsVelocity: 43.77 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '8'
@@ -6268,6 +6558,7 @@ score:
         gsVelocity: 43.71 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '9'
@@ -6290,6 +6581,7 @@ score:
         gsVelocity: 41.87 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '10'
@@ -6312,6 +6604,7 @@ score:
         gsVelocity: 38.67 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: '11'
@@ -6334,6 +6627,7 @@ score:
         gsVelocity: 39.83 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '12'
@@ -6356,6 +6650,7 @@ score:
         gsVelocity: 39.79 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '13'
@@ -6378,6 +6673,7 @@ score:
         gsVelocity: 37.12 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '14'
@@ -6400,6 +6696,7 @@ score:
         gsVelocity: 38.44 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '15'
@@ -6422,6 +6719,7 @@ score:
         gsVelocity: 36.09 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '16'
@@ -6444,6 +6742,7 @@ score:
         gsVelocity: 35.56 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '17'
@@ -6466,6 +6765,7 @@ score:
         gsVelocity: 35.29 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: '18'
@@ -6488,6 +6788,7 @@ score:
         gsVelocity: 33.83 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '74'
       - Vic Hare
     - place: '19'
@@ -6510,6 +6811,7 @@ score:
         gsVelocity: 33.83 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
     - place: '20'
@@ -6532,6 +6834,7 @@ score:
         gsVelocity: 32.50 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: '21'
@@ -6554,6 +6857,7 @@ score:
         gsVelocity: 32.10 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '22'
@@ -6576,6 +6880,7 @@ score:
         gsVelocity: 31.79 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '23'
@@ -6598,6 +6903,7 @@ score:
         gsVelocity: null
       reachDistance: 145.543 km
       landedDistance: 126.721 km
+      stoppedAlt: 301.000 m
   - - - '51'
       - Craig Taylor
     - place: '24'
@@ -6620,6 +6926,7 @@ score:
         gsVelocity: 26.65 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '52'
       - Dale Regehr
     - place: '25'
@@ -6642,6 +6949,7 @@ score:
         gsVelocity: null
       reachDistance: 134.549 km
       landedDistance: 134.471 km
+      stoppedAlt: 310.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '26'
@@ -6664,6 +6972,7 @@ score:
         gsVelocity: null
       reachDistance: 118.421 km
       landedDistance: 115.933 km
+      stoppedAlt: 0.000 m
   - - - '103'
       - Wayne Thompson
     - place: '27'
@@ -6686,6 +6995,7 @@ score:
         gsVelocity: null
       reachDistance: 119.411 km
       landedDistance: 115.281 km
+      stoppedAlt: 345.000 m
   - - - '80'
       - Michael Cassells
     - place: '28'
@@ -6708,6 +7018,7 @@ score:
         gsVelocity: null
       reachDistance: 110.557 km
       landedDistance: 110.028 km
+      stoppedAlt: 384.000 m
   - - - '4'
       - Frank Chetcuti
     - place: '29'
@@ -6730,6 +7041,7 @@ score:
         gsVelocity: null
       reachDistance: 108.061 km
       landedDistance: 107.601 km
+      stoppedAlt: 0.000 m
   - - - '23'
       - Nils Vesk
     - place: '30'
@@ -6752,6 +7064,7 @@ score:
         gsVelocity: null
       reachDistance: 104.921 km
       landedDistance: 104.687 km
+      stoppedAlt: 339.000 m
   - - - '85'
       - Rick Martin
     - place: '31'
@@ -6766,6 +7079,7 @@ score:
       velocity: null
       reachDistance: 95.031 km
       landedDistance: 95.031 km
+      stoppedAlt: null
   - - - '83'
       - Randal Clotworthy
     - place: '32'
@@ -6788,6 +7102,7 @@ score:
         gsVelocity: null
       reachDistance: 93.790 km
       landedDistance: 93.236 km
+      stoppedAlt: 494.000 m
   - - - '36'
       - Steve Docherty
     - place: '33'
@@ -6810,6 +7125,7 @@ score:
         gsVelocity: null
       reachDistance: 107.527 km
       landedDistance: 73.431 km
+      stoppedAlt: 273.000 m
   - - - '25'
       - Tyler Borrdaile
     - place: '34'
@@ -6832,6 +7148,7 @@ score:
         gsVelocity: null
       reachDistance: 105.996 km
       landedDistance: 67.061 km
+      stoppedAlt: 294.000 m
   - - - '34'
       - Brad Porter
     - place: '35'
@@ -6854,6 +7171,7 @@ score:
         gsVelocity: null
       reachDistance: 67.329 km
       landedDistance: 67.108 km
+      stoppedAlt: 284.000 m
   - - - '106'
       - Jon Durand Snr
     - place: '36'
@@ -6876,6 +7194,7 @@ score:
         gsVelocity: null
       reachDistance: 67.233 km
       landedDistance: 67.029 km
+      stoppedAlt: 298.000 m
   - - - '64'
       - Longfei Yang
     - place: '37'
@@ -6898,6 +7217,7 @@ score:
         gsVelocity: null
       reachDistance: 64.153 km
       landedDistance: 63.566 km
+      stoppedAlt: 285.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: '38'
@@ -6920,6 +7240,7 @@ score:
         gsVelocity: null
       reachDistance: 56.462 km
       landedDistance: 56.236 km
+      stoppedAlt: 335.000 m
   - - - '14'
       - Peter Burkitt
     - place: '39'
@@ -6942,6 +7263,7 @@ score:
         gsVelocity: null
       reachDistance: 31.987 km
       landedDistance: 31.626 km
+      stoppedAlt: 311.000 m
 scoreDf:
 - - - - '92'
       - Attila Bertok
@@ -6965,6 +7287,7 @@ scoreDf:
         gsVelocity: 60.54 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: '2'
@@ -6987,6 +7310,7 @@ scoreDf:
         gsVelocity: 59.60 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '3'
@@ -7009,6 +7333,7 @@ scoreDf:
         gsVelocity: 54.95 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: 4=
@@ -7031,6 +7356,7 @@ scoreDf:
         gsVelocity: 50.91 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: 4=
@@ -7053,6 +7379,7 @@ scoreDf:
         gsVelocity: 50.87 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '69'
       - Niki Longshore
     - place: '6'
@@ -7075,6 +7402,7 @@ scoreDf:
         gsVelocity: 50.74 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '7'
@@ -7097,6 +7425,7 @@ scoreDf:
         gsVelocity: 50.02 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '8'
@@ -7119,6 +7448,7 @@ scoreDf:
         gsVelocity: 49.88 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '9'
@@ -7141,6 +7471,7 @@ scoreDf:
         gsVelocity: 48.85 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '10'
@@ -7163,6 +7494,7 @@ scoreDf:
         gsVelocity: 48.67 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '11'
@@ -7185,6 +7517,7 @@ scoreDf:
         gsVelocity: 48.19 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: '12'
@@ -7207,6 +7540,7 @@ scoreDf:
         gsVelocity: 47.40 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: 13=
@@ -7229,6 +7563,7 @@ scoreDf:
         gsVelocity: 46.28 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '51'
       - Craig Taylor
     - place: 13=
@@ -7251,6 +7586,7 @@ scoreDf:
         gsVelocity: 46.28 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '15'
@@ -7273,6 +7609,7 @@ scoreDf:
         gsVelocity: 46.08 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '16'
@@ -7295,6 +7632,7 @@ scoreDf:
         gsVelocity: 43.57 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
     - place: '17'
@@ -7317,6 +7655,7 @@ scoreDf:
         gsVelocity: 42.85 km / h
       reachDistance: 142.789 km
       landedDistance: 142.789 km
+      stoppedAlt: null
   - - - '108'
       - Peter Adriaans
     - place: '18'
@@ -7339,6 +7678,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 115.968 km
       landedDistance: 115.766 km
+      stoppedAlt: 293.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: '19'
@@ -7361,6 +7701,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 111.705 km
       landedDistance: 111.705 km
+      stoppedAlt: 1974.000 m
   - - - '41'
       - Tony Armstrong
     - place: '20'
@@ -7383,6 +7724,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 111.772 km
       landedDistance: 111.388 km
+      stoppedAlt: 274.000 m
   - - - '32'
       - Andrew Barnes
     - place: '21'
@@ -7405,6 +7747,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 106.913 km
       landedDistance: 106.913 km
+      stoppedAlt: 1347.000 m
   - - - '72'
       - Sasha Serebrennikova
     - place: '22'
@@ -7427,6 +7770,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 106.378 km
       landedDistance: 106.214 km
+      stoppedAlt: 321.000 m
   - - - '68'
       - Neale Halsall
     - place: '23'
@@ -7449,6 +7793,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 99.204 km
       landedDistance: 99.038 km
+      stoppedAlt: 282.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '24'
@@ -7471,6 +7816,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 82.819 km
       landedDistance: 82.733 km
+      stoppedAlt: 296.000 m
   - - - '64'
       - Longfei Yang
     - place: '25'
@@ -7493,6 +7839,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 70.401 km
       landedDistance: 70.296 km
+      stoppedAlt: 323.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: '26'
@@ -7515,6 +7862,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 67.500 km
       landedDistance: 67.143 km
+      stoppedAlt: 334.000 m
   - - - '43'
       - Jonny Durand
     - place: '27'
@@ -7537,6 +7885,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 65.512 km
       landedDistance: 65.448 km
+      stoppedAlt: 324.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '28'
@@ -7559,6 +7908,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 64.478 km
       landedDistance: 62.664 km
+      stoppedAlt: 323.000 m
   - - - '4'
       - Frank Chetcuti
     - place: '29'
@@ -7581,6 +7931,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 57.249 km
       landedDistance: 56.091 km
+      stoppedAlt: 0.000 m
   - - - '80'
       - Michael Cassells
     - place: '30'
@@ -7603,6 +7954,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 56.062 km
       landedDistance: 55.904 km
+      stoppedAlt: 324.000 m
   - - - '71'
       - Rob Larkin
     - place: '31'
@@ -7625,6 +7977,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 51.448 km
       landedDistance: 51.415 km
+      stoppedAlt: 343.000 m
   - - - '86'
       - Ross Smith
     - place: '32'
@@ -7647,6 +8000,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 48.442 km
       landedDistance: 48.228 km
+      stoppedAlt: 278.000 m
   - - - '100'
       - Malcolm Brown
     - place: '33'
@@ -7669,6 +8023,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 30.246 km
       landedDistance: 29.380 km
+      stoppedAlt: 353.000 m
   - - - '34'
       - Brad Porter
     - place: '34'
@@ -7691,6 +8046,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 26.429 km
       landedDistance: 26.269 km
+      stoppedAlt: 286.000 m
   - - - '14'
       - Peter Burkitt
     - place: '35'
@@ -7713,6 +8069,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 23.986 km
       landedDistance: 23.761 km
+      stoppedAlt: 323.000 m
   - - - '67'
       - Mark Alton
     - place: '36'
@@ -7735,6 +8092,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 23.348 km
       landedDistance: 23.283 km
+      stoppedAlt: 317.000 m
   - - - '88'
       - Simon West
     - place: '37'
@@ -7757,6 +8115,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 17.693 km
       landedDistance: 17.477 km
+      stoppedAlt: 311.000 m
   - - - '94'
       - Justinas Pleikys
     - place: '38'
@@ -7779,6 +8138,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 17.146 km
       landedDistance: 16.310 km
+      stoppedAlt: 301.000 m
   - - - '55'
       - Don Cramer
     - place: '39'
@@ -7801,6 +8161,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 13.333 km
       landedDistance: 12.561 km
+      stoppedAlt: 310.000 m
   - - - '77'
       - Brodrick Osborne
     - place: '40'
@@ -7823,6 +8184,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 5.512 km
       landedDistance: 4.868 km
+      stoppedAlt: 297.000 m
 - - - - '62'
       - Josh Woods
     - place: '1'
@@ -7845,6 +8207,7 @@ scoreDf:
         gsVelocity: 45.94 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '2'
@@ -7867,6 +8230,7 @@ scoreDf:
         gsVelocity: 45.93 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '3'
@@ -7889,6 +8253,7 @@ scoreDf:
         gsVelocity: 45.41 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: 4=
@@ -7911,6 +8276,7 @@ scoreDf:
         gsVelocity: 44.43 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '92'
       - Attila Bertok
     - place: 4=
@@ -7933,6 +8299,7 @@ scoreDf:
         gsVelocity: 45.74 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '6'
@@ -7955,6 +8322,7 @@ scoreDf:
         gsVelocity: 44.28 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '7'
@@ -7977,6 +8345,7 @@ scoreDf:
         gsVelocity: 44.03 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '8'
@@ -7999,6 +8368,7 @@ scoreDf:
         gsVelocity: 41.70 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '9'
@@ -8021,6 +8391,7 @@ scoreDf:
         gsVelocity: 41.73 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '10'
@@ -8043,6 +8414,7 @@ scoreDf:
         gsVelocity: 41.17 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '69'
       - Niki Longshore
     - place: '11'
@@ -8065,6 +8437,7 @@ scoreDf:
         gsVelocity: 40.95 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '12'
@@ -8087,6 +8460,7 @@ scoreDf:
         gsVelocity: 39.80 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '13'
@@ -8109,6 +8483,7 @@ scoreDf:
         gsVelocity: 41.36 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '14'
@@ -8131,6 +8506,7 @@ scoreDf:
         gsVelocity: 36.99 km / h
       reachDistance: 185.746 km
       landedDistance: 185.746 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '15'
@@ -8153,6 +8529,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 179.276 km
       landedDistance: 179.079 km
+      stoppedAlt: 504.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: '16'
@@ -8175,6 +8552,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 174.916 km
       landedDistance: 174.889 km
+      stoppedAlt: 590.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: '17'
@@ -8197,6 +8575,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 162.884 km
       landedDistance: 162.685 km
+      stoppedAlt: 643.000 m
   - - - '77'
       - Brodrick Osborne
     - place: '18'
@@ -8219,6 +8598,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 167.566 km
       landedDistance: 167.061 km
+      stoppedAlt: 535.000 m
   - - - '30'
       - Jason Kath
     - place: '19'
@@ -8241,6 +8621,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 149.816 km
       landedDistance: 180.612 km
+      stoppedAlt: 568.000 m
   - - - '22'
       - Rohan Taylor
     - place: '20'
@@ -8263,6 +8644,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 155.935 km
       landedDistance: 155.808 km
+      stoppedAlt: 820.000 m
   - - - '37'
       - Gavin Myers
     - place: '21'
@@ -8285,6 +8667,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 156.252 km
       landedDistance: 155.737 km
+      stoppedAlt: 600.000 m
   - - - '100'
       - Malcolm Brown
     - place: '22'
@@ -8307,6 +8690,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 135.968 km
       landedDistance: 135.575 km
+      stoppedAlt: 640.000 m
   - - - '103'
       - Wayne Thompson
     - place: '23'
@@ -8329,6 +8713,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 149.837 km
       landedDistance: 149.832 km
+      stoppedAlt: 580.000 m
   - - - '81'
       - Nick Purcell
     - place: '24'
@@ -8351,6 +8736,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 122.686 km
       landedDistance: 122.358 km
+      stoppedAlt: 0.000 m
   - - - '36'
       - Steve Docherty
     - place: '25'
@@ -8373,6 +8759,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 121.546 km
       landedDistance: 120.420 km
+      stoppedAlt: 485.000 m
   - - - '106'
       - Jon Durand Snr
     - place: '26'
@@ -8395,6 +8782,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 108.800 km
       landedDistance: 108.655 km
+      stoppedAlt: 549.000 m
   - - - '34'
       - Brad Porter
     - place: '27'
@@ -8417,6 +8805,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 111.847 km
       landedDistance: 111.051 km
+      stoppedAlt: 490.000 m
   - - - '52'
       - Dale Regehr
     - place: '28'
@@ -8439,6 +8828,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 103.950 km
       landedDistance: 103.881 km
+      stoppedAlt: 556.000 m
   - - - '71'
       - Rob Larkin
     - place: '29'
@@ -8461,6 +8851,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 104.352 km
       landedDistance: 103.637 km
+      stoppedAlt: 428.000 m
   - - - '80'
       - Michael Cassells
     - place: '30'
@@ -8483,6 +8874,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 99.024 km
       landedDistance: 98.560 km
+      stoppedAlt: 401.000 m
   - - - '32'
       - Andrew Barnes
     - place: '31'
@@ -8505,6 +8897,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 91.388 km
       landedDistance: 91.161 km
+      stoppedAlt: 444.000 m
   - - - '31'
       - Trent Brown
     - place: '32'
@@ -8527,6 +8920,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 67.482 km
       landedDistance: 67.388 km
+      stoppedAlt: 423.000 m
   - - - '55'
       - Don Cramer
     - place: '33'
@@ -8549,6 +8943,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 57.934 km
       landedDistance: 57.867 km
+      stoppedAlt: 0.000 m
   - - - '72'
       - Sasha Serebrennikova
     - place: '34'
@@ -8571,6 +8966,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 57.468 km
       landedDistance: 56.076 km
+      stoppedAlt: 350.000 m
   - - - '67'
       - Mark Alton
     - place: '35'
@@ -8593,6 +8989,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 47.016 km
       landedDistance: 46.692 km
+      stoppedAlt: 322.000 m
   - - - '42'
       - Rob de Groot
     - place: '36'
@@ -8615,6 +9012,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 14.915 km
       landedDistance: 14.582 km
+      stoppedAlt: 304.000 m
   - - - '51'
       - Craig Taylor
     - place: 37=
@@ -8637,6 +9035,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 7.641 km
       landedDistance: 5.689 km
+      stoppedAlt: 276.000 m
   - - - '64'
       - Longfei Yang
     - place: 37=
@@ -8659,6 +9058,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 0.034 km
       landedDistance: -2.970 km
+      stoppedAlt: 283.000 m
   - - - '14'
       - Peter Burkitt
     - place: 37=
@@ -8681,6 +9081,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 7.242 km
       landedDistance: 6.284 km
+      stoppedAlt: 234.000 m
 - - - - '92'
       - Attila Bertok
     - place: '1'
@@ -8703,6 +9104,7 @@ scoreDf:
         gsVelocity: 59.01 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '2'
@@ -8725,6 +9127,7 @@ scoreDf:
         gsVelocity: 58.72 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: '3'
@@ -8747,6 +9150,7 @@ scoreDf:
         gsVelocity: 58.58 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '4'
@@ -8769,6 +9173,7 @@ scoreDf:
         gsVelocity: 58.35 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '5'
@@ -8791,6 +9196,7 @@ scoreDf:
         gsVelocity: 58.24 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '6'
@@ -8813,6 +9219,7 @@ scoreDf:
         gsVelocity: 58.22 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '51'
       - Craig Taylor
     - place: '7'
@@ -8835,6 +9242,7 @@ scoreDf:
         gsVelocity: 57.67 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '8'
@@ -8857,6 +9265,7 @@ scoreDf:
         gsVelocity: 57.23 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '34'
       - Brad Porter
     - place: '9'
@@ -8879,6 +9288,7 @@ scoreDf:
         gsVelocity: 57.43 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '10'
@@ -8901,6 +9311,7 @@ scoreDf:
         gsVelocity: 53.78 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
     - place: '11'
@@ -8923,6 +9334,7 @@ scoreDf:
         gsVelocity: 53.53 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '12'
@@ -8945,6 +9357,7 @@ scoreDf:
         gsVelocity: 51.65 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: '13'
@@ -8967,6 +9380,7 @@ scoreDf:
         gsVelocity: 53.15 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '14'
@@ -8989,6 +9403,7 @@ scoreDf:
         gsVelocity: 53.06 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '15'
@@ -9011,6 +9426,7 @@ scoreDf:
         gsVelocity: 54.84 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: '16'
@@ -9033,6 +9449,7 @@ scoreDf:
         gsVelocity: 52.66 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '17'
@@ -9055,6 +9472,7 @@ scoreDf:
         gsVelocity: 54.29 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '18'
@@ -9077,6 +9495,7 @@ scoreDf:
         gsVelocity: 53.93 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '19'
@@ -9099,6 +9518,7 @@ scoreDf:
         gsVelocity: 53.79 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: '20'
@@ -9121,6 +9541,7 @@ scoreDf:
         gsVelocity: 51.08 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '21'
@@ -9143,6 +9564,7 @@ scoreDf:
         gsVelocity: 50.53 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
     - place: '22'
@@ -9165,6 +9587,7 @@ scoreDf:
         gsVelocity: 50.37 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '23'
@@ -9187,6 +9610,7 @@ scoreDf:
         gsVelocity: 49.17 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '24'
@@ -9209,6 +9633,7 @@ scoreDf:
         gsVelocity: 50.48 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '77'
       - Brodrick Osborne
     - place: '25'
@@ -9231,6 +9656,7 @@ scoreDf:
         gsVelocity: 49.79 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '32'
       - Andrew Barnes
     - place: '26'
@@ -9253,6 +9679,7 @@ scoreDf:
         gsVelocity: 49.46 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '80'
       - Michael Cassells
     - place: '27'
@@ -9275,6 +9702,7 @@ scoreDf:
         gsVelocity: 47.47 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: '28'
@@ -9297,6 +9725,7 @@ scoreDf:
         gsVelocity: 43.63 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '103'
       - Wayne Thompson
     - place: '29'
@@ -9319,6 +9748,7 @@ scoreDf:
         gsVelocity: 43.16 km / h
       reachDistance: 195.225 km
       landedDistance: 195.225 km
+      stoppedAlt: null
   - - - '14'
       - Peter Burkitt
     - place: '30'
@@ -9341,6 +9771,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 186.168 km
       landedDistance: 185.953 km
+      stoppedAlt: 458.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '31'
@@ -9363,6 +9794,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 191.856 km
       landedDistance: 191.301 km
+      stoppedAlt: 507.000 m
   - - - '71'
       - Rob Larkin
     - place: '32'
@@ -9385,6 +9817,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 182.678 km
       landedDistance: 181.933 km
+      stoppedAlt: 476.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '33'
@@ -9407,6 +9840,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 171.047 km
       landedDistance: 170.881 km
+      stoppedAlt: 0.000 m
   - - - '52'
       - Dale Regehr
     - place: '34'
@@ -9429,6 +9863,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 167.524 km
       landedDistance: 167.307 km
+      stoppedAlt: 489.000 m
   - - - '67'
       - Mark Alton
     - place: '35'
@@ -9451,6 +9886,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 168.012 km
       landedDistance: 167.294 km
+      stoppedAlt: 496.000 m
   - - - '74'
       - Vic Hare
     - place: '36'
@@ -9473,6 +9909,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 167.524 km
       landedDistance: 167.276 km
+      stoppedAlt: 500.000 m
   - - - '64'
       - Longfei Yang
     - place: '37'
@@ -9495,6 +9932,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 150.814 km
       landedDistance: 149.833 km
+      stoppedAlt: 632.000 m
   - - - '75'
       - Yasuhiro Noma
     - place: '38'
@@ -9517,6 +9955,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 141.699 km
       landedDistance: 141.456 km
+      stoppedAlt: 0.000 m
   - - - '102'
       - Robert Davies
     - place: '39'
@@ -9539,6 +9978,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 109.353 km
       landedDistance: 107.625 km
+      stoppedAlt: 475.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '40'
@@ -9561,6 +10001,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 101.263 km
       landedDistance: 100.625 km
+      stoppedAlt: 432.000 m
   - - - '43'
       - Jonny Durand
     - place: '41'
@@ -9583,6 +10024,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 75.552 km
       landedDistance: 74.958 km
+      stoppedAlt: 503.000 m
   - - - '101'
       - Oliver Chitty
     - place: '42'
@@ -9605,6 +10047,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 73.532 km
       landedDistance: 73.246 km
+      stoppedAlt: 516.000 m
   - - - '69'
       - Niki Longshore
     - place: '43'
@@ -9627,6 +10070,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 71.919 km
       landedDistance: 71.919 km
+      stoppedAlt: 2609.000 m
   - - - '27'
       - Guy Hubbard
     - place: '44'
@@ -9649,6 +10093,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 56.094 km
       landedDistance: 55.849 km
+      stoppedAlt: 490.000 m
   - - - '55'
       - Don Cramer
     - place: '45'
@@ -9671,6 +10116,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 51.027 km
       landedDistance: 51.027 km
+      stoppedAlt: 0.000 m
 - - - - '101'
       - Oliver Chitty
     - place: '1'
@@ -9693,6 +10139,7 @@ scoreDf:
         gsVelocity: 71.45 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '2'
@@ -9715,6 +10162,7 @@ scoreDf:
         gsVelocity: 71.21 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '25'
       - Tyler Borrdaile
     - place: '3'
@@ -9737,6 +10185,7 @@ scoreDf:
         gsVelocity: 71.05 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '4'
@@ -9759,6 +10208,7 @@ scoreDf:
         gsVelocity: 67.31 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '5'
@@ -9781,6 +10231,7 @@ scoreDf:
         gsVelocity: 65.76 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '6'
@@ -9803,6 +10254,7 @@ scoreDf:
         gsVelocity: 65.24 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '7'
@@ -9825,6 +10277,7 @@ scoreDf:
         gsVelocity: 64.99 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: '8'
@@ -9847,6 +10300,7 @@ scoreDf:
         gsVelocity: 62.70 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '9'
@@ -9869,6 +10323,7 @@ scoreDf:
         gsVelocity: 62.71 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '10'
@@ -9891,6 +10346,7 @@ scoreDf:
         gsVelocity: 61.14 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '11'
@@ -9913,6 +10369,7 @@ scoreDf:
         gsVelocity: 60.28 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '12'
@@ -9935,6 +10392,7 @@ scoreDf:
         gsVelocity: 58.59 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '13'
@@ -9957,6 +10415,7 @@ scoreDf:
         gsVelocity: 57.20 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
     - place: '14'
@@ -9979,6 +10438,7 @@ scoreDf:
         gsVelocity: 57.16 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '15'
@@ -10001,6 +10461,7 @@ scoreDf:
         gsVelocity: 57.03 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '16'
@@ -10023,6 +10484,7 @@ scoreDf:
         gsVelocity: 56.44 km / h
       reachDistance: 388.751 km
       landedDistance: 388.751 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '17'
@@ -10045,6 +10507,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 356.115 km
       landedDistance: 355.443 km
+      stoppedAlt: 548.000 m
   - - - '51'
       - Craig Taylor
     - place: '18'
@@ -10067,6 +10530,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 352.697 km
       landedDistance: 352.658 km
+      stoppedAlt: 384.000 m
   - - - '22'
       - Rohan Taylor
     - place: '19'
@@ -10089,6 +10553,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 344.566 km
       landedDistance: 343.892 km
+      stoppedAlt: 286.000 m
   - - - '32'
       - Andrew Barnes
     - place: '20'
@@ -10111,6 +10576,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 357.858 km
       landedDistance: 357.457 km
+      stoppedAlt: 296.000 m
   - - - '80'
       - Michael Cassells
     - place: '21'
@@ -10133,6 +10599,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 333.065 km
       landedDistance: 332.648 km
+      stoppedAlt: 379.000 m
   - - - '77'
       - Brodrick Osborne
     - place: '22'
@@ -10155,6 +10622,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 322.900 km
       landedDistance: 321.748 km
+      stoppedAlt: 435.000 m
   - - - '42'
       - Rob de Groot
     - place: '23'
@@ -10177,6 +10645,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 309.941 km
       landedDistance: 309.834 km
+      stoppedAlt: 408.000 m
   - - - '68'
       - Neale Halsall
     - place: '24'
@@ -10199,6 +10668,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 289.592 km
       landedDistance: 289.355 km
+      stoppedAlt: 492.000 m
   - - - '103'
       - Wayne Thompson
     - place: '25'
@@ -10221,6 +10691,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 267.369 km
       landedDistance: 267.036 km
+      stoppedAlt: 584.000 m
   - - - '34'
       - Brad Porter
     - place: '26'
@@ -10243,6 +10714,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 238.765 km
       landedDistance: 237.741 km
+      stoppedAlt: 566.000 m
   - - - '52'
       - Dale Regehr
     - place: '27'
@@ -10265,6 +10737,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 232.387 km
       landedDistance: 231.992 km
+      stoppedAlt: 553.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '28'
@@ -10287,6 +10760,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 206.356 km
       landedDistance: 206.061 km
+      stoppedAlt: 0.000 m
   - - - '88'
       - Simon West
     - place: '29'
@@ -10309,6 +10783,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 207.896 km
       landedDistance: 205.807 km
+      stoppedAlt: 459.000 m
   - - - '92'
       - Attila Bertok
     - place: '30'
@@ -10331,6 +10806,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 201.459 km
       landedDistance: 201.360 km
+      stoppedAlt: 541.000 m
   - - - '75'
       - Yasuhiro Noma
     - place: '31'
@@ -10353,6 +10829,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 185.742 km
       landedDistance: 185.583 km
+      stoppedAlt: 0.000 m
   - - - '67'
       - Mark Alton
     - place: '32'
@@ -10375,6 +10852,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 180.876 km
       landedDistance: 180.428 km
+      stoppedAlt: 540.000 m
   - - - '71'
       - Rob Larkin
     - place: '33'
@@ -10397,6 +10875,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 176.001 km
       landedDistance: 175.572 km
+      stoppedAlt: 601.000 m
   - - - '74'
       - Vic Hare
     - place: '34'
@@ -10419,6 +10898,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 136.716 km
       landedDistance: 135.887 km
+      stoppedAlt: 421.000 m
   - - - '106'
       - Jon Durand Snr
     - place: '35'
@@ -10441,6 +10921,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 94.242 km
       landedDistance: 93.199 km
+      stoppedAlt: 471.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '36'
@@ -10463,6 +10944,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 56.243 km
       landedDistance: 55.839 km
+      stoppedAlt: 491.000 m
   - - - '64'
       - Longfei Yang
     - place: '37'
@@ -10485,6 +10967,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 56.991 km
       landedDistance: 55.741 km
+      stoppedAlt: 494.000 m
   - - - '81'
       - Nick Purcell
     - place: '38'
@@ -10507,6 +10990,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 56.296 km
       landedDistance: 55.474 km
+      stoppedAlt: 500.000 m
   - - - '14'
       - Peter Burkitt
     - place: 39=
@@ -10529,6 +11013,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 2.999 km
       landedDistance: 2.825 km
+      stoppedAlt: 250.000 m
   - - - '6'
       - Yoko Sano
     - place: 39=
@@ -10551,6 +11036,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 5.263 km
       landedDistance: 5.124 km
+      stoppedAlt: 335.000 m
 - - - - '101'
       - Oliver Chitty
     - place: '1'
@@ -10573,6 +11059,7 @@ scoreDf:
         gsVelocity: 51.65 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '2'
@@ -10595,6 +11082,7 @@ scoreDf:
         gsVelocity: 51.38 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '3'
@@ -10617,6 +11105,7 @@ scoreDf:
         gsVelocity: 51.31 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '4'
@@ -10639,6 +11128,7 @@ scoreDf:
         gsVelocity: 51.11 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '5'
@@ -10661,6 +11151,7 @@ scoreDf:
         gsVelocity: 50.78 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '23'
       - Nils Vesk
     - place: '6'
@@ -10683,6 +11174,7 @@ scoreDf:
         gsVelocity: 46.95 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: '7'
@@ -10705,6 +11197,7 @@ scoreDf:
         gsVelocity: 47.02 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '51'
       - Craig Taylor
     - place: '8'
@@ -10727,6 +11220,7 @@ scoreDf:
         gsVelocity: 45.17 km / h
       reachDistance: 153.940 km
       landedDistance: 153.940 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '9'
@@ -10749,6 +11243,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 145.123 km
       landedDistance: 145.123 km
+      stoppedAlt: 424.000 m
   - - - '22'
       - Rohan Taylor
     - place: '10'
@@ -10771,6 +11266,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 144.722 km
       landedDistance: 144.451 km
+      stoppedAlt: 381.000 m
   - - - '11'
       - Steve Blenkinsop
     - place: '11'
@@ -10793,6 +11289,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 147.560 km
       landedDistance: 147.554 km
+      stoppedAlt: 370.000 m
   - - - '81'
       - Nick Purcell
     - place: '12'
@@ -10815,6 +11312,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 145.610 km
       landedDistance: 145.523 km
+      stoppedAlt: 387.000 m
   - - - '4'
       - Frank Chetcuti
     - place: '13'
@@ -10837,6 +11335,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 143.832 km
       landedDistance: 143.485 km
+      stoppedAlt: 0.000 m
   - - - '92'
       - Attila Bertok
     - place: '14'
@@ -10859,6 +11358,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 134.750 km
       landedDistance: 134.660 km
+      stoppedAlt: 377.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: '15'
@@ -10881,6 +11381,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 136.193 km
       landedDistance: 135.627 km
+      stoppedAlt: 400.000 m
   - - - '72'
       - Sasha Serebrennikova
     - place: '16'
@@ -10903,6 +11404,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 127.900 km
       landedDistance: 127.682 km
+      stoppedAlt: 346.000 m
   - - - '36'
       - Steve Docherty
     - place: '17'
@@ -10925,6 +11427,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 127.017 km
       landedDistance: 126.904 km
+      stoppedAlt: 329.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '18'
@@ -10947,6 +11450,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 127.300 km
       landedDistance: 126.919 km
+      stoppedAlt: 0.000 m
   - - - '62'
       - Josh Woods
     - place: '19'
@@ -10969,6 +11473,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 126.802 km
       landedDistance: 126.682 km
+      stoppedAlt: 330.000 m
   - - - '74'
       - Vic Hare
     - place: '20'
@@ -10991,6 +11496,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 129.662 km
       landedDistance: 129.293 km
+      stoppedAlt: 328.000 m
   - - - '6'
       - Yoko Sano
     - place: '21'
@@ -11013,6 +11519,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 125.420 km
       landedDistance: 125.106 km
+      stoppedAlt: 361.000 m
   - - - '75'
       - Yasuhiro Noma
     - place: '22'
@@ -11035,6 +11542,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 114.274 km
       landedDistance: 113.828 km
+      stoppedAlt: 0.000 m
   - - - '41'
       - Tony Armstrong
     - place: '23'
@@ -11057,6 +11565,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 113.606 km
       landedDistance: 113.390 km
+      stoppedAlt: 397.000 m
   - - - '64'
       - Longfei Yang
     - place: '24'
@@ -11079,6 +11588,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 115.740 km
       landedDistance: 115.536 km
+      stoppedAlt: 329.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: 25=
@@ -11101,6 +11611,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 114.134 km
       landedDistance: 113.846 km
+      stoppedAlt: 368.000 m
   - - - '7'
       - Olav Opsanger
     - place: 25=
@@ -11123,6 +11634,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 112.450 km
       landedDistance: 112.186 km
+      stoppedAlt: 390.000 m
   - - - '103'
       - Wayne Thompson
     - place: '27'
@@ -11145,6 +11657,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 108.781 km
       landedDistance: 108.125 km
+      stoppedAlt: 380.000 m
   - - - '68'
       - Neale Halsall
     - place: '28'
@@ -11167,6 +11680,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 97.078 km
       landedDistance: 95.511 km
+      stoppedAlt: 450.000 m
   - - - '52'
       - Dale Regehr
     - place: '29'
@@ -11189,6 +11703,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 96.244 km
       landedDistance: 95.505 km
+      stoppedAlt: 471.000 m
   - - - '25'
       - Tyler Borrdaile
     - place: '30'
@@ -11211,6 +11726,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 95.277 km
       landedDistance: 93.973 km
+      stoppedAlt: 403.000 m
   - - - '42'
       - Rob de Groot
     - place: '31'
@@ -11233,6 +11749,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 92.162 km
       landedDistance: 91.875 km
+      stoppedAlt: 365.000 m
   - - - '34'
       - Brad Porter
     - place: '32'
@@ -11255,6 +11772,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 89.375 km
       landedDistance: 87.308 km
+      stoppedAlt: 365.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '33'
@@ -11277,6 +11795,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 90.161 km
       landedDistance: 84.621 km
+      stoppedAlt: 346.000 m
   - - - '99'
       - Gennadiy Khramov
     - place: '34'
@@ -11299,6 +11818,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 85.477 km
       landedDistance: 82.531 km
+      stoppedAlt: 320.000 m
   - - - '8'
       - Gordon Rigg
     - place: '35'
@@ -11321,6 +11841,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 70.415 km
       landedDistance: 70.243 km
+      stoppedAlt: 291.000 m
   - - - '67'
       - Mark Alton
     - place: '36'
@@ -11343,6 +11864,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 67.775 km
       landedDistance: 67.303 km
+      stoppedAlt: 335.000 m
   - - - '14'
       - Peter Burkitt
     - place: '37'
@@ -11365,6 +11887,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 15.168 km
       landedDistance: 14.816 km
+      stoppedAlt: 260.000 m
 - - - - '43'
       - Jonny Durand
     - place: '1'
@@ -11387,6 +11910,7 @@ scoreDf:
         gsVelocity: 45.38 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '2'
@@ -11409,6 +11933,7 @@ scoreDf:
         gsVelocity: 44.34 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '3'
@@ -11431,6 +11956,7 @@ scoreDf:
         gsVelocity: 44.16 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '4'
@@ -11453,6 +11979,7 @@ scoreDf:
         gsVelocity: 42.78 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '5'
@@ -11475,6 +12002,7 @@ scoreDf:
         gsVelocity: 42.75 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '6'
@@ -11497,6 +12025,7 @@ scoreDf:
         gsVelocity: 42.46 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '92'
       - Attila Bertok
     - place: '7'
@@ -11519,6 +12048,7 @@ scoreDf:
         gsVelocity: 44.23 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '34'
       - Brad Porter
     - place: '8'
@@ -11541,6 +12071,7 @@ scoreDf:
         gsVelocity: 41.78 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '9'
@@ -11563,6 +12094,7 @@ scoreDf:
         gsVelocity: 41.42 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '10'
@@ -11585,6 +12117,7 @@ scoreDf:
         gsVelocity: 41.38 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: '11'
@@ -11607,6 +12140,7 @@ scoreDf:
         gsVelocity: 42.73 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '12'
@@ -11629,6 +12163,7 @@ scoreDf:
         gsVelocity: 42.79 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: '13'
@@ -11651,6 +12186,7 @@ scoreDf:
         gsVelocity: 40.91 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '98'
       - Oyvind Ellefsen
     - place: '14'
@@ -11673,6 +12209,7 @@ scoreDf:
         gsVelocity: 42.47 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '15'
@@ -11695,6 +12232,7 @@ scoreDf:
         gsVelocity: 39.38 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: '16'
@@ -11717,6 +12255,7 @@ scoreDf:
         gsVelocity: 39.61 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '17'
@@ -11739,6 +12278,7 @@ scoreDf:
         gsVelocity: 39.93 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
     - place: 18=
@@ -11761,6 +12301,7 @@ scoreDf:
         gsVelocity: 39.07 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: 18=
@@ -11783,6 +12324,7 @@ scoreDf:
         gsVelocity: 39.14 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: '20'
@@ -11805,6 +12347,7 @@ scoreDf:
         gsVelocity: 37.57 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '21'
@@ -11827,6 +12370,7 @@ scoreDf:
         gsVelocity: 34.56 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '22'
@@ -11849,6 +12393,7 @@ scoreDf:
         gsVelocity: 35.08 km / h
       reachDistance: 166.445 km
       landedDistance: 166.445 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '23'
@@ -11871,6 +12416,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 135.102 km
       landedDistance: 134.800 km
+      stoppedAlt: 385.000 m
   - - - '25'
       - Tyler Borrdaile
     - place: '24'
@@ -11893,6 +12439,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 127.490 km
       landedDistance: 127.461 km
+      stoppedAlt: 394.000 m
   - - - '80'
       - Michael Cassells
     - place: '25'
@@ -11915,6 +12462,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 127.748 km
       landedDistance: 126.963 km
+      stoppedAlt: 488.000 m
   - - - '64'
       - Longfei Yang
     - place: '26'
@@ -11937,6 +12485,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 138.187 km
       landedDistance: 138.187 km
+      stoppedAlt: 291.000 m
   - - - '52'
       - Dale Regehr
     - place: '27'
@@ -11959,6 +12508,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 135.052 km
       landedDistance: 134.973 km
+      stoppedAlt: 411.000 m
   - - - '22'
       - Rohan Taylor
     - place: '28'
@@ -11981,6 +12531,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 120.341 km
       landedDistance: 119.921 km
+      stoppedAlt: 417.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '29'
@@ -12003,6 +12554,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 119.807 km
       landedDistance: 119.807 km
+      stoppedAlt: 0.000 m
   - - - '85'
       - Rick Martin
     - place: '30'
@@ -12025,6 +12577,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 124.533 km
       landedDistance: 123.086 km
+      stoppedAlt: 443.000 m
   - - - '107'
       - Anatoly Reyter
     - place: '31'
@@ -12047,6 +12600,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 120.039 km
       landedDistance: 119.594 km
+      stoppedAlt: 324.000 m
   - - - '23'
       - Nils Vesk
     - place: '32'
@@ -12069,6 +12623,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 111.007 km
       landedDistance: 109.111 km
+      stoppedAlt: 389.000 m
   - - - '14'
       - Peter Burkitt
     - place: '33'
@@ -12091,6 +12646,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 114.270 km
       landedDistance: 112.202 km
+      stoppedAlt: 469.000 m
   - - - '6'
       - Yoko Sano
     - place: '34'
@@ -12113,6 +12669,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 108.551 km
       landedDistance: 107.852 km
+      stoppedAlt: 370.000 m
   - - - '103'
       - Wayne Thompson
     - place: '35'
@@ -12135,6 +12692,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 109.045 km
       landedDistance: 108.472 km
+      stoppedAlt: 386.000 m
   - - - '55'
       - Don Cramer
     - place: '36'
@@ -12157,6 +12715,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 107.657 km
       landedDistance: 104.553 km
+      stoppedAlt: 0.000 m
   - - - '67'
       - Mark Alton
     - place: 37=
@@ -12179,6 +12738,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 96.880 km
       landedDistance: 96.410 km
+      stoppedAlt: 341.000 m
   - - - '15'
       - Ryosuke Hattori
     - place: 37=
@@ -12201,6 +12761,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 114.328 km
       landedDistance: 63.141 km
+      stoppedAlt: 262.000 m
   - - - '32'
       - Andrew Barnes
     - place: '39'
@@ -12223,6 +12784,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 85.803 km
       landedDistance: 63.129 km
+      stoppedAlt: 245.000 m
   - - - '74'
       - Vic Hare
     - place: '40'
@@ -12245,6 +12807,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 48.382 km
       landedDistance: 47.891 km
+      stoppedAlt: 316.000 m
   - - - '71'
       - Rob Larkin
     - place: '41'
@@ -12267,6 +12830,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 47.148 km
       landedDistance: 45.058 km
+      stoppedAlt: 289.000 m
   - - - '51'
       - Craig Taylor
     - place: '42'
@@ -12289,6 +12853,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 50.330 km
       landedDistance: -0.305 km
+      stoppedAlt: 243.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '43'
@@ -12311,6 +12876,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 26.552 km
       landedDistance: 26.485 km
+      stoppedAlt: 241.000 m
   - - - '86'
       - Ross Smith
     - place: '44'
@@ -12333,6 +12899,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 27.741 km
       landedDistance: -0.332 km
+      stoppedAlt: 238.000 m
 - - - - '92'
       - Attila Bertok
     - place: '1'
@@ -12355,6 +12922,7 @@ scoreDf:
         gsVelocity: 47.41 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '30'
       - Jason Kath
     - place: '2'
@@ -12377,6 +12945,7 @@ scoreDf:
         gsVelocity: 44.67 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '62'
       - Josh Woods
     - place: 3=
@@ -12399,6 +12968,7 @@ scoreDf:
         gsVelocity: 45.12 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '22'
       - Rohan Taylor
     - place: 3=
@@ -12421,6 +12991,7 @@ scoreDf:
         gsVelocity: 44.85 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '43'
       - Jonny Durand
     - place: '5'
@@ -12443,6 +13014,7 @@ scoreDf:
         gsVelocity: 44.64 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
     - place: '6'
@@ -12465,6 +13037,7 @@ scoreDf:
         gsVelocity: 44.18 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
     - place: '7'
@@ -12487,6 +13060,7 @@ scoreDf:
         gsVelocity: 43.77 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
     - place: '8'
@@ -12509,6 +13083,7 @@ scoreDf:
         gsVelocity: 43.71 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '27'
       - Guy Hubbard
     - place: '9'
@@ -12531,6 +13106,7 @@ scoreDf:
         gsVelocity: 41.87 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '8'
       - Gordon Rigg
     - place: '10'
@@ -12553,6 +13129,7 @@ scoreDf:
         gsVelocity: 38.67 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '101'
       - Oliver Chitty
     - place: '11'
@@ -12575,6 +13152,7 @@ scoreDf:
         gsVelocity: 39.83 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
     - place: '12'
@@ -12597,6 +13175,7 @@ scoreDf:
         gsVelocity: 39.79 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '7'
       - Olav Opsanger
     - place: '13'
@@ -12619,6 +13198,7 @@ scoreDf:
         gsVelocity: 37.12 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '14'
@@ -12641,6 +13221,7 @@ scoreDf:
         gsVelocity: 38.44 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: '15'
@@ -12663,6 +13244,7 @@ scoreDf:
         gsVelocity: 36.09 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '16'
@@ -12685,6 +13267,7 @@ scoreDf:
         gsVelocity: 35.56 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
     - place: '17'
@@ -12707,6 +13290,7 @@ scoreDf:
         gsVelocity: 35.29 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: '18'
@@ -12729,6 +13313,7 @@ scoreDf:
         gsVelocity: 33.83 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '74'
       - Vic Hare
     - place: '19'
@@ -12751,6 +13336,7 @@ scoreDf:
         gsVelocity: 33.83 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
     - place: '20'
@@ -12773,6 +13359,7 @@ scoreDf:
         gsVelocity: 32.50 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: '21'
@@ -12795,6 +13382,7 @@ scoreDf:
         gsVelocity: 32.10 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
     - place: '22'
@@ -12817,6 +13405,7 @@ scoreDf:
         gsVelocity: 31.79 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '76'
       - Rory Duncan
     - place: '23'
@@ -12839,6 +13428,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 145.543 km
       landedDistance: 126.721 km
+      stoppedAlt: 301.000 m
   - - - '51'
       - Craig Taylor
     - place: '24'
@@ -12861,6 +13451,7 @@ scoreDf:
         gsVelocity: 26.65 km / h
       reachDistance: 172.147 km
       landedDistance: 172.147 km
+      stoppedAlt: null
   - - - '52'
       - Dale Regehr
     - place: '25'
@@ -12883,6 +13474,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 134.549 km
       landedDistance: 134.471 km
+      stoppedAlt: 310.000 m
   - - - '28'
       - Mikhail Karmazin
     - place: '26'
@@ -12905,6 +13497,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 118.421 km
       landedDistance: 115.933 km
+      stoppedAlt: 0.000 m
   - - - '103'
       - Wayne Thompson
     - place: '27'
@@ -12927,6 +13520,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 119.411 km
       landedDistance: 115.281 km
+      stoppedAlt: 345.000 m
   - - - '80'
       - Michael Cassells
     - place: '28'
@@ -12949,6 +13543,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 110.557 km
       landedDistance: 110.028 km
+      stoppedAlt: 384.000 m
   - - - '4'
       - Frank Chetcuti
     - place: '29'
@@ -12971,6 +13566,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 108.061 km
       landedDistance: 107.601 km
+      stoppedAlt: 0.000 m
   - - - '23'
       - Nils Vesk
     - place: '30'
@@ -12993,6 +13589,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 104.921 km
       landedDistance: 104.687 km
+      stoppedAlt: 339.000 m
   - - - '83'
       - Randal Clotworthy
     - place: '31'
@@ -13015,6 +13612,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 93.790 km
       landedDistance: 93.236 km
+      stoppedAlt: 494.000 m
   - - - '36'
       - Steve Docherty
     - place: '32'
@@ -13037,6 +13635,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 107.527 km
       landedDistance: 73.431 km
+      stoppedAlt: 273.000 m
   - - - '25'
       - Tyler Borrdaile
     - place: '33'
@@ -13059,6 +13658,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 105.996 km
       landedDistance: 67.061 km
+      stoppedAlt: 294.000 m
   - - - '34'
       - Brad Porter
     - place: '34'
@@ -13081,6 +13681,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 67.329 km
       landedDistance: 67.108 km
+      stoppedAlt: 284.000 m
   - - - '106'
       - Jon Durand Snr
     - place: '35'
@@ -13103,6 +13704,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 67.233 km
       landedDistance: 67.029 km
+      stoppedAlt: 298.000 m
   - - - '64'
       - Longfei Yang
     - place: '36'
@@ -13125,6 +13727,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 64.153 km
       landedDistance: 63.566 km
+      stoppedAlt: 285.000 m
   - - - '98'
       - Oyvind Ellefsen
     - place: '37'
@@ -13147,6 +13750,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 56.462 km
       landedDistance: 56.236 km
+      stoppedAlt: 335.000 m
   - - - '14'
       - Peter Burkitt
     - place: '38'
@@ -13169,6 +13773,7 @@ scoreDf:
         gsVelocity: null
       reachDistance: 31.987 km
       landedDistance: 31.626 km
+      stoppedAlt: 311.000 m
 scoreDfNoTrack:
 - - - - '42'
       - Rob de Groot
@@ -13184,6 +13789,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 123.268 km
       landedDistance: 123.268 km
+      stoppedAlt: null
   - - - '75'
       - Yasuhiro Noma
     - place: '2'
@@ -13198,6 +13804,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 119.657 km
       landedDistance: 119.657 km
+      stoppedAlt: null
   - - - '74'
       - Vic Hare
     - place: '3'
@@ -13212,6 +13819,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 119.227 km
       landedDistance: 119.227 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
     - place: '4'
@@ -13226,6 +13834,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 116.007 km
       landedDistance: 116.007 km
+      stoppedAlt: null
   - - - '52'
       - Dale Regehr
     - place: '5'
@@ -13240,6 +13849,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 109.175 km
       landedDistance: 109.175 km
+      stoppedAlt: null
   - - - '103'
       - Wayne Thompson
     - place: '6'
@@ -13254,6 +13864,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 96.542 km
       landedDistance: 96.542 km
+      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '7'
@@ -13268,6 +13879,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 95.802 km
       landedDistance: 95.802 km
+      stoppedAlt: null
   - - - '83'
       - Randal Clotworthy
     - place: '8'
@@ -13282,6 +13894,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 61.654 km
       landedDistance: 61.654 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
     - place: 9=
@@ -13296,6 +13909,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '102'
       - Robert Davies
     - place: 9=
@@ -13310,6 +13924,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '107'
       - Anatoly Reyter
     - place: 1=
@@ -13324,6 +13939,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: 1=
@@ -13338,6 +13954,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '99'
       - Gennadiy Khramov
     - place: 1=
@@ -13352,6 +13969,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '94'
       - Justinas Pleikys
     - place: 1=
@@ -13366,6 +13984,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '28'
       - Mikhail Karmazin
     - place: 1=
@@ -13380,6 +13999,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '68'
       - Neale Halsall
     - place: 1=
@@ -13394,6 +14014,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '108'
       - Peter Adriaans
     - place: 1=
@@ -13408,6 +14029,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '83'
       - Randal Clotworthy
     - place: 1=
@@ -13422,6 +14044,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '102'
       - Robert Davies
     - place: 1=
@@ -13436,6 +14059,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '86'
       - Ross Smith
     - place: 1=
@@ -13450,6 +14074,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '88'
       - Simon West
     - place: 1=
@@ -13464,6 +14089,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '74'
       - Vic Hare
     - place: 1=
@@ -13478,6 +14104,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - []
 - - - - '85'
       - Rick Martin
@@ -13493,6 +14120,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 224.782 km
       landedDistance: 224.782 km
+      stoppedAlt: null
   - - - '55'
       - Don Cramer
     - place: 2=
@@ -13507,6 +14135,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
     - place: 2=
@@ -13521,6 +14150,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '100'
       - Malcolm Brown
     - place: 2=
@@ -13535,6 +14165,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '98'
       - Oyvind Ellefsen
     - place: 2=
@@ -13549,6 +14180,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '86'
       - Ross Smith
     - place: 2=
@@ -13563,6 +14195,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '80'
       - Michael Cassells
     - place: 1=
@@ -13577,6 +14210,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '71'
       - Rob Larkin
     - place: 1=
@@ -13591,6 +14225,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '99'
       - Gennadiy Khramov
     - place: '1'
@@ -13605,6 +14240,7 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
+      stoppedAlt: null
 - - - - '85'
       - Rick Martin
     - place: '1'
@@ -13619,3 +14255,4 @@ scoreDfNoTrack:
       velocity: null
       reachDistance: 95.031 km
       landedDistance: 95.031 km
+      stoppedAlt: null

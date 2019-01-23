@@ -66,6 +66,7 @@ tasks:
           - 148.00350000 deg
           radius: 10000.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 3
@@ -152,6 +153,34 @@ tasks:
           - 148.66808000 deg
           radius: 1000.0 m
     openKind: null
+  penalties:
+  - - - '74'
+      - Vic Hare
+    - []
+  - - - '108'
+      - Peter Adriaans
+    - []
+  - - - '68'
+      - Neale Halsall
+    - []
+  - - - '28'
+      - Mikhail Karmazin
+    - []
+  - - - '107'
+      - Anatoly Reyter
+    - []
+  - - - '83'
+      - Randal Clotworthy
+    - []
+  - - - '4'
+      - Frank Chetcuti
+    - []
+  - - - '86'
+      - Ross Smith
+    - []
+  - - - '88'
+      - Simon West
+    - []
   speedSection:
   - 2
   - 5
@@ -228,6 +257,10 @@ tasks:
           - 149.55730000 deg
           radius: 400.0 m
     openKind: null
+  penalties:
+  - - - '43'
+      - Jonny Durand
+    - []
   speedSection:
   - 2
   - 4
@@ -291,6 +324,7 @@ tasks:
           - 150.72370000 deg
           radius: 1000.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 3
@@ -363,6 +397,7 @@ tasks:
           - 148.98930000 deg
           radius: 400.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 4
@@ -448,6 +483,7 @@ tasks:
           - 147.93360000 deg
           radius: 400.0 m
     openKind: null
+  penalties: []
   speedSection:
   - 2
   - 5
@@ -535,6 +571,10 @@ tasks:
           - 148.21110000 deg
           radius: 400.0 m
     openKind: null
+  penalties:
+  - - - '85'
+      - Rick Martin
+    - []
   speedSection:
   - 2
   - 5
