@@ -66,7 +66,6 @@ tasks:
           - 148.00350000 deg
           radius: 10000.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 3
@@ -90,6 +89,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  penalties: []
 - taskName: task 2
   zones:
     raw:
@@ -153,6 +153,30 @@ tasks:
           - 148.66808000 deg
           radius: 1000.0 m
     openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2017-12-31T01:00:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:30:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:45:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:45:00Z
+    close: 2017-12-31T09:00:00Z
+  - open: 2017-12-31T02:45:00Z
+    close: 2017-12-31T10:00:00Z
+  startGates:
+  - 2017-12-31T02:30:00Z
+  - 2017-12-31T02:45:00Z
+  - 2017-12-31T03:00:00Z
+  - 2017-12-31T03:15:00Z
+  - 2017-12-31T03:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
   penalties:
   - - - '74'
       - Vic Hare
@@ -181,30 +205,6 @@ tasks:
   - - - '88'
       - Simon West
     - []
-  speedSection:
-  - 2
-  - 5
-  zoneTimes:
-  - open: 2017-12-31T01:00:00Z
-    close: 2017-12-31T09:00:00Z
-  - open: 2017-12-31T02:30:00Z
-    close: 2017-12-31T09:00:00Z
-  - open: 2017-12-31T02:45:00Z
-    close: 2017-12-31T09:00:00Z
-  - open: 2017-12-31T02:45:00Z
-    close: 2017-12-31T09:00:00Z
-  - open: 2017-12-31T02:45:00Z
-    close: 2017-12-31T10:00:00Z
-  startGates:
-  - 2017-12-31T02:30:00Z
-  - 2017-12-31T02:45:00Z
-  - 2017-12-31T03:00:00Z
-  - 2017-12-31T03:15:00Z
-  - 2017-12-31T03:30:00Z
-  stopped: null
-  taskTweak:
-    arrivalWeightScaling: null
-    leadingWeightScaling: null
 - taskName: Task 3
   zones:
     raw:
@@ -257,10 +257,6 @@ tasks:
           - 149.55730000 deg
           radius: 400.0 m
     openKind: null
-  penalties:
-  - - - '43'
-      - Jonny Durand
-    - - penalty-points: -704
   speedSection:
   - 2
   - 4
@@ -283,6 +279,10 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties:
+  - - - '43'
+      - Jonny Durand
+    - - penalty-points: -704
 - taskName: Task 4
   zones:
     raw:
@@ -324,7 +324,6 @@ tasks:
           - 150.72370000 deg
           radius: 1000.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 3
@@ -345,6 +344,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 - taskName: Task 5
   zones:
     raw:
@@ -397,7 +397,6 @@ tasks:
           - 148.98930000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 4
@@ -420,6 +419,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 - taskName: Task 6
   zones:
     raw:
@@ -483,7 +483,6 @@ tasks:
           - 147.93360000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 5
@@ -508,6 +507,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties: []
 - taskName: Task 7
   zones:
     raw:
@@ -571,10 +571,6 @@ tasks:
           - 148.21110000 deg
           radius: 400.0 m
     openKind: null
-  penalties:
-  - - - '85'
-      - Rick Martin
-    - - penalty-points: 70
   speedSection:
   - 2
   - 5
@@ -599,6 +595,10 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  penalties:
+  - - - '85'
+      - Rick Martin
+    - - penalty-points: 70
 taskFolders:
 - - task 1
 - - task 2
