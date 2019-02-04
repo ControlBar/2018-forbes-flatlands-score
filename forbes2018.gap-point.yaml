@@ -171,7 +171,6 @@ allocation:
     arrival: 0
     time: 481.8
   taskPoints: 1000
-  penalties: []
 - goalRatio: 0.26923077
   weight:
     reach: 0.28222124
@@ -188,7 +187,6 @@ allocation:
     arrival: 54.4
     time: 304.9
   taskPoints: 1000
-  penalties: []
 - goalRatio: 0.60416667
   weight:
     reach: 0.19494268
@@ -205,7 +203,6 @@ allocation:
     arrival: 76.3
     time: 427.1
   taskPoints: 1000
-  penalties: []
 - goalRatio: 0.34042553
   weight:
     reach: 0.25427605
@@ -222,7 +219,6 @@ allocation:
     arrival: 61.4
     time: 344
   taskPoints: 1000
-  penalties: []
 - goalRatio: 0.19512195
   weight:
     reach: 0.31798979
@@ -239,7 +235,6 @@ allocation:
     arrival: 45.4
     time: 254.2
   taskPoints: 998
-  penalties: []
 - goalRatio: 0.53333333
   weight:
     reach: 0.20510163
@@ -256,7 +251,6 @@ allocation:
     arrival: 73.7
     time: 412.9
   taskPoints: 1000
-  penalties: []
 - goalRatio: 0.625
   weight:
     reach: 0.19260254
@@ -273,12 +267,12 @@ allocation:
     arrival: 76.8
     time: 430.4
   taskPoints: 1000
-  penalties: []
 score:
 - - - - '92'
       - Attila Bertok
     - place: '1'
       total: 1000
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -302,6 +296,7 @@ score:
       - Oliver Chitty
     - place: '2'
       total: 961
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -325,6 +320,7 @@ score:
       - Guy Hubbard
     - place: '3'
       total: 864
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -348,6 +344,7 @@ score:
       - Josh Woods
     - place: 4=
       total: 793
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -371,6 +368,7 @@ score:
       - Steve Blenkinsop
     - place: 4=
       total: 793
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -394,6 +392,7 @@ score:
       - Niki Longshore
     - place: '6'
       total: 791
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -417,6 +416,7 @@ score:
       - Trent Brown
     - place: '7'
       total: 778
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -440,6 +440,7 @@ score:
       - Rory Duncan
     - place: '8'
       total: 776
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -463,6 +464,7 @@ score:
       - Tyler Borrdaile
     - place: '9'
       total: 758
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -486,6 +488,7 @@ score:
       - Nils Vesk
     - place: '10'
       total: 755
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -509,6 +512,7 @@ score:
       - Jason Kath
     - place: '11'
       total: 747
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -532,6 +536,7 @@ score:
       - Jon Durand Snr
     - place: '12'
       total: 734
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -555,6 +560,7 @@ score:
       - Gordon Rigg
     - place: 13=
       total: 714
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -578,6 +584,7 @@ score:
       - Craig Taylor
     - place: 13=
       total: 714
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -601,6 +608,7 @@ score:
       - Nick Purcell
     - place: '15'
       total: 711
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -624,6 +632,7 @@ score:
       - Olav Opsanger
     - place: '16'
       total: 666
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -647,6 +656,7 @@ score:
       - Rohan Taylor
     - place: '17'
       total: 653
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -670,6 +680,7 @@ score:
       - Rob de Groot
     - place: '18'
       total: 483
+      penalties: []
       breakdown:
         reach: 223.699
         effort: 259.123
@@ -685,6 +696,7 @@ score:
       - Yasuhiro Noma
     - place: '19'
       total: 474
+      penalties: []
       breakdown:
         reach: 217.146
         effort: 257.189
@@ -700,6 +712,7 @@ score:
       - Vic Hare
     - place: '20'
       total: 470
+      penalties: []
       breakdown:
         reach: 216.365
         effort: 253.322
@@ -715,6 +728,7 @@ score:
       - Yoko Sano
     - place: '21'
       total: 458
+      penalties: []
       breakdown:
         reach: 210.521
         effort: 247.52
@@ -730,6 +744,7 @@ score:
       - Peter Adriaans
     - place: '22'
       total: 450
+      penalties: []
       breakdown:
         reach: 210.459
         effort: 239.785
@@ -753,6 +768,7 @@ score:
       - Ryosuke Hattori
     - place: '23'
       total: 433
+      penalties: []
       breakdown:
         reach: 202.723
         effort: 230.117
@@ -776,6 +792,7 @@ score:
       - Tony Armstrong
     - place: '24'
       total: 421
+      penalties: []
       breakdown:
         reach: 202.844
         effort: 218.514
@@ -799,6 +816,7 @@ score:
       - Dale Regehr
     - place: '25'
       total: 403
+      penalties: []
       breakdown:
         reach: 198.123
         effort: 204.978
@@ -814,6 +832,7 @@ score:
       - Andrew Barnes
     - place: '26'
       total: 385
+      penalties: []
       breakdown:
         reach: 194.027
         effort: 191.442
@@ -837,6 +856,7 @@ score:
       - Sasha Serebrennikova
     - place: '27'
       total: 369
+      penalties: []
       breakdown:
         reach: 193.056
         effort: 175.972
@@ -860,6 +880,7 @@ score:
       - Neale Halsall
     - place: '28'
       total: 341
+      penalties: []
       breakdown:
         reach: 180.037
         effort: 160.502
@@ -883,6 +904,7 @@ score:
       - Wayne Thompson
     - place: '29'
       total: 324
+      penalties: []
       breakdown:
         reach: 175.198
         effort: 148.899
@@ -898,6 +920,7 @@ score:
       - Steve Docherty
     - place: '30'
       total: 313
+      penalties: []
       breakdown:
         reach: 173.855
         effort: 139.23
@@ -913,6 +936,7 @@ score:
       - Mikhail Karmazin
     - place: '31'
       total: 280
+      penalties: []
       breakdown:
         reach: 150.303
         effort: 129.561
@@ -936,6 +960,7 @@ score:
       - Oyvind Ellefsen
     - place: '32'
       total: 246
+      penalties: []
       breakdown:
         reach: 122.503
         effort: 123.76
@@ -959,6 +984,7 @@ score:
       - Jonny Durand
     - place: '33'
       total: 239
+      penalties: []
       breakdown:
         reach: 118.895
         effort: 119.893
@@ -982,6 +1008,7 @@ score:
       - Anatoly Reyter
     - place: '34'
       total: 231
+      penalties: []
       breakdown:
         reach: 117.019
         effort: 114.091
@@ -1005,6 +1032,7 @@ score:
       - Randal Clotworthy
     - place: '35'
       total: 218
+      penalties: []
       breakdown:
         reach: 111.886
         effort: 106.356
@@ -1020,6 +1048,7 @@ score:
       - Frank Chetcuti
     - place: '36'
       total: 201
+      penalties: []
       breakdown:
         reach: 103.9
         effort: 96.688
@@ -1043,6 +1072,7 @@ score:
       - Michael Cassells
     - place: '37'
       total: 189
+      penalties: []
       breakdown:
         reach: 101.746
         effort: 87.019
@@ -1066,6 +1096,7 @@ score:
       - Rob Larkin
     - place: '38'
       total: 169
+      penalties: []
       breakdown:
         reach: 93.373
         effort: 75.416
@@ -1089,6 +1120,7 @@ score:
       - Ross Smith
     - place: '39'
       total: 154
+      penalties: []
       breakdown:
         reach: 87.918
         effort: 65.748
@@ -1112,6 +1144,7 @@ score:
       - Malcolm Brown
     - place: '40'
       total: 113
+      penalties: []
       breakdown:
         reach: 54.897
         effort: 58.013
@@ -1135,6 +1168,7 @@ score:
       - Brad Porter
     - place: '41'
       total: 104
+      penalties: []
       breakdown:
         reach: 47.97
         effort: 56.079
@@ -1158,6 +1192,7 @@ score:
       - Peter Burkitt
     - place: '42'
       total: 96
+      penalties: []
       breakdown:
         reach: 43.537
         effort: 52.211
@@ -1181,6 +1216,7 @@ score:
       - Mark Alton
     - place: '43'
       total: 89
+      penalties: []
       breakdown:
         reach: 42.379
         effort: 46.41
@@ -1204,6 +1240,7 @@ score:
       - Simon West
     - place: '44'
       total: 71
+      penalties: []
       breakdown:
         reach: 32.116
         effort: 38.675
@@ -1227,6 +1264,7 @@ score:
       - Justinas Pleikys
     - place: '45'
       total: 60
+      penalties: []
       breakdown:
         reach: 31.124
         effort: 29.006
@@ -1250,6 +1288,7 @@ score:
       - Don Cramer
     - place: '46'
       total: 42
+      penalties: []
       breakdown:
         reach: 24.204
         effort: 17.404
@@ -1273,6 +1312,7 @@ score:
       - Brodrick Osborne
     - place: 47=
       total: 26
+      penalties: []
       breakdown:
         reach: 18.147
         effort: 7.735
@@ -1296,6 +1336,7 @@ score:
       - Gavin Myers
     - place: 47=
       total: 26
+      penalties: []
       breakdown:
         reach: 18.147
         effort: 7.735
@@ -1311,6 +1352,7 @@ score:
       - Robert Davies
     - place: 47=
       total: 26
+      penalties: []
       breakdown:
         reach: 18.147
         effort: 7.735
@@ -1326,6 +1368,7 @@ score:
       - Josh Woods
     - place: '1'
       total: 990
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1349,6 +1392,7 @@ score:
       - Jonny Durand
     - place: '2'
       total: 982
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1372,6 +1416,7 @@ score:
       - Attila Bertok
     - place: '3'
       total: 971
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1395,6 +1440,7 @@ score:
       - Rory Duncan
     - place: '4'
       total: 939
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1418,6 +1464,7 @@ score:
       - Oliver Chitty
     - place: '5'
       total: 911
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1441,6 +1488,7 @@ score:
       - Tyler Borrdaile
     - place: '6'
       total: 894
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1464,6 +1512,7 @@ score:
       - Olav Opsanger
     - place: '7'
       total: 887
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1487,6 +1536,7 @@ score:
       - Guy Hubbard
     - place: '8'
       total: 862
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1510,6 +1560,7 @@ score:
       - Yasuhiro Noma
     - place: '9'
       total: 850
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1533,6 +1584,7 @@ score:
       - Gordon Rigg
     - place: '10'
       total: 828
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1556,6 +1608,7 @@ score:
       - Steve Blenkinsop
     - place: '11'
       total: 820
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1579,6 +1632,7 @@ score:
       - Niki Longshore
     - place: '12'
       total: 813
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1602,6 +1656,7 @@ score:
       - Tony Armstrong
     - place: '13'
       total: 796
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1625,6 +1680,7 @@ score:
       - Nils Vesk
     - place: '14'
       total: 750
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -1648,6 +1704,7 @@ score:
       - Yoko Sano
     - place: 15=
       total: 595
+      penalties: []
       breakdown:
         reach: 272.398
         effort: 277.945
@@ -1671,6 +1728,7 @@ score:
       - Jason Kath
     - place: 15=
       total: 595
+      penalties: []
       breakdown:
         reach: 274.494
         effort: 282.221
@@ -1694,6 +1752,7 @@ score:
       - Ryosuke Hattori
     - place: '17'
       total: 575
+      penalties: []
       breakdown:
         reach: 265.774
         effort: 269.393
@@ -1717,6 +1776,7 @@ score:
       - Oyvind Ellefsen
     - place: '18'
       total: 525
+      penalties: []
       breakdown:
         reach: 247.492
         effort: 239.46
@@ -1740,6 +1800,7 @@ score:
       - Brodrick Osborne
     - place: '19'
       total: 511
+      penalties: []
       breakdown:
         reach: 254.606
         effort: 256.565
@@ -1763,6 +1824,7 @@ score:
       - Rohan Taylor
     - place: '20'
       total: 499
+      penalties: []
       breakdown:
         reach: 236.934
         effort: 226.632
@@ -1786,6 +1848,7 @@ score:
       - Gavin Myers
     - place: '21'
       total: 451
+      penalties: []
       breakdown:
         reach: 237.416
         effort: 213.804
@@ -1809,6 +1872,7 @@ score:
       - Malcolm Brown
     - place: '22'
       total: 428
+      penalties: []
       breakdown:
         reach: 206.6
         effort: 179.595
@@ -1832,6 +1896,7 @@ score:
       - Wayne Thompson
     - place: '23'
       total: 424
+      penalties: []
       breakdown:
         reach: 227.669
         effort: 196.7
@@ -1851,10 +1916,28 @@ score:
       reachDistance: 149.842 km
       landedDistance: 149.837 km
       stoppedAlt: 580.000 m
+  - - - '68'
+      - Neale Halsall
+    - place: '24'
+      total: 415
+      penalties:
+      - penalty-points: -391
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '81'
       - Nick Purcell
-    - place: '24'
+    - place: '25'
       total: 398
+      penalties: []
       breakdown:
         reach: 186.421
         effort: 171.043
@@ -1876,8 +1959,9 @@ score:
       stoppedAlt: 0.000 m
   - - - '36'
       - Steve Docherty
-    - place: '25'
+    - place: '26'
       total: 347
+      penalties: []
       breakdown:
         reach: 184.685
         effort: 162.491
@@ -1899,8 +1983,9 @@ score:
       stoppedAlt: 485.000 m
   - - - '106'
       - Jon Durand Snr
-    - place: '26'
+    - place: '27'
       total: 331
+      penalties: []
       breakdown:
         reach: 165.322
         effort: 136.835
@@ -1922,8 +2007,9 @@ score:
       stoppedAlt: 549.000 m
   - - - '34'
       - Brad Porter
-    - place: '27'
+    - place: '28'
       total: 320
+      penalties: []
       breakdown:
         reach: 169.955
         effort: 149.663
@@ -1945,8 +2031,9 @@ score:
       stoppedAlt: 490.000 m
   - - - '52'
       - Dale Regehr
-    - place: '28'
+    - place: '29'
       total: 279
+      penalties: []
       breakdown:
         reach: 157.952
         effort: 119.73
@@ -1966,10 +2053,45 @@ score:
       reachDistance: 103.957 km
       landedDistance: 103.889 km
       stoppedAlt: 556.000 m
+  - - - '28'
+      - Mikhail Karmazin
+    - place: '30'
+      total: 277
+      penalties:
+      - penalty-points: -253
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '74'
+      - Vic Hare
+    - place: '31'
+      total: 266
+      penalties:
+      - penalty-points: -242
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '71'
       - Rob Larkin
-    - place: '29'
+    - place: '32'
       total: 265
+      penalties: []
       breakdown:
         reach: 158.566
         effort: 106.902
@@ -1991,8 +2113,9 @@ score:
       stoppedAlt: 428.000 m
   - - - '80'
       - Michael Cassells
-    - place: '30'
+    - place: '33'
       total: 240
+      penalties: []
       breakdown:
         reach: 150.47
         effort: 89.798
@@ -2014,8 +2137,9 @@ score:
       stoppedAlt: 401.000 m
   - - - '32'
       - Andrew Barnes
-    - place: '31'
+    - place: '34'
       total: 207
+      penalties: []
       breakdown:
         reach: 138.867
         effort: 68.417
@@ -2035,10 +2159,28 @@ score:
       reachDistance: 91.396 km
       landedDistance: 91.169 km
       stoppedAlt: 444.000 m
+  - - - '4'
+      - Frank Chetcuti
+    - place: '35'
+      total: 200
+      penalties:
+      - penalty-points: -176
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '31'
       - Trent Brown
-    - place: '32'
+    - place: '36'
       total: 154
+      penalties: []
       breakdown:
         reach: 102.546
         effort: 51.313
@@ -2060,8 +2202,9 @@ score:
       stoppedAlt: 423.000 m
   - - - '55'
       - Don Cramer
-    - place: '33'
+    - place: '37'
       total: 135
+      penalties: []
       breakdown:
         reach: 88.038
         effort: 47.037
@@ -2081,10 +2224,28 @@ score:
       reachDistance: 57.943 km
       landedDistance: 57.876 km
       stoppedAlt: 0.000 m
+  - - - '107'
+      - Anatoly Reyter
+    - place: '38'
+      total: 131
+      penalties:
+      - penalty-points: -107
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
-    - place: '34'
+    - place: '39'
       total: 126
+      penalties: []
       breakdown:
         reach: 87.33
         effort: 38.485
@@ -2104,10 +2265,28 @@ score:
       reachDistance: 57.477 km
       landedDistance: 56.085 km
       stoppedAlt: 350.000 m
+  - - - '86'
+      - Ross Smith
+    - place: '40'
+      total: 104
+      penalties:
+      - penalty-points: -80
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '67'
       - Mark Alton
-    - place: '35'
+    - place: '41'
       total: 97
+      penalties: []
       breakdown:
         reach: 71.451
         effort: 25.656
@@ -2127,10 +2306,28 @@ score:
       reachDistance: 47.026 km
       landedDistance: 46.702 km
       stoppedAlt: 322.000 m
+  - - - '83'
+      - Randal Clotworthy
+    - place: '42'
+      total: 50
+      penalties:
+      - penalty-points: -26
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
   - - - '42'
       - Rob de Groot
-    - place: '36'
+    - place: '43'
       total: 36
+      penalties: []
       breakdown:
         reach: 22.68
         effort: 12.828
@@ -2152,8 +2349,9 @@ score:
       stoppedAlt: 304.000 m
   - - - '51'
       - Craig Taylor
-    - place: 37=
+    - place: 44=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2175,8 +2373,9 @@ score:
       stoppedAlt: 276.000 m
   - - - '64'
       - Longfei Yang
-    - place: 37=
+    - place: 44=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2198,8 +2397,9 @@ score:
       stoppedAlt: 283.000 m
   - - - '14'
       - Peter Burkitt
-    - place: 37=
+    - place: 44=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2219,40 +2419,11 @@ score:
       reachDistance: 7.253 km
       landedDistance: 6.296 km
       stoppedAlt: 234.000 m
-  - - - '107'
-      - Anatoly Reyter
-    - place: 37=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '4'
-      - Frank Chetcuti
-    - place: 37=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
   - - - '99'
       - Gennadiy Khramov
-    - place: 37=
+    - place: 44=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2266,38 +2437,9 @@ score:
       stoppedAlt: null
   - - - '94'
       - Justinas Pleikys
-    - place: 37=
+    - place: 44=
       total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '28'
-      - Mikhail Karmazin
-    - place: 37=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '68'
-      - Neale Halsall
-    - place: 37=
-      total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2311,23 +2453,9 @@ score:
       stoppedAlt: null
   - - - '108'
       - Peter Adriaans
-    - place: 37=
+    - place: 44=
       total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '83'
-      - Randal Clotworthy
-    - place: 37=
-      total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2341,23 +2469,9 @@ score:
       stoppedAlt: null
   - - - '102'
       - Robert Davies
-    - place: 37=
+    - place: 44=
       total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '86'
-      - Ross Smith
-    - place: 37=
-      total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2371,23 +2485,9 @@ score:
       stoppedAlt: null
   - - - '88'
       - Simon West
-    - place: 37=
+    - place: 44=
       total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '74'
-      - Vic Hare
-    - place: 37=
-      total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -2403,6 +2503,7 @@ score:
       - Attila Bertok
     - place: '1'
       total: 951
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2426,6 +2527,7 @@ score:
       - Tyler Borrdaile
     - place: '2'
       total: 919
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2449,6 +2551,7 @@ score:
       - Josh Woods
     - place: '3'
       total: 909
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2472,6 +2575,7 @@ score:
       - Olav Opsanger
     - place: '4'
       total: 902
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2495,6 +2599,7 @@ score:
       - Nick Purcell
     - place: '5'
       total: 894
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2518,6 +2623,7 @@ score:
       - Steve Blenkinsop
     - place: '6'
       total: 885
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2541,6 +2647,7 @@ score:
       - Craig Taylor
     - place: '7'
       total: 858
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2560,10 +2667,36 @@ score:
       reachDistance: 195.225 km
       landedDistance: 195.225 km
       stoppedAlt: null
+  - - - '43'
+      - Jonny Durand
+    - place: 8=
+      total: 851
+      penalties:
+      - penalty-points: -704
+      breakdown:
+        reach: 75.45
+        effort: 71.821
+        distance: 147.271
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-01T02:45:08Z
+        gs: 2018-01-01T02:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 75.559 km
+      landedDistance: 74.966 km
+      stoppedAlt: 503.000 m
   - - - '8'
       - Gordon Rigg
-    - place: '8'
+    - place: 8=
       total: 851
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2585,8 +2718,9 @@ score:
       stoppedAlt: null
   - - - '34'
       - Brad Porter
-    - place: '9'
+    - place: '10'
       total: 850
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2608,8 +2742,9 @@ score:
       stoppedAlt: null
   - - - '6'
       - Yoko Sano
-    - place: '10'
+    - place: '11'
       total: 786
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2631,8 +2766,9 @@ score:
       stoppedAlt: null
   - - - '22'
       - Rohan Taylor
-    - place: '11'
+    - place: '12'
       total: 784
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2654,8 +2790,9 @@ score:
       stoppedAlt: null
   - - - '30'
       - Jason Kath
-    - place: '12'
+    - place: '13'
       total: 783
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2677,8 +2814,9 @@ score:
       stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
-    - place: '13'
+    - place: '14'
       total: 777
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2700,8 +2838,9 @@ score:
       stoppedAlt: null
   - - - '41'
       - Tony Armstrong
-    - place: '14'
+    - place: '15'
       total: 747
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2723,8 +2862,9 @@ score:
       stoppedAlt: null
   - - - '23'
       - Nils Vesk
-    - place: '15'
+    - place: '16'
       total: 741
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2746,8 +2886,9 @@ score:
       stoppedAlt: null
   - - - '68'
       - Neale Halsall
-    - place: '16'
+    - place: '17'
       total: 736
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2769,8 +2910,9 @@ score:
       stoppedAlt: null
   - - - '37'
       - Gavin Myers
-    - place: '17'
+    - place: '18'
       total: 735
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2792,8 +2934,9 @@ score:
       stoppedAlt: null
   - - - '31'
       - Trent Brown
-    - place: '18'
+    - place: '19'
       total: 703
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2815,8 +2958,9 @@ score:
       stoppedAlt: null
   - - - '76'
       - Rory Duncan
-    - place: '19'
+    - place: '20'
       total: 701
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2838,8 +2982,9 @@ score:
       stoppedAlt: null
   - - - '100'
       - Malcolm Brown
-    - place: '20'
+    - place: '21'
       total: 698
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2861,8 +3006,9 @@ score:
       stoppedAlt: null
   - - - '42'
       - Rob de Groot
-    - place: '21'
+    - place: '22'
       total: 687
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2884,8 +3030,9 @@ score:
       stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
-    - place: '22'
+    - place: '23'
       total: 680
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2907,8 +3054,9 @@ score:
       stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
-    - place: '23'
+    - place: '24'
       total: 674
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2930,8 +3078,9 @@ score:
       stoppedAlt: null
   - - - '36'
       - Steve Docherty
-    - place: '24'
+    - place: '25'
       total: 670
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2953,8 +3102,9 @@ score:
       stoppedAlt: null
   - - - '77'
       - Brodrick Osborne
-    - place: '25'
+    - place: '26'
       total: 656
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2976,8 +3126,9 @@ score:
       stoppedAlt: null
   - - - '32'
       - Andrew Barnes
-    - place: '26'
+    - place: '27'
       total: 651
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -2999,8 +3150,9 @@ score:
       stoppedAlt: null
   - - - '80'
       - Michael Cassells
-    - place: '27'
+    - place: '28'
       total: 643
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -3022,8 +3174,9 @@ score:
       stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
-    - place: '28'
+    - place: '29'
       total: 556
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -3045,8 +3198,9 @@ score:
       stoppedAlt: null
   - - - '103'
       - Wayne Thompson
-    - place: '29'
+    - place: '30'
       total: 511
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -3068,8 +3222,9 @@ score:
       stoppedAlt: null
   - - - '14'
       - Peter Burkitt
-    - place: '30'
+    - place: '31'
       total: 414
+      penalties: []
       breakdown:
         reach: 185.904
         effort: 191.523
@@ -3091,8 +3246,9 @@ score:
       stoppedAlt: 458.000 m
   - - - '107'
       - Anatoly Reyter
-    - place: '31'
+    - place: '32'
       total: 408
+      penalties: []
       breakdown:
         reach: 191.584
         effort: 194.943
@@ -3114,8 +3270,9 @@ score:
       stoppedAlt: 507.000 m
   - - - '71'
       - Rob Larkin
-    - place: '32'
+    - place: '33'
       total: 402
+      penalties: []
       breakdown:
         reach: 182.419
         effort: 184.683
@@ -3137,8 +3294,9 @@ score:
       stoppedAlt: 476.000 m
   - - - '28'
       - Mikhail Karmazin
-    - place: '33'
+    - place: '34'
       total: 391
+      penalties: []
       breakdown:
         reach: 170.805
         effort: 174.422
@@ -3160,8 +3318,9 @@ score:
       stoppedAlt: 0.000 m
   - - - '52'
       - Dale Regehr
-    - place: '34'
+    - place: '35'
       total: 373
+      penalties: []
       breakdown:
         reach: 167.287
         effort: 160.742
@@ -3183,8 +3342,9 @@ score:
       stoppedAlt: 489.000 m
   - - - '67'
       - Mark Alton
-    - place: '35'
+    - place: '36'
       total: 357
+      penalties: []
       breakdown:
         reach: 167.774
         effort: 143.642
@@ -3206,8 +3366,9 @@ score:
       stoppedAlt: 496.000 m
   - - - '74'
       - Vic Hare
-    - place: '36'
+    - place: '37'
       total: 352
+      penalties: []
       breakdown:
         reach: 167.287
         effort: 143.642
@@ -3229,8 +3390,9 @@ score:
       stoppedAlt: 500.000 m
   - - - '64'
       - Longfei Yang
-    - place: '37'
+    - place: '38'
       total: 288
+      penalties: []
       breakdown:
         reach: 150.601
         effort: 123.122
@@ -3252,8 +3414,9 @@ score:
       stoppedAlt: 632.000 m
   - - - '75'
       - Yasuhiro Noma
-    - place: '38'
+    - place: '39'
       total: 279
+      penalties: []
       breakdown:
         reach: 141.499
         effort: 102.601
@@ -3275,8 +3438,9 @@ score:
       stoppedAlt: 0.000 m
   - - - '102'
       - Robert Davies
-    - place: '39'
+    - place: '40'
       total: 195
+      penalties: []
       breakdown:
         reach: 109.202
         effort: 85.501
@@ -3298,8 +3462,9 @@ score:
       stoppedAlt: 475.000 m
   - - - '83'
       - Randal Clotworthy
-    - place: '40'
+    - place: '41'
       total: 180
+      penalties: []
       breakdown:
         reach: 101.124
         effort: 78.661
@@ -3319,33 +3484,11 @@ score:
       reachDistance: 101.270 km
       landedDistance: 100.631 km
       stoppedAlt: 432.000 m
-  - - - '43'
-      - Jonny Durand
-    - place: '41'
-      total: 147
-      breakdown:
-        reach: 75.45
-        effort: 71.821
-        distance: 147.271
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2018-01-01T02:45:08Z
-        gs: 2018-01-01T02:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 75.559 km
-      landedDistance: 74.966 km
-      stoppedAlt: 503.000 m
   - - - '101'
       - Oliver Chitty
     - place: '42'
       total: 135
+      penalties: []
       breakdown:
         reach: 73.433
         effort: 61.561
@@ -3369,6 +3512,7 @@ score:
       - Niki Longshore
     - place: '43'
       total: 120
+      penalties: []
       breakdown:
         reach: 71.822
         effort: 47.881
@@ -3392,6 +3536,7 @@ score:
       - Guy Hubbard
     - place: '44'
       total: 87
+      penalties: []
       breakdown:
         reach: 56.02
         effort: 30.78
@@ -3415,6 +3560,7 @@ score:
       - Don Cramer
     - place: '45'
       total: 68
+      penalties: []
       breakdown:
         reach: 50.961
         effort: 17.1
@@ -3438,6 +3584,7 @@ score:
       - Oliver Chitty
     - place: '1'
       total: 986
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3461,6 +3608,7 @@ score:
       - Jonny Durand
     - place: '2'
       total: 978
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3484,6 +3632,7 @@ score:
       - Tyler Borrdaile
     - place: '3'
       total: 952
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3507,6 +3656,7 @@ score:
       - Guy Hubbard
     - place: '4'
       total: 856
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3530,6 +3680,7 @@ score:
       - Trent Brown
     - place: '5'
       total: 830
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3553,6 +3704,7 @@ score:
       - Olav Opsanger
     - place: '6'
       total: 822
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3576,6 +3728,7 @@ score:
       - Jason Kath
     - place: '7'
       total: 815
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3599,6 +3752,7 @@ score:
       - Josh Woods
     - place: '8'
       total: 762
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3622,6 +3776,7 @@ score:
       - Steve Blenkinsop
     - place: '9'
       total: 758
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3645,6 +3800,7 @@ score:
       - Gordon Rigg
     - place: '10'
       total: 728
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3668,6 +3824,7 @@ score:
       - Tony Armstrong
     - place: '11'
       total: 720
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3691,6 +3848,7 @@ score:
       - Rory Duncan
     - place: '12'
       total: 700
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3714,6 +3872,7 @@ score:
       - Nils Vesk
     - place: '13'
       total: 676
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3737,6 +3896,7 @@ score:
       - Ryosuke Hattori
     - place: '14'
       total: 657
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3760,6 +3920,7 @@ score:
       - Steve Docherty
     - place: '15'
       total: 656
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3783,6 +3944,7 @@ score:
       - Sasha Serebrennikova
     - place: '16'
       total: 644
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -3806,6 +3968,7 @@ score:
       - Gavin Myers
     - place: '17'
       total: 521
+      penalties: []
       breakdown:
         reach: 232.933
         effort: 251.098
@@ -3829,6 +3992,7 @@ score:
       - Craig Taylor
     - place: '18'
       total: 517
+      penalties: []
       breakdown:
         reach: 230.697
         effort: 244.741
@@ -3852,6 +4016,7 @@ score:
       - Rohan Taylor
     - place: '19'
       total: 506
+      penalties: []
       breakdown:
         reach: 225.379
         effort: 235.205
@@ -3875,6 +4040,7 @@ score:
       - Andrew Barnes
     - place: '20'
       total: 505
+      penalties: []
       breakdown:
         reach: 234.073
         effort: 254.276
@@ -3898,6 +4064,7 @@ score:
       - Michael Cassells
     - place: '21'
       total: 451
+      penalties: []
       breakdown:
         reach: 217.856
         effort: 222.492
@@ -3921,6 +4088,7 @@ score:
       - Brodrick Osborne
     - place: '22'
       total: 418
+      penalties: []
       breakdown:
         reach: 211.207
         effort: 206.599
@@ -3944,6 +4112,7 @@ score:
       - Rob de Groot
     - place: '23'
       total: 394
+      penalties: []
       breakdown:
         reach: 202.731
         effort: 187.529
@@ -3967,6 +4136,7 @@ score:
       - Neale Halsall
     - place: '24'
       total: 370
+      penalties: []
       breakdown:
         reach: 189.421
         effort: 174.815
@@ -3990,6 +4160,7 @@ score:
       - Wayne Thompson
     - place: '25'
       total: 340
+      penalties: []
       breakdown:
         reach: 174.885
         effort: 165.279
@@ -4013,6 +4184,7 @@ score:
       - Brad Porter
     - place: '26'
       total: 331
+      penalties: []
       breakdown:
         reach: 156.176
         effort: 158.923
@@ -4036,6 +4208,7 @@ score:
       - Dale Regehr
     - place: '27'
       total: 321
+      penalties: []
       breakdown:
         reach: 152.004
         effort: 152.566
@@ -4059,6 +4232,7 @@ score:
       - Rick Martin
     - place: '28'
       total: 290
+      penalties: []
       breakdown:
         reach: 147.027
         effort: 143.03
@@ -4074,6 +4248,7 @@ score:
       - Mikhail Karmazin
     - place: '29'
       total: 268
+      penalties: []
       breakdown:
         reach: 134.977
         effort: 133.495
@@ -4097,6 +4272,7 @@ score:
       - Simon West
     - place: '30'
       total: 257
+      penalties: []
       breakdown:
         reach: 135.985
         effort: 120.781
@@ -4120,6 +4296,7 @@ score:
       - Attila Bertok
     - place: '31'
       total: 253
+      penalties: []
       breakdown:
         reach: 131.774
         effort: 104.889
@@ -4143,6 +4320,7 @@ score:
       - Yasuhiro Noma
     - place: '32'
       total: 207
+      penalties: []
       breakdown:
         reach: 121.494
         effort: 85.818
@@ -4166,6 +4344,7 @@ score:
       - Mark Alton
     - place: '33'
       total: 191
+      penalties: []
       breakdown:
         reach: 118.311
         effort: 73.104
@@ -4189,6 +4368,7 @@ score:
       - Rob Larkin
     - place: '34'
       total: 172
+      penalties: []
       breakdown:
         reach: 115.123
         effort: 57.212
@@ -4212,6 +4392,7 @@ score:
       - Vic Hare
     - place: '35'
       total: 128
+      penalties: []
       breakdown:
         reach: 89.427
         effort: 38.141
@@ -4235,6 +4416,7 @@ score:
       - Jon Durand Snr
     - place: '36'
       total: 97
+      penalties: []
       breakdown:
         reach: 61.645
         effort: 34.963
@@ -4258,6 +4440,7 @@ score:
       - Randal Clotworthy
     - place: '37'
       total: 69
+      penalties: []
       breakdown:
         reach: 36.791
         effort: 31.785
@@ -4281,6 +4464,7 @@ score:
       - Longfei Yang
     - place: '38'
       total: 63
+      penalties: []
       breakdown:
         reach: 37.28
         effort: 25.428
@@ -4304,6 +4488,7 @@ score:
       - Nick Purcell
     - place: '39'
       total: 53
+      penalties: []
       breakdown:
         reach: 36.825
         effort: 15.892
@@ -4327,6 +4512,7 @@ score:
       - Peter Burkitt
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4350,6 +4536,7 @@ score:
       - Yoko Sano
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4373,6 +4560,7 @@ score:
       - Don Cramer
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4388,6 +4576,7 @@ score:
       - Frank Chetcuti
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4403,6 +4592,7 @@ score:
       - Malcolm Brown
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4418,6 +4608,7 @@ score:
       - Oyvind Ellefsen
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4433,6 +4624,7 @@ score:
       - Ross Smith
     - place: 40=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -4448,6 +4640,7 @@ score:
       - Oliver Chitty
     - place: '1'
       total: 992
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4471,6 +4664,7 @@ score:
       - Jonny Durand
     - place: '2'
       total: 976
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4494,6 +4688,7 @@ score:
       - Guy Hubbard
     - place: '3'
       total: 960
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4517,6 +4712,7 @@ score:
       - Gavin Myers
     - place: '4'
       total: 953
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4540,6 +4736,7 @@ score:
       - Rory Duncan
     - place: '5'
       total: 944
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4563,6 +4760,7 @@ score:
       - Nils Vesk
     - place: '6'
       total: 883
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4586,6 +4784,7 @@ score:
       - Jon Durand Snr
     - place: '7'
       total: 871
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4609,6 +4808,7 @@ score:
       - Craig Taylor
     - place: '8'
       total: 852
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -4632,6 +4832,7 @@ score:
       - Trent Brown
     - place: '9'
       total: 664
+      penalties: []
       breakdown:
         reach: 299.093
         effort: 309.048
@@ -4655,6 +4856,7 @@ score:
       - Rohan Taylor
     - place: '10'
       total: 658
+      penalties: []
       breakdown:
         reach: 298.266
         effort: 300.843
@@ -4678,6 +4880,7 @@ score:
       - Steve Blenkinsop
     - place: '11'
       total: 644
+      penalties: []
       breakdown:
         reach: 304.115
         effort: 317.253
@@ -4701,6 +4904,7 @@ score:
       - Nick Purcell
     - place: '12'
       total: 627
+      penalties: []
       breakdown:
         reach: 300.096
         effort: 314.518
@@ -4724,6 +4928,7 @@ score:
       - Frank Chetcuti
     - place: '13'
       total: 620
+      penalties: []
       breakdown:
         reach: 296.432
         effort: 289.904
@@ -4747,6 +4952,7 @@ score:
       - Attila Bertok
     - place: '14'
       total: 561
+      penalties: []
       breakdown:
         reach: 277.715
         effort: 259.819
@@ -4770,6 +4976,7 @@ score:
       - Ryosuke Hattori
     - place: '15'
       total: 560
+      penalties: []
       breakdown:
         reach: 280.689
         effort: 276.229
@@ -4793,6 +5000,7 @@ score:
       - Sasha Serebrennikova
     - place: '16'
       total: 538
+      penalties: []
       breakdown:
         reach: 263.598
         effort: 229.735
@@ -4816,6 +5024,7 @@ score:
       - Steve Docherty
     - place: '17'
       total: 531
+      penalties: []
       breakdown:
         reach: 261.778
         effort: 218.795
@@ -4839,6 +5048,7 @@ score:
       - Mikhail Karmazin
     - place: '18'
       total: 527
+      penalties: []
       breakdown:
         reach: 262.361
         effort: 218.795
@@ -4862,6 +5072,7 @@ score:
       - Josh Woods
     - place: '19'
       total: 521
+      penalties: []
       breakdown:
         reach: 261.335
         effort: 205.121
@@ -4885,6 +5096,7 @@ score:
       - Vic Hare
     - place: '20'
       total: 513
+      penalties: []
       breakdown:
         reach: 267.229
         effort: 240.675
@@ -4908,6 +5120,7 @@ score:
       - Yoko Sano
     - place: '21'
       total: 490
+      penalties: []
       breakdown:
         reach: 258.487
         effort: 188.711
@@ -4931,6 +5144,7 @@ score:
       - Yasuhiro Noma
     - place: '22'
       total: 438
+      penalties: []
       breakdown:
         reach: 235.516
         effort: 153.157
@@ -4954,6 +5168,7 @@ score:
       - Tony Armstrong
     - place: '23'
       total: 419
+      penalties: []
       breakdown:
         reach: 234.14
         effort: 136.747
@@ -4977,6 +5192,7 @@ score:
       - Longfei Yang
     - place: '24'
       total: 408
+      penalties: []
       breakdown:
         reach: 238.538
         effort: 169.566
@@ -5000,6 +5216,7 @@ score:
       - Oyvind Ellefsen
     - place: 25=
       total: 394
+      penalties: []
       breakdown:
         reach: 235.228
         effort: 153.157
@@ -5023,6 +5240,7 @@ score:
       - Olav Opsanger
     - place: 25=
       total: 394
+      penalties: []
       breakdown:
         reach: 231.757
         effort: 117.602
@@ -5046,6 +5264,7 @@ score:
       - Wayne Thompson
     - place: '27'
       total: 344
+      penalties: []
       breakdown:
         reach: 224.196
         effort: 98.458
@@ -5069,6 +5288,7 @@ score:
       - Neale Halsall
     - place: '28'
       total: 310
+      penalties: []
       breakdown:
         reach: 200.077
         effort: 84.783
@@ -5092,6 +5312,7 @@ score:
       - Dale Regehr
     - place: '29'
       total: 307
+      penalties: []
       breakdown:
         reach: 198.359
         effort: 84.783
@@ -5115,6 +5336,7 @@ score:
       - Tyler Borrdaile
     - place: '30'
       total: 282
+      penalties: []
       breakdown:
         reach: 196.366
         effort: 79.313
@@ -5138,6 +5360,7 @@ score:
       - Rob de Groot
     - place: '31'
       total: 279
+      penalties: []
       breakdown:
         reach: 189.946
         effort: 71.108
@@ -5161,6 +5384,7 @@ score:
       - Brad Porter
     - place: '32'
       total: 263
+      penalties: []
       breakdown:
         reach: 184.202
         effort: 62.904
@@ -5184,6 +5408,7 @@ score:
       - Anatoly Reyter
     - place: '33'
       total: 238
+      penalties: []
       breakdown:
         reach: 185.822
         effort: 51.964
@@ -5207,6 +5432,7 @@ score:
       - Gennadiy Khramov
     - place: '34'
       total: 226
+      penalties: []
       breakdown:
         reach: 176.169
         effort: 38.289
@@ -5230,6 +5456,7 @@ score:
       - Gordon Rigg
     - place: '35'
       total: 179
+      penalties: []
       breakdown:
         reach: 145.132
         effort: 21.88
@@ -5253,6 +5480,7 @@ score:
       - Mark Alton
     - place: '36'
       total: 153
+      penalties: []
       breakdown:
         reach: 139.696
         effort: 13.675
@@ -5276,6 +5504,7 @@ score:
       - Peter Burkitt
     - place: '37'
       total: 39
+      penalties: []
       breakdown:
         reach: 31.279
         effort: 8.205
@@ -5299,6 +5528,7 @@ score:
       - Michael Cassells
     - place: 38=
       total: 26
+      penalties: []
       breakdown:
         reach: 20.609
         effort: 5.47
@@ -5314,6 +5544,7 @@ score:
       - Rob Larkin
     - place: 38=
       total: 26
+      penalties: []
       breakdown:
         reach: 20.609
         effort: 5.47
@@ -5329,6 +5560,7 @@ score:
       - Jonny Durand
     - place: '1'
       total: 994
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5352,6 +5584,7 @@ score:
       - Rory Duncan
     - place: '2'
       total: 931
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5375,6 +5608,7 @@ score:
       - Jason Kath
     - place: '3'
       total: 930
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5398,6 +5632,7 @@ score:
       - Guy Hubbard
     - place: '4'
       total: 866
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5421,6 +5656,7 @@ score:
       - Steve Blenkinsop
     - place: '5'
       total: 862
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5444,6 +5680,7 @@ score:
       - Steve Docherty
     - place: '6'
       total: 845
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5467,6 +5704,7 @@ score:
       - Attila Bertok
     - place: '7'
       total: 844
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5490,6 +5728,7 @@ score:
       - Brad Porter
     - place: '8'
       total: 825
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5513,6 +5752,7 @@ score:
       - Yasuhiro Noma
     - place: '9'
       total: 813
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5536,6 +5776,7 @@ score:
       - Gavin Myers
     - place: '10'
       total: 799
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5559,6 +5800,7 @@ score:
       - Oliver Chitty
     - place: '11'
       total: 787
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5582,6 +5824,7 @@ score:
       - Olav Opsanger
     - place: '12'
       total: 785
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5605,6 +5848,7 @@ score:
       - Josh Woods
     - place: '13'
       total: 774
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5628,6 +5872,7 @@ score:
       - Oyvind Ellefsen
     - place: '14'
       total: 772
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5651,6 +5896,7 @@ score:
       - Tony Armstrong
     - place: '15'
       total: 745
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5674,6 +5920,7 @@ score:
       - Malcolm Brown
     - place: '16'
       total: 742
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5697,6 +5944,7 @@ score:
       - Nick Purcell
     - place: '17'
       total: 737
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5720,6 +5968,7 @@ score:
       - Jon Durand Snr
     - place: '18'
       total: 725
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5743,6 +5992,7 @@ score:
       - Gordon Rigg
     - place: '19'
       total: 724
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5766,6 +6016,7 @@ score:
       - Neale Halsall
     - place: '20'
       total: 668
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5789,6 +6040,7 @@ score:
       - Trent Brown
     - place: '21'
       total: 629
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5812,6 +6064,7 @@ score:
       - Craig Taylor
     - place: '22'
       total: 617
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5835,6 +6088,7 @@ score:
       - Sasha Serebrennikova
     - place: '23'
       total: 615
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5858,6 +6112,7 @@ score:
       - Ryosuke Hattori
     - place: '24'
       total: 506
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -5881,6 +6136,7 @@ score:
       - Rob de Groot
     - place: '25'
       total: 389
+      penalties: []
       breakdown:
         reach: 166.485
         effort: 199.608
@@ -5904,6 +6160,7 @@ score:
       - Tyler Borrdaile
     - place: '26'
       total: 386
+      penalties: []
       breakdown:
         reach: 157.106
         effort: 194.114
@@ -5927,6 +6184,7 @@ score:
       - Michael Cassells
     - place: '27'
       total: 385
+      penalties: []
       breakdown:
         reach: 157.424
         effort: 186.789
@@ -5950,6 +6208,7 @@ score:
       - Longfei Yang
     - place: '28'
       total: 375
+      penalties: []
       breakdown:
         reach: 170.287
         effort: 205.102
@@ -5973,6 +6232,7 @@ score:
       - Dale Regehr
     - place: '29'
       total: 370
+      penalties: []
       breakdown:
         reach: 166.424
         effort: 203.27
@@ -5996,6 +6256,7 @@ score:
       - Rohan Taylor
     - place: '30'
       total: 359
+      penalties: []
       breakdown:
         reach: 148.296
         effort: 166.645
@@ -6019,6 +6280,7 @@ score:
       - Mikhail Karmazin
     - place: '31'
       total: 336
+      penalties: []
       breakdown:
         reach: 147.638
         effort: 153.826
@@ -6042,6 +6304,7 @@ score:
       - Rick Martin
     - place: '32'
       total: 331
+      penalties: []
       breakdown:
         reach: 153.462
         effort: 177.633
@@ -6065,6 +6328,7 @@ score:
       - Anatoly Reyter
     - place: '33'
       total: 313
+      penalties: []
       breakdown:
         reach: 147.924
         effort: 139.176
@@ -6088,6 +6352,7 @@ score:
       - Nils Vesk
     - place: '34'
       total: 291
+      penalties: []
       breakdown:
         reach: 136.818
         effort: 106.213
@@ -6111,6 +6376,7 @@ score:
       - Peter Burkitt
     - place: '35'
       total: 264
+      penalties: []
       breakdown:
         reach: 140.815
         effort: 122.695
@@ -6134,6 +6400,7 @@ score:
       - Yoko Sano
     - place: '36'
       total: 240
+      penalties: []
       breakdown:
         reach: 133.791
         effort: 75.082
@@ -6157,6 +6424,7 @@ score:
       - Wayne Thompson
     - place: '37'
       total: 226
+      penalties: []
       breakdown:
         reach: 134.399
         effort: 91.563
@@ -6180,6 +6448,7 @@ score:
       - Don Cramer
     - place: '38'
       total: 189
+      penalties: []
       breakdown:
         reach: 132.69
         effort: 56.769
@@ -6203,6 +6472,7 @@ score:
       - Mark Alton
     - place: '39'
       total: 158
+      penalties: []
       breakdown:
         reach: 119.41
         effort: 36.625
@@ -6226,6 +6496,7 @@ score:
       - Andrew Barnes
     - place: '40'
       total: 126
+      penalties: []
       breakdown:
         reach: 105.76
         effort: 20.144
@@ -6249,6 +6520,7 @@ score:
       - Vic Hare
     - place: '41'
       total: 78
+      penalties: []
       breakdown:
         reach: 59.664
         effort: 18.313
@@ -6272,6 +6544,7 @@ score:
       - Rob Larkin
     - place: '42'
       total: 73
+      penalties: []
       breakdown:
         reach: 58.128
         effort: 14.65
@@ -6295,6 +6568,7 @@ score:
       - Randal Clotworthy
     - place: '43'
       total: 42
+      penalties: []
       breakdown:
         reach: 32.764
         effort: 9.156
@@ -6318,6 +6592,7 @@ score:
       - Ross Smith
     - place: '44'
       total: 38
+      penalties: []
       breakdown:
         reach: 34.23
         effort: 3.663
@@ -6341,6 +6616,7 @@ score:
       - Gennadiy Khramov
     - place: '45'
       total: 16
+      penalties: []
       breakdown:
         reach: 12.322
         effort: 3.663
@@ -6356,6 +6632,7 @@ score:
       - Attila Bertok
     - place: '1'
       total: 991
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6379,6 +6656,7 @@ score:
       - Tyler Borrdaile
     - place: '2'
       total: 910
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6402,6 +6680,7 @@ score:
       - Rory Duncan
     - place: '3'
       total: 896
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6425,6 +6704,7 @@ score:
       - Jason Kath
     - place: '4'
       total: 870
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6448,6 +6728,7 @@ score:
       - Rohan Taylor
     - place: 5=
       total: 864
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6471,6 +6752,7 @@ score:
       - Josh Woods
     - place: 5=
       total: 864
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6494,6 +6776,7 @@ score:
       - Jonny Durand
     - place: '7'
       total: 837
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6517,6 +6800,7 @@ score:
       - Trent Brown
     - place: '8'
       total: 820
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6540,6 +6824,7 @@ score:
       - Nick Purcell
     - place: 9=
       total: 811
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6563,6 +6848,7 @@ score:
       - Steve Blenkinsop
     - place: 9=
       total: 811
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6586,6 +6872,7 @@ score:
       - Guy Hubbard
     - place: '11'
       total: 751
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6609,6 +6896,7 @@ score:
       - Gordon Rigg
     - place: '12'
       total: 655
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6632,6 +6920,7 @@ score:
       - Oliver Chitty
     - place: '13'
       total: 643
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6655,6 +6944,7 @@ score:
       - Rob de Groot
     - place: '14'
       total: 642
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6678,6 +6968,7 @@ score:
       - Olav Opsanger
     - place: '15'
       total: 603
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6701,6 +6992,7 @@ score:
       - Yasuhiro Noma
     - place: '16'
       total: 595
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6724,6 +7016,7 @@ score:
       - Gavin Myers
     - place: '17'
       total: 571
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6747,6 +7040,7 @@ score:
       - Yoko Sano
     - place: '18'
       total: 565
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6770,6 +7064,7 @@ score:
       - Tony Armstrong
     - place: '19'
       total: 556
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6793,6 +7088,7 @@ score:
       - Neale Halsall
     - place: '20'
       total: 505
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6816,6 +7112,7 @@ score:
       - Vic Hare
     - place: '21'
       total: 495
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6839,6 +7136,7 @@ score:
       - Ryosuke Hattori
     - place: '22'
       total: 464
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6862,6 +7160,7 @@ score:
       - Malcolm Brown
     - place: '23'
       total: 455
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6885,6 +7184,7 @@ score:
       - Sasha Serebrennikova
     - place: '24'
       total: 446
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6908,6 +7208,7 @@ score:
       - Craig Taylor
     - place: '25'
       total: 411
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -6931,6 +7232,7 @@ score:
       - Steve Docherty
     - place: '26'
       total: 359
+      penalties: []
       breakdown:
         reach: 166.072
         effort: 192.603
@@ -6954,6 +7256,7 @@ score:
       - Dale Regehr
     - place: '27'
       total: 340
+      penalties: []
       breakdown:
         reach: 150.588
         effort: 189.101
@@ -6977,6 +7280,7 @@ score:
       - Mikhail Karmazin
     - place: '28'
       total: 315
+      penalties: []
       breakdown:
         reach: 132.544
         effort: 182.097
@@ -7000,6 +7304,7 @@ score:
       - Wayne Thompson
     - place: '29'
       total: 305
+      penalties: []
       breakdown:
         reach: 133.651
         effort: 171.591
@@ -7023,6 +7328,7 @@ score:
       - Michael Cassells
     - place: '30'
       total: 281
+      penalties: []
       breakdown:
         reach: 123.746
         effort: 157.584
@@ -7046,6 +7352,7 @@ score:
       - Frank Chetcuti
     - place: '31'
       total: 261
+      penalties: []
       breakdown:
         reach: 120.956
         effort: 140.075
@@ -7069,6 +7376,7 @@ score:
       - Nils Vesk
     - place: '32'
       total: 237
+      penalties: []
       breakdown:
         reach: 117.481
         effort: 119.063
@@ -7088,25 +7396,11 @@ score:
       reachDistance: 105.004 km
       landedDistance: 104.771 km
       stoppedAlt: 339.000 m
-  - - - '85'
-      - Rick Martin
-    - place: '33'
-      total: 201
-      breakdown:
-        reach: 106.323
-        effort: 94.55
-        distance: 200.874
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 95.031 km
-      landedDistance: 95.031 km
-      stoppedAlt: null
   - - - '83'
       - Randal Clotworthy
-    - place: '34'
+    - place: '33'
       total: 179
+      penalties: []
       breakdown:
         reach: 105.027
         effort: 73.539
@@ -7126,10 +7420,28 @@ score:
       reachDistance: 93.873 km
       landedDistance: 93.319 km
       stoppedAlt: 494.000 m
+  - - - '85'
+      - Rick Martin
+    - place: '34'
+      total: 131
+      penalties:
+      - penalty-points: 70
+      breakdown:
+        reach: 106.323
+        effort: 94.55
+        distance: 200.874
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 95.031 km
+      landedDistance: 95.031 km
+      stoppedAlt: null
   - - - '34'
       - Brad Porter
     - place: 35=
       total: 124
+      penalties: []
       breakdown:
         reach: 75.423
         effort: 49.026
@@ -7153,6 +7465,7 @@ score:
       - Jon Durand Snr
     - place: 35=
       total: 124
+      penalties: []
       breakdown:
         reach: 75.315
         effort: 49.026
@@ -7176,6 +7489,7 @@ score:
       - Longfei Yang
     - place: '37'
       total: 110
+      penalties: []
       breakdown:
         reach: 71.869
         effort: 38.521
@@ -7199,6 +7513,7 @@ score:
       - Oyvind Ellefsen
     - place: '38'
       total: 88
+      penalties: []
       breakdown:
         reach: 63.263
         effort: 24.513
@@ -7222,6 +7537,7 @@ score:
       - Peter Burkitt
     - place: '39'
       total: 50
+      penalties: []
       breakdown:
         reach: 35.878
         effort: 14.007
@@ -7246,6 +7562,7 @@ scoreDf:
       - Attila Bertok
     - place: '1'
       total: 1000
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7269,6 +7586,7 @@ scoreDf:
       - Oliver Chitty
     - place: '2'
       total: 961
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7292,6 +7610,7 @@ scoreDf:
       - Guy Hubbard
     - place: '3'
       total: 864
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7315,6 +7634,7 @@ scoreDf:
       - Josh Woods
     - place: 4=
       total: 793
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7338,6 +7658,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: 4=
       total: 793
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7361,6 +7682,7 @@ scoreDf:
       - Niki Longshore
     - place: '6'
       total: 791
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7384,6 +7706,7 @@ scoreDf:
       - Trent Brown
     - place: '7'
       total: 778
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7407,6 +7730,7 @@ scoreDf:
       - Rory Duncan
     - place: '8'
       total: 776
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7430,6 +7754,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '9'
       total: 758
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7453,6 +7778,7 @@ scoreDf:
       - Nils Vesk
     - place: '10'
       total: 755
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7476,6 +7802,7 @@ scoreDf:
       - Jason Kath
     - place: '11'
       total: 747
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7499,6 +7826,7 @@ scoreDf:
       - Jon Durand Snr
     - place: '12'
       total: 734
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7522,6 +7850,7 @@ scoreDf:
       - Gordon Rigg
     - place: 13=
       total: 714
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7545,6 +7874,7 @@ scoreDf:
       - Craig Taylor
     - place: 13=
       total: 714
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7568,6 +7898,7 @@ scoreDf:
       - Nick Purcell
     - place: '15'
       total: 711
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7591,6 +7922,7 @@ scoreDf:
       - Olav Opsanger
     - place: '16'
       total: 666
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7614,6 +7946,7 @@ scoreDf:
       - Rohan Taylor
     - place: '17'
       total: 653
+      penalties: []
       breakdown:
         reach: 259.123
         effort: 259.123
@@ -7637,6 +7970,7 @@ scoreDf:
       - Peter Adriaans
     - place: '18'
       total: 450
+      penalties: []
       breakdown:
         reach: 210.459
         effort: 239.785
@@ -7660,6 +7994,7 @@ scoreDf:
       - Ryosuke Hattori
     - place: '19'
       total: 433
+      penalties: []
       breakdown:
         reach: 202.723
         effort: 230.117
@@ -7683,6 +8018,7 @@ scoreDf:
       - Tony Armstrong
     - place: '20'
       total: 421
+      penalties: []
       breakdown:
         reach: 202.844
         effort: 218.514
@@ -7706,6 +8042,7 @@ scoreDf:
       - Andrew Barnes
     - place: '21'
       total: 385
+      penalties: []
       breakdown:
         reach: 194.027
         effort: 191.442
@@ -7729,6 +8066,7 @@ scoreDf:
       - Sasha Serebrennikova
     - place: '22'
       total: 369
+      penalties: []
       breakdown:
         reach: 193.056
         effort: 175.972
@@ -7752,6 +8090,7 @@ scoreDf:
       - Neale Halsall
     - place: '23'
       total: 341
+      penalties: []
       breakdown:
         reach: 180.037
         effort: 160.502
@@ -7775,6 +8114,7 @@ scoreDf:
       - Mikhail Karmazin
     - place: '24'
       total: 280
+      penalties: []
       breakdown:
         reach: 150.303
         effort: 129.561
@@ -7798,6 +8138,7 @@ scoreDf:
       - Oyvind Ellefsen
     - place: '25'
       total: 246
+      penalties: []
       breakdown:
         reach: 122.503
         effort: 123.76
@@ -7821,6 +8162,7 @@ scoreDf:
       - Jonny Durand
     - place: '26'
       total: 239
+      penalties: []
       breakdown:
         reach: 118.895
         effort: 119.893
@@ -7844,6 +8186,7 @@ scoreDf:
       - Anatoly Reyter
     - place: '27'
       total: 231
+      penalties: []
       breakdown:
         reach: 117.019
         effort: 114.091
@@ -7867,6 +8210,7 @@ scoreDf:
       - Frank Chetcuti
     - place: '28'
       total: 201
+      penalties: []
       breakdown:
         reach: 103.9
         effort: 96.688
@@ -7890,6 +8234,7 @@ scoreDf:
       - Michael Cassells
     - place: '29'
       total: 189
+      penalties: []
       breakdown:
         reach: 101.746
         effort: 87.019
@@ -7913,6 +8258,7 @@ scoreDf:
       - Rob Larkin
     - place: '30'
       total: 169
+      penalties: []
       breakdown:
         reach: 93.373
         effort: 75.416
@@ -7936,6 +8282,7 @@ scoreDf:
       - Ross Smith
     - place: '31'
       total: 154
+      penalties: []
       breakdown:
         reach: 87.918
         effort: 65.748
@@ -7959,6 +8306,7 @@ scoreDf:
       - Malcolm Brown
     - place: '32'
       total: 113
+      penalties: []
       breakdown:
         reach: 54.897
         effort: 58.013
@@ -7982,6 +8330,7 @@ scoreDf:
       - Brad Porter
     - place: '33'
       total: 104
+      penalties: []
       breakdown:
         reach: 47.97
         effort: 56.079
@@ -8005,6 +8354,7 @@ scoreDf:
       - Peter Burkitt
     - place: '34'
       total: 96
+      penalties: []
       breakdown:
         reach: 43.537
         effort: 52.211
@@ -8028,6 +8378,7 @@ scoreDf:
       - Mark Alton
     - place: '35'
       total: 89
+      penalties: []
       breakdown:
         reach: 42.379
         effort: 46.41
@@ -8051,6 +8402,7 @@ scoreDf:
       - Simon West
     - place: '36'
       total: 71
+      penalties: []
       breakdown:
         reach: 32.116
         effort: 38.675
@@ -8074,6 +8426,7 @@ scoreDf:
       - Justinas Pleikys
     - place: '37'
       total: 60
+      penalties: []
       breakdown:
         reach: 31.124
         effort: 29.006
@@ -8097,6 +8450,7 @@ scoreDf:
       - Don Cramer
     - place: '38'
       total: 42
+      penalties: []
       breakdown:
         reach: 24.204
         effort: 17.404
@@ -8120,6 +8474,7 @@ scoreDf:
       - Brodrick Osborne
     - place: '39'
       total: 26
+      penalties: []
       breakdown:
         reach: 18.147
         effort: 7.735
@@ -8143,6 +8498,7 @@ scoreDf:
       - Josh Woods
     - place: '1'
       total: 990
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8166,6 +8522,7 @@ scoreDf:
       - Jonny Durand
     - place: '2'
       total: 982
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8189,6 +8546,7 @@ scoreDf:
       - Attila Bertok
     - place: '3'
       total: 971
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8212,6 +8570,7 @@ scoreDf:
       - Rory Duncan
     - place: '4'
       total: 939
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8235,6 +8594,7 @@ scoreDf:
       - Oliver Chitty
     - place: '5'
       total: 911
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8258,6 +8618,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '6'
       total: 894
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8281,6 +8642,7 @@ scoreDf:
       - Olav Opsanger
     - place: '7'
       total: 887
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8304,6 +8666,7 @@ scoreDf:
       - Guy Hubbard
     - place: '8'
       total: 862
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8327,6 +8690,7 @@ scoreDf:
       - Yasuhiro Noma
     - place: '9'
       total: 850
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8350,6 +8714,7 @@ scoreDf:
       - Gordon Rigg
     - place: '10'
       total: 828
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8373,6 +8738,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: '11'
       total: 820
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8396,6 +8762,7 @@ scoreDf:
       - Niki Longshore
     - place: '12'
       total: 813
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8419,6 +8786,7 @@ scoreDf:
       - Tony Armstrong
     - place: '13'
       total: 796
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8442,6 +8810,7 @@ scoreDf:
       - Nils Vesk
     - place: '14'
       total: 750
+      penalties: []
       breakdown:
         reach: 282.221
         effort: 282.221
@@ -8465,6 +8834,7 @@ scoreDf:
       - Yoko Sano
     - place: 15=
       total: 595
+      penalties: []
       breakdown:
         reach: 272.398
         effort: 277.945
@@ -8488,6 +8858,7 @@ scoreDf:
       - Jason Kath
     - place: 15=
       total: 595
+      penalties: []
       breakdown:
         reach: 274.494
         effort: 282.221
@@ -8511,6 +8882,7 @@ scoreDf:
       - Ryosuke Hattori
     - place: '17'
       total: 575
+      penalties: []
       breakdown:
         reach: 265.774
         effort: 269.393
@@ -8534,6 +8906,7 @@ scoreDf:
       - Oyvind Ellefsen
     - place: '18'
       total: 525
+      penalties: []
       breakdown:
         reach: 247.492
         effort: 239.46
@@ -8557,6 +8930,7 @@ scoreDf:
       - Brodrick Osborne
     - place: '19'
       total: 511
+      penalties: []
       breakdown:
         reach: 254.606
         effort: 256.565
@@ -8580,6 +8954,7 @@ scoreDf:
       - Rohan Taylor
     - place: '20'
       total: 499
+      penalties: []
       breakdown:
         reach: 236.934
         effort: 226.632
@@ -8603,6 +8978,7 @@ scoreDf:
       - Gavin Myers
     - place: '21'
       total: 451
+      penalties: []
       breakdown:
         reach: 237.416
         effort: 213.804
@@ -8626,6 +9002,7 @@ scoreDf:
       - Malcolm Brown
     - place: '22'
       total: 428
+      penalties: []
       breakdown:
         reach: 206.6
         effort: 179.595
@@ -8649,6 +9026,7 @@ scoreDf:
       - Wayne Thompson
     - place: '23'
       total: 424
+      penalties: []
       breakdown:
         reach: 227.669
         effort: 196.7
@@ -8672,6 +9050,7 @@ scoreDf:
       - Nick Purcell
     - place: '24'
       total: 398
+      penalties: []
       breakdown:
         reach: 186.421
         effort: 171.043
@@ -8695,6 +9074,7 @@ scoreDf:
       - Steve Docherty
     - place: '25'
       total: 347
+      penalties: []
       breakdown:
         reach: 184.685
         effort: 162.491
@@ -8718,6 +9098,7 @@ scoreDf:
       - Jon Durand Snr
     - place: '26'
       total: 331
+      penalties: []
       breakdown:
         reach: 165.322
         effort: 136.835
@@ -8741,6 +9122,7 @@ scoreDf:
       - Brad Porter
     - place: '27'
       total: 320
+      penalties: []
       breakdown:
         reach: 169.955
         effort: 149.663
@@ -8764,6 +9146,7 @@ scoreDf:
       - Dale Regehr
     - place: '28'
       total: 279
+      penalties: []
       breakdown:
         reach: 157.952
         effort: 119.73
@@ -8787,6 +9170,7 @@ scoreDf:
       - Rob Larkin
     - place: '29'
       total: 265
+      penalties: []
       breakdown:
         reach: 158.566
         effort: 106.902
@@ -8810,6 +9194,7 @@ scoreDf:
       - Michael Cassells
     - place: '30'
       total: 240
+      penalties: []
       breakdown:
         reach: 150.47
         effort: 89.798
@@ -8833,6 +9218,7 @@ scoreDf:
       - Andrew Barnes
     - place: '31'
       total: 207
+      penalties: []
       breakdown:
         reach: 138.867
         effort: 68.417
@@ -8856,6 +9242,7 @@ scoreDf:
       - Trent Brown
     - place: '32'
       total: 154
+      penalties: []
       breakdown:
         reach: 102.546
         effort: 51.313
@@ -8879,6 +9266,7 @@ scoreDf:
       - Don Cramer
     - place: '33'
       total: 135
+      penalties: []
       breakdown:
         reach: 88.038
         effort: 47.037
@@ -8902,6 +9290,7 @@ scoreDf:
       - Sasha Serebrennikova
     - place: '34'
       total: 126
+      penalties: []
       breakdown:
         reach: 87.33
         effort: 38.485
@@ -8925,6 +9314,7 @@ scoreDf:
       - Mark Alton
     - place: '35'
       total: 97
+      penalties: []
       breakdown:
         reach: 71.451
         effort: 25.656
@@ -8948,6 +9338,7 @@ scoreDf:
       - Rob de Groot
     - place: '36'
       total: 36
+      penalties: []
       breakdown:
         reach: 22.68
         effort: 12.828
@@ -8971,6 +9362,7 @@ scoreDf:
       - Craig Taylor
     - place: 37=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -8994,6 +9386,7 @@ scoreDf:
       - Longfei Yang
     - place: 37=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -9017,6 +9410,7 @@ scoreDf:
       - Peter Burkitt
     - place: 37=
       total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -9040,6 +9434,7 @@ scoreDf:
       - Attila Bertok
     - place: '1'
       total: 951
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9063,6 +9458,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '2'
       total: 919
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9086,6 +9482,7 @@ scoreDf:
       - Josh Woods
     - place: '3'
       total: 909
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9109,6 +9506,7 @@ scoreDf:
       - Olav Opsanger
     - place: '4'
       total: 902
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9132,6 +9530,7 @@ scoreDf:
       - Nick Purcell
     - place: '5'
       total: 894
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9155,6 +9554,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: '6'
       total: 885
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9178,6 +9578,7 @@ scoreDf:
       - Craig Taylor
     - place: '7'
       total: 858
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9197,10 +9598,36 @@ scoreDf:
       reachDistance: 195.225 km
       landedDistance: 195.225 km
       stoppedAlt: null
+  - - - '43'
+      - Jonny Durand
+    - place: 8=
+      total: 851
+      penalties:
+      - penalty-points: -704
+      breakdown:
+        reach: 75.45
+        effort: 71.821
+        distance: 147.271
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-01-01T02:45:08Z
+        gs: 2018-01-01T02:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 75.559 km
+      landedDistance: 74.966 km
+      stoppedAlt: 503.000 m
   - - - '8'
       - Gordon Rigg
-    - place: '8'
+    - place: 8=
       total: 851
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9222,8 +9649,9 @@ scoreDf:
       stoppedAlt: null
   - - - '34'
       - Brad Porter
-    - place: '9'
+    - place: '10'
       total: 850
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9245,8 +9673,9 @@ scoreDf:
       stoppedAlt: null
   - - - '6'
       - Yoko Sano
-    - place: '10'
+    - place: '11'
       total: 786
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9268,8 +9697,9 @@ scoreDf:
       stoppedAlt: null
   - - - '22'
       - Rohan Taylor
-    - place: '11'
+    - place: '12'
       total: 784
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9291,8 +9721,9 @@ scoreDf:
       stoppedAlt: null
   - - - '30'
       - Jason Kath
-    - place: '12'
+    - place: '13'
       total: 783
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9314,8 +9745,9 @@ scoreDf:
       stoppedAlt: null
   - - - '106'
       - Jon Durand Snr
-    - place: '13'
+    - place: '14'
       total: 777
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9337,8 +9769,9 @@ scoreDf:
       stoppedAlt: null
   - - - '41'
       - Tony Armstrong
-    - place: '14'
+    - place: '15'
       total: 747
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9360,8 +9793,9 @@ scoreDf:
       stoppedAlt: null
   - - - '23'
       - Nils Vesk
-    - place: '15'
+    - place: '16'
       total: 741
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9383,8 +9817,9 @@ scoreDf:
       stoppedAlt: null
   - - - '68'
       - Neale Halsall
-    - place: '16'
+    - place: '17'
       total: 736
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9406,8 +9841,9 @@ scoreDf:
       stoppedAlt: null
   - - - '37'
       - Gavin Myers
-    - place: '17'
+    - place: '18'
       total: 735
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9429,8 +9865,9 @@ scoreDf:
       stoppedAlt: null
   - - - '31'
       - Trent Brown
-    - place: '18'
+    - place: '19'
       total: 703
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9452,8 +9889,9 @@ scoreDf:
       stoppedAlt: null
   - - - '76'
       - Rory Duncan
-    - place: '19'
+    - place: '20'
       total: 701
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9475,8 +9913,9 @@ scoreDf:
       stoppedAlt: null
   - - - '100'
       - Malcolm Brown
-    - place: '20'
+    - place: '21'
       total: 698
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9498,8 +9937,9 @@ scoreDf:
       stoppedAlt: null
   - - - '42'
       - Rob de Groot
-    - place: '21'
+    - place: '22'
       total: 687
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9521,8 +9961,9 @@ scoreDf:
       stoppedAlt: null
   - - - '15'
       - Ryosuke Hattori
-    - place: '22'
+    - place: '23'
       total: 680
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9544,8 +9985,9 @@ scoreDf:
       stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
-    - place: '23'
+    - place: '24'
       total: 674
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9567,8 +10009,9 @@ scoreDf:
       stoppedAlt: null
   - - - '36'
       - Steve Docherty
-    - place: '24'
+    - place: '25'
       total: 670
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9590,8 +10033,9 @@ scoreDf:
       stoppedAlt: null
   - - - '77'
       - Brodrick Osborne
-    - place: '25'
+    - place: '26'
       total: 656
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9613,8 +10057,9 @@ scoreDf:
       stoppedAlt: null
   - - - '32'
       - Andrew Barnes
-    - place: '26'
+    - place: '27'
       total: 651
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9636,8 +10081,9 @@ scoreDf:
       stoppedAlt: null
   - - - '80'
       - Michael Cassells
-    - place: '27'
+    - place: '28'
       total: 643
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9659,8 +10105,9 @@ scoreDf:
       stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
-    - place: '28'
+    - place: '29'
       total: 556
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9682,8 +10129,9 @@ scoreDf:
       stoppedAlt: null
   - - - '103'
       - Wayne Thompson
-    - place: '29'
+    - place: '30'
       total: 511
+      penalties: []
       breakdown:
         reach: 194.943
         effort: 194.943
@@ -9705,8 +10153,9 @@ scoreDf:
       stoppedAlt: null
   - - - '14'
       - Peter Burkitt
-    - place: '30'
+    - place: '31'
       total: 414
+      penalties: []
       breakdown:
         reach: 185.904
         effort: 191.523
@@ -9728,8 +10177,9 @@ scoreDf:
       stoppedAlt: 458.000 m
   - - - '107'
       - Anatoly Reyter
-    - place: '31'
+    - place: '32'
       total: 408
+      penalties: []
       breakdown:
         reach: 191.584
         effort: 194.943
@@ -9751,8 +10201,9 @@ scoreDf:
       stoppedAlt: 507.000 m
   - - - '71'
       - Rob Larkin
-    - place: '32'
+    - place: '33'
       total: 402
+      penalties: []
       breakdown:
         reach: 182.419
         effort: 184.683
@@ -9774,8 +10225,9 @@ scoreDf:
       stoppedAlt: 476.000 m
   - - - '28'
       - Mikhail Karmazin
-    - place: '33'
+    - place: '34'
       total: 391
+      penalties: []
       breakdown:
         reach: 170.805
         effort: 174.422
@@ -9797,8 +10249,9 @@ scoreDf:
       stoppedAlt: 0.000 m
   - - - '52'
       - Dale Regehr
-    - place: '34'
+    - place: '35'
       total: 373
+      penalties: []
       breakdown:
         reach: 167.287
         effort: 160.742
@@ -9820,8 +10273,9 @@ scoreDf:
       stoppedAlt: 489.000 m
   - - - '67'
       - Mark Alton
-    - place: '35'
+    - place: '36'
       total: 357
+      penalties: []
       breakdown:
         reach: 167.774
         effort: 143.642
@@ -9843,8 +10297,9 @@ scoreDf:
       stoppedAlt: 496.000 m
   - - - '74'
       - Vic Hare
-    - place: '36'
+    - place: '37'
       total: 352
+      penalties: []
       breakdown:
         reach: 167.287
         effort: 143.642
@@ -9866,8 +10321,9 @@ scoreDf:
       stoppedAlt: 500.000 m
   - - - '64'
       - Longfei Yang
-    - place: '37'
+    - place: '38'
       total: 288
+      penalties: []
       breakdown:
         reach: 150.601
         effort: 123.122
@@ -9889,8 +10345,9 @@ scoreDf:
       stoppedAlt: 632.000 m
   - - - '75'
       - Yasuhiro Noma
-    - place: '38'
+    - place: '39'
       total: 279
+      penalties: []
       breakdown:
         reach: 141.499
         effort: 102.601
@@ -9912,8 +10369,9 @@ scoreDf:
       stoppedAlt: 0.000 m
   - - - '102'
       - Robert Davies
-    - place: '39'
+    - place: '40'
       total: 195
+      penalties: []
       breakdown:
         reach: 109.202
         effort: 85.501
@@ -9935,8 +10393,9 @@ scoreDf:
       stoppedAlt: 475.000 m
   - - - '83'
       - Randal Clotworthy
-    - place: '40'
+    - place: '41'
       total: 180
+      penalties: []
       breakdown:
         reach: 101.124
         effort: 78.661
@@ -9956,33 +10415,11 @@ scoreDf:
       reachDistance: 101.270 km
       landedDistance: 100.631 km
       stoppedAlt: 432.000 m
-  - - - '43'
-      - Jonny Durand
-    - place: '41'
-      total: 147
-      breakdown:
-        reach: 75.45
-        effort: 71.821
-        distance: 147.271
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2018-01-01T02:45:08Z
-        gs: 2018-01-01T02:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 75.559 km
-      landedDistance: 74.966 km
-      stoppedAlt: 503.000 m
   - - - '101'
       - Oliver Chitty
     - place: '42'
       total: 135
+      penalties: []
       breakdown:
         reach: 73.433
         effort: 61.561
@@ -10006,6 +10443,7 @@ scoreDf:
       - Niki Longshore
     - place: '43'
       total: 120
+      penalties: []
       breakdown:
         reach: 71.822
         effort: 47.881
@@ -10029,6 +10467,7 @@ scoreDf:
       - Guy Hubbard
     - place: '44'
       total: 87
+      penalties: []
       breakdown:
         reach: 56.02
         effort: 30.78
@@ -10052,6 +10491,7 @@ scoreDf:
       - Don Cramer
     - place: '45'
       total: 68
+      penalties: []
       breakdown:
         reach: 50.961
         effort: 17.1
@@ -10075,6 +10515,7 @@ scoreDf:
       - Oliver Chitty
     - place: '1'
       total: 986
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10098,6 +10539,7 @@ scoreDf:
       - Jonny Durand
     - place: '2'
       total: 978
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10121,6 +10563,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '3'
       total: 952
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10144,6 +10587,7 @@ scoreDf:
       - Guy Hubbard
     - place: '4'
       total: 856
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10167,6 +10611,7 @@ scoreDf:
       - Trent Brown
     - place: '5'
       total: 830
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10190,6 +10635,7 @@ scoreDf:
       - Olav Opsanger
     - place: '6'
       total: 822
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10213,6 +10659,7 @@ scoreDf:
       - Jason Kath
     - place: '7'
       total: 815
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10236,6 +10683,7 @@ scoreDf:
       - Josh Woods
     - place: '8'
       total: 762
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10259,6 +10707,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: '9'
       total: 758
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10282,6 +10731,7 @@ scoreDf:
       - Gordon Rigg
     - place: '10'
       total: 728
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10305,6 +10755,7 @@ scoreDf:
       - Tony Armstrong
     - place: '11'
       total: 720
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10328,6 +10779,7 @@ scoreDf:
       - Rory Duncan
     - place: '12'
       total: 700
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10351,6 +10803,7 @@ scoreDf:
       - Nils Vesk
     - place: '13'
       total: 676
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10374,6 +10827,7 @@ scoreDf:
       - Ryosuke Hattori
     - place: '14'
       total: 657
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10397,6 +10851,7 @@ scoreDf:
       - Steve Docherty
     - place: '15'
       total: 656
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10420,6 +10875,7 @@ scoreDf:
       - Sasha Serebrennikova
     - place: '16'
       total: 644
+      penalties: []
       breakdown:
         reach: 254.276
         effort: 254.276
@@ -10443,6 +10899,7 @@ scoreDf:
       - Gavin Myers
     - place: '17'
       total: 521
+      penalties: []
       breakdown:
         reach: 232.933
         effort: 251.098
@@ -10466,6 +10923,7 @@ scoreDf:
       - Craig Taylor
     - place: '18'
       total: 517
+      penalties: []
       breakdown:
         reach: 230.697
         effort: 244.741
@@ -10489,6 +10947,7 @@ scoreDf:
       - Rohan Taylor
     - place: '19'
       total: 506
+      penalties: []
       breakdown:
         reach: 225.379
         effort: 235.205
@@ -10512,6 +10971,7 @@ scoreDf:
       - Andrew Barnes
     - place: '20'
       total: 505
+      penalties: []
       breakdown:
         reach: 234.073
         effort: 254.276
@@ -10535,6 +10995,7 @@ scoreDf:
       - Michael Cassells
     - place: '21'
       total: 451
+      penalties: []
       breakdown:
         reach: 217.856
         effort: 222.492
@@ -10558,6 +11019,7 @@ scoreDf:
       - Brodrick Osborne
     - place: '22'
       total: 418
+      penalties: []
       breakdown:
         reach: 211.207
         effort: 206.599
@@ -10581,6 +11043,7 @@ scoreDf:
       - Rob de Groot
     - place: '23'
       total: 394
+      penalties: []
       breakdown:
         reach: 202.731
         effort: 187.529
@@ -10604,6 +11067,7 @@ scoreDf:
       - Neale Halsall
     - place: '24'
       total: 370
+      penalties: []
       breakdown:
         reach: 189.421
         effort: 174.815
@@ -10627,6 +11091,7 @@ scoreDf:
       - Wayne Thompson
     - place: '25'
       total: 340
+      penalties: []
       breakdown:
         reach: 174.885
         effort: 165.279
@@ -10650,6 +11115,7 @@ scoreDf:
       - Brad Porter
     - place: '26'
       total: 331
+      penalties: []
       breakdown:
         reach: 156.176
         effort: 158.923
@@ -10673,6 +11139,7 @@ scoreDf:
       - Dale Regehr
     - place: '27'
       total: 321
+      penalties: []
       breakdown:
         reach: 152.004
         effort: 152.566
@@ -10696,6 +11163,7 @@ scoreDf:
       - Mikhail Karmazin
     - place: '28'
       total: 268
+      penalties: []
       breakdown:
         reach: 134.977
         effort: 133.495
@@ -10719,6 +11187,7 @@ scoreDf:
       - Simon West
     - place: '29'
       total: 257
+      penalties: []
       breakdown:
         reach: 135.985
         effort: 120.781
@@ -10742,6 +11211,7 @@ scoreDf:
       - Attila Bertok
     - place: '30'
       total: 253
+      penalties: []
       breakdown:
         reach: 131.774
         effort: 104.889
@@ -10765,6 +11235,7 @@ scoreDf:
       - Yasuhiro Noma
     - place: '31'
       total: 207
+      penalties: []
       breakdown:
         reach: 121.494
         effort: 85.818
@@ -10788,6 +11259,7 @@ scoreDf:
       - Mark Alton
     - place: '32'
       total: 191
+      penalties: []
       breakdown:
         reach: 118.311
         effort: 73.104
@@ -10811,6 +11283,7 @@ scoreDf:
       - Rob Larkin
     - place: '33'
       total: 172
+      penalties: []
       breakdown:
         reach: 115.123
         effort: 57.212
@@ -10834,6 +11307,7 @@ scoreDf:
       - Vic Hare
     - place: '34'
       total: 128
+      penalties: []
       breakdown:
         reach: 89.427
         effort: 38.141
@@ -10857,6 +11331,7 @@ scoreDf:
       - Jon Durand Snr
     - place: '35'
       total: 97
+      penalties: []
       breakdown:
         reach: 61.645
         effort: 34.963
@@ -10880,6 +11355,7 @@ scoreDf:
       - Randal Clotworthy
     - place: '36'
       total: 69
+      penalties: []
       breakdown:
         reach: 36.791
         effort: 31.785
@@ -10903,6 +11379,7 @@ scoreDf:
       - Longfei Yang
     - place: '37'
       total: 63
+      penalties: []
       breakdown:
         reach: 37.28
         effort: 25.428
@@ -10926,6 +11403,7 @@ scoreDf:
       - Nick Purcell
     - place: '38'
       total: 53
+      penalties: []
       breakdown:
         reach: 36.825
         effort: 15.892
@@ -10949,6 +11427,7 @@ scoreDf:
       - Peter Burkitt
     - place: 39=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -10972,6 +11451,7 @@ scoreDf:
       - Yoko Sano
     - place: 39=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -10995,6 +11475,7 @@ scoreDf:
       - Oliver Chitty
     - place: '1'
       total: 992
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11018,6 +11499,7 @@ scoreDf:
       - Jonny Durand
     - place: '2'
       total: 976
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11041,6 +11523,7 @@ scoreDf:
       - Guy Hubbard
     - place: '3'
       total: 960
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11064,6 +11547,7 @@ scoreDf:
       - Gavin Myers
     - place: '4'
       total: 953
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11087,6 +11571,7 @@ scoreDf:
       - Rory Duncan
     - place: '5'
       total: 944
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11110,6 +11595,7 @@ scoreDf:
       - Nils Vesk
     - place: '6'
       total: 883
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11133,6 +11619,7 @@ scoreDf:
       - Jon Durand Snr
     - place: '7'
       total: 871
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11156,6 +11643,7 @@ scoreDf:
       - Craig Taylor
     - place: '8'
       total: 852
+      penalties: []
       breakdown:
         reach: 317.253
         effort: 317.253
@@ -11179,6 +11667,7 @@ scoreDf:
       - Trent Brown
     - place: '9'
       total: 664
+      penalties: []
       breakdown:
         reach: 299.093
         effort: 309.048
@@ -11202,6 +11691,7 @@ scoreDf:
       - Rohan Taylor
     - place: '10'
       total: 658
+      penalties: []
       breakdown:
         reach: 298.266
         effort: 300.843
@@ -11225,6 +11715,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: '11'
       total: 644
+      penalties: []
       breakdown:
         reach: 304.115
         effort: 317.253
@@ -11248,6 +11739,7 @@ scoreDf:
       - Nick Purcell
     - place: '12'
       total: 627
+      penalties: []
       breakdown:
         reach: 300.096
         effort: 314.518
@@ -11271,6 +11763,7 @@ scoreDf:
       - Frank Chetcuti
     - place: '13'
       total: 620
+      penalties: []
       breakdown:
         reach: 296.432
         effort: 289.904
@@ -11294,6 +11787,7 @@ scoreDf:
       - Attila Bertok
     - place: '14'
       total: 561
+      penalties: []
       breakdown:
         reach: 277.715
         effort: 259.819
@@ -11317,6 +11811,7 @@ scoreDf:
       - Ryosuke Hattori
     - place: '15'
       total: 560
+      penalties: []
       breakdown:
         reach: 280.689
         effort: 276.229
@@ -11340,6 +11835,7 @@ scoreDf:
       - Sasha Serebrennikova
     - place: '16'
       total: 538
+      penalties: []
       breakdown:
         reach: 263.598
         effort: 229.735
@@ -11363,6 +11859,7 @@ scoreDf:
       - Steve Docherty
     - place: '17'
       total: 531
+      penalties: []
       breakdown:
         reach: 261.778
         effort: 218.795
@@ -11386,6 +11883,7 @@ scoreDf:
       - Mikhail Karmazin
     - place: '18'
       total: 527
+      penalties: []
       breakdown:
         reach: 262.361
         effort: 218.795
@@ -11409,6 +11907,7 @@ scoreDf:
       - Josh Woods
     - place: '19'
       total: 521
+      penalties: []
       breakdown:
         reach: 261.335
         effort: 205.121
@@ -11432,6 +11931,7 @@ scoreDf:
       - Vic Hare
     - place: '20'
       total: 513
+      penalties: []
       breakdown:
         reach: 267.229
         effort: 240.675
@@ -11455,6 +11955,7 @@ scoreDf:
       - Yoko Sano
     - place: '21'
       total: 490
+      penalties: []
       breakdown:
         reach: 258.487
         effort: 188.711
@@ -11478,6 +11979,7 @@ scoreDf:
       - Yasuhiro Noma
     - place: '22'
       total: 438
+      penalties: []
       breakdown:
         reach: 235.516
         effort: 153.157
@@ -11501,6 +12003,7 @@ scoreDf:
       - Tony Armstrong
     - place: '23'
       total: 419
+      penalties: []
       breakdown:
         reach: 234.14
         effort: 136.747
@@ -11524,6 +12027,7 @@ scoreDf:
       - Longfei Yang
     - place: '24'
       total: 408
+      penalties: []
       breakdown:
         reach: 238.538
         effort: 169.566
@@ -11547,6 +12051,7 @@ scoreDf:
       - Oyvind Ellefsen
     - place: 25=
       total: 394
+      penalties: []
       breakdown:
         reach: 235.228
         effort: 153.157
@@ -11570,6 +12075,7 @@ scoreDf:
       - Olav Opsanger
     - place: 25=
       total: 394
+      penalties: []
       breakdown:
         reach: 231.757
         effort: 117.602
@@ -11593,6 +12099,7 @@ scoreDf:
       - Wayne Thompson
     - place: '27'
       total: 344
+      penalties: []
       breakdown:
         reach: 224.196
         effort: 98.458
@@ -11616,6 +12123,7 @@ scoreDf:
       - Neale Halsall
     - place: '28'
       total: 310
+      penalties: []
       breakdown:
         reach: 200.077
         effort: 84.783
@@ -11639,6 +12147,7 @@ scoreDf:
       - Dale Regehr
     - place: '29'
       total: 307
+      penalties: []
       breakdown:
         reach: 198.359
         effort: 84.783
@@ -11662,6 +12171,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '30'
       total: 282
+      penalties: []
       breakdown:
         reach: 196.366
         effort: 79.313
@@ -11685,6 +12195,7 @@ scoreDf:
       - Rob de Groot
     - place: '31'
       total: 279
+      penalties: []
       breakdown:
         reach: 189.946
         effort: 71.108
@@ -11708,6 +12219,7 @@ scoreDf:
       - Brad Porter
     - place: '32'
       total: 263
+      penalties: []
       breakdown:
         reach: 184.202
         effort: 62.904
@@ -11731,6 +12243,7 @@ scoreDf:
       - Anatoly Reyter
     - place: '33'
       total: 238
+      penalties: []
       breakdown:
         reach: 185.822
         effort: 51.964
@@ -11754,6 +12267,7 @@ scoreDf:
       - Gennadiy Khramov
     - place: '34'
       total: 226
+      penalties: []
       breakdown:
         reach: 176.169
         effort: 38.289
@@ -11777,6 +12291,7 @@ scoreDf:
       - Gordon Rigg
     - place: '35'
       total: 179
+      penalties: []
       breakdown:
         reach: 145.132
         effort: 21.88
@@ -11800,6 +12315,7 @@ scoreDf:
       - Mark Alton
     - place: '36'
       total: 153
+      penalties: []
       breakdown:
         reach: 139.696
         effort: 13.675
@@ -11823,6 +12339,7 @@ scoreDf:
       - Peter Burkitt
     - place: '37'
       total: 39
+      penalties: []
       breakdown:
         reach: 31.279
         effort: 8.205
@@ -11846,6 +12363,7 @@ scoreDf:
       - Jonny Durand
     - place: '1'
       total: 994
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -11869,6 +12387,7 @@ scoreDf:
       - Rory Duncan
     - place: '2'
       total: 931
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -11892,6 +12411,7 @@ scoreDf:
       - Jason Kath
     - place: '3'
       total: 930
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -11915,6 +12435,7 @@ scoreDf:
       - Guy Hubbard
     - place: '4'
       total: 866
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -11938,6 +12459,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: '5'
       total: 862
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -11961,6 +12483,7 @@ scoreDf:
       - Steve Docherty
     - place: '6'
       total: 845
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -11984,6 +12507,7 @@ scoreDf:
       - Attila Bertok
     - place: '7'
       total: 844
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12007,6 +12531,7 @@ scoreDf:
       - Brad Porter
     - place: '8'
       total: 825
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12030,6 +12555,7 @@ scoreDf:
       - Yasuhiro Noma
     - place: '9'
       total: 813
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12053,6 +12579,7 @@ scoreDf:
       - Gavin Myers
     - place: '10'
       total: 799
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12076,6 +12603,7 @@ scoreDf:
       - Oliver Chitty
     - place: '11'
       total: 787
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12099,6 +12627,7 @@ scoreDf:
       - Olav Opsanger
     - place: '12'
       total: 785
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12122,6 +12651,7 @@ scoreDf:
       - Josh Woods
     - place: '13'
       total: 774
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12145,6 +12675,7 @@ scoreDf:
       - Oyvind Ellefsen
     - place: '14'
       total: 772
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12168,6 +12699,7 @@ scoreDf:
       - Tony Armstrong
     - place: '15'
       total: 745
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12191,6 +12723,7 @@ scoreDf:
       - Malcolm Brown
     - place: '16'
       total: 742
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12214,6 +12747,7 @@ scoreDf:
       - Nick Purcell
     - place: '17'
       total: 737
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12237,6 +12771,7 @@ scoreDf:
       - Jon Durand Snr
     - place: '18'
       total: 725
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12260,6 +12795,7 @@ scoreDf:
       - Gordon Rigg
     - place: '19'
       total: 724
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12283,6 +12819,7 @@ scoreDf:
       - Neale Halsall
     - place: '20'
       total: 668
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12306,6 +12843,7 @@ scoreDf:
       - Trent Brown
     - place: '21'
       total: 629
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12329,6 +12867,7 @@ scoreDf:
       - Craig Taylor
     - place: '22'
       total: 617
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12352,6 +12891,7 @@ scoreDf:
       - Sasha Serebrennikova
     - place: '23'
       total: 615
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12375,6 +12915,7 @@ scoreDf:
       - Ryosuke Hattori
     - place: '24'
       total: 506
+      penalties: []
       breakdown:
         reach: 205.102
         effort: 205.102
@@ -12398,6 +12939,7 @@ scoreDf:
       - Rob de Groot
     - place: '25'
       total: 389
+      penalties: []
       breakdown:
         reach: 166.485
         effort: 199.608
@@ -12421,6 +12963,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '26'
       total: 386
+      penalties: []
       breakdown:
         reach: 157.106
         effort: 194.114
@@ -12444,6 +12987,7 @@ scoreDf:
       - Michael Cassells
     - place: '27'
       total: 385
+      penalties: []
       breakdown:
         reach: 157.424
         effort: 186.789
@@ -12467,6 +13011,7 @@ scoreDf:
       - Longfei Yang
     - place: '28'
       total: 375
+      penalties: []
       breakdown:
         reach: 170.287
         effort: 205.102
@@ -12490,6 +13035,7 @@ scoreDf:
       - Dale Regehr
     - place: '29'
       total: 370
+      penalties: []
       breakdown:
         reach: 166.424
         effort: 203.27
@@ -12513,6 +13059,7 @@ scoreDf:
       - Rohan Taylor
     - place: '30'
       total: 359
+      penalties: []
       breakdown:
         reach: 148.296
         effort: 166.645
@@ -12536,6 +13083,7 @@ scoreDf:
       - Mikhail Karmazin
     - place: '31'
       total: 336
+      penalties: []
       breakdown:
         reach: 147.638
         effort: 153.826
@@ -12559,6 +13107,7 @@ scoreDf:
       - Rick Martin
     - place: '32'
       total: 331
+      penalties: []
       breakdown:
         reach: 153.462
         effort: 177.633
@@ -12582,6 +13131,7 @@ scoreDf:
       - Anatoly Reyter
     - place: '33'
       total: 313
+      penalties: []
       breakdown:
         reach: 147.924
         effort: 139.176
@@ -12605,6 +13155,7 @@ scoreDf:
       - Nils Vesk
     - place: '34'
       total: 291
+      penalties: []
       breakdown:
         reach: 136.818
         effort: 106.213
@@ -12628,6 +13179,7 @@ scoreDf:
       - Peter Burkitt
     - place: '35'
       total: 264
+      penalties: []
       breakdown:
         reach: 140.815
         effort: 122.695
@@ -12651,6 +13203,7 @@ scoreDf:
       - Yoko Sano
     - place: '36'
       total: 240
+      penalties: []
       breakdown:
         reach: 133.791
         effort: 75.082
@@ -12674,6 +13227,7 @@ scoreDf:
       - Wayne Thompson
     - place: '37'
       total: 226
+      penalties: []
       breakdown:
         reach: 134.399
         effort: 91.563
@@ -12697,6 +13251,7 @@ scoreDf:
       - Don Cramer
     - place: '38'
       total: 189
+      penalties: []
       breakdown:
         reach: 132.69
         effort: 56.769
@@ -12720,6 +13275,7 @@ scoreDf:
       - Mark Alton
     - place: '39'
       total: 158
+      penalties: []
       breakdown:
         reach: 119.41
         effort: 36.625
@@ -12743,6 +13299,7 @@ scoreDf:
       - Andrew Barnes
     - place: '40'
       total: 126
+      penalties: []
       breakdown:
         reach: 105.76
         effort: 20.144
@@ -12766,6 +13323,7 @@ scoreDf:
       - Vic Hare
     - place: '41'
       total: 78
+      penalties: []
       breakdown:
         reach: 59.664
         effort: 18.313
@@ -12789,6 +13347,7 @@ scoreDf:
       - Rob Larkin
     - place: '42'
       total: 73
+      penalties: []
       breakdown:
         reach: 58.128
         effort: 14.65
@@ -12812,6 +13371,7 @@ scoreDf:
       - Randal Clotworthy
     - place: '43'
       total: 42
+      penalties: []
       breakdown:
         reach: 32.764
         effort: 9.156
@@ -12835,6 +13395,7 @@ scoreDf:
       - Ross Smith
     - place: '44'
       total: 38
+      penalties: []
       breakdown:
         reach: 34.23
         effort: 3.663
@@ -12858,6 +13419,7 @@ scoreDf:
       - Attila Bertok
     - place: '1'
       total: 991
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -12881,6 +13443,7 @@ scoreDf:
       - Tyler Borrdaile
     - place: '2'
       total: 910
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -12904,6 +13467,7 @@ scoreDf:
       - Rory Duncan
     - place: '3'
       total: 896
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -12927,6 +13491,7 @@ scoreDf:
       - Jason Kath
     - place: '4'
       total: 870
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -12950,6 +13515,7 @@ scoreDf:
       - Rohan Taylor
     - place: 5=
       total: 864
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -12973,6 +13539,7 @@ scoreDf:
       - Josh Woods
     - place: 5=
       total: 864
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -12996,6 +13563,7 @@ scoreDf:
       - Jonny Durand
     - place: '7'
       total: 837
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13019,6 +13587,7 @@ scoreDf:
       - Trent Brown
     - place: '8'
       total: 820
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13042,6 +13611,7 @@ scoreDf:
       - Nick Purcell
     - place: 9=
       total: 811
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13065,6 +13635,7 @@ scoreDf:
       - Steve Blenkinsop
     - place: 9=
       total: 811
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13088,6 +13659,7 @@ scoreDf:
       - Guy Hubbard
     - place: '11'
       total: 751
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13111,6 +13683,7 @@ scoreDf:
       - Gordon Rigg
     - place: '12'
       total: 655
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13134,6 +13707,7 @@ scoreDf:
       - Oliver Chitty
     - place: '13'
       total: 643
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13157,6 +13731,7 @@ scoreDf:
       - Rob de Groot
     - place: '14'
       total: 642
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13180,6 +13755,7 @@ scoreDf:
       - Olav Opsanger
     - place: '15'
       total: 603
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13203,6 +13779,7 @@ scoreDf:
       - Yasuhiro Noma
     - place: '16'
       total: 595
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13226,6 +13803,7 @@ scoreDf:
       - Gavin Myers
     - place: '17'
       total: 571
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13249,6 +13827,7 @@ scoreDf:
       - Yoko Sano
     - place: '18'
       total: 565
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13272,6 +13851,7 @@ scoreDf:
       - Tony Armstrong
     - place: '19'
       total: 556
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13295,6 +13875,7 @@ scoreDf:
       - Neale Halsall
     - place: '20'
       total: 505
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13318,6 +13899,7 @@ scoreDf:
       - Vic Hare
     - place: '21'
       total: 495
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13341,6 +13923,7 @@ scoreDf:
       - Ryosuke Hattori
     - place: '22'
       total: 464
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13364,6 +13947,7 @@ scoreDf:
       - Malcolm Brown
     - place: '23'
       total: 455
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13387,6 +13971,7 @@ scoreDf:
       - Sasha Serebrennikova
     - place: '24'
       total: 446
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13410,6 +13995,7 @@ scoreDf:
       - Craig Taylor
     - place: '25'
       total: 411
+      penalties: []
       breakdown:
         reach: 192.603
         effort: 192.603
@@ -13433,6 +14019,7 @@ scoreDf:
       - Steve Docherty
     - place: '26'
       total: 359
+      penalties: []
       breakdown:
         reach: 166.072
         effort: 192.603
@@ -13456,6 +14043,7 @@ scoreDf:
       - Dale Regehr
     - place: '27'
       total: 340
+      penalties: []
       breakdown:
         reach: 150.588
         effort: 189.101
@@ -13479,6 +14067,7 @@ scoreDf:
       - Mikhail Karmazin
     - place: '28'
       total: 315
+      penalties: []
       breakdown:
         reach: 132.544
         effort: 182.097
@@ -13502,6 +14091,7 @@ scoreDf:
       - Wayne Thompson
     - place: '29'
       total: 305
+      penalties: []
       breakdown:
         reach: 133.651
         effort: 171.591
@@ -13525,6 +14115,7 @@ scoreDf:
       - Michael Cassells
     - place: '30'
       total: 281
+      penalties: []
       breakdown:
         reach: 123.746
         effort: 157.584
@@ -13548,6 +14139,7 @@ scoreDf:
       - Frank Chetcuti
     - place: '31'
       total: 261
+      penalties: []
       breakdown:
         reach: 120.956
         effort: 140.075
@@ -13571,6 +14163,7 @@ scoreDf:
       - Nils Vesk
     - place: '32'
       total: 237
+      penalties: []
       breakdown:
         reach: 117.481
         effort: 119.063
@@ -13594,6 +14187,7 @@ scoreDf:
       - Randal Clotworthy
     - place: '33'
       total: 179
+      penalties: []
       breakdown:
         reach: 105.027
         effort: 73.539
@@ -13617,6 +14211,7 @@ scoreDf:
       - Brad Porter
     - place: 34=
       total: 124
+      penalties: []
       breakdown:
         reach: 75.423
         effort: 49.026
@@ -13640,6 +14235,7 @@ scoreDf:
       - Jon Durand Snr
     - place: 34=
       total: 124
+      penalties: []
       breakdown:
         reach: 75.315
         effort: 49.026
@@ -13663,6 +14259,7 @@ scoreDf:
       - Longfei Yang
     - place: '36'
       total: 110
+      penalties: []
       breakdown:
         reach: 71.869
         effort: 38.521
@@ -13686,6 +14283,7 @@ scoreDf:
       - Oyvind Ellefsen
     - place: '37'
       total: 88
+      penalties: []
       breakdown:
         reach: 63.263
         effort: 24.513
@@ -13709,6 +14307,7 @@ scoreDf:
       - Peter Burkitt
     - place: '38'
       total: 50
+      penalties: []
       breakdown:
         reach: 35.878
         effort: 14.007
@@ -13733,6 +14332,7 @@ scoreDfNoTrack:
       - Rob de Groot
     - place: '1'
       total: 483
+      penalties: []
       breakdown:
         reach: 223.699
         effort: 259.123
@@ -13748,6 +14348,7 @@ scoreDfNoTrack:
       - Yasuhiro Noma
     - place: '2'
       total: 474
+      penalties: []
       breakdown:
         reach: 217.146
         effort: 257.189
@@ -13763,6 +14364,7 @@ scoreDfNoTrack:
       - Vic Hare
     - place: '3'
       total: 470
+      penalties: []
       breakdown:
         reach: 216.365
         effort: 253.322
@@ -13778,6 +14380,7 @@ scoreDfNoTrack:
       - Yoko Sano
     - place: '4'
       total: 458
+      penalties: []
       breakdown:
         reach: 210.521
         effort: 247.52
@@ -13793,6 +14396,7 @@ scoreDfNoTrack:
       - Dale Regehr
     - place: '5'
       total: 403
+      penalties: []
       breakdown:
         reach: 198.123
         effort: 204.978
@@ -13808,6 +14412,7 @@ scoreDfNoTrack:
       - Wayne Thompson
     - place: '6'
       total: 324
+      penalties: []
       breakdown:
         reach: 175.198
         effort: 148.899
@@ -13823,6 +14428,7 @@ scoreDfNoTrack:
       - Steve Docherty
     - place: '7'
       total: 313
+      penalties: []
       breakdown:
         reach: 173.855
         effort: 139.23
@@ -13838,6 +14444,7 @@ scoreDfNoTrack:
       - Randal Clotworthy
     - place: '8'
       total: 218
+      penalties: []
       breakdown:
         reach: 111.886
         effort: 106.356
@@ -13853,6 +14460,7 @@ scoreDfNoTrack:
       - Gavin Myers
     - place: 9=
       total: 26
+      penalties: []
       breakdown:
         reach: 18.147
         effort: 7.735
@@ -13868,6 +14476,7 @@ scoreDfNoTrack:
       - Robert Davies
     - place: 9=
       total: 26
+      penalties: []
       breakdown:
         reach: 18.147
         effort: 7.735
@@ -13879,55 +14488,12 @@ scoreDfNoTrack:
       reachDistance: 0.000 km
       landedDistance: 0.000 km
       stoppedAlt: null
-- - - - '107'
-      - Anatoly Reyter
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '4'
-      - Frank Chetcuti
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '99'
-      - Gennadiy Khramov
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '94'
-      - Justinas Pleikys
-    - place: 1=
-      total: 24
+- - - - '68'
+      - Neale Halsall
+    - place: '1'
+      total: 415
+      penalties:
+      - penalty-points: -391
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -13941,98 +14507,10 @@ scoreDfNoTrack:
       stoppedAlt: null
   - - - '28'
       - Mikhail Karmazin
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '68'
-      - Neale Halsall
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '108'
-      - Peter Adriaans
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '83'
-      - Randal Clotworthy
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '102'
-      - Robert Davies
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '86'
-      - Ross Smith
-    - place: 1=
-      total: 24
-      breakdown:
-        reach: 15.194
-        effort: 8.552
-        distance: 23.746
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 0.000 km
-      landedDistance: 0.000 km
-      stoppedAlt: null
-  - - - '88'
-      - Simon West
-    - place: 1=
-      total: 24
+    - place: '2'
+      total: 277
+      penalties:
+      - penalty-points: -253
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -14046,8 +14524,158 @@ scoreDfNoTrack:
       stoppedAlt: null
   - - - '74'
       - Vic Hare
-    - place: 1=
+    - place: '3'
+      total: 266
+      penalties:
+      - penalty-points: -242
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '4'
+      - Frank Chetcuti
+    - place: '4'
+      total: 200
+      penalties:
+      - penalty-points: -176
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '107'
+      - Anatoly Reyter
+    - place: '5'
+      total: 131
+      penalties:
+      - penalty-points: -107
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '86'
+      - Ross Smith
+    - place: '6'
+      total: 104
+      penalties:
+      - penalty-points: -80
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '83'
+      - Randal Clotworthy
+    - place: '7'
+      total: 50
+      penalties:
+      - penalty-points: -26
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '99'
+      - Gennadiy Khramov
+    - place: 8=
       total: 24
+      penalties: []
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '94'
+      - Justinas Pleikys
+    - place: 8=
+      total: 24
+      penalties: []
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '108'
+      - Peter Adriaans
+    - place: 8=
+      total: 24
+      penalties: []
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '102'
+      - Robert Davies
+    - place: 8=
+      total: 24
+      penalties: []
+      breakdown:
+        reach: 15.194
+        effort: 8.552
+        distance: 23.746
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+      stoppedAlt: null
+  - - - '88'
+      - Simon West
+    - place: 8=
+      total: 24
+      penalties: []
       breakdown:
         reach: 15.194
         effort: 8.552
@@ -14064,6 +14692,7 @@ scoreDfNoTrack:
       - Rick Martin
     - place: '1'
       total: 290
+      penalties: []
       breakdown:
         reach: 147.027
         effort: 143.03
@@ -14079,6 +14708,7 @@ scoreDfNoTrack:
       - Don Cramer
     - place: 2=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -14094,6 +14724,7 @@ scoreDfNoTrack:
       - Frank Chetcuti
     - place: 2=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -14109,6 +14740,7 @@ scoreDfNoTrack:
       - Malcolm Brown
     - place: 2=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -14124,6 +14756,7 @@ scoreDfNoTrack:
       - Oyvind Ellefsen
     - place: 2=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -14139,6 +14772,7 @@ scoreDfNoTrack:
       - Ross Smith
     - place: 2=
       total: 10
+      penalties: []
       breakdown:
         reach: 6.541
         effort: 3.178
@@ -14154,6 +14788,7 @@ scoreDfNoTrack:
       - Michael Cassells
     - place: 1=
       total: 26
+      penalties: []
       breakdown:
         reach: 20.609
         effort: 5.47
@@ -14169,6 +14804,7 @@ scoreDfNoTrack:
       - Rob Larkin
     - place: 1=
       total: 26
+      penalties: []
       breakdown:
         reach: 20.609
         effort: 5.47
@@ -14184,6 +14820,7 @@ scoreDfNoTrack:
       - Gennadiy Khramov
     - place: '1'
       total: 16
+      penalties: []
       breakdown:
         reach: 12.322
         effort: 3.663
@@ -14198,7 +14835,9 @@ scoreDfNoTrack:
 - - - - '85'
       - Rick Martin
     - place: '1'
-      total: 201
+      total: 131
+      penalties:
+      - penalty-points: 70
       breakdown:
         reach: 106.323
         effort: 94.55

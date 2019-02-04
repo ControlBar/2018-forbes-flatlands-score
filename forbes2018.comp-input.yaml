@@ -89,7 +89,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
-  penalties: []
+  penals: []
 - taskName: task 2
   zones:
     raw:
@@ -177,7 +177,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '74'
       - Vic Hare
     - - penalty-points: -242
@@ -273,7 +273,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '43'
       - Jonny Durand
     - - penalty-points: -704
@@ -338,7 +338,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 - taskName: Task 5
   zones:
     raw:
@@ -413,7 +413,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 - taskName: Task 6
   zones:
     raw:
@@ -501,7 +501,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties: []
+  penals: []
 - taskName: Task 7
   zones:
     raw:
@@ -589,7 +589,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
-  penalties:
+  penals:
   - - - '85'
       - Rick Martin
     - - penalty-points: 70
