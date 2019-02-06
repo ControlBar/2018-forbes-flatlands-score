@@ -181,24 +181,31 @@ tasks:
   - - - '74'
       - Vic Hare
     - - penalty-points: -242
+    - ''
   - - - '68'
       - Neale Halsall
     - - penalty-points: -391
+    - ''
   - - - '28'
       - Mikhail Karmazin
     - - penalty-points: -253
+    - ''
   - - - '107'
       - Anatoly Reyter
     - - penalty-points: -107
+    - ''
   - - - '83'
       - Randal Clotworthy
     - - penalty-points: -26
+    - ''
   - - - '4'
       - Frank Chetcuti
     - - penalty-points: -176
+    - ''
   - - - '86'
       - Ross Smith
     - - penalty-points: -80
+    - ''
 - taskName: Task 3
   zones:
     raw:
@@ -277,6 +284,7 @@ tasks:
   - - - '43'
       - Jonny Durand
     - - penalty-points: -704
+    - ''
 - taskName: Task 4
   zones:
     raw:
@@ -593,6 +601,7 @@ tasks:
   - - - '85'
       - Rick Martin
     - - penalty-points: 70
+    - Early Start
 taskFolders:
 - - task 1
 - - task 2
