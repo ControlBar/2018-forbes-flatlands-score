@@ -1592,119 +1592,229 @@ pilots:
 pilotGroups:
 - absent: []
   didFlyNoTracklog:
-  - - - '52'
-      - Dale Regehr
-    - awardedFrac: 0.7645913306621088
+  - pilot:
+    - '52'
+    - Dale Regehr
+    awardedReach:
       awardedMade: 109.150000 km
       awardedTask: 142.756000 km
-  - - - '37'
-      - Gavin Myers
-    - awardedFrac: 0
+      awardedFrac: 0.7645913306621088
+    awardedVelocity:
+      ss: 2017-12-30T04:15:30Z
+      es: null
+  - pilot:
+    - '37'
+    - Gavin Myers
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 142.756000 km
-  - - - '83'
-      - Randal Clotworthy
-    - awardedFrac: 0.4317857042786293
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '83'
+    - Randal Clotworthy
+    awardedReach:
       awardedMade: 61.640000 km
       awardedTask: 142.756000 km
-  - - - '42'
-      - Rob de Groot
-    - awardedFrac: 0.8632912101768052
+      awardedFrac: 0.4317857042786293
+    awardedVelocity:
+      ss: 2017-12-30T05:22:03Z
+      es: null
+  - pilot:
+    - '42'
+    - Rob de Groot
+    awardedReach:
       awardedMade: 123.240000 km
       awardedTask: 142.756000 km
-  - - - '102'
-      - Robert Davies
-    - awardedFrac: 0
+      awardedFrac: 0.8632912101768052
+    awardedVelocity:
+      ss: 2017-12-30T04:15:48Z
+      es: null
+  - pilot:
+    - '102'
+    - Robert Davies
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 142.756000 km
-  - - - '36'
-      - Steve Docherty
-    - awardedFrac: 0.6709350219955729
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '36'
+    - Steve Docherty
+    awardedReach:
       awardedMade: 95.780000 km
       awardedTask: 142.756000 km
-  - - - '74'
-      - Vic Hare
-    - awardedFrac: 0.8349911737510157
+      awardedFrac: 0.6709350219955729
+    awardedVelocity:
+      ss: 2017-12-30T04:25:03Z
+      es: null
+  - pilot:
+    - '74'
+    - Vic Hare
+    awardedReach:
       awardedMade: 119.200000 km
       awardedTask: 142.756000 km
-  - - - '103'
-      - Wayne Thompson
-    - awardedFrac: 0.67611869203396
+      awardedFrac: 0.8349911737510157
+    awardedVelocity:
+      ss: 2017-12-30T04:32:32Z
+      es: null
+  - pilot:
+    - '103'
+    - Wayne Thompson
+    awardedReach:
       awardedMade: 96.520000 km
       awardedTask: 142.756000 km
-  - - - '75'
-      - Yasuhiro Noma
-    - awardedFrac: 0.8380033063408894
+      awardedFrac: 0.67611869203396
+    awardedVelocity:
+      ss: 2017-12-30T04:20:15Z
+      es: null
+  - pilot:
+    - '75'
+    - Yasuhiro Noma
+    awardedReach:
       awardedMade: 119.630000 km
       awardedTask: 142.756000 km
-  - - - '6'
-      - Yoko Sano
-    - awardedFrac: 0.8124352041245202
+      awardedFrac: 0.8380033063408894
+    awardedVelocity:
+      ss: 2017-12-30T04:15:36Z
+      es: null
+  - pilot:
+    - '6'
+    - Yoko Sano
+    awardedReach:
       awardedMade: 115.980000 km
       awardedTask: 142.756000 km
+      awardedFrac: 0.8124352041245202
+    awardedVelocity:
+      ss: 2017-12-30T04:15:42Z
+      es: null
   dnf: []
 - absent: []
   didFlyNoTracklog:
-  - - - '107'
-      - Anatoly Reyter
-    - awardedFrac: 0
+  - pilot:
+    - '107'
+    - Anatoly Reyter
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '4'
-      - Frank Chetcuti
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '4'
+    - Frank Chetcuti
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '99'
-      - Gennadiy Khramov
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '99'
+    - Gennadiy Khramov
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '94'
-      - Justinas Pleikys
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '94'
+    - Justinas Pleikys
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '28'
-      - Mikhail Karmazin
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '28'
+    - Mikhail Karmazin
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '68'
-      - Neale Halsall
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '68'
+    - Neale Halsall
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '108'
-      - Peter Adriaans
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '108'
+    - Peter Adriaans
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '83'
-      - Randal Clotworthy
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '83'
+    - Randal Clotworthy
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '102'
-      - Robert Davies
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '102'
+    - Robert Davies
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '86'
-      - Ross Smith
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '86'
+    - Ross Smith
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '88'
-      - Simon West
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '88'
+    - Simon West
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
-  - - - '74'
-      - Vic Hare
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '74'
+    - Vic Hare
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 185.747000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '94'
@@ -1727,36 +1837,66 @@ pilotGroups:
   - - '102'
     - Robert Davies
   didFlyNoTracklog:
-  - - - '55'
-      - Don Cramer
-    - awardedFrac: 0
+  - pilot:
+    - '55'
+    - Don Cramer
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 388.750000 km
-  - - - '4'
-      - Frank Chetcuti
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '4'
+    - Frank Chetcuti
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 388.750000 km
-  - - - '100'
-      - Malcolm Brown
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '100'
+    - Malcolm Brown
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 388.750000 km
-  - - - '98'
-      - Oyvind Ellefsen
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '98'
+    - Oyvind Ellefsen
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 388.750000 km
-  - - - '85'
-      - Rick Martin
-    - awardedFrac: 0.5782173633440515
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '85'
+    - Rick Martin
+    awardedReach:
       awardedMade: 224.782000 km
       awardedTask: 388.750000 km
-  - - - '86'
-      - Ross Smith
-    - awardedFrac: 0
+      awardedFrac: 0.5782173633440515
+    awardedVelocity:
+      ss: 2018-01-02T01:56:06Z
+      es: null
+  - pilot:
+    - '86'
+    - Ross Smith
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 388.750000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '94'
@@ -1766,16 +1906,26 @@ pilotGroups:
   - - '108'
     - Peter Adriaans
   didFlyNoTracklog:
-  - - - '80'
-      - Michael Cassells
-    - awardedFrac: 0
+  - pilot:
+    - '80'
+    - Michael Cassells
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 153.928000 km
-  - - - '71'
-      - Rob Larkin
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '71'
+    - Rob Larkin
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 153.928000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf:
   - - '100'
     - Malcolm Brown
@@ -1795,11 +1945,16 @@ pilotGroups:
   - - '88'
     - Simon West
   didFlyNoTracklog:
-  - - - '99'
-      - Gennadiy Khramov
-    - awardedFrac: 0
+  - pilot:
+    - '99'
+    - Gennadiy Khramov
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 166.362000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '107'
@@ -1827,9 +1982,14 @@ pilotGroups:
   - - '88'
     - Simon West
   didFlyNoTracklog:
-  - - - '85'
-      - Rick Martin
-    - awardedFrac: 0.55203462197566
+  - pilot:
+    - '85'
+    - Rick Martin
+    awardedReach:
       awardedMade: 95.030000 km
       awardedTask: 172.145000 km
+      awardedFrac: 0.55203462197566
+    awardedVelocity:
+      ss: 2018-01-05T02:40:00Z
+      es: null
   dnf: []
