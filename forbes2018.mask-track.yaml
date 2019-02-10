@@ -12,6 +12,7 @@ raceTime:
   firstStart: 2017-12-30T04:00:05Z
   firstLead: 2017-12-30T04:00:05Z
   lastArrival: 2017-12-30T07:06:31Z
+  leadAllDown: 14056
   leadArrival: 11186
   leadClose: 11275
   openClose: 11280
@@ -21,6 +22,7 @@ raceTime:
   firstStart: 2017-12-31T02:15:46Z
   firstLead: 2017-12-31T02:15:46Z
   lastArrival: 2017-12-31T07:15:45Z
+  leadAllDown: 22195
   leadArrival: 17999
   leadClose: 27854
   openClose: 26100
@@ -30,6 +32,7 @@ raceTime:
   firstStart: 2018-01-01T02:28:41Z
   firstLead: 2018-01-01T02:28:41Z
   lastArrival: 2018-01-01T07:18:03Z
+  leadAllDown: 18688
   leadArrival: 17362
   leadClose: 23479
   openClose: 23400
@@ -39,6 +42,7 @@ raceTime:
   firstStart: 2018-01-02T02:00:02Z
   firstLead: 2018-01-02T02:00:02Z
   lastArrival: 2018-01-02T08:43:03Z
+  leadAllDown: 25352
   leadArrival: 24181
   leadClose: 25198
   openClose: 25200
@@ -48,6 +52,7 @@ raceTime:
   firstStart: 2018-01-03T04:15:02Z
   firstLead: 2018-01-03T04:15:02Z
   lastArrival: 2018-01-03T07:26:45Z
+  leadAllDown: 13171
   leadArrival: 11503
   leadClose: 20698
   openClose: 20700
@@ -57,6 +62,7 @@ raceTime:
   firstStart: 2018-01-04T02:49:38Z
   firstLead: 2018-01-04T02:49:38Z
   lastArrival: 2018-01-04T08:08:11Z
+  leadAllDown: 19307
   leadArrival: 19113
   leadClose: 22222
   openClose: 22200
@@ -66,6 +72,7 @@ raceTime:
   firstStart: 2018-01-05T02:40:05Z
   firstLead: 2018-01-05T02:40:05Z
   lastArrival: 2018-01-05T08:57:09Z
+  leadAllDown: 22795
   leadArrival: 22624
   leadClose: 26395
   openClose: 26400
@@ -1242,535 +1249,535 @@ lead:
 arrival:
 - - - - '92'
       - Attila Bertok
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '101'
       - Oliver Chitty
-    - rank: 2
+    - rank: '2'
       frac: 0.87771545
   - - - '27'
       - Guy Hubbard
-    - rank: 3
+    - rank: '3'
       frac: 0.76869937
   - - - '31'
       - Trent Brown
-    - rank: 4
+    - rank: '4'
       frac: 0.67217871
   - - - '76'
       - Rory Duncan
-    - rank: 5
+    - rank: '5'
       frac: 0.58738042
   - - - '25'
       - Tyler Borrdaile
-    - rank: 6
+    - rank: '6'
       frac: 0.51353145
   - - - '23'
       - Nils Vesk
-    - rank: 7
+    - rank: '7'
       frac: 0.44985874
   - - - '30'
       - Jason Kath
-    - rank: 8
+    - rank: '8'
       frac: 0.39558925
   - - - '106'
       - Jon Durand Snr
-    - rank: 9
+    - rank: '9'
       frac: 0.34994993
   - - - '62'
       - Josh Woods
-    - rank: 10
+    - rank: '10'
       frac: 0.31216772
   - - - '11'
       - Steve Blenkinsop
-    - rank: 11
+    - rank: '11'
       frac: 0.28146957
   - - - '69'
       - Niki Longshore
-    - rank: 12
+    - rank: '12'
       frac: 0.25708243
   - - - '8'
       - Gordon Rigg
-    - rank: 13
+    - rank: '13'
       frac: 0.23823326
   - - - '51'
       - Craig Taylor
-    - rank: 14
+    - rank: '14'
       frac: 0.22414899
   - - - '81'
       - Nick Purcell
-    - rank: 15
+    - rank: '15'
       frac: 0.21405658
   - - - '7'
       - Olav Opsanger
-    - rank: 16
+    - rank: '16'
       frac: 0.20718298
   - - - '22'
       - Rohan Taylor
-    - rank: 17
+    - rank: '17'
       frac: 0.20275514
 - - - - '62'
       - Josh Woods
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '43'
       - Jonny Durand
-    - rank: 2
+    - rank: '2'
       frac: 0.85326421
   - - - '92'
       - Attila Bertok
-    - rank: 3
+    - rank: '3'
       frac: 0.7258484
   - - - '76'
       - Rory Duncan
-    - rank: 4
+    - rank: '4'
       frac: 0.61636844
   - - - '101'
       - Oliver Chitty
-    - rank: 5
+    - rank: '5'
       frac: 0.52344023
   - - - '75'
       - Yasuhiro Noma
-    - rank: 6
+    - rank: '6'
       frac: 0.44567966
   - - - '27'
       - Guy Hubbard
-    - rank: 7
+    - rank: '7'
       frac: 0.38170262
   - - - '25'
       - Tyler Borrdaile
-    - rank: 8
+    - rank: '8'
       frac: 0.330125
   - - - '7'
       - Olav Opsanger
-    - rank: 9
+    - rank: '9'
       frac: 0.28956268
   - - - '11'
       - Steve Blenkinsop
-    - rank: 10
+    - rank: '10'
       frac: 0.25863156
   - - - '8'
       - Gordon Rigg
-    - rank: 11
+    - rank: '11'
       frac: 0.23594752
   - - - '69'
       - Niki Longshore
-    - rank: 12
+    - rank: '12'
       frac: 0.22012646
   - - - '41'
       - Tony Armstrong
-    - rank: 13
+    - rank: '13'
       frac: 0.20978426
   - - - '23'
       - Nils Vesk
-    - rank: 14
+    - rank: '14'
       frac: 0.20353681
 - - - - '92'
       - Attila Bertok
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '25'
       - Tyler Borrdaile
-    - rank: 2
+    - rank: '2'
       frac: 0.92666251
   - - - '62'
       - Josh Woods
-    - rank: 3
+    - rank: '3'
       frac: 0.85799451
   - - - '7'
       - Olav Opsanger
-    - rank: 4
+    - rank: '4'
       frac: 0.79384026
   - - - '81'
       - Nick Purcell
-    - rank: 5
+    - rank: '5'
       frac: 0.73404404
   - - - '11'
       - Steve Blenkinsop
-    - rank: 6
+    - rank: '6'
       frac: 0.67845012
   - - - '6'
       - Yoko Sano
-    - rank: 7
+    - rank: '7'
       frac: 0.62690278
   - - - '22'
       - Rohan Taylor
-    - rank: 8
+    - rank: '8'
       frac: 0.5792463
   - - - '51'
       - Craig Taylor
-    - rank: 9
+    - rank: '9'
       frac: 0.53532494
   - - - '34'
       - Brad Porter
-    - rank: 10
+    - rank: '10'
       frac: 0.49498298
   - - - '106'
       - Jon Durand Snr
-    - rank: 11
+    - rank: '11'
       frac: 0.4580647
   - - - '8'
       - Gordon Rigg
-    - rank: 12
+    - rank: '12'
       frac: 0.42441437
   - - - '30'
       - Jason Kath
-    - rank: 13
+    - rank: '13'
       frac: 0.39387626
   - - - '41'
       - Tony Armstrong
-    - rank: 14
+    - rank: '14'
       frac: 0.36629464
   - - - '68'
       - Neale Halsall
-    - rank: 15
+    - rank: '15'
       frac: 0.3415138
   - - - '72'
       - Sasha Serebrennikova
-    - rank: 16
+    - rank: '16'
       frac: 0.319378
   - - - '100'
       - Malcolm Brown
-    - rank: 17
+    - rank: '17'
       frac: 0.29973152
   - - - '23'
       - Nils Vesk
-    - rank: 18
+    - rank: '18'
       frac: 0.28241863
   - - - '80'
       - Michael Cassells
-    - rank: 19
+    - rank: '19'
       frac: 0.26728361
   - - - '37'
       - Gavin Myers
-    - rank: 20
+    - rank: '20'
       frac: 0.25417073
   - - - '42'
       - Rob de Groot
-    - rank: 21
+    - rank: '21'
       frac: 0.24292427
   - - - '36'
       - Steve Docherty
-    - rank: 22
+    - rank: '22'
       frac: 0.23338849
   - - - '15'
       - Ryosuke Hattori
-    - rank: 23
+    - rank: '23'
       frac: 0.22540768
   - - - '77'
       - Brodrick Osborne
-    - rank: 24
+    - rank: '24'
       frac: 0.21882611
   - - - '32'
       - Andrew Barnes
-    - rank: 25
+    - rank: '25'
       frac: 0.21348805
   - - - '31'
       - Trent Brown
-    - rank: 26
+    - rank: '26'
       frac: 0.20923777
   - - - '76'
       - Rory Duncan
-    - rank: 27
+    - rank: '27'
       frac: 0.20591955
   - - - '4'
       - Frank Chetcuti
-    - rank: 28
+    - rank: '28'
       frac: 0.20337767
   - - - '103'
       - Wayne Thompson
-    - rank: 29
+    - rank: '29'
       frac: 0.20145639
 - - - - '101'
       - Oliver Chitty
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '43'
       - Jonny Durand
-    - rank: 2
+    - rank: '2'
       frac: 0.87052124
   - - - '25'
       - Tyler Borrdaile
-    - rank: 3
+    - rank: '3'
       frac: 0.7559668
   - - - '27'
       - Guy Hubbard
-    - rank: 4
+    - rank: '4'
       frac: 0.65540942
   - - - '31'
       - Trent Brown
-    - rank: 5
+    - rank: '5'
       frac: 0.56792188
   - - - '7'
       - Olav Opsanger
-    - rank: 6
+    - rank: '6'
       frac: 0.4925769
   - - - '30'
       - Jason Kath
-    - rank: 7
+    - rank: '7'
       frac: 0.42844727
   - - - '11'
       - Steve Blenkinsop
-    - rank: 8
+    - rank: '8'
       frac: 0.37460571
   - - - '62'
       - Josh Woods
-    - rank: 9
+    - rank: '9'
       frac: 0.330125
   - - - '41'
       - Tony Armstrong
-    - rank: 10
+    - rank: '10'
       frac: 0.29407788
   - - - '8'
       - Gordon Rigg
-    - rank: 11
+    - rank: '11'
       frac: 0.26553711
   - - - '76'
       - Rory Duncan
-    - rank: 12
+    - rank: '12'
       frac: 0.24357544
   - - - '23'
       - Nils Vesk
-    - rank: 13
+    - rank: '13'
       frac: 0.22726562
   - - - '15'
       - Ryosuke Hattori
-    - rank: 14
+    - rank: '14'
       frac: 0.21568042
   - - - '36'
       - Steve Docherty
-    - rank: 15
+    - rank: '15'
       frac: 0.20789258
   - - - '72'
       - Sasha Serebrennikova
-    - rank: 16
+    - rank: '16'
       frac: 0.20297485
 - - - - '101'
       - Oliver Chitty
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '43'
       - Jonny Durand
-    - rank: 2
+    - rank: '2'
       frac: 0.7559668
   - - - '27'
       - Guy Hubbard
-    - rank: 3
+    - rank: '3'
       frac: 0.56792188
   - - - '37'
       - Gavin Myers
-    - rank: 4
+    - rank: '4'
       frac: 0.42844727
   - - - '76'
       - Rory Duncan
-    - rank: 5
+    - rank: '5'
       frac: 0.330125
   - - - '106'
       - Jon Durand Snr
-    - rank: 6
+    - rank: '6'
       frac: 0.26553711
   - - - '23'
       - Nils Vesk
-    - rank: 7
+    - rank: '7'
       frac: 0.22726562
   - - - '51'
       - Craig Taylor
-    - rank: 8
+    - rank: '8'
       frac: 0.20789258
 - - - - '43'
       - Jonny Durand
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '76'
       - Rory Duncan
-    - rank: 2
+    - rank: '2'
       frac: 0.91197678
   - - - '30'
       - Jason Kath
-    - rank: 3
+    - rank: '3'
       frac: 0.83072396
   - - - '27'
       - Guy Hubbard
-    - rank: 4
+    - rank: '4'
       frac: 0.7559668
   - - - '11'
       - Steve Blenkinsop
-    - rank: 5
+    - rank: '5'
       frac: 0.68743056
   - - - '36'
       - Steve Docherty
-    - rank: 6
+    - rank: '6'
       frac: 0.62484049
   - - - '34'
       - Brad Porter
-    - rank: 7
+    - rank: '7'
       frac: 0.56792188
   - - - '75'
       - Yasuhiro Noma
-    - rank: 8
+    - rank: '8'
       frac: 0.51639996
   - - - '37'
       - Gavin Myers
-    - rank: 9
+    - rank: '9'
       frac: 0.47
   - - - '62'
       - Josh Woods
-    - rank: 10
+    - rank: '10'
       frac: 0.42844727
   - - - '92'
       - Attila Bertok
-    - rank: 11
+    - rank: '11'
       frac: 0.39146701
   - - - '81'
       - Nick Purcell
-    - rank: 12
+    - rank: '12'
       frac: 0.35878451
   - - - '100'
       - Malcolm Brown
-    - rank: 13
+    - rank: '13'
       frac: 0.330125
   - - - '41'
       - Tony Armstrong
-    - rank: 14
+    - rank: '14'
       frac: 0.30521376
   - - - '7'
       - Olav Opsanger
-    - rank: 15
+    - rank: '15'
       frac: 0.28377604
   - - - '101'
       - Oliver Chitty
-    - rank: 16
+    - rank: '16'
       frac: 0.26553711
   - - - '8'
       - Gordon Rigg
-    - rank: 17
+    - rank: '17'
       frac: 0.25022222
   - - - '106'
       - Jon Durand Snr
-    - rank: 18
+    - rank: '18'
       frac: 0.23755664
   - - - '98'
       - Oyvind Ellefsen
-    - rank: 19
+    - rank: '19'
       frac: 0.22726562
   - - - '68'
       - Neale Halsall
-    - rank: 20
+    - rank: '20'
       frac: 0.21907444
   - - - '51'
       - Craig Taylor
-    - rank: 21
+    - rank: '21'
       frac: 0.21270833
   - - - '72'
       - Sasha Serebrennikova
-    - rank: 22
+    - rank: '22'
       frac: 0.20789258
   - - - '31'
       - Trent Brown
-    - rank: 23
+    - rank: '23'
       frac: 0.20435243
   - - - '15'
       - Ryosuke Hattori
-    - rank: 24
+    - rank: '24'
       frac: 0.20181315
 - - - - '92'
       - Attila Bertok
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '25'
       - Tyler Borrdaile
-    - rank: 2
+    - rank: '2'
       frac: 0.91536589
   - - - '76'
       - Rory Duncan
-    - rank: 3
+    - rank: '3'
       frac: 0.8369815
   - - - '62'
       - Josh Woods
-    - rank: 4
+    - rank: '4'
       frac: 0.76460378
   - - - '22'
       - Rohan Taylor
-    - rank: 5
+    - rank: '5'
       frac: 0.69798963
   - - - '30'
       - Jason Kath
-    - rank: 6
+    - rank: '6'
       frac: 0.636896
   - - - '43'
       - Jonny Durand
-    - rank: 7
+    - rank: '7'
       frac: 0.58107981
   - - - '31'
       - Trent Brown
-    - rank: 8
+    - rank: '8'
       frac: 0.53029798
   - - - '81'
       - Nick Purcell
-    - rank: 9
+    - rank: '9'
       frac: 0.48430746
   - - - '11'
       - Steve Blenkinsop
-    - rank: 10
+    - rank: '10'
       frac: 0.44286515
   - - - '27'
       - Guy Hubbard
-    - rank: 11
+    - rank: '11'
       frac: 0.405728
   - - - '8'
       - Gordon Rigg
-    - rank: 12
+    - rank: '12'
       frac: 0.37265293
   - - - '7'
       - Olav Opsanger
-    - rank: 13
+    - rank: '13'
       frac: 0.34339686
   - - - '101'
       - Oliver Chitty
-    - rank: 14
+    - rank: '14'
       frac: 0.31771674
   - - - '42'
       - Rob de Groot
-    - rank: 15
+    - rank: '15'
       frac: 0.29536947
   - - - '37'
       - Gavin Myers
-    - rank: 16
+    - rank: '16'
       frac: 0.276112
   - - - '75'
       - Yasuhiro Noma
-    - rank: 17
+    - rank: '17'
       frac: 0.25970125
   - - - '6'
       - Yoko Sano
-    - rank: 18
+    - rank: '18'
       frac: 0.24589414
   - - - '41'
       - Tony Armstrong
-    - rank: 19
+    - rank: '19'
       frac: 0.23444762
   - - - '68'
       - Neale Halsall
-    - rank: 20
+    - rank: '20'
       frac: 0.22511859
   - - - '74'
       - Vic Hare
-    - rank: 21
+    - rank: '21'
       frac: 0.217664
   - - - '15'
       - Ryosuke Hattori
-    - rank: 22
+    - rank: '22'
       frac: 0.21184077
   - - - '100'
       - Malcolm Brown
-    - rank: 23
+    - rank: '23'
       frac: 0.20740582
   - - - '72'
       - Sasha Serebrennikova
-    - rank: 24
+    - rank: '24'
       frac: 0.2041161
   - - - '51'
       - Craig Taylor
-    - rank: 25
+    - rank: '25'
       frac: 0.20172851
 ssSpeed:
 - - - - '92'
