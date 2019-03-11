@@ -1,2609 +1,4239 @@
 score:
 - - - - '102'
       - Robert Davies
-    - distance: 55.9
-      leading: 0
-      time: 0
+    - place: '49'
       total: 56
+      distance: 55.9
+      leading: 0
       arrival: 0
-      place: '49'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 7.004959511334025e-2
   - - - '6'
       - Yoko Sano
-    - distance: 458.1
-      leading: 0
-      time: 0
+    - place: '22'
       total: 458
+      distance: 458.1
+      leading: 0
       arrival: 0
-      place: '22'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 115.980000 km
+      distanceFrac: 0.8124352041245202
   - - - '42'
       - Rob de Groot
-    - distance: 482.8
-      leading: 0
-      time: 0
+    - place: '18'
       total: 483
+      distance: 482.8
+      leading: 0
       arrival: 0
-      place: '18'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 123.240000 km
+      distanceFrac: 0.8632912101768053
   - - - '52'
       - Dale Regehr
-    - distance: 420
-      leading: 0
-      time: 0
+    - place: '25'
       total: 420
+      distance: 420
+      leading: 0
       arrival: 0
-      place: '25'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 109.150000 km
+      distanceFrac: 0.7645913306621088
   - - - '74'
       - Vic Hare
-    - distance: 472
-      leading: 0
-      time: 0
+    - place: '21'
       total: 472
+      distance: 472
+      leading: 0
       arrival: 0
-      place: '21'
+      time: 0
+      ss: 2017-12-30T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 119.200000 km
+      distanceFrac: 0.8349911737510157
   - - - '75'
       - Yasuhiro Noma
-    - distance: 473.5
-      leading: 0
-      time: 0
+    - place: '20'
       total: 474
+      distance: 473.5
+      leading: 0
       arrival: 0
-      place: '20'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 119.630000 km
+      distanceFrac: 0.8380033063408894
   - - - '83'
       - Randal Clotworthy
-    - distance: 257.7
-      leading: 0
-      time: 0
+    - place: '35'
       total: 258
+      distance: 257.7
+      leading: 0
       arrival: 0
-      place: '35'
+      time: 0
+      ss: 2017-12-30T05:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 61.640000 km
+      distanceFrac: 0.4317857042786293
   - - - '103'
       - Wayne Thompson
-    - distance: 359.9
-      leading: 0
-      time: 0
+    - place: '29'
       total: 360
+      distance: 359.9
+      leading: 0
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 96.520000 km
+      distanceFrac: 0.67611869203396
   - - - '36'
       - Steve Docherty
-    - distance: 356.7
-      leading: 0
-      time: 0
+    - place: '30'
       total: 357
+      distance: 356.7
+      leading: 0
       arrival: 0
-      place: '30'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 95.780000 km
+      distanceFrac: 0.6709350219955729
   - - - '107'
       - Anatoly Reyter
-    - distance: 268
-      leading: 0
-      time: 0
+    - place: '34'
       total: 268
+      distance: 268
+      leading: 0
       arrival: 0
-      place: '34'
+      time: 0
+      ss: 2017-12-30T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 64.446000 km
+      distanceFrac: 0.45144162066743254
   - - - '32'
       - Andrew Barnes
-    - distance: 407.4
-      leading: 0
-      time: 0
+    - place: '26'
       total: 407
+      distance: 407.4
+      leading: 0
       arrival: 0
-      place: '26'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 106.882000 km
+      distanceFrac: 0.7487040824904032
   - - - '92'
       - Attila Bertok
-    - distance: 518.2
-      leading: 0
-      time: 481.8
+    - place: '1'
       total: 1000
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '1'
+      time: 481.8
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:11:58Z
+      ssElapsed: 2.199444 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '34'
       - Brad Porter
-    - distance: 131
-      leading: 0
-      time: 0
+    - place: '42'
       total: 131
+      distance: 131
+      leading: 0
       arrival: 0
-      place: '42'
+      time: 0
+      ss: 2017-12-30T05:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 26.399000 km
+      distanceFrac: 0.1849239261397069
   - - - '77'
       - Brodrick Osborne
-    - distance: 55.9
-      leading: 0
-      time: 0
+    - place: '49'
       total: 56
+      distance: 55.9
+      leading: 0
       arrival: 0
-      place: '49'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 7.004959511334025e-2
   - - - '51'
       - Craig Taylor
-    - distance: 518.2
+    - place: '13'
+      total: 714
+      distance: 518.2
       leading: 0
+      arrival: 0
       time: 195.8
-      total: 714
-      arrival: 0
-      place: '13'
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:52:39Z
+      ssElapsed: 2.877500 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '55'
       - Don Cramer
-    - distance: 72.4
-      leading: 0
-      time: 0
+    - place: '48'
       total: 72
+      distance: 72.4
+      leading: 0
       arrival: 0
-      place: '48'
+      time: 0
+      ss: 2017-12-30T05:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 13.302000 km
+      distanceFrac: 9.31799714197652e-2
   - - - '4'
       - Frank Chetcuti
-    - distance: 238.7
-      leading: 0
-      time: 0
+    - place: '36'
       total: 239
+      distance: 238.7
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 57.219000 km
+      distanceFrac: 0.40081677827902157
   - - - '99'
       - Gennadiy Khramov
-    - distance: 55.9
-      leading: 0
-      time: 0
+    - place: '49'
       total: 56
+      distance: 55.9
+      leading: 0
       arrival: 0
-      place: '49'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 7.004959511334025e-2
   - - - '8'
       - Gordon Rigg
-    - distance: 518.2
-      leading: 0
-      time: 195.9
+    - place: '13'
       total: 714
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '13'
+      time: 195.9
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:52:38Z
+      ssElapsed: 2.877222 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 518.2
-      leading: 0
-      time: 345.3
+    - place: '3'
       total: 864
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '3'
+      time: 345.3
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:25:23Z
+      ssElapsed: 2.423056 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '30'
       - Jason Kath
-    - distance: 518.2
-      leading: 0
-      time: 229
+    - place: '11'
       total: 747
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '11'
+      time: 229
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:45:47Z
+      ssElapsed: 2.763056 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '106'
       - Jon Durand Snr
-    - distance: 518.2
-      leading: 0
-      time: 215.3
+    - place: '12'
       total: 734
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '12'
+      time: 215.3
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:48:34Z
+      ssElapsed: 2.809444 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '43'
       - Jonny Durand
-    - distance: 271.1
-      leading: 0
-      time: 0
+    - place: '33'
       total: 271
+      distance: 271.1
+      leading: 0
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 65.481000 km
+      distanceFrac: 0.4586917537616632
   - - - '62'
       - Josh Woods
-    - distance: 518.2
+    - place: '4'
+      total: 794
+      distance: 518.2
       leading: 0
+      arrival: 0
       time: 275.6
-      total: 794
-      arrival: 0
-      place: '4'
+      ss: 2017-12-30T04:15:00Z
+      es: 2017-12-30T06:51:53Z
+      ssElapsed: 2.614722 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '94'
       - Justinas Pleikys
-    - distance: 93
-      leading: 0
-      time: 0
+    - place: '47'
       total: 93
+      distance: 93
+      leading: 0
       arrival: 0
-      place: '47'
+      time: 0
+      ss: 2017-12-30T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 17.114000 km
+      distanceFrac: 0.1198828770769705
   - - - '64'
       - Longfei Yang
-    - distance: 107.9
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 107.9
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: 2017-12-30T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 20.201000 km
+      distanceFrac: 0.14150718708845864
   - - - '100'
       - Malcolm Brown
-    - distance: 142.1
-      leading: 0
-      time: 0
+    - place: '41'
       total: 142
+      distance: 142.1
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 30.214000 km
+      distanceFrac: 0.21164784667544626
   - - - '67'
       - Mark Alton
-    - distance: 121.3
-      leading: 0
-      time: 0
+    - place: '44'
       total: 121
+      distance: 121.3
+      leading: 0
       arrival: 0
-      place: '44'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 23.316000 km
+      distanceFrac: 0.16332763596626412
   - - - '80'
       - Michael Cassells
-    - distance: 232.9
-      leading: 0
-      time: 0
+    - place: '37'
       total: 233
+      distance: 232.9
+      leading: 0
       arrival: 0
-      place: '37'
+      time: 0
+      ss: 2017-12-30T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 56.032000 km
+      distanceFrac: 0.39250189133906804
   - - - '28'
       - Mikhail Karmazin
-    - distance: 311.2
-      leading: 0
-      time: 0
+    - place: '31'
       total: 311
+      distance: 311.2
+      leading: 0
       arrival: 0
-      place: '31'
+      time: 0
+      ss: 2017-12-30T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 82.789000 km
+      distanceFrac: 0.5799335929838325
   - - - '68'
       - Neale Halsall
-    - distance: 371
-      leading: 0
-      time: 0
+    - place: '28'
       total: 371
+      distance: 371
+      leading: 0
       arrival: 0
-      place: '28'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 99.172000 km
+      distanceFrac: 0.6946958446580179
   - - - '81'
       - Nick Purcell
-    - distance: 518.2
-      leading: 0
-      time: 192.7
+    - place: '15'
       total: 711
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '15'
+      time: 192.7
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:53:20Z
+      ssElapsed: 2.888889 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '69'
       - Niki Longshore
-    - distance: 518.2
-      leading: 0
-      time: 272.9
+    - place: '6'
       total: 791
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '6'
+      time: 272.9
+      ss: 2017-12-30T04:15:00Z
+      es: 2017-12-30T06:52:22Z
+      ssElapsed: 2.622778 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '23'
       - Nils Vesk
-    - distance: 518.2
-      leading: 0
-      time: 237.2
+    - place: '10'
       total: 755
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '10'
+      time: 237.2
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:44:09Z
+      ssElapsed: 2.735833 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '7'
       - Olav Opsanger
-    - distance: 518.2
-      leading: 0
-      time: 147.5
+    - place: '16'
       total: 666
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '16'
+      time: 147.5
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T07:03:23Z
+      ssElapsed: 3.056389 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '101'
       - Oliver Chitty
-    - distance: 518.2
-      leading: 0
-      time: 442.1
+    - place: '2'
       total: 960
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '2'
+      time: 442.1
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:14:04Z
+      ssElapsed: 2.234444 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '98'
       - Oyvind Ellefsen
-    - distance: 275.9
-      leading: 0
-      time: 0
+    - place: '32'
       total: 276
+      distance: 275.9
+      leading: 0
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 67.469000 km
+      distanceFrac: 0.4726176132701954
   - - - '108'
       - Peter Adriaans
-    - distance: 458
-      leading: 0
-      time: 0
+    - place: '22'
       total: 458
+      distance: 458
+      leading: 0
       arrival: 0
-      place: '22'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 115.937000 km
+      distanceFrac: 0.8121339908655328
   - - - '14'
       - Peter Burkitt
-    - distance: 123.6
-      leading: 0
-      time: 0
+    - place: '43'
       total: 124
+      distance: 123.6
+      leading: 0
       arrival: 0
-      place: '43'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 23.955000 km
+      distanceFrac: 0.16780380509400658
   - - - '85'
       - Rick Martin
-    - distance: 167
-      leading: 0
-      time: 0
+    - place: '40'
       total: 167
+      distance: 167
+      leading: 0
       arrival: 0
-      place: '40'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 39.538000 km
+      distanceFrac: 0.27696208915912474
   - - - '71'
       - Rob Larkin
-    - distance: 211.3
-      leading: 0
-      time: 0
+    - place: '38'
       total: 211
+      distance: 211.3
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 51.417000 km
+      distanceFrac: 0.3601740031942615
   - - - '22'
       - Rohan Taylor
-    - distance: 518.2
-      leading: 0
-      time: 134.2
+    - place: '17'
       total: 652
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '17'
+      time: 134.2
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T07:06:29Z
+      ssElapsed: 3.108056 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '76'
       - Rory Duncan
-    - distance: 518.2
-      leading: 0
-      time: 257.8
+    - place: '8'
       total: 776
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '8'
+      time: 257.8
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:40:10Z
+      ssElapsed: 2.669444 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '86'
       - Ross Smith
-    - distance: 199.1
-      leading: 0
-      time: 0
+    - place: '39'
       total: 199
+      distance: 199.1
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 48.411000 km
+      distanceFrac: 0.3391170949031915
   - - - '15'
       - Ryosuke Hattori
-    - distance: 476.4
-      leading: 0
-      time: 0
+    - place: '19'
       total: 476
+      distance: 476.4
+      leading: 0
       arrival: 0
-      place: '19'
+      time: 0
+      ss: 2017-12-30T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 120.579000 km
+      distanceFrac: 0.8446510129171454
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 404.8
-      leading: 0
-      time: 0
+    - place: '27'
       total: 405
+      distance: 404.8
+      leading: 0
       arrival: 0
-      place: '27'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 106.347000 km
+      distanceFrac: 0.7449564291518396
   - - - '88'
       - Simon West
-    - distance: 95.7
-      leading: 0
-      time: 0
+    - place: '46'
       total: 96
+      distance: 95.7
+      leading: 0
       arrival: 0
-      place: '46'
+      time: 0
+      ss: 2017-12-30T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 17.662000 km
+      distanceFrac: 0.12372159488918154
   - - - '11'
       - Steve Blenkinsop
-    - distance: 518.2
-      leading: 0
-      time: 274.6
+    - place: '5'
       total: 793
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '5'
+      time: 274.6
+      ss: 2017-12-30T04:15:00Z
+      es: 2017-12-30T06:52:03Z
+      ssElapsed: 2.617500 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '41'
       - Tony Armstrong
-    - distance: 434.8
-      leading: 0
-      time: 0
+    - place: '24'
       total: 435
+      distance: 434.8
+      leading: 0
       arrival: 0
-      place: '24'
+      time: 0
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 111.742000 km
+      distanceFrac: 0.7827481857154865
   - - - '31'
       - Trent Brown
-    - distance: 518.2
-      leading: 0
-      time: 260.2
+    - place: '7'
       total: 778
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '7'
+      time: 260.2
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:39:43Z
+      ssElapsed: 2.661944 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '25'
       - Tyler Borrdaile
-    - distance: 518.2
-      leading: 0
-      time: 240.2
+    - place: '9'
       total: 758
+      distance: 518.2
+      leading: 0
       arrival: 0
-      place: '9'
+      time: 240.2
+      ss: 2017-12-30T04:00:00Z
+      es: 2017-12-30T06:43:34Z
+      ssElapsed: 2.726111 h
+      distanceMade: 142.756000 km
+      distanceFrac: 1
   - - - '37'
       - Gavin Myers
-    - distance: 55.9
-      leading: 0
-      time: 0
+    - place: '49'
       total: 56
+      distance: 55.9
+      leading: 0
       arrival: 0
-      place: '49'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 7.004959511334025e-2
 - - - - '102'
       - Robert Davies
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '99'
       - Gennadiy Khramov
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '94'
       - Justinas Pleikys
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '32'
       - Andrew Barnes
-    - distance: 283.4
-      leading: 0
-      time: 0
+    - place: '36'
       total: 283
+      distance: 283.4
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2017-12-31T03:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 91.388000 km
+      distanceFrac: 0.49200256262550673
   - - - '92'
       - Attila Bertok
-    - distance: 564.4
-      leading: 75.5
-      time: 292.3
+    - place: '3'
       total: 972
+      distance: 564.4
+      leading: 75.5
       arrival: 39.5
-      place: '3'
+      time: 292.3
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:36:02Z
+      ssElapsed: 3.850556 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '34'
       - Brad Porter
-    - distance: 355.7
-      leading: 0
-      time: 0
+    - place: '29'
       total: 356
+      distance: 355.7
+      leading: 0
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2017-12-31T03:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 111.847000 km
+      distanceFrac: 0.6021470064119475
   - - - '77'
       - Brodrick Osborne
-    - distance: 518.4
-      leading: 0
-      time: 0
+    - place: '19'
       total: 518
+      distance: 518.4
+      leading: 0
       arrival: 0
-      place: '19'
+      time: 0
+      ss: 2017-12-31T03:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 167.568000 km
+      distanceFrac: 0.9021303170441515
   - - - '51'
       - Craig Taylor
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '52'
       - Dale Regehr
-    - distance: 331
-      leading: 0
-      time: 0
+    - place: '33'
       total: 331
+      distance: 331
+      leading: 0
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 103.950000 km
+      distanceFrac: 0.5596321878684447
   - - - '37'
       - Gavin Myers
-    - distance: 484
-      leading: 0
-      time: 0
+    - place: '22'
       total: 484
+      distance: 484
+      leading: 0
       arrival: 0
-      place: '22'
+      time: 0
+      ss: 2017-12-31T03:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 156.255000 km
+      distanceFrac: 0.8412248919228843
   - - - '8'
       - Gordon Rigg
-    - distance: 564.4
-      leading: 57.4
-      time: 191.5
+    - place: '10'
       total: 826
+      distance: 564.4
+      leading: 57.4
       arrival: 12.8
-      place: '10'
+      time: 191.5
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T07:01:42Z
+      ssElapsed: 4.278333 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 564.4
-      leading: 76.2
-      time: 201
+    - place: '8'
       total: 862
+      distance: 564.4
+      leading: 76.2
       arrival: 20.8
-      place: '8'
+      time: 201
+      ss: 2017-12-31T02:30:00Z
+      es: 2017-12-31T06:43:26Z
+      ssElapsed: 4.223889 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '30'
       - Jason Kath
-    - distance: 556.7
-      leading: 34.2
-      time: 0
+    - place: '16'
       total: 591
+      distance: 556.7
+      leading: 34.2
       arrival: 0
-      place: '16'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 180.658000 km
+      distanceFrac: 0.9726025184794372
   - - - '106'
       - Jon Durand Snr
-    - distance: 345.8
-      leading: 9.9
-      time: 0
+    - place: '29'
       total: 356
+      distance: 345.8
+      leading: 9.9
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2017-12-31T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 108.801000 km
+      distanceFrac: 0.5857483566356388
   - - - '43'
       - Jonny Durand
-    - distance: 564.4
-      leading: 67.2
-      time: 303.2
+    - place: '2'
       total: 981
+      distance: 564.4
+      leading: 67.2
       arrival: 46.5
-      place: '2'
+      time: 303.2
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:35:06Z
+      ssElapsed: 3.835000 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '62'
       - Josh Woods
-    - distance: 564.4
-      leading: 64.6
-      time: 304.9
+    - place: '1'
       total: 988
+      distance: 564.4
+      leading: 64.6
       arrival: 54.4
-      place: '1'
+      time: 304.9
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:35:03Z
+      ssElapsed: 3.834167 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '64'
       - Longfei Yang
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '100'
       - Malcolm Brown
-    - distance: 413
-      leading: 31
-      time: 0
+    - place: '25'
       total: 444
+      distance: 413
+      leading: 31
       arrival: 0
-      place: '25'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 135.969000 km
+      distanceFrac: 0.7320118225328
   - - - '67'
       - Mark Alton
-    - distance: 180.4
-      leading: 0
-      time: 0
+    - place: '42'
       total: 180
+      distance: 180.4
+      leading: 0
       arrival: 0
-      place: '42'
+      time: 0
+      ss: 2017-12-31T03:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 47.016000 km
+      distanceFrac: 0.2531184891276844
   - - - '80'
       - Michael Cassells
-    - distance: 312.1
-      leading: 0
-      time: 0
+    - place: '34'
       total: 312
+      distance: 312.1
+      leading: 0
       arrival: 0
-      place: '34'
+      time: 0
+      ss: 2017-12-31T03:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 99.025000 km
+      distanceFrac: 0.5331176277409595
   - - - '81'
       - Nick Purcell
-    - distance: 384.7
-      leading: 26.3
-      time: 0
+    - place: '26'
       total: 411
+      distance: 384.7
+      leading: 26.3
       arrival: 0
-      place: '26'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 122.686000 km
+      distanceFrac: 0.6605005733605388
   - - - '69'
       - Niki Longshore
-    - distance: 564.4
-      leading: 46.8
-      time: 187.7
+    - place: '12'
       total: 811
+      distance: 564.4
+      leading: 46.8
       arrival: 12
-      place: '12'
+      time: 187.7
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T07:03:03Z
+      ssElapsed: 4.300833 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '23'
       - Nils Vesk
-    - distance: 564.4
-      leading: 54.1
-      time: 119.6
+    - place: '14'
       total: 749
+      distance: 564.4
+      leading: 54.1
       arrival: 11.1
-      place: '14'
+      time: 119.6
+      ss: 2017-12-31T02:30:00Z
+      es: 2017-12-31T07:15:44Z
+      ssElapsed: 4.762222 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '7'
       - Olav Opsanger
-    - distance: 564.4
-      leading: 58.9
-      time: 246
+    - place: '7'
       total: 885
+      distance: 564.4
+      leading: 58.9
       arrival: 15.8
-      place: '7'
+      time: 246
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:45:02Z
+      ssElapsed: 4.000556 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '101'
       - Oliver Chitty
-    - distance: 564.4
-      leading: 62.1
-      time: 254.9
+    - place: '5'
       total: 910
+      distance: 564.4
+      leading: 62.1
       arrival: 28.5
-      place: '5'
+      time: 254.9
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:42:51Z
+      ssElapsed: 3.964167 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '98'
       - Oyvind Ellefsen
-    - distance: 503.2
-      leading: 32.8
-      time: 0
+    - place: '18'
       total: 536
+      distance: 503.2
+      leading: 32.8
       arrival: 0
-      place: '18'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 162.886000 km
+      distanceFrac: 0.8769239880051899
   - - - '14'
       - Peter Burkitt
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '85'
       - Rick Martin
-    - distance: 470.7
-      leading: 0
-      time: 0
+    - place: '23'
       total: 471
+      distance: 470.7
+      leading: 0
       arrival: 0
-      place: '23'
+      time: 0
+      ss: 2017-12-31T03:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 152.716000 km
+      distanceFrac: 0.8221720943003117
   - - - '42'
       - Rob de Groot
-    - distance: 118.5
-      leading: 0
-      time: 0
+    - place: '44'
       total: 119
+      distance: 118.5
+      leading: 0
       arrival: 0
-      place: '44'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 14.913000 km
+      distanceFrac: 8.02866264327284e-2
   - - - '71'
       - Rob Larkin
-    - distance: 332.2
-      leading: 0
-      time: 0
+    - place: '32'
       total: 332
+      distance: 332.2
+      leading: 0
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2017-12-31T03:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 104.352000 km
+      distanceFrac: 0.5617964220148912
   - - - '22'
       - Rohan Taylor
-    - distance: 483
-      leading: 28.9
-      time: 0
+    - place: '20'
       total: 512
+      distance: 483
+      leading: 28.9
       arrival: 0
-      place: '20'
+      time: 0
+      ss: 2017-12-31T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 155.937000 km
+      distanceFrac: 0.8395128858070386
   - - - '76'
       - Rory Duncan
-    - distance: 564.4
-      leading: 58.8
-      time: 280.2
+    - place: '4'
       total: 937
+      distance: 564.4
+      leading: 58.8
       arrival: 33.6
-      place: '4'
+      time: 280.2
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:37:45Z
+      ssElapsed: 3.879167 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '15'
       - Ryosuke Hattori
-    - distance: 542.2
-      leading: 36.8
-      time: 0
+    - place: '17'
       total: 579
+      distance: 542.2
+      leading: 36.8
       arrival: 0
-      place: '17'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 174.918000 km
+      distanceFrac: 0.9417002697217183
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 211
-      leading: 0
-      time: 0
+    - place: '40'
       total: 211
+      distance: 211
+      leading: 0
       arrival: 0
-      place: '40'
+      time: 0
+      ss: 2017-12-31T03:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 57.469000 km
+      distanceFrac: 0.30939396060232466
   - - - '11'
       - Steve Blenkinsop
-    - distance: 564.4
-      leading: 44.1
-      time: 194.8
+    - place: '11'
       total: 817
+      distance: 564.4
+      leading: 44.1
       arrival: 14.1
-      place: '11'
+      time: 194.8
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T07:00:32Z
+      ssElapsed: 4.258889 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '36'
       - Steve Docherty
-    - distance: 381.8
-      leading: 0
-      time: 0
+    - place: '27'
       total: 382
+      distance: 381.8
+      leading: 0
       arrival: 0
-      place: '27'
+      time: 0
+      ss: 2017-12-31T03:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 121.548000 km
+      distanceFrac: 0.6543739602793046
   - - - '41'
       - Tony Armstrong
-    - distance: 564.4
-      leading: 50.5
-      time: 167.6
+    - place: '13'
       total: 794
+      distance: 564.4
+      leading: 50.5
       arrival: 11.4
-      place: '13'
+      time: 167.6
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T07:10:33Z
+      ssElapsed: 4.425833 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '31'
       - Trent Brown
-    - distance: 232.2
-      leading: 0
-      time: 0
+    - place: '37'
       total: 232
+      distance: 232.2
+      leading: 0
       arrival: 0
-      place: '37'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 67.482000 km
+      distanceFrac: 0.36330061858334184
   - - - '25'
       - Tyler Borrdaile
-    - distance: 564.4
-      leading: 58.8
-      time: 251.5
+    - place: '6'
       total: 893
+      distance: 564.4
+      leading: 58.8
       arrival: 18
-      place: '6'
+      time: 251.5
+      ss: 2017-12-31T02:45:00Z
+      es: 2017-12-31T06:43:40Z
+      ssElapsed: 3.977778 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '103'
       - Wayne Thompson
-    - distance: 459.7
-      leading: 0
-      time: 0
+    - place: '24'
       total: 460
+      distance: 459.7
+      leading: 0
       arrival: 0
-      place: '24'
+      time: 0
+      ss: 2017-12-31T03:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 149.840000 km
+      distanceFrac: 0.8066886679192665
   - - - '75'
       - Yasuhiro Noma
-    - distance: 564.4
-      leading: 58.3
-      time: 201.5
+    - place: '9'
       total: 848
+      distance: 564.4
+      leading: 58.3
       arrival: 24.3
-      place: '9'
+      time: 201.5
+      ss: 2017-12-31T02:30:00Z
+      es: 2017-12-31T06:43:15Z
+      ssElapsed: 4.220833 h
+      distanceMade: 185.747000 km
+      distanceFrac: 1
   - - - '6'
       - Yoko Sano
-    - distance: 553.9
-      leading: 41.9
-      time: 0
+    - place: '15'
       total: 596
+      distance: 553.9
+      leading: 41.9
       arrival: 0
-      place: '15'
+      time: 0
+      ss: 2017-12-31T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 179.279000 km
+      distanceFrac: 0.9651784416437412
   - - - '74'
       - Vic Hare
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '31'
       total: 350
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '31'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '108'
       - Peter Adriaans
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '68'
       - Neale Halsall
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '21'
       total: 499
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '21'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '28'
       - Mikhail Karmazin
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '28'
       total: 361
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '28'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '107'
       - Anatoly Reyter
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '38'
       total: 215
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '83'
       - Randal Clotworthy
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '43'
       total: 134
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '43'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '4'
       - Frank Chetcuti
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '35'
       total: 284
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '35'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '86'
       - Ross Smith
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '41'
       total: 188
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '88'
       - Simon West
-    - distance: 108.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 108
+      distance: 108.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.383667030961469e-2
   - - - '55'
       - Don Cramer
-    - distance: 212.3
-      leading: 0
-      time: 0
+    - place: '39'
       total: 212
+      distance: 212.3
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2017-12-31T03:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 57.934000 km
+      distanceFrac: 0.3118973657717218
 - - - - '102'
       - Robert Davies
-    - distance: 189.3
-      leading: 0
-      time: 0
+    - place: '42'
       total: 189
+      distance: 189.3
+      leading: 0
       arrival: 0
-      place: '42'
+      time: 0
+      ss: 2018-01-01T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 109.354000 km
+      distanceFrac: 0.5601434242540658
   - - - '106'
       - Jon Durand Snr
-    - distance: 385.2
-      leading: 67.7
-      time: 285.5
+    - place: '14'
       total: 775
+      distance: 385.2
+      leading: 67.7
       arrival: 36.1
-      place: '14'
+      time: 285.5
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T05:59:31Z
+      ssElapsed: 3.491944 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '31'
       - Trent Brown
-    - distance: 385.2
-      leading: 0
-      time: 299.8
+    - place: '19'
       total: 701
+      distance: 385.2
+      leading: 0
       arrival: 16.3
-      place: '19'
+      time: 299.8
+      ss: 2018-01-01T03:15:00Z
+      es: 2018-01-01T06:41:31Z
+      ssElapsed: 3.441944 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '32'
       - Andrew Barnes
-    - distance: 385.2
-      leading: 23.6
-      time: 219.7
+    - place: '27'
       total: 645
+      distance: 385.2
+      leading: 23.6
       arrival: 16.7
-      place: '27'
+      time: 219.7
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:30:11Z
+      ssElapsed: 3.753056 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '43'
       - Jonny Durand
-    - distance: 136
-      leading: 0
-      time: 0
+    - place: '10'
       total: 840
+      distance: 136
+      leading: 0
       arrival: 0
-      place: '10'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 75.552000 km
+      distanceFrac: 0.3869996158278909
   - - - '14'
       - Peter Burkitt
-    - distance: 374.3
-      leading: 34.4
-      time: 0
+    - place: '32'
       total: 409
+      distance: 374.3
+      leading: 34.4
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 186.168000 km
+      distanceFrac: 0.9536073761044949
   - - - '22'
       - Rohan Taylor
-    - distance: 385.2
-      leading: 58.2
-      time: 292.4
+    - place: '13'
       total: 781
+      distance: 385.2
+      leading: 58.2
       arrival: 45.3
-      place: '13'
+      time: 292.4
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T05:58:03Z
+      ssElapsed: 3.467500 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '68'
       - Neale Halsall
-    - distance: 385.2
-      leading: 43.4
-      time: 276.5
+    - place: '17'
       total: 732
+      distance: 385.2
+      leading: 43.4
       arrival: 27.1
-      place: '17'
+      time: 276.5
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:16:29Z
+      ssElapsed: 3.524722 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '52'
       - Dale Regehr
-    - distance: 331.4
-      leading: 40
-      time: 0
+    - place: '37'
       total: 371
+      distance: 331.4
+      leading: 40
       arrival: 0
-      place: '37'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 167.524000 km
+      distanceFrac: 0.8581073120758099
   - - - '100'
       - Malcolm Brown
-    - distance: 385.2
-      leading: 36.1
-      time: 248.3
+    - place: '21'
       total: 693
+      distance: 385.2
+      leading: 36.1
       arrival: 23.8
-      place: '21'
+      time: 248.3
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:23:01Z
+      ssElapsed: 3.633611 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '83'
       - Randal Clotworthy
-    - distance: 178.5
-      leading: 0
-      time: 0
+    - place: '43'
       total: 179
+      distance: 178.5
+      leading: 0
       arrival: 0
-      place: '43'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 101.264000 km
+      distanceFrac: 0.5187040594186195
   - - - '8'
       - Gordon Rigg
-    - distance: 385.2
-      leading: 61.1
-      time: 368.1
+    - place: '8'
       total: 848
+      distance: 385.2
+      leading: 61.1
       arrival: 33.5
-      place: '8'
+      time: 368.1
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:59:35Z
+      ssElapsed: 3.243056 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '92'
       - Attila Bertok
-    - distance: 385.2
-      leading: 55.1
-      time: 430.4
+    - place: '1'
       total: 948
+      distance: 385.2
+      leading: 55.1
       arrival: 76.8
-      place: '1'
+      time: 430.4
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:53:44Z
+      ssElapsed: 3.145556 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 385.2
-      leading: 45
-      time: 214.7
+    - place: '24'
       total: 672
+      distance: 385.2
+      leading: 45
       arrival: 27.1
-      place: '24'
+      time: 214.7
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T06:16:29Z
+      ssElapsed: 3.774722 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '11'
       - Steve Blenkinsop
-    - distance: 385.2
-      leading: 49
-      time: 394.4
+    - place: '6'
       total: 881
+      distance: 385.2
+      leading: 49
       arrival: 52.8
-      place: '6'
+      time: 394.4
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:56:18Z
+      ssElapsed: 3.188333 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '81'
       - Nick Purcell
-    - distance: 385.2
-      leading: 54
-      time: 395.2
+    - place: '5'
       total: 891
+      distance: 385.2
+      leading: 54
       arrival: 57
-      place: '5'
+      time: 395.2
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:56:13Z
+      ssElapsed: 3.186944 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '37'
       - Gavin Myers
-    - distance: 385.2
-      leading: 18.6
-      time: 306.6
+    - place: '18'
       total: 731
+      distance: 385.2
+      leading: 18.6
       arrival: 20.2
-      place: '18'
+      time: 306.6
+      ss: 2018-01-01T03:00:00Z
+      es: 2018-01-01T06:25:09Z
+      ssElapsed: 3.419167 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '41'
       - Tony Armstrong
-    - distance: 385.2
-      leading: 45
-      time: 283.8
+    - place: '15'
       total: 743
+      distance: 385.2
+      leading: 45
       arrival: 29
-      place: '15'
+      time: 283.8
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:14:53Z
+      ssElapsed: 3.498056 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '85'
       - Rick Martin
-    - distance: 13.3
-      leading: 0
-      time: 0
+    - place: '48'
       total: 13
+      distance: 13.3
+      leading: 0
       arrival: 0
-      place: '48'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 5.122294788065053e-2
   - - - '7'
       - Olav Opsanger
-    - distance: 385.2
-      leading: 53.4
-      time: 398.6
+    - place: '4'
       total: 899
+      distance: 385.2
+      leading: 53.4
       arrival: 61.5
-      place: '4'
+      time: 398.6
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:55:52Z
+      ssElapsed: 3.181111 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '62'
       - Josh Woods
-    - distance: 385.2
-      leading: 48.1
-      time: 406.6
+    - place: '3'
       total: 906
+      distance: 385.2
+      leading: 48.1
       arrival: 66.3
-      place: '3'
+      time: 406.6
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:55:07Z
+      ssElapsed: 3.168611 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '42'
       - Rob de Groot
-    - distance: 385.2
-      leading: 38.8
-      time: 238.5
+    - place: '22'
       total: 682
+      distance: 385.2
+      leading: 38.8
       arrival: 19.2
-      place: '22'
+      time: 238.5
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:25:24Z
+      ssElapsed: 3.673333 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '69'
       - Niki Longshore
-    - distance: 129.4
-      leading: 0
-      time: 0
+    - place: '45'
       total: 129
+      distance: 129.4
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 71.919000 km
+      distanceFrac: 0.36839031886285056
   - - - '101'
       - Oliver Chitty
-    - distance: 132.6
-      leading: 0
-      time: 0
+    - place: '44'
       total: 133
+      distance: 132.6
+      leading: 0
       arrival: 0
-      place: '44'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 73.532000 km
+      distanceFrac: 0.37665258035599947
   - - - '6'
       - Yoko Sano
-    - distance: 385.2
-      leading: 51.5
-      time: 297.1
+    - place: '11'
       total: 783
+      distance: 385.2
+      leading: 51.5
       arrival: 48.9
-      place: '11'
+      time: 297.1
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T05:57:04Z
+      ssElapsed: 3.451111 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '15'
       - Ryosuke Hattori
-    - distance: 385.2
-      leading: 35.8
-      time: 235.7
+    - place: '23'
       total: 675
+      distance: 385.2
+      leading: 35.8
       arrival: 17.8
-      place: '23'
+      time: 235.7
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:26:07Z
+      ssElapsed: 3.685278 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '75'
       - Yasuhiro Noma
-    - distance: 248.1
-      leading: 21.4
-      time: 0
+    - place: '41'
       total: 270
+      distance: 248.1
+      leading: 21.4
       arrival: 0
-      place: '41'
+      time: 0
+      ss: 2018-01-01T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 141.700000 km
+      distanceFrac: 0.7258291714688182
   - - - '25'
       - Tyler Borrdaile
-    - distance: 385.2
-      leading: 46.9
-      time: 411.8
+    - place: '2'
       total: 915
+      distance: 385.2
+      leading: 46.9
       arrival: 71.4
-      place: '2'
+      time: 411.8
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:54:41Z
+      ssElapsed: 3.161389 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '80'
       - Michael Cassells
-    - distance: 385.2
-      leading: 47.5
-      time: 180.4
+    - place: '28'
       total: 597
+      distance: 385.2
+      leading: 47.5
       arrival: 21.2
-      place: '28'
+      time: 180.4
+      ss: 2018-01-01T02:28:45Z
+      es: 2018-01-01T06:24:36Z
+      ssElapsed: 3.930833 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '76'
       - Rory Duncan
-    - distance: 385.2
-      leading: 0
-      time: 297.2
+    - place: '20'
       total: 698
+      distance: 385.2
+      leading: 0
       arrival: 16
-      place: '20'
+      time: 297.2
+      ss: 2018-01-01T03:15:00Z
+      es: 2018-01-01T06:42:03Z
+      ssElapsed: 3.450833 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '30'
       - Jason Kath
-    - distance: 385.2
-      leading: 107.6
-      time: 258.4
+    - place: '12'
       total: 782
+      distance: 385.2
+      leading: 107.6
       arrival: 31.2
-      place: '12'
+      time: 258.4
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T06:05:36Z
+      ssElapsed: 3.593333 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 96.4
-      leading: 0
-      time: 0
+    - place: '46'
       total: 96
+      distance: 96.4
+      leading: 0
       arrival: 0
-      place: '46'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 56.095000 km
+      distanceFrac: 0.28733512613650913
   - - - '74'
       - Vic Hare
-    - distance: 331.4
-      leading: 35.5
-      time: 0
+    - place: '39'
       total: 367
+      distance: 331.4
+      leading: 35.5
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2018-01-01T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 167.525000 km
+      distanceFrac: 0.858112434370598
   - - - '99'
       - Gennadiy Khramov
-    - distance: 385.2
-      leading: 14.6
-      time: 103.3
+    - place: '30'
       total: 519
+      distance: 385.2
+      leading: 14.6
       arrival: 15.6
-      place: '30'
+      time: 103.3
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T07:04:14Z
+      ssElapsed: 4.320556 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '107'
       - Anatoly Reyter
-    - distance: 381.9
-      leading: 19
-      time: 0
+    - place: '33'
       total: 401
+      distance: 381.9
+      leading: 19
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 191.856000 km
+      distanceFrac: 0.9827429888590088
   - - - '51'
       - Craig Taylor
-    - distance: 385.2
-      leading: 48.6
-      time: 379
+    - place: '7'
       total: 855
+      distance: 385.2
+      leading: 48.6
       arrival: 42
-      place: '7'
+      time: 379
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:58:07Z
+      ssElapsed: 3.218611 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '23'
       - Nils Vesk
-    - distance: 385.2
-      leading: 11.1
-      time: 317.2
+    - place: '16'
       total: 736
+      distance: 385.2
+      leading: 11.1
       arrival: 22.4
-      place: '16'
+      time: 317.2
+      ss: 2018-01-01T03:00:00Z
+      es: 2018-01-01T06:23:05Z
+      ssElapsed: 3.384722 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '36'
       - Steve Docherty
-    - distance: 385.2
-      leading: 23.6
-      time: 237.7
+    - place: '25'
       total: 665
+      distance: 385.2
+      leading: 23.6
       arrival: 18.4
-      place: '25'
+      time: 237.7
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:25:36Z
+      ssElapsed: 3.676667 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '34'
       - Brad Porter
-    - distance: 385.2
-      leading: 49.3
-      time: 373.1
+    - place: '9'
       total: 847
+      distance: 385.2
+      leading: 49.3
       arrival: 38.9
-      place: '9'
+      time: 373.1
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T05:58:54Z
+      ssElapsed: 3.231667 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '77'
       - Brodrick Osborne
-    - distance: 385.2
-      leading: 22.4
-      time: 225.6
+    - place: '26'
       total: 650
+      distance: 385.2
+      leading: 22.4
       arrival: 17.2
-      place: '26'
+      time: 225.6
+      ss: 2018-01-01T02:45:00Z
+      es: 2018-01-01T06:28:40Z
+      ssElapsed: 3.727778 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '64'
       - Longfei Yang
-    - distance: 273
-      leading: 5.1
-      time: 0
+    - place: '40'
       total: 278
+      distance: 273
+      leading: 5.1
       arrival: 0
-      place: '40'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 150.815000 km
+      distanceFrac: 0.772518888462031
   - - - '86'
       - Ross Smith
-    - distance: 369.2
-      leading: 0
-      time: 0
+    - place: '38'
       total: 369
+      distance: 369.2
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 183.057000 km
+      distanceFrac: 0.9376719170188246
   - - - '67'
       - Mark Alton
-    - distance: 332.9
-      leading: 40.3
-      time: 0
+    - place: '36'
       total: 373
+      distance: 332.9
+      leading: 40.3
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2018-01-01T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 168.013000 km
+      distanceFrac: 0.8606121142271738
   - - - '71'
       - Rob Larkin
-    - distance: 368.4
-      leading: 32.5
-      time: 0
+    - place: '33'
       total: 401
+      distance: 368.4
+      leading: 32.5
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2018-01-01T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 182.679000 km
+      distanceFrac: 0.9357356895889358
   - - - '4'
       - Frank Chetcuti
-    - distance: 385.2
-      leading: 33.1
-      time: 116.2
+    - place: '29'
       total: 550
+      distance: 385.2
+      leading: 33.1
       arrival: 15.8
-      place: '29'
+      time: 116.2
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T06:45:07Z
+      ssElapsed: 4.251944 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
   - - - '55'
       - Don Cramer
-    - distance: 84.5
-      leading: 0
-      time: 0
+    - place: '47'
       total: 85
+      distance: 84.5
+      leading: 0
       arrival: 0
-      place: '47'
+      time: 0
+      ss: 2018-01-01T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 51.028000 km
+      distanceFrac: 0.26138045844538355
   - - - '28'
       - Mikhail Karmazin
-    - distance: 341
-      leading: 40.5
-      time: 0
+    - place: '35'
       total: 382
+      distance: 341
+      leading: 40.5
       arrival: 0
-      place: '35'
+      time: 0
+      ss: 2018-01-01T02:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 171.048000 km
+      distanceFrac: 0.8761582789089513
   - - - '103'
       - Wayne Thompson
-    - distance: 385.2
-      leading: 0
-      time: 107
+    - place: '31'
       total: 508
+      distance: 385.2
+      leading: 0
       arrival: 15.5
-      place: '31'
+      time: 107
+      ss: 2018-01-01T03:00:00Z
+      es: 2018-01-01T07:18:03Z
+      ssElapsed: 4.300833 h
+      distanceMade: 195.225000 km
+      distanceFrac: 1
 - - - - '98'
       - Oyvind Ellefsen
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '100'
       - Malcolm Brown
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '85'
       - Rick Martin
-    - distance: 307.3
-      leading: 0
-      time: 0
+    - place: '34'
       total: 190
+      distance: 307.3
+      leading: 0
       arrival: 0
-      place: '34'
+      time: 0
+      ss: 2018-01-02T01:56:06Z
+      es: null
+      ssElapsed: null
+      distanceMade: 224.782000 km
+      distanceFrac: 0.5782173633440515
   - - - '92'
       - Attila Bertok
-    - distance: 270.8
-      leading: 14.6
-      time: 0
+    - place: '28'
       total: 285
+      distance: 270.8
+      leading: 14.6
       arrival: 0
-      place: '28'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 201.459000 km
+      distanceFrac: 0.5182225080385852
   - - - '51'
       - Craig Taylor
-    - distance: 482.7
-      leading: 41.1
-      time: 0
+    - place: '17'
       total: 524
+      distance: 482.7
+      leading: 41.1
       arrival: 0
-      place: '17'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 352.697000 km
+      distanceFrac: 0.9072591639871382
   - - - '52'
       - Dale Regehr
-    - distance: 316.9
-      leading: 15.6
-      time: 0
+    - place: '27'
       total: 333
+      distance: 316.9
+      leading: 15.6
       arrival: 0
-      place: '27'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 232.387000 km
+      distanceFrac: 0.5977800643086817
   - - - '37'
       - Gavin Myers
-    - distance: 486.8
-      leading: 35.9
-      time: 0
+    - place: '18'
       total: 523
+      distance: 486.8
+      leading: 35.9
       arrival: 0
-      place: '18'
+      time: 0
+      ss: 2018-01-02T02:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 356.115000 km
+      distanceFrac: 0.9160514469453376
   - - - '99'
       - Gennadiy Khramov
-    - distance: 111.4
-      leading: 0
-      time: 0
+    - place: '37'
       total: 111
+      distance: 111.4
+      leading: 0
       arrival: 0
-      place: '37'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 74.776000 km
+      distanceFrac: 0.19234983922829582
   - - - '106'
       - Jon Durand Snr
-    - distance: 129.2
-      leading: 0
-      time: 0
+    - place: '36'
       total: 129
+      distance: 129.2
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 94.242000 km
+      distanceFrac: 0.24242315112540194
   - - - '43'
       - Jonny Durand
-    - distance: 508.6
-      leading: 86
-      time: 330.6
+    - place: '2'
       total: 979
+      distance: 508.6
+      leading: 86
       arrival: 53.5
-      place: '2'
+      time: 330.6
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:19:27Z
+      ssElapsed: 5.324167 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '62'
       - Josh Woods
-    - distance: 508.6
-      leading: 49.4
-      time: 182.6
+    - place: '8'
       total: 761
+      distance: 508.6
+      leading: 49.4
       arrival: 20.3
-      place: '8'
+      time: 182.6
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:02:49Z
+      ssElapsed: 6.046944 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '67'
       - Mark Alton
-    - distance: 234.4
-      leading: 0
-      time: 0
+    - place: '32'
       total: 234
+      distance: 234.4
+      leading: 0
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2018-01-02T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 180.876000 km
+      distanceFrac: 0.465275884244373
   - - - '28'
       - Mikhail Karmazin
-    - distance: 280.4
-      leading: 0
-      time: 0
+    - place: '30'
       total: 280
+      distance: 280.4
+      leading: 0
       arrival: 0
-      place: '30'
+      time: 0
+      ss: 2018-01-02T02:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 206.356000 km
+      distanceFrac: 0.5308192926045016
   - - - '68'
       - Neale Halsall
-    - distance: 380.6
-      leading: 3.9
-      time: 0
+    - place: '24'
       total: 385
+      distance: 380.6
+      leading: 3.9
       arrival: 0
-      place: '24'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 289.592000 km
+      distanceFrac: 0.7449311897106109
   - - - '23'
       - Nils Vesk
-    - distance: 508.6
-      leading: 46.3
-      time: 106.4
+    - place: '13'
       total: 675
+      distance: 508.6
+      leading: 46.3
       arrival: 14
-      place: '13'
+      time: 106.4
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:37:42Z
+      ssElapsed: 6.628333 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '14'
       - Peter Burkitt
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '83'
       - Randal Clotworthy
-    - distance: 89.6
-      leading: 0
-      time: 0
+    - place: '39'
       total: 90
+      distance: 89.6
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2018-01-02T02:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 56.243000 km
+      distanceFrac: 0.1446765273311897
   - - - '71'
       - Rob Larkin
-    - distance: 224.8
-      leading: 0
-      time: 0
+    - place: '33'
       total: 225
+      distance: 224.8
+      leading: 0
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2018-01-02T02:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 176.000000 km
+      distanceFrac: 0.4527331189710611
   - - - '22'
       - Rohan Taylor
-    - distance: 471.1
-      leading: 44.3
-      time: 0
+    - place: '19'
       total: 515
+      distance: 471.1
+      leading: 44.3
       arrival: 0
-      place: '19'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 344.566000 km
+      distanceFrac: 0.8863434083601288
   - - - '15'
       - Ryosuke Hattori
-    - distance: 508.6
-      leading: 28.3
-      time: 105.9
+    - place: '14'
       total: 656
+      distance: 508.6
+      leading: 28.3
       arrival: 13.2
-      place: '14'
+      time: 105.9
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:37:58Z
+      ssElapsed: 6.632778 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '88'
       - Simon West
-    - distance: 283
-      leading: 0
-      time: 0
+    - place: '29'
       total: 283
+      distance: 283
+      leading: 0
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2018-01-02T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 207.896000 km
+      distanceFrac: 0.5347807073954984
   - - - '11'
       - Steve Blenkinsop
-    - distance: 508.6
-      leading: 42.4
-      time: 182.8
+    - place: '9'
       total: 757
+      distance: 508.6
+      leading: 42.4
       arrival: 23
-      place: '9'
+      time: 182.8
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:02:44Z
+      ssElapsed: 6.045556 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '41'
       - Tony Armstrong
-    - distance: 508.6
-      leading: 43.8
-      time: 149.1
+    - place: '11'
       total: 720
+      distance: 508.6
+      leading: 43.8
       arrival: 18.1
-      place: '11'
+      time: 149.1
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:17:19Z
+      ssElapsed: 6.288611 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '31'
       - Trent Brown
-    - distance: 508.6
-      leading: 59.7
-      time: 226.7
+    - place: '5'
       total: 830
+      distance: 508.6
+      leading: 59.7
       arrival: 34.9
-      place: '5'
+      time: 226.7
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:45:55Z
+      ssElapsed: 5.765278 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '103'
       - Wayne Thompson
-    - distance: 354.6
-      leading: 0
-      time: 0
+    - place: '25'
       total: 355
+      distance: 354.6
+      leading: 0
       arrival: 0
-      place: '25'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 267.369000 km
+      distanceFrac: 0.6877659163987139
   - - - '75'
       - Yasuhiro Noma
-    - distance: 242.6
-      leading: 0
-      time: 0
+    - place: '31'
       total: 243
+      distance: 242.6
+      leading: 0
       arrival: 0
-      place: '31'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 185.741000 km
+      distanceFrac: 0.4777903536977492
   - - - '6'
       - Yoko Sano
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '101'
       - Oliver Chitty
-    - distance: 508.6
-      leading: 71.2
-      time: 344
+    - place: '1'
       total: 985
+      distance: 508.6
+      leading: 71.2
       arrival: 61.4
-      place: '1'
+      time: 344
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:18:23Z
+      ssElapsed: 5.306389 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '76'
       - Rory Duncan
-    - distance: 508.6
-      leading: 49.8
-      time: 125.7
+    - place: '12'
       total: 699
+      distance: 508.6
+      leading: 49.8
       arrival: 15
-      place: '12'
+      time: 125.7
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:28:16Z
+      ssElapsed: 6.471111 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '4'
       - Frank Chetcuti
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '25'
       - Tyler Borrdaile
-    - distance: 508.6
-      leading: 72.2
-      time: 325
+    - place: '3'
       total: 952
+      distance: 508.6
+      leading: 72.2
       arrival: 46.4
-      place: '3'
+      time: 325
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:20:11Z
+      ssElapsed: 5.336389 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '42'
       - Rob de Groot
-    - distance: 409.1
-      leading: 2
-      time: 0
+    - place: '23'
       total: 411
+      distance: 409.1
+      leading: 2
       arrival: 0
-      place: '23'
+      time: 0
+      ss: 2018-01-02T02:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 309.941000 km
+      distanceFrac: 0.7972758842443731
   - - - '34'
       - Brad Porter
-    - distance: 324.4
-      leading: 14.6
-      time: 0
+    - place: '26'
       total: 339
+      distance: 324.4
+      leading: 14.6
       arrival: 0
-      place: '26'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 238.765000 km
+      distanceFrac: 0.614186495176849
   - - - '8'
       - Gordon Rigg
-    - distance: 508.6
-      leading: 41.3
-      time: 160.9
+    - place: '10'
       total: 727
+      distance: 508.6
+      leading: 41.3
       arrival: 16.3
-      place: '10'
+      time: 160.9
+      ss: 2018-01-02T02:15:00Z
+      es: 2018-01-02T08:27:03Z
+      ssElapsed: 6.200833 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '7'
       - Olav Opsanger
-    - distance: 508.6
-      leading: 63.3
-      time: 218.9
+    - place: '6'
       total: 821
+      distance: 508.6
+      leading: 63.3
       arrival: 30.3
-      place: '6'
+      time: 218.9
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:48:41Z
+      ssElapsed: 5.811389 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '64'
       - Longfei Yang
-    - distance: 90.5
-      leading: 0
-      time: 0
+    - place: '38'
       total: 91
+      distance: 90.5
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: 2018-01-02T02:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 56.991000 km
+      distanceFrac: 0.14660064308681672
   - - - '36'
       - Steve Docherty
-    - distance: 508.6
-      leading: 29.2
-      time: 104.2
+    - place: '15'
       total: 655
+      distance: 508.6
+      leading: 29.2
       arrival: 12.8
-      place: '15'
+      time: 104.2
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:38:51Z
+      ssElapsed: 6.647500 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '77'
       - Brodrick Osborne
-    - distance: 431.6
-      leading: 0
-      time: 0
+    - place: '22'
       total: 432
+      distance: 431.6
+      leading: 0
       arrival: 0
-      place: '22'
+      time: 0
+      ss: 2018-01-02T02:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 322.900000 km
+      distanceFrac: 0.8306109324758844
   - - - '32'
       - Andrew Barnes
-    - distance: 488.3
-      leading: 15.4
-      time: 0
+    - place: '20'
       total: 504
+      distance: 488.3
+      leading: 15.4
       arrival: 0
-      place: '20'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 357.858000 km
+      distanceFrac: 0.9205350482315112
   - - - '30'
       - Jason Kath
-    - distance: 508.6
-      leading: 64.5
-      time: 215.3
+    - place: '7'
       total: 815
+      distance: 508.6
+      leading: 64.5
       arrival: 26.3
-      place: '7'
+      time: 215.3
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:50:00Z
+      ssElapsed: 5.833333 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 508.6
-      leading: 55.8
-      time: 250.6
+    - place: '4'
       total: 855
+      distance: 508.6
+      leading: 55.8
       arrival: 40.3
-      place: '4'
+      time: 250.6
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T07:37:57Z
+      ssElapsed: 5.632500 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
   - - - '74'
       - Vic Hare
-    - distance: 166.8
-      leading: 0
-      time: 0
+    - place: '35'
       total: 167
+      distance: 166.8
+      leading: 0
       arrival: 0
-      place: '35'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 136.716000 km
+      distanceFrac: 0.35168102893890674
   - - - '80'
       - Michael Cassells
-    - distance: 451.6
-      leading: 9.3
-      time: 0
+    - place: '21'
       total: 461
+      distance: 451.6
+      leading: 9.3
       arrival: 0
-      place: '21'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 333.065000 km
+      distanceFrac: 0.8567588424437299
   - - - '81'
       - Nick Purcell
-    - distance: 89.6
-      leading: 0
-      time: 0
+    - place: '39'
       total: 90
+      distance: 89.6
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2018-01-02T02:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 56.296000 km
+      distanceFrac: 0.1448128617363344
   - - - '55'
       - Don Cramer
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '86'
       - Ross Smith
-    - distance: 25
-      leading: 0
-      time: 0
+    - place: '41'
       total: 25
+      distance: 25
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 2.572347266881029e-2
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 508.6
-      leading: 25.9
-      time: 95.9
+    - place: '16'
       total: 643
+      distance: 508.6
+      leading: 25.9
       arrival: 12.5
-      place: '16'
+      time: 95.9
+      ss: 2018-01-02T02:00:00Z
+      es: 2018-01-02T08:43:03Z
+      ssElapsed: 6.717500 h
+      distanceMade: 388.750000 km
+      distanceFrac: 1
 - - - - '100'
       - Malcolm Brown
-    - distance: 0
-      leading: 0
-      time: 0
+    - place: '42'
       total: 0
+      distance: 0
+      leading: 0
       arrival: 0
-      place: '42'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 0.000000 km
+      distanceFrac: 0
   - - - '107'
       - Anatoly Reyter
-    - distance: 276
-      leading: 0
-      time: 0
+    - place: '35'
       total: 276
+      distance: 276
+      leading: 0
       arrival: 0
-      place: '35'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 90.150000 km
+      distanceFrac: 0.5856634270568057
   - - - '92'
       - Attila Bertok
-    - distance: 535.4
-      leading: 22.4
-      time: 0
+    - place: '15'
       total: 558
+      distance: 535.4
+      leading: 22.4
       arrival: 0
-      place: '15'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 134.739000 km
+      distanceFrac: 0.8753378202796113
   - - - '52'
       - Dale Regehr
-    - distance: 302.2
-      leading: 15.4
-      time: 0
+    - place: '31'
       total: 318
+      distance: 302.2
+      leading: 15.4
       arrival: 0
-      place: '31'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 96.233000 km
+      distanceFrac: 0.625181903227483
   - - - '99'
       - Gennadiy Khramov
-    - distance: 248.3
-      leading: 0
-      time: 0
+    - place: '36'
       total: 248
+      distance: 248.3
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 85.466000 km
+      distanceFrac: 0.5552336157164389
   - - - '8'
       - Gordon Rigg
-    - distance: 182.3
-      leading: 0
-      time: 0
+    - place: '37'
       total: 182
+      distance: 182.3
+      leading: 0
       arrival: 0
-      place: '37'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 70.412000 km
+      distanceFrac: 0.4574346447689829
   - - - '64'
       - Longfei Yang
-    - distance: 413.7
-      leading: 0
-      time: 0
+    - place: '27'
       total: 414
+      distance: 413.7
+      leading: 0
       arrival: 0
-      place: '27'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 115.729000 km
+      distanceFrac: 0.7518385219063458
   - - - '68'
       - Neale Halsall
-    - distance: 305
-      leading: 17.2
-      time: 0
+    - place: '30'
       total: 322
+      distance: 305
+      leading: 17.2
       arrival: 0
-      place: '30'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 97.067000 km
+      distanceFrac: 0.6306000207889403
   - - - '14'
       - Peter Burkitt
-    - distance: 53.4
-      leading: 0
-      time: 0
+    - place: '39'
       total: 53
+      distance: 53.4
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 15.164000 km
+      distanceFrac: 9.851359076971052e-2
   - - - '22'
       - Rohan Taylor
-    - distance: 589.1
-      leading: 62.7
-      time: 0
+    - place: '10'
       total: 652
+      distance: 589.1
+      leading: 62.7
       arrival: 0
-      place: '10'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 144.711000 km
+      distanceFrac: 0.9401213554389065
   - - - '86'
       - Ross Smith
-    - distance: 476.8
-      leading: 0
-      time: 0
+    - place: '23'
       total: 477
+      distance: 476.8
+      leading: 0
       arrival: 0
-      place: '23'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 124.452000 km
+      distanceFrac: 0.8085078738111324
   - - - '103'
       - Wayne Thompson
-    - distance: 367
-      leading: 15.5
-      time: 0
+    - place: '29'
       total: 383
+      distance: 367
+      leading: 15.5
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 108.770000 km
+      distanceFrac: 0.7066290733329869
   - - - '31'
       - Trent Brown
-    - distance: 590.7
-      leading: 59.2
-      time: 0
+    - place: '11'
       total: 650
+      distance: 590.7
+      leading: 59.2
       arrival: 0
-      place: '11'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 145.112000 km
+      distanceFrac: 0.9427264695182163
   - - - '43'
       - Jonny Durand
-    - distance: 610
-      leading: 68
-      time: 260.4
+    - place: '2'
       total: 976
+      distance: 610
+      leading: 68
       arrival: 37.9
-      place: '2'
+      time: 260.4
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:03:33Z
+      ssElapsed: 2.809167 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '106'
       - Jon Durand Snr
-    - distance: 610
-      leading: 48.4
-      time: 190.4
+    - place: '7'
       total: 863
+      distance: 610
+      leading: 48.4
       arrival: 14.5
-      place: '7'
+      time: 190.4
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:19:10Z
+      ssElapsed: 3.069444 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '25'
       - Tyler Borrdaile
-    - distance: 298.4
-      leading: 0
-      time: 0
+    - place: '32'
       total: 298
+      distance: 298.4
+      leading: 0
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2018-01-03T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 95.266000 km
+      distanceFrac: 0.6188997453354815
   - - - '101'
       - Oliver Chitty
-    - distance: 610
-      leading: 61.5
-      time: 272
+    - place: '1'
       total: 992
+      distance: 610
+      leading: 61.5
       arrival: 48.6
-      place: '1'
+      time: 272
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:02:40Z
+      ssElapsed: 2.794444 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '76'
       - Rory Duncan
-    - distance: 610
-      leading: 67.8
-      time: 246.7
+    - place: '5'
       total: 942
+      distance: 610
+      leading: 67.8
       arrival: 17.9
-      place: '5'
+      time: 246.7
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:05:31Z
+      ssElapsed: 2.841944 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '67'
       - Mark Alton
-    - distance: 175.3
-      leading: 0
-      time: 0
+    - place: '38'
       total: 175
+      distance: 175.3
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 67.771000 km
+      distanceFrac: 0.44027727249103477
   - - - '4'
       - Frank Chetcuti
-    - distance: 584.9
-      leading: 34.6
-      time: 0
+    - place: '12'
       total: 620
+      distance: 584.9
+      leading: 34.6
       arrival: 0
-      place: '12'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 143.821000 km
+      distanceFrac: 0.9343394314224832
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 498.6
-      leading: 44.3
-      time: 0
+    - place: '19'
       total: 543
+      distance: 498.6
+      leading: 44.3
       arrival: 0
-      place: '19'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 127.889000 km
+      distanceFrac: 0.8308364949846682
   - - - '74'
       - Vic Hare
-    - distance: 505.8
-      leading: 1.4
-      time: 0
+    - place: '22'
       total: 507
+      distance: 505.8
+      leading: 1.4
       arrival: 0
-      place: '22'
+      time: 0
+      ss: 2018-01-03T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 129.651000 km
+      distanceFrac: 0.8422834052284186
   - - - '30'
       - Jason Kath
-    - distance: 610
-      leading: 50.9
-      time: 93.6
+    - place: '9'
       total: 765
+      distance: 610
+      leading: 50.9
       arrival: 10
-      place: '9'
+      time: 93.6
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:55:58Z
+      ssElapsed: 3.682778 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 610
-      leading: 61.6
-      time: 258.6
+    - place: '3'
       total: 960
+      distance: 610
+      leading: 61.6
       arrival: 29.4
-      place: '3'
+      time: 258.6
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:03:46Z
+      ssElapsed: 2.812778 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '6'
       - Yoko Sano
-    - distance: 483.9
-      leading: 41.6
-      time: 0
+    - place: '21'
       total: 526
+      distance: 483.9
+      leading: 41.6
       arrival: 0
-      place: '21'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 125.409000 km
+      distanceFrac: 0.8147250662647472
   - - - '80'
       - Michael Cassells
-    - distance: 39.7
-      leading: 0
-      time: 0
+    - place: '40'
       total: 40
+      distance: 39.7
+      leading: 0
       arrival: 0
-      place: '40'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 6.496543838677823e-2
   - - - '15'
       - Ryosuke Hattori
-    - distance: 544
-      leading: 0
-      time: 0
+    - place: '17'
       total: 544
+      distance: 544
+      leading: 0
       arrival: 0
-      place: '17'
+      time: 0
+      ss: 2018-01-03T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 136.182000 km
+      distanceFrac: 0.8847123330388236
   - - - '75'
       - Yasuhiro Noma
-    - distance: 403.6
-      leading: 46.2
-      time: 0
+    - place: '24'
       total: 450
+      distance: 403.6
+      leading: 46.2
       arrival: 0
-      place: '24'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 114.263000 km
+      distanceFrac: 0.7423145886388441
   - - - '36'
       - Steve Docherty
-    - distance: 494.4
-      leading: 50
-      time: 0
+    - place: '17'
       total: 544
+      distance: 494.4
+      leading: 50
       arrival: 0
-      place: '17'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 127.006000 km
+      distanceFrac: 0.8251000467751156
   - - - '98'
       - Oyvind Ellefsen
-    - distance: 402.6
-      leading: 0
-      time: 0
+    - place: '28'
       total: 403
+      distance: 402.6
+      leading: 0
       arrival: 0
-      place: '28'
+      time: 0
+      ss: 2018-01-03T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 114.123000 km
+      distanceFrac: 0.7414050725014293
   - - - '7'
       - Olav Opsanger
-    - distance: 389.3
-      leading: 40.8
-      time: 0
+    - place: '26'
       total: 430
+      distance: 389.3
+      leading: 40.8
       arrival: 0
-      place: '26'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 112.439000 km
+      distanceFrac: 0.7304648926770958
   - - - '42'
       - Rob de Groot
-    - distance: 285.3
-      leading: 7.8
-      time: 0
+    - place: '33'
       total: 293
+      distance: 285.3
+      leading: 7.8
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 92.151000 km
+      distanceFrac: 0.5986630112780001
   - - - '51'
       - Craig Taylor
-    - distance: 610
-      leading: 55.2
-      time: 167
+    - place: '8'
       total: 843
+      distance: 610
+      leading: 55.2
       arrival: 10.8
-      place: '8'
+      time: 167
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:26:44Z
+      ssElapsed: 3.195556 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '62'
       - Josh Woods
-    - distance: 493.1
-      leading: 54.3
-      time: 0
+    - place: '16'
       total: 547
+      distance: 493.1
+      leading: 54.3
       arrival: 0
-      place: '16'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 126.791000 km
+      distanceFrac: 0.8237032898497999
   - - - '41'
       - Tony Armstrong
-    - distance: 398.3
-      leading: 44.5
-      time: 0
+    - place: '25'
       total: 443
+      distance: 398.3
+      leading: 44.5
       arrival: 0
-      place: '25'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 113.595000 km
+      distanceFrac: 0.7379748973546073
   - - - '23'
       - Nils Vesk
-    - distance: 610
-      leading: 65.7
-      time: 189.4
+    - place: '6'
       total: 877
+      distance: 610
+      leading: 65.7
       arrival: 12.2
-      place: '6'
+      time: 189.4
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:19:27Z
+      ssElapsed: 3.074167 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '37'
       - Gavin Myers
-    - distance: 610
-      leading: 66
-      time: 253.7
+    - place: '4'
       total: 953
+      distance: 610
+      leading: 66
       arrival: 22.8
-      place: '4'
+      time: 253.7
+      ss: 2018-01-03T04:15:00Z
+      es: 2018-01-03T07:04:25Z
+      ssElapsed: 2.823611 h
+      distanceMade: 153.928000 km
+      distanceFrac: 1
   - - - '81'
       - Nick Purcell
-    - distance: 592.2
-      leading: 10.1
-      time: 0
+    - place: '14'
       total: 602
+      distance: 592.2
+      leading: 10.1
       arrival: 0
-      place: '14'
+      time: 0
+      ss: 2018-01-03T04:45:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 145.599000 km
+      distanceFrac: 0.9458902863676524
   - - - '11'
       - Steve Blenkinsop
-    - distance: 597.4
-      leading: 22
-      time: 0
+    - place: '13'
       total: 619
+      distance: 597.4
+      leading: 22
       arrival: 0
-      place: '13'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 147.549000 km
+      distanceFrac: 0.9585585468530742
   - - - '28'
       - Mikhail Karmazin
-    - distance: 495.8
-      leading: 45.9
-      time: 0
+    - place: '20'
       total: 542
+      distance: 495.8
+      leading: 45.9
       arrival: 0
-      place: '20'
+      time: 0
+      ss: 2018-01-03T04:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 127.289000 km
+      distanceFrac: 0.8269385686814614
   - - - '71'
       - Rob Larkin
-    - distance: 39.7
-      leading: 0
-      time: 0
+    - place: '40'
       total: 40
+      distance: 39.7
+      leading: 0
       arrival: 0
-      place: '40'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 6.496543838677823e-2
   - - - '34'
       - Brad Porter
-    - distance: 271.8
-      leading: 5.4
-      time: 0
+    - place: '34'
       total: 277
+      distance: 271.8
+      leading: 5.4
       arrival: 0
-      place: '34'
+      time: 0
+      ss: 2018-01-03T04:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 89.364000 km
+      distanceFrac: 0.580557143599605
 - - - - '43'
       - Jonny Durand
-    - distance: 410.2
-      leading: 97.7
-      time: 412.9
+    - place: '1'
       total: 995
+      distance: 410.2
+      leading: 97.7
       arrival: 73.7
-      place: '1'
+      time: 412.9
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:23:59Z
+      ssElapsed: 3.566389 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '30'
       - Jason Kath
-    - distance: 410.2
-      leading: 103.2
-      time: 355.4
+    - place: '3'
       total: 930
+      distance: 410.2
+      leading: 103.2
       arrival: 61.2
-      place: '3'
+      time: 355.4
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:29:52Z
+      ssElapsed: 3.664444 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '86'
       - Ross Smith
-    - distance: 61.8
-      leading: 0
-      time: 0
+    - place: '43'
       total: 62
+      distance: 61.8
+      leading: 0
       arrival: 0
-      place: '43'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 27.717000 km
+      distanceFrac: 0.16660655678580447
   - - - '101'
       - Oliver Chitty
-    - distance: 410.2
-      leading: 43
-      time: 314
+    - place: '11'
       total: 787
+      distance: 410.2
+      leading: 43
       arrival: 19.6
-      place: '11'
+      time: 314
+      ss: 2018-01-04T03:10:00Z
+      es: 2018-01-04T06:57:16Z
+      ssElapsed: 3.787778 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '37'
       - Gavin Myers
-    - distance: 410.2
-      leading: 73.7
-      time: 280
+    - place: '10'
       total: 799
+      distance: 410.2
+      leading: 73.7
       arrival: 34.7
-      place: '10'
+      time: 280
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:44:40Z
+      ssElapsed: 3.911111 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 410.2
-      leading: 83.8
-      time: 315.5
+    - place: '4'
       total: 865
+      distance: 410.2
+      leading: 83.8
       arrival: 55.7
-      place: '4'
+      time: 315.5
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:36:58Z
+      ssElapsed: 3.782778 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '75'
       - Yasuhiro Noma
-    - distance: 410.2
-      leading: 83.9
-      time: 281.2
+    - place: '9'
       total: 813
+      distance: 410.2
+      leading: 83.9
       arrival: 38.1
-      place: '9'
+      time: 281.2
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:44:23Z
+      ssElapsed: 3.906389 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '68'
       - Neale Halsall
-    - distance: 410.2
-      leading: 48.7
-      time: 191.8
+    - place: '20'
       total: 667
+      distance: 410.2
+      leading: 48.7
       arrival: 16.2
-      place: '20'
+      time: 191.8
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T07:08:23Z
+      ssElapsed: 4.306389 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '100'
       - Malcolm Brown
-    - distance: 410.2
-      leading: 68.8
-      time: 238.2
+    - place: '16'
       total: 742
+      distance: 410.2
+      leading: 68.8
       arrival: 24.3
-      place: '16'
+      time: 238.2
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:55:10Z
+      ssElapsed: 4.086111 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '81'
       - Nick Purcell
-    - distance: 410.2
-      leading: 53.5
-      time: 245.8
+    - place: '17'
       total: 736
+      distance: 410.2
+      leading: 53.5
       arrival: 26.5
-      place: '17'
+      time: 245.8
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:53:09Z
+      ssElapsed: 4.052500 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '41'
       - Tony Armstrong
-    - distance: 410.2
-      leading: 79.2
-      time: 232.9
+    - place: '15'
       total: 745
+      distance: 410.2
+      leading: 79.2
       arrival: 22.5
-      place: '15'
+      time: 232.9
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:56:35Z
+      ssElapsed: 4.109722 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '32'
       - Andrew Barnes
-    - distance: 167.1
-      leading: 0
-      time: 0
+    - place: '40'
       total: 167
+      distance: 167.1
+      leading: 0
       arrival: 0
-      place: '40'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 85.698000 km
+      distanceFrac: 0.5151296570130199
   - - - '83'
       - Randal Clotworthy
-    - distance: 58.8
-      leading: 0
-      time: 0
+    - place: '44'
       total: 59
+      distance: 58.8
+      leading: 0
       arrival: 0
-      place: '44'
+      time: 0
+      ss: 2018-01-04T03:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 26.525000 km
+      distanceFrac: 0.1594414589870283
   - - - '76'
       - Rory Duncan
-    - distance: 410.2
-      leading: 92.7
-      time: 361.4
+    - place: '2'
       total: 932
+      distance: 410.2
+      leading: 92.7
       arrival: 67.2
-      place: '2'
+      time: 361.4
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:28:58Z
+      ssElapsed: 3.649444 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '8'
       - Gordon Rigg
-    - distance: 410.2
-      leading: 67.6
-      time: 227.5
+    - place: '18'
       total: 724
+      distance: 410.2
+      leading: 67.6
       arrival: 18.4
-      place: '18'
+      time: 227.5
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:58:05Z
+      ssElapsed: 4.134722 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '34'
       - Brad Porter
-    - distance: 410.2
-      leading: 82.6
-      time: 289.8
+    - place: '8'
       total: 825
+      distance: 410.2
+      leading: 82.6
       arrival: 41.9
-      place: '8'
+      time: 289.8
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:42:25Z
+      ssElapsed: 3.873611 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '36'
       - Steve Docherty
-    - distance: 410.2
-      leading: 81.4
-      time: 307.1
+    - place: '6'
       total: 845
+      distance: 410.2
+      leading: 81.4
       arrival: 46.1
-      place: '6'
+      time: 307.1
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:38:41Z
+      ssElapsed: 3.811389 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '106'
       - Jon Durand Snr
-    - distance: 410.2
-      leading: 70.8
-      time: 225.8
+    - place: '18'
       total: 724
+      distance: 410.2
+      leading: 70.8
       arrival: 17.5
-      place: '18'
+      time: 225.8
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:58:33Z
+      ssElapsed: 4.142500 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '11'
       - Steve Blenkinsop
-    - distance: 410.2
-      leading: 86.5
-      time: 314.7
+    - place: '5'
       total: 862
+      distance: 410.2
+      leading: 86.5
       arrival: 50.7
-      place: '5'
+      time: 314.7
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:37:07Z
+      ssElapsed: 3.785278 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '25'
       - Tyler Borrdaile
-    - distance: 351.2
-      leading: 34.9
-      time: 0
+    - place: '27'
       total: 386
+      distance: 351.2
+      leading: 34.9
       arrival: 0
-      place: '27'
+      time: 0
+      ss: 2018-01-04T03:10:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 127.408000 km
+      distanceFrac: 0.7658479700893233
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 410.2
-      leading: 54.2
-      time: 134.2
+    - place: '23'
       total: 614
+      distance: 410.2
+      leading: 54.2
       arrival: 15.3
-      place: '23'
+      time: 134.2
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T07:26:49Z
+      ssElapsed: 4.613611 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '64'
       - Longfei Yang
-    - distance: 375.4
-      leading: 0
-      time: 0
+    - place: '28'
       total: 375
+      distance: 375.4
+      leading: 0
       arrival: 0
-      place: '28'
+      time: 0
+      ss: 2018-01-04T03:10:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 138.106000 km
+      distanceFrac: 0.8301535206357221
   - - - '103'
       - Wayne Thompson
-    - distance: 270.2
-      leading: 0
-      time: 0
+    - place: '37'
       total: 270
+      distance: 270.2
+      leading: 0
       arrival: 0
-      place: '37'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 108.953000 km
+      distanceFrac: 0.6549151849581034
   - - - '22'
       - Rohan Taylor
-    - distance: 325.6
-      leading: 43.2
-      time: 0
+    - place: '30'
       total: 369
+      distance: 325.6
+      leading: 43.2
       arrival: 0
-      place: '30'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 120.260000 km
+      distanceFrac: 0.7228814272490112
   - - - '92'
       - Attila Bertok
-    - distance: 410.2
-      leading: 47.6
-      time: 357.7
+    - place: '7'
       total: 844
+      distance: 410.2
+      leading: 47.6
       arrival: 28.9
-      place: '7'
+      time: 357.7
+      ss: 2018-01-04T03:10:00Z
+      es: 2018-01-04T06:49:31Z
+      ssElapsed: 3.658611 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '14'
       - Peter Burkitt
-    - distance: 295.8
-      leading: 0
-      time: 0
+    - place: '36'
       total: 296
+      distance: 295.8
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 114.259000 km
+      distanceFrac: 0.6868094877435953
   - - - '98'
       - Oyvind Ellefsen
-    - distance: 410.2
-      leading: 36.8
-      time: 307.3
+    - place: '14'
       total: 771
+      distance: 410.2
+      leading: 36.8
       arrival: 16.8
-      place: '14'
+      time: 307.3
+      ss: 2018-01-04T03:10:00Z
+      es: 2018-01-04T06:58:38Z
+      ssElapsed: 3.810556 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '7'
       - Olav Opsanger
-    - distance: 410.2
-      leading: 37.9
-      time: 315.6
+    - place: '12'
       total: 785
+      distance: 410.2
+      leading: 37.9
       arrival: 20.9
-      place: '12'
+      time: 315.6
+      ss: 2018-01-04T03:10:00Z
+      es: 2018-01-04T06:56:56Z
+      ssElapsed: 3.782222 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '80'
       - Michael Cassells
-    - distance: 351.9
-      leading: 39.4
-      time: 0
+    - place: '26'
       total: 391
+      distance: 351.9
+      leading: 39.4
       arrival: 0
-      place: '26'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 127.666000 km
+      distanceFrac: 0.7673988050155685
   - - - '74'
       - Vic Hare
-    - distance: 104
-      leading: 0
-      time: 0
+    - place: '41'
       total: 104
+      distance: 104
+      leading: 0
       arrival: 0
-      place: '41'
+      time: 0
+      ss: 2018-01-04T03:10:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 48.359000 km
+      distanceFrac: 0.29068537286159096
   - - - '15'
       - Ryosuke Hattori
-    - distance: 410.2
-      leading: 5.6
-      time: 74.2
+    - place: '24'
       total: 505
+      distance: 410.2
+      leading: 5.6
       arrival: 14.9
-      place: '24'
+      time: 74.2
+      ss: 2018-01-04T03:10:00Z
+      es: 2018-01-04T08:08:10Z
+      ssElapsed: 4.969444 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '6'
       - Yoko Sano
-    - distance: 267.8
-      leading: 29.7
-      time: 0
+    - place: '35'
       total: 298
+      distance: 267.8
+      leading: 29.7
       arrival: 0
-      place: '35'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 108.456000 km
+      distanceFrac: 0.6519277238792512
   - - - '85'
       - Rick Martin
-    - distance: 341.3
-      leading: 0
-      time: 0
+    - place: '33'
       total: 341
+      distance: 341.3
+      leading: 0
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 124.451000 km
+      distanceFrac: 0.748073478318366
   - - - '62'
       - Josh Woods
-    - distance: 410.2
-      leading: 62.5
-      time: 268.8
+    - place: '13'
       total: 773
+      distance: 410.2
+      leading: 62.5
       arrival: 31.6
-      place: '13'
+      time: 268.8
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T06:47:20Z
+      ssElapsed: 3.955556 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '42'
       - Rob de Groot
-    - distance: 370.3
-      leading: 21.2
-      time: 0
+    - place: '25'
       total: 392
+      distance: 370.3
+      leading: 21.2
       arrival: 0
-      place: '25'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 135.020000 km
+      distanceFrac: 0.8116036114016422
   - - - '28'
       - Mikhail Karmazin
-    - distance: 323.3
-      leading: 33.3
-      time: 0
+    - place: '31'
       total: 357
+      distance: 323.3
+      leading: 33.3
       arrival: 0
-      place: '31'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 119.725000 km
+      distanceFrac: 0.7196655486228827
   - - - '23'
       - Nils Vesk
-    - distance: 279.2
-      leading: 47.1
-      time: 0
+    - place: '34'
       total: 326
+      distance: 279.2
+      leading: 47.1
       arrival: 0
-      place: '34'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 110.896000 km
+      distanceFrac: 0.666594534809632
   - - - '31'
       - Trent Brown
-    - distance: 410.2
-      leading: 80.9
-      time: 122.1
+    - place: '21'
       total: 628
+      distance: 410.2
+      leading: 80.9
       arrival: 15.1
-      place: '21'
+      time: 122.1
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T07:30:56Z
+      ssElapsed: 4.682222 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '52'
       - Dale Regehr
-    - distance: 370.2
-      leading: 0
-      time: 0
+    - place: '29'
       total: 370
+      distance: 370.2
+      leading: 0
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 134.970000 km
+      distanceFrac: 0.8113030619973312
   - - - '107'
       - Anatoly Reyter
-    - distance: 324.3
-      leading: 24.4
-      time: 0
+    - place: '32'
       total: 349
+      distance: 324.3
+      leading: 24.4
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 119.957000 km
+      distanceFrac: 0.7210600978588861
   - - - '51'
       - Craig Taylor
-    - distance: 410.2
-      leading: 49.6
-      time: 140.1
+    - place: '22'
       total: 616
+      distance: 410.2
+      leading: 49.6
       arrival: 15.7
-      place: '22'
+      time: 140.1
+      ss: 2018-01-04T02:50:00Z
+      es: 2018-01-04T07:24:50Z
+      ssElapsed: 4.580556 h
+      distanceMade: 166.362000 km
+      distanceFrac: 1
   - - - '99'
       - Gennadiy Khramov
-    - distance: 22.2
-      leading: 0
-      time: 0
+    - place: '45'
       total: 22
+      distance: 22.2
+      leading: 0
       arrival: 0
-      place: '45'
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 10.000000 km
+      distanceFrac: 6.010988086221613e-2
   - - - '71'
       - Rob Larkin
-    - distance: 102
-      leading: 0
-      time: 0
+    - place: '42'
       total: 102
+      distance: 102
+      leading: 0
       arrival: 0
-      place: '42'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 47.081000 km
+      distanceFrac: 0.28300333008739975
   - - - '67'
       - Mark Alton
-    - distance: 207
-      leading: 0
-      time: 0
+    - place: '39'
       total: 207
+      distance: 207
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 96.771000 km
+      distanceFrac: 0.5816893280917517
   - - - '55'
       - Don Cramer
-    - distance: 262.9
-      leading: 0
-      time: 0
+    - place: '38'
       total: 263
+      distance: 262.9
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: 2018-01-04T02:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 107.560000 km
+      distanceFrac: 0.6465418785539967
 - - - - '92'
       - Attila Bertok
-    - distance: 385.2
-      leading: 98
-      time: 430.4
+    - place: '1'
       total: 990
+      distance: 385.2
+      leading: 98
       arrival: 76.8
-      place: '1'
+      time: 430.4
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:12:01Z
+      ssElapsed: 3.533611 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '34'
       - Brad Porter
-    - distance: 144.3
-      leading: 0
-      time: 0
+    - place: '36'
       total: 144
+      distance: 144.3
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 67.244000 km
+      distanceFrac: 0.3906241831014552
   - - - '51'
       - Craig Taylor
-    - distance: 385.2
-      leading: 8.4
-      time: 0
+    - place: '25'
       total: 409
+      distance: 385.2
+      leading: 8.4
       arrival: 15.5
-      place: '25'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T08:57:08Z
+      ssElapsed: 6.285556 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '52'
       - Dale Regehr
-    - distance: 320.7
-      leading: 0
-      time: 0
+    - place: '28'
       total: 321
+      distance: 320.7
+      leading: 0
       arrival: 0
-      place: '28'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 134.587000 km
+      distanceFrac: 0.7818234627784716
   - - - '4'
       - Frank Chetcuti
-    - distance: 268.9
-      leading: 0
-      time: 0
+    - place: '32'
       total: 269
+      distance: 268.9
+      leading: 0
       arrival: 0
-      place: '32'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 108.119000 km
+      distanceFrac: 0.6280693601324465
   - - - '37'
       - Gavin Myers
-    - distance: 385.2
-      leading: 35.7
-      time: 127.8
+    - place: '17'
       total: 570
+      distance: 385.2
+      leading: 35.7
       arrival: 21.2
-      place: '17'
+      time: 127.8
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:18:31Z
+      ssElapsed: 4.641944 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '99'
       - Gennadiy Khramov
-    - distance: 381.2
-      leading: 6.6
-      time: 0
+    - place: '26'
       total: 388
+      distance: 381.2
+      leading: 6.6
       arrival: 0
-      place: '26'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 168.607000 km
+      distanceFrac: 0.9794475587440821
   - - - '8'
       - Gordon Rigg
-    - distance: 385.2
-      leading: 53.4
-      time: 187.1
+    - place: '12'
       total: 654
+      distance: 385.2
+      leading: 53.4
       arrival: 28.6
-      place: '12'
+      time: 187.1
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:59:56Z
+      ssElapsed: 4.332222 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '27'
       - Guy Hubbard
-    - distance: 385.2
-      leading: 73.6
-      time: 260.1
+    - place: '11'
       total: 750
+      distance: 385.2
+      leading: 73.6
       arrival: 31.2
-      place: '11'
+      time: 260.1
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:40:05Z
+      ssElapsed: 4.001389 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '30'
       - Jason Kath
-    - distance: 385.2
-      leading: 107.6
-      time: 328.3
+    - place: '4'
       total: 870
+      distance: 385.2
+      leading: 107.6
       arrival: 48.9
-      place: '4'
+      time: 328.3
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:25:03Z
+      ssElapsed: 3.750833 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '106'
       - Jon Durand Snr
-    - distance: 144.1
-      leading: 0
-      time: 0
+    - place: '36'
       total: 144
+      distance: 144.1
+      leading: 0
       arrival: 0
-      place: '36'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 67.149000 km
+      distanceFrac: 0.3900723227511691
   - - - '43'
       - Jonny Durand
-    - distance: 385.2
-      leading: 79.4
-      time: 327.6
+    - place: '7'
       total: 837
+      distance: 385.2
+      leading: 79.4
       arrival: 44.7
-      place: '7'
+      time: 327.6
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:25:11Z
+      ssElapsed: 3.753056 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '62'
       - Josh Woods
-    - distance: 385.2
-      leading: 78.7
-      time: 340.6
+    - place: '6'
       total: 863
+      distance: 385.2
+      leading: 78.7
       arrival: 58.8
-      place: '6'
+      time: 340.6
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:22:46Z
+      ssElapsed: 3.712778 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '64'
       - Longfei Yang
-    - distance: 136.1
-      leading: 0
-      time: 0
+    - place: '38'
       total: 136
+      distance: 136.1
+      leading: 0
       arrival: 0
-      place: '38'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 64.080000 km
+      distanceFrac: 0.3722443289087688
   - - - '100'
       - Malcolm Brown
-    - distance: 385.2
-      leading: 21.8
-      time: 30.1
+    - place: '23'
       total: 453
+      distance: 385.2
+      leading: 21.8
       arrival: 15.9
-      place: '23'
+      time: 30.1
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:53:10Z
+      ssElapsed: 5.219444 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '80'
       - Michael Cassells
-    - distance: 275.4
-      leading: 0
-      time: 0
+    - place: '31'
       total: 275
+      distance: 275.4
+      leading: 0
       arrival: 0
-      place: '31'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 110.623000 km
+      distanceFrac: 0.6426152371547242
   - - - '28'
       - Mikhail Karmazin
-    - distance: 293
-      leading: 0
-      time: 0
+    - place: '30'
       total: 293
+      distance: 293
+      leading: 0
       arrival: 0
-      place: '30'
+      time: 0
+      ss: 2018-01-05T03:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 118.481000 km
+      distanceFrac: 0.6882628017078627
   - - - '68'
       - Neale Halsall
-    - distance: 385.2
-      leading: 28.1
-      time: 73.5
+    - place: '20'
       total: 504
+      distance: 385.2
+      leading: 28.1
       arrival: 17.3
-      place: '20'
+      time: 73.5
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:37:11Z
+      ssElapsed: 4.953056 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '81'
       - Nick Purcell
-    - distance: 385.2
-      leading: 82.8
-      time: 305.5
+    - place: '9'
       total: 811
+      distance: 385.2
+      leading: 82.8
       arrival: 37.2
-      place: '9'
+      time: 305.5
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:29:38Z
+      ssElapsed: 3.827222 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '23'
       - Nils Vesk
-    - distance: 259
-      leading: 0
-      time: 0
+    - place: '33'
       total: 259
+      distance: 259
+      leading: 0
       arrival: 0
-      place: '33'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 104.818000 km
+      distanceFrac: 0.6088936652240844
   - - - '7'
       - Olav Opsanger
-    - distance: 385.2
-      leading: 38.4
-      time: 151.5
+    - place: '15'
       total: 602
+      distance: 385.2
+      leading: 38.4
       arrival: 26.4
-      place: '15'
+      time: 151.5
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:10:50Z
+      ssElapsed: 4.513889 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '101'
       - Oliver Chitty
-    - distance: 385.2
-      leading: 18
-      time: 213.5
+    - place: '13'
       total: 641
+      distance: 385.2
+      leading: 18
       arrival: 24.4
-      place: '13'
+      time: 213.5
+      ss: 2018-01-05T03:00:00Z
+      es: 2018-01-05T07:12:21Z
+      ssElapsed: 4.205833 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '98'
       - Oyvind Ellefsen
-    - distance: 115.9
-      leading: 0
-      time: 0
+    - place: '39'
       total: 116
+      distance: 115.9
+      leading: 0
       arrival: 0
-      place: '39'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 56.432000 km
+      distanceFrac: 0.32781666618257865
   - - - '14'
       - Peter Burkitt
-    - distance: 52.4
-      leading: 0
-      time: 0
+    - place: '40'
       total: 52
+      distance: 52.4
+      leading: 0
       arrival: 0
-      place: '40'
+      time: 0
+      ss: 2018-01-05T03:20:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 31.957000 km
+      distanceFrac: 0.1856400127799239
   - - - '83'
       - Randal Clotworthy
-    - distance: 223.6
-      leading: 0
-      time: 0
+    - place: '34'
       total: 224
+      distance: 223.6
+      leading: 0
       arrival: 0
-      place: '34'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 93.736000 km
+      distanceFrac: 0.5445177030991315
   - - - '85'
       - Rick Martin
-    - distance: 227.9
-      leading: 0
-      time: 0
+    - place: '35'
       total: 158
+      distance: 227.9
+      leading: 0
       arrival: 0
-      place: '35'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 95.030000 km
+      distanceFrac: 0.55203462197566
   - - - '42'
       - Rob de Groot
-    - distance: 385.2
-      leading: 20.3
-      time: 212.7
+    - place: '13'
       total: 641
+      distance: 385.2
+      leading: 20.3
       arrival: 22.7
-      place: '13'
+      time: 212.7
+      ss: 2018-01-05T03:00:00Z
+      es: 2018-01-05T07:12:35Z
+      ssElapsed: 4.209722 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '22'
       - Rohan Taylor
-    - distance: 385.2
-      leading: 92.2
-      time: 333.1
+    - place: '5'
       total: 864
+      distance: 385.2
+      leading: 92.2
       arrival: 53.6
-      place: '5'
+      time: 333.1
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:24:08Z
+      ssElapsed: 3.735556 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '76'
       - Rory Duncan
-    - distance: 385.2
-      leading: 85
-      time: 361.5
+    - place: '3'
       total: 896
+      distance: 385.2
+      leading: 85
       arrival: 64.3
-      place: '3'
+      time: 361.5
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:19:14Z
+      ssElapsed: 3.653889 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '15'
       - Ryosuke Hattori
-    - distance: 385.2
-      leading: 20.5
-      time: 40.5
+    - place: '22'
       total: 463
+      distance: 385.2
+      leading: 20.5
       arrival: 16.3
-      place: '22'
+      time: 40.5
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:49:16Z
+      ssElapsed: 5.154444 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '72'
       - Sasha Serebrennikova
-    - distance: 385.2
-      leading: 21.8
-      time: 22.2
+    - place: '24'
       total: 445
+      distance: 385.2
+      leading: 21.8
       arrival: 15.7
-      place: '24'
+      time: 22.2
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:56:12Z
+      ssElapsed: 5.270000 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '11'
       - Steve Blenkinsop
-    - distance: 385.2
-      leading: 87
-      time: 304
+    - place: '10'
       total: 810
+      distance: 385.2
+      leading: 87
       arrival: 34
-      place: '10'
+      time: 304
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:29:57Z
+      ssElapsed: 3.832500 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '36'
       - Steve Docherty
-    - distance: 369.4
-      leading: 0
-      time: 0
+    - place: '27'
       total: 369
+      distance: 369.4
+      leading: 0
       arrival: 0
-      place: '27'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 160.674000 km
+      distanceFrac: 0.9333643149670336
   - - - '41'
       - Tony Armstrong
-    - distance: 385.2
-      leading: 42.4
-      time: 108.8
+    - place: '19'
       total: 554
+      distance: 385.2
+      leading: 42.4
       arrival: 18
-      place: '19'
+      time: 108.8
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:24:51Z
+      ssElapsed: 4.747500 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '31'
       - Trent Brown
-    - distance: 385.2
-      leading: 78.3
-      time: 315.7
+    - place: '8'
       total: 820
+      distance: 385.2
+      leading: 78.3
       arrival: 40.8
-      place: '8'
+      time: 315.7
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:27:32Z
+      ssElapsed: 3.792222 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '25'
       - Tyler Borrdaile
-    - distance: 385.2
-      leading: 90
-      time: 364.3
+    - place: '2'
       total: 910
+      distance: 385.2
+      leading: 90
       arrival: 70.3
-      place: '2'
+      time: 364.3
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T06:18:48Z
+      ssElapsed: 3.646667 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '74'
       - Vic Hare
-    - distance: 385.2
-      leading: 18.5
-      time: 73.5
+    - place: '21'
       total: 495
+      distance: 385.2
+      leading: 18.5
       arrival: 17.3
-      place: '21'
+      time: 73.5
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:37:11Z
+      ssElapsed: 4.953056 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '103'
       - Wayne Thompson
-    - distance: 294.8
-      leading: 0
-      time: 0
+    - place: '29'
       total: 295
+      distance: 294.8
+      leading: 0
       arrival: 0
-      place: '29'
+      time: 0
+      ss: 2018-01-05T02:40:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 119.472000 km
+      distanceFrac: 0.6940195765197944
   - - - '75'
       - Yasuhiro Noma
-    - distance: 385.2
-      leading: 6.5
-      time: 181.8
+    - place: '16'
       total: 594
+      distance: 385.2
+      leading: 6.5
       arrival: 20
-      place: '16'
+      time: 181.8
+      ss: 2018-01-05T03:00:00Z
+      es: 2018-01-05T07:21:32Z
+      ssElapsed: 4.358889 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1
   - - - '6'
       - Yoko Sano
-    - distance: 385.2
-      leading: 45.1
-      time: 115.2
+    - place: '18'
       total: 564
+      distance: 385.2
+      leading: 45.1
       arrival: 18.9
-      place: '18'
+      time: 115.2
+      ss: 2018-01-05T02:40:00Z
+      es: 2018-01-05T07:22:42Z
+      ssElapsed: 4.711667 h
+      distanceMade: 172.145000 km
+      distanceFrac: 1

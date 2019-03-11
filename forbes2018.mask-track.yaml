@@ -141,7 +141,7 @@ leadCoefMin:
 - 1.57298249
 - 2.35312166
 - 2.21272887
-lead:
+leadRank:
 - - - - '101'
       - Oliver Chitty
     - coef: 1.39148017
@@ -1246,7 +1246,7 @@ lead:
       - Peter Burkitt
     - coef: 9.02184722
       frac: 0
-arrival:
+arrivalRank:
 - - - - '92'
       - Attila Bertok
     - rank: '1'
@@ -1779,6 +1779,1135 @@ arrival:
       - Craig Taylor
     - rank: '25'
       frac: 0.20172851
+reachRank:
+- - - - '92'
+      - Attila Bertok
+    - frac: 1
+      reach: 142.788632 km
+  - - - '101'
+      - Oliver Chitty
+    - frac: 1
+      reach: 142.788632 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 1
+      reach: 142.788632 km
+  - - - '31'
+      - Trent Brown
+    - frac: 1
+      reach: 142.788632 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 142.788632 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 1
+      reach: 142.788632 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 1
+      reach: 142.788632 km
+  - - - '30'
+      - Jason Kath
+    - frac: 1
+      reach: 142.788632 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 1
+      reach: 142.788632 km
+  - - - '62'
+      - Josh Woods
+    - frac: 1
+      reach: 142.788632 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 142.788632 km
+  - - - '69'
+      - Niki Longshore
+    - frac: 1
+      reach: 142.788632 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 142.788632 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 1
+      reach: 142.788632 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 1
+      reach: 142.788632 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 1
+      reach: 142.788632 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 1
+      reach: 142.788632 km
+  - - - '108'
+      - Peter Adriaans
+    - frac: 0.81219793
+      reach: 115.972632 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 0.78281184
+      reach: 111.776632 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 0.78234262
+      reach: 111.709632 km
+  - - - '32'
+      - Andrew Barnes
+    - frac: 0.74878252
+      reach: 106.917632 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 0.74503573
+      reach: 106.382632 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 0.69479363
+      reach: 99.208632 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0.5800436
+      reach: 82.823632 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - frac: 0.47275915
+      reach: 67.504632 km
+  - - - '43'
+      - Jonny Durand
+    - frac: 0.45883647
+      reach: 65.516632 km
+  - - - '107'
+      - Anatoly Reyter
+    - frac: 0.451595
+      reach: 64.482632 km
+  - - - '4'
+      - Frank Chetcuti
+    - frac: 0.40096772
+      reach: 57.253632 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 0.39265473
+      reach: 56.066632 km
+  - - - '71'
+      - Rob Larkin
+    - frac: 0.36034124
+      reach: 51.452632 km
+  - - - '86'
+      - Ross Smith
+    - frac: 0.33928914
+      reach: 48.446632 km
+  - - - '100'
+      - Malcolm Brown
+    - frac: 0.21185603
+      reach: 30.250632 km
+  - - - '34'
+      - Brad Porter
+    - frac: 0.18512421
+      reach: 26.433632 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 0.168015
+      reach: 23.990632 km
+  - - - '67'
+      - Mark Alton
+    - frac: 0.16354686
+      reach: 23.352632 km
+  - - - '88'
+      - Simon West
+    - frac: 0.12394286
+      reach: 17.697632 km
+  - - - '94'
+      - Justinas Pleikys
+    - frac: 0.12011203
+      reach: 17.150632 km
+  - - - '55'
+      - Don Cramer
+    - frac: 9.340822e-2
+      reach: 13.337632 km
+  - - - '77'
+      - Brodrick Osborne
+    - frac: 3.863495e-2
+      reach: 5.516632 km
+- - - - '62'
+      - Josh Woods
+    - frac: 1
+      reach: 185.746183 km
+  - - - '43'
+      - Jonny Durand
+    - frac: 1
+      reach: 185.746183 km
+  - - - '92'
+      - Attila Bertok
+    - frac: 1
+      reach: 185.746183 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 185.746183 km
+  - - - '101'
+      - Oliver Chitty
+    - frac: 1
+      reach: 185.746183 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 185.746183 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 1
+      reach: 185.746183 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 1
+      reach: 185.746183 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 1
+      reach: 185.746183 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 185.746183 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 185.746183 km
+  - - - '69'
+      - Niki Longshore
+    - frac: 1
+      reach: 185.746183 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 1
+      reach: 185.746183 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 1
+      reach: 185.746183 km
+  - - - '30'
+      - Jason Kath
+    - frac: 0.97261855
+      reach: 180.660183 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 0.96519444
+      reach: 179.281183 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 0.94172155
+      reach: 174.921183 km
+  - - - '77'
+      - Brodrick Osborne
+    - frac: 0.90215142
+      reach: 167.571183 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - frac: 0.87694498
+      reach: 162.889183 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 0.84124034
+      reach: 156.257183 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 0.83953371
+      reach: 155.940183 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 0.80670397
+      reach: 149.842183 km
+  - - - '100'
+      - Malcolm Brown
+    - frac: 0.73204833
+      reach: 135.975183 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 0.66054753
+      reach: 122.694183 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 0.65439936
+      reach: 121.552183 km
+  - - - '34'
+      - Brad Porter
+    - frac: 0.60220448
+      reach: 111.857183 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 0.5857896
+      reach: 108.808183 km
+  - - - '71'
+      - Rob Larkin
+    - frac: 0.56184833
+      reach: 104.361183 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.55967332
+      reach: 103.957183 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 0.53316403
+      reach: 99.033183 km
+  - - - '32'
+      - Andrew Barnes
+    - frac: 0.49204878
+      reach: 91.396183 km
+  - - - '31'
+      - Trent Brown
+    - frac: 0.36335165
+      reach: 67.491183 km
+  - - - '55'
+      - Don Cramer
+    - frac: 0.31194818
+      reach: 57.943183 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 0.30943938
+      reach: 57.477183 km
+  - - - '67'
+      - Mark Alton
+    - frac: 0.25317442
+      reach: 47.026183 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 8.036334e-2
+      reach: 14.927183 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 4.119699e-2
+      reach: 7.652183 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 3.904889e-2
+      reach: 7.253183 km
+  - - - '64'
+      - Longfei Yang
+    - frac: 2.4325e-4
+      reach: 0.045183 km
+- - - - '92'
+      - Attila Bertok
+    - frac: 1
+      reach: 195.224999 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 1
+      reach: 195.224999 km
+  - - - '62'
+      - Josh Woods
+    - frac: 1
+      reach: 195.224999 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 1
+      reach: 195.224999 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 1
+      reach: 195.224999 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 195.224999 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 1
+      reach: 195.224999 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 1
+      reach: 195.224999 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 1
+      reach: 195.224999 km
+  - - - '34'
+      - Brad Porter
+    - frac: 1
+      reach: 195.224999 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 1
+      reach: 195.224999 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 195.224999 km
+  - - - '30'
+      - Jason Kath
+    - frac: 1
+      reach: 195.224999 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 1
+      reach: 195.224999 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 1
+      reach: 195.224999 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 1
+      reach: 195.224999 km
+  - - - '100'
+      - Malcolm Brown
+    - frac: 1
+      reach: 195.224999 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 1
+      reach: 195.224999 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 1
+      reach: 195.224999 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 1
+      reach: 195.224999 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 1
+      reach: 195.224999 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 1
+      reach: 195.224999 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 1
+      reach: 195.224999 km
+  - - - '77'
+      - Brodrick Osborne
+    - frac: 1
+      reach: 195.224999 km
+  - - - '32'
+      - Andrew Barnes
+    - frac: 1
+      reach: 195.224999 km
+  - - - '31'
+      - Trent Brown
+    - frac: 1
+      reach: 195.224999 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 195.224999 km
+  - - - '4'
+      - Frank Chetcuti
+    - frac: 1
+      reach: 195.224999 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 1
+      reach: 195.224999 km
+  - - - '107'
+      - Anatoly Reyter
+    - frac: 0.9827686
+      reach: 191.860999 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 0.95363299
+      reach: 186.172999 km
+  - - - '71'
+      - Rob Larkin
+    - frac: 0.93575618
+      reach: 182.682999 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0.87617877
+      reach: 171.051999 km
+  - - - '67'
+      - Mark Alton
+    - frac: 0.8606326
+      reach: 168.016999 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.85813292
+      reach: 167.528999 km
+  - - - '74'
+      - Vic Hare
+    - frac: 0.85813292
+      reach: 167.528999 km
+  - - - '64'
+      - Longfei Yang
+    - frac: 0.77253938
+      reach: 150.818999 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 0.72584966
+      reach: 141.703999 km
+  - - - '102'
+      - Robert Davies
+    - frac: 0.56017416
+      reach: 109.359999 km
+  - - - '83'
+      - Randal Clotworthy
+    - frac: 0.51873479
+      reach: 101.269999 km
+  - - - '43'
+      - Jonny Durand
+    - frac: 0.38703547
+      reach: 75.558999 km
+  - - - '101'
+      - Oliver Chitty
+    - frac: 0.37668843
+      reach: 73.538999 km
+  - - - '69'
+      - Niki Longshore
+    - frac: 0.36842617
+      reach: 71.925999 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 0.28736586
+      reach: 56.100999 km
+  - - - '55'
+      - Don Cramer
+    - frac: 0.26141631
+      reach: 51.034999 km
+- - - - '101'
+      - Oliver Chitty
+    - frac: 1
+      reach: 388.750522 km
+  - - - '43'
+      - Jonny Durand
+    - frac: 1
+      reach: 388.750522 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 1
+      reach: 388.750522 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 1
+      reach: 388.750522 km
+  - - - '31'
+      - Trent Brown
+    - frac: 1
+      reach: 388.750522 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 1
+      reach: 388.750522 km
+  - - - '30'
+      - Jason Kath
+    - frac: 1
+      reach: 388.750522 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 388.750522 km
+  - - - '62'
+      - Josh Woods
+    - frac: 1
+      reach: 388.750522 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 1
+      reach: 388.750522 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 388.750522 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 388.750522 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 1
+      reach: 388.750522 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 1
+      reach: 388.750522 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 1
+      reach: 388.750522 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 1
+      reach: 388.750522 km
+  - - - '32'
+      - Andrew Barnes
+    - frac: 0.92054544
+      reach: 357.862522 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 0.91606185
+      reach: 356.119522 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 0.90726958
+      reach: 352.701522 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 0.88635385
+      reach: 344.570522 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 0.85676932
+      reach: 333.069522 km
+  - - - '77'
+      - Brodrick Osborne
+    - frac: 0.83062145
+      reach: 322.904522 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 0.79728645
+      reach: 309.945522 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 0.74494182
+      reach: 289.596522 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 0.68777663
+      reach: 267.373522 km
+  - - - '34'
+      - Brad Porter
+    - frac: 0.6141973
+      reach: 238.769522 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.59779089
+      reach: 232.391522 km
+  - - - '88'
+      - Simon West
+    - frac: 0.53479162
+      reach: 207.900522 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0.53083021
+      reach: 206.360522 km
+  - - - '92'
+      - Attila Bertok
+    - frac: 0.51823344
+      reach: 201.463522 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 0.47780392
+      reach: 185.746522 km
+  - - - '67'
+      - Mark Alton
+    - frac: 0.46528689
+      reach: 180.880522 km
+  - - - '71'
+      - Rob Larkin
+    - frac: 0.45274672
+      reach: 176.005522 km
+  - - - '74'
+      - Vic Hare
+    - frac: 0.35169219
+      reach: 136.720522 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 0.24243446
+      reach: 94.246522 km
+  - - - '64'
+      - Longfei Yang
+    - frac: 0.14661208
+      reach: 56.995522 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 0.1448243
+      reach: 56.300522 km
+  - - - '83'
+      - Randal Clotworthy
+    - frac: 0.14468797
+      reach: 56.247522 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 1.354988e-2
+      reach: 5.267522 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 7.72609e-3
+      reach: 3.003522 km
+- - - - '101'
+      - Oliver Chitty
+    - frac: 1
+      reach: 153.940289 km
+  - - - '43'
+      - Jonny Durand
+    - frac: 1
+      reach: 153.940289 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 1
+      reach: 153.940289 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 1
+      reach: 153.940289 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 153.940289 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 1
+      reach: 153.940289 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 1
+      reach: 153.940289 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 1
+      reach: 153.940289 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 0.95858784
+      reach: 147.565289 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 0.94592059
+      reach: 145.615289 km
+  - - - '31'
+      - Trent Brown
+    - frac: 0.94275703
+      reach: 145.128289 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 0.94015212
+      reach: 144.727289 km
+  - - - '4'
+      - Frank Chetcuti
+    - frac: 0.93437066
+      reach: 143.837289 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 0.88474752
+      reach: 136.198289 km
+  - - - '92'
+      - Attila Bertok
+    - frac: 0.87537376
+      reach: 134.755289 km
+  - - - '74'
+      - Vic Hare
+    - frac: 0.84232198
+      reach: 129.667289 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 0.83087598
+      reach: 127.905289 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0.82697837
+      reach: 127.305289 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 0.82513999
+      reach: 127.022289 km
+  - - - '62'
+      - Josh Woods
+    - frac: 0.82374335
+      reach: 126.807289 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 0.81476584
+      reach: 125.425289 km
+  - - - '64'
+      - Longfei Yang
+    - frac: 0.75188432
+      reach: 115.745289 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 0.74236114
+      reach: 114.279289 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - frac: 0.7414517
+      reach: 114.139289 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 0.7380218
+      reach: 113.611289 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 0.73051239
+      reach: 112.455289 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 0.70667848
+      reach: 108.786289 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 0.63065549
+      reach: 97.083289 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.62523781
+      reach: 96.249289 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 0.61895615
+      reach: 95.282289 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 0.59872103
+      reach: 92.167289 km
+  - - - '107'
+      - Anatoly Reyter
+    - frac: 0.58572249
+      reach: 90.166289 km
+  - - - '34'
+      - Brad Porter
+    - frac: 0.58061661
+      reach: 89.380289 km
+  - - - '99'
+      - Gennadiy Khramov
+    - frac: 0.55529511
+      reach: 85.482289 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 0.45746497
+      reach: 70.422289 km
+  - - - '67'
+      - Mark Alton
+    - frac: 0.44032845
+      reach: 67.784289 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 9.859205e-2
+      reach: 15.177289 km
+- - - - '43'
+      - Jonny Durand
+    - frac: 1
+      reach: 166.445178 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 166.445178 km
+  - - - '30'
+      - Jason Kath
+    - frac: 1
+      reach: 166.445178 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 1
+      reach: 166.445178 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 166.445178 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 1
+      reach: 166.445178 km
+  - - - '34'
+      - Brad Porter
+    - frac: 1
+      reach: 166.445178 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 166.445178 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 1
+      reach: 166.445178 km
+  - - - '62'
+      - Josh Woods
+    - frac: 1
+      reach: 166.445178 km
+  - - - '92'
+      - Attila Bertok
+    - frac: 1
+      reach: 166.445178 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 1
+      reach: 166.445178 km
+  - - - '100'
+      - Malcolm Brown
+    - frac: 1
+      reach: 166.445178 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 1
+      reach: 166.445178 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 1
+      reach: 166.445178 km
+  - - - '101'
+      - Oliver Chitty
+    - frac: 1
+      reach: 166.445178 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 166.445178 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 1
+      reach: 166.445178 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - frac: 1
+      reach: 166.445178 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 1
+      reach: 166.445178 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 1
+      reach: 166.445178 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 1
+      reach: 166.445178 km
+  - - - '31'
+      - Trent Brown
+    - frac: 1
+      reach: 166.445178 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 1
+      reach: 166.445178 km
+  - - - '64'
+      - Longfei Yang
+    - frac: 0.83025642
+      reach: 138.192178 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 0.81172179
+      reach: 135.107178 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.81142139
+      reach: 135.057178 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 0.76753908
+      reach: 127.753178 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 0.76598902
+      reach: 127.495178 km
+  - - - '85'
+      - Rick Martin
+    - frac: 0.74822341
+      reach: 124.538178 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 0.72303794
+      reach: 120.346178 km
+  - - - '107'
+      - Anatoly Reyter
+    - frac: 0.72122353
+      reach: 120.044178 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0.71982967
+      reach: 119.812178 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 0.68656346
+      reach: 114.275178 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 0.66707356
+      reach: 111.031178 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 0.65527989
+      reach: 109.068178 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 0.65231795
+      reach: 108.575178 km
+  - - - '55'
+      - Don Cramer
+    - frac: 0.64694682
+      reach: 107.681178 km
+  - - - '67'
+      - Mark Alton
+    - frac: 0.58219877
+      reach: 96.904178 km
+  - - - '32'
+      - Andrew Barnes
+    - frac: 0.51564833
+      reach: 85.827178 km
+  - - - '74'
+      - Vic Hare
+    - frac: 0.29090166
+      reach: 48.419178 km
+  - - - '71'
+      - Rob Larkin
+    - frac: 0.2834097
+      reach: 47.172178 km
+  - - - '86'
+      - Ross Smith
+    - frac: 0.16689085
+      reach: 27.778178 km
+  - - - '83'
+      - Randal Clotworthy
+    - frac: 0.15974736
+      reach: 26.589178 km
+- - - - '92'
+      - Attila Bertok
+    - frac: 1
+      reach: 172.146534 km
+  - - - '25'
+      - Tyler Borrdaile
+    - frac: 1
+      reach: 172.146534 km
+  - - - '76'
+      - Rory Duncan
+    - frac: 1
+      reach: 172.146534 km
+  - - - '62'
+      - Josh Woods
+    - frac: 1
+      reach: 172.146534 km
+  - - - '22'
+      - Rohan Taylor
+    - frac: 1
+      reach: 172.146534 km
+  - - - '30'
+      - Jason Kath
+    - frac: 1
+      reach: 172.146534 km
+  - - - '43'
+      - Jonny Durand
+    - frac: 1
+      reach: 172.146534 km
+  - - - '31'
+      - Trent Brown
+    - frac: 1
+      reach: 172.146534 km
+  - - - '81'
+      - Nick Purcell
+    - frac: 1
+      reach: 172.146534 km
+  - - - '11'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 172.146534 km
+  - - - '27'
+      - Guy Hubbard
+    - frac: 1
+      reach: 172.146534 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 172.146534 km
+  - - - '7'
+      - Olav Opsanger
+    - frac: 1
+      reach: 172.146534 km
+  - - - '101'
+      - Oliver Chitty
+    - frac: 1
+      reach: 172.146534 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 1
+      reach: 172.146534 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 1
+      reach: 172.146534 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 1
+      reach: 172.146534 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 1
+      reach: 172.146534 km
+  - - - '41'
+      - Tony Armstrong
+    - frac: 1
+      reach: 172.146534 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 1
+      reach: 172.146534 km
+  - - - '74'
+      - Vic Hare
+    - frac: 1
+      reach: 172.146534 km
+  - - - '15'
+      - Ryosuke Hattori
+    - frac: 1
+      reach: 172.146534 km
+  - - - '100'
+      - Malcolm Brown
+    - frac: 1
+      reach: 172.146534 km
+  - - - '72'
+      - Sasha Serebrennikova
+    - frac: 1
+      reach: 172.146534 km
+  - - - '51'
+      - Craig Taylor
+    - frac: 1
+      reach: 172.146534 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 0.86225108
+      reach: 148.433534 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.78186026
+      reach: 134.594534 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 0.69392355
+      reach: 119.456534 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0.68817264
+      reach: 118.466534 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 0.64249643
+      reach: 110.603534 km
+  - - - '4'
+      - Frank Chetcuti
+    - frac: 0.62800878
+      reach: 108.109534 km
+  - - - '23'
+      - Nils Vesk
+    - frac: 0.60996601
+      reach: 105.003534 km
+  - - - '83'
+      - Randal Clotworthy
+    - frac: 0.54530598
+      reach: 93.872534 km
+  - - - '34'
+      - Brad Porter
+    - frac: 0.39159972
+      reach: 67.412534 km
+  - - - '106'
+      - Jon Durand Snr
+    - frac: 0.39103624
+      reach: 67.315534 km
+  - - - '64'
+      - Longfei Yang
+    - frac: 0.37314451
+      reach: 64.235534 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - frac: 0.32846165
+      reach: 56.543534 km
+  - - - '14'
+      - Peter Burkitt
+    - frac: 0.18628045
+      reach: 32.067534 km
 ssSpeed:
 - - - - '92'
       - Attila Bertok
