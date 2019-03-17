@@ -1,5 +1,5 @@
 pilotsAtEss:
-- 16
+- 17
 - 14
 - 29
 - 16
@@ -9,21 +9,21 @@ pilotsAtEss:
 raceTime:
 - openTask: 2017-12-30T04:00:00Z
   closeTask: 2017-12-30T07:08:00Z
-  firstStart: 2017-12-30T04:00:09.332804172946Z
-  firstLead: 2017-12-30T04:00:09.332804172946Z
-  lastArrival: 2017-12-30T07:03:24.397403871096Z
-  leadAllDown: 184165
-  leadArrival: 10995.065
-  leadClose: 11270.667
+  firstStart: 2017-12-30T04:00:05.923337528187Z
+  firstLead: 2017-12-30T04:00:05.923337528187Z
+  lastArrival: 2017-12-30T07:06:30.698853915847Z
+  leadAllDown: 14055
+  leadArrival: 11184.776
+  leadClose: 11274.077
   openClose: 11280
-  tickClose: 11270.667
+  tickClose: 11274.077
 - openTask: 2017-12-31T02:45:00Z
   closeTask: 2017-12-31T10:00:00Z
   firstStart: 2017-12-31T02:15:45.57026666361Z
   firstLead: 2017-12-31T02:15:45.57026666361Z
-  lastArrival: 2018-01-07T07:01:42.536848218885Z
-  leadAllDown: 622432.43
-  leadArrival: 621956.967
+  lastArrival: 2017-12-31T07:15:44.306206155387Z
+  leadAllDown: 107906.43
+  leadArrival: 17998.736
   leadClose: 27854.43
   openClose: 26100
   tickClose: 27854.43
@@ -31,9 +31,9 @@ raceTime:
   closeTask: 2018-01-01T09:00:00Z
   firstStart: 2018-01-01T02:28:45.36842915783Z
   firstLead: 2018-01-01T02:28:45.36842915783Z
-  lastArrival: 2018-01-06T05:59:35.583120155618Z
-  leadAllDown: 445112.632
-  leadArrival: 444650.215
+  lastArrival: 2018-01-01T07:18:03.019572778518Z
+  leadAllDown: 18683.632
+  leadArrival: 17357.651
   leadClose: 23474.632
   openClose: 23400
   tickClose: 23474.632
@@ -41,9 +41,9 @@ raceTime:
   closeTask: 2018-01-02T09:00:00Z
   firstStart: 2018-01-02T02:00:07.57027681374Z
   firstLead: 2018-01-02T02:00:07.57027681374Z
-  lastArrival: 2018-01-05T08:27:03.389261229453Z
-  leadAllDown: 369278.43
-  leadArrival: 282415.819
+  lastArrival: 2018-01-02T08:43:03.140845657869Z
+  leadAllDown: 25346.43
+  leadArrival: 24175.571
   leadClose: 25192.43
   openClose: 25200
   tickClose: 25192.43
@@ -52,7 +52,7 @@ raceTime:
   firstStart: 2018-01-03T04:15:03.89245419431Z
   firstLead: 2018-01-03T04:15:03.89245419431Z
   lastArrival: 2018-01-03T07:55:58.565234581161Z
-  leadAllDown: 263048.108
+  leadAllDown: 13738.108
   leadArrival: 13254.673
   leadClose: 20696.108
   openClose: 20700
@@ -61,9 +61,9 @@ raceTime:
   closeTask: 2018-01-04T09:00:00Z
   firstStart: 2018-01-04T02:49:39.957670464162Z
   firstLead: 2018-01-04T02:49:39.957670464162Z
-  lastArrival: 2018-01-10T06:58:05.192588527493Z
-  leadAllDown: 533386.042
-  leadArrival: 533305.235
+  lastArrival: 2018-01-04T07:30:56.718874063152Z
+  leadAllDown: 19305.042
+  leadArrival: 16876.761
   leadClose: 22220.042
   openClose: 22200
   tickClose: 22220.042
@@ -71,9 +71,9 @@ raceTime:
   closeTask: 2018-01-05T10:00:00Z
   firstStart: 2018-01-05T02:40:07.946202723938Z
   firstLead: 2018-01-05T02:40:07.946202723938Z
-  lastArrival: 2018-01-18T06:59:56.927137288081Z
-  leadAllDown: 1139640.054
-  leadArrival: 1138788.981
+  lastArrival: 2018-01-05T08:57:08.958302125984Z
+  leadAllDown: 22792.054
+  leadArrival: 22621.012
   leadClose: 26392.054
   openClose: 26400
   tickClose: 26392.054
@@ -118,7 +118,7 @@ bestDistance:
 - 166.445178 km
 - 172.146534 km
 sumDistance:
-- 3212.241384 km
+- 3345.030016 km
 - 4812.147588 km
 - 7277.586955 km
 - 10804.070836 km
@@ -134,170 +134,170 @@ leadScaling:
 - 2.120929e-8
 - 1.979048e-8
 leadCoefMin:
-- 1.38951577
-- 0
-- 1.72166862
-- 2.41730477
+- 1.39118071
+- 4.500778e-2
+- 1.96612999
+- 3.52532771
 - 1.57230789
-- 0
-- 0
+- 2.35327258
+- 2.21415792
 leadRank:
 - - - - '101'
       - Oliver Chitty
-    - coef: 1.38951577
+    - coef: 1.39118071
       frac: 1
   - - - '92'
       - Attila Bertok
-    - coef: 1.40417752
-      frac: 0.94329171
+    - coef: 1.40585332
+      frac: 0.94327503
   - - - '27'
       - Guy Hubbard
-    - coef: 1.47149143
-      frac: 0.82135973
+    - coef: 1.47315225
+      frac: 0.82140137
   - - - '25'
       - Tyler Borrdaile
-    - coef: 1.57261917
-      frac: 0.69475139
+    - coef: 1.57428396
+      frac: 0.69481248
   - - - '31'
       - Trent Brown
-    - coef: 1.5817796
-      frac: 0.68465365
+    - coef: 1.58343952
+      frac: 0.68472207
   - - - '23'
       - Nils Vesk
-    - coef: 1.63442408
-      frac: 0.62944009
+    - coef: 1.63608945
+      frac: 0.62951361
+  - - - '22'
+      - Rohan Taylor
+    - coef: 1.65589197
+      frac: 0.60980262
   - - - '76'
       - Rory Duncan
-    - coef: 1.65684048
-      frac: 0.60716019
+    - coef: 1.65850359
+      frac: 0.60724039
   - - - '41'
       - Tony Armstrong
-    - coef: 1.68433846
-      frac: 0.58066284
+    - coef: 1.69087891
+      frac: 0.57613702
   - - - '30'
       - Jason Kath
-    - coef: 1.72784471
-      frac: 0.54036243
+    - coef: 1.72949697
+      frac: 0.54046565
   - - - '106'
       - Jon Durand Snr
-    - coef: 1.75084567
-      frac: 0.5197596
+    - coef: 1.75251652
+      frac: 0.51985022
   - - - '81'
       - Nick Purcell
-    - coef: 1.86559944
-      frac: 0.42281955
+    - coef: 1.86726175
+      frac: 0.42293687
   - - - '8'
       - Gordon Rigg
-    - coef: 1.90564878
-      frac: 0.39088797
+    - coef: 1.90731703
+      frac: 0.39100693
   - - - '7'
       - Olav Opsanger
-    - coef: 1.94206973
-      frac: 0.36256014
+    - coef: 1.94373694
+      frac: 0.36268561
   - - - '51'
       - Craig Taylor
-    - coef: 1.94649537
-      frac: 0.35916099
+    - coef: 1.94815534
+      frac: 0.35929269
   - - - '11'
       - Steve Blenkinsop
-    - coef: 2.18711329
-      frac: 0.1858359
-  - - - '72'
-      - Sasha Serebrennikova
-    - coef: 2.18890532
-      frac: 0.18461685
+    - coef: 2.18876374
+      frac: 0.18600824
   - - - '62'
       - Josh Woods
-    - coef: 2.18922891
-      frac: 0.18439683
+    - coef: 2.19088136
+      frac: 0.18456808
   - - - '69'
       - Niki Longshore
-    - coef: 2.194655
-      frac: 0.18071171
+    - coef: 2.19630748
+      frac: 0.18088367
+  - - - '72'
+      - Sasha Serebrennikova
+    - coef: 2.19728475
+      frac: 0.18022097
   - - - '108'
       - Peter Adriaans
-    - coef: 2.35672661
-      frac: 7.415804e-2
+    - coef: 2.35850951
+      frac: 7.426755e-2
   - - - '43'
       - Jonny Durand
-    - coef: 2.36151651
-      frac: 7.110388e-2
+    - coef: 2.39349562
+      frac: 5.207888e-2
   - - - '68'
       - Neale Halsall
-    - coef: 2.60436189
+    - coef: 2.61565515
       frac: 0
   - - - '15'
       - Ryosuke Hattori
-    - coef: 2.7088668
+    - coef: 2.71063801
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
-    - coef: 2.73169033
+    - coef: 2.76211259
       frac: 0
   - - - '32'
       - Andrew Barnes
-    - coef: 2.76080496
+    - coef: 2.7624446
       frac: 0
   - - - '4'
       - Frank Chetcuti
-    - coef: 3.18811883
+    - coef: 3.22691604
       frac: 0
   - - - '107'
       - Anatoly Reyter
-    - coef: 3.4092224
+    - coef: 3.44200318
       frac: 0
   - - - '71'
       - Rob Larkin
-    - coef: 3.48379391
+    - coef: 3.52793892
       frac: 0
   - - - '80'
       - Michael Cassells
-    - coef: 3.49758122
+    - coef: 3.53741996
       frac: 0
   - - - '28'
       - Mikhail Karmazin
-    - coef: 3.59009768
+    - coef: 3.61001683
       frac: 0
   - - - '86'
       - Ross Smith
-    - coef: 3.72965634
+    - coef: 3.776502
       frac: 0
   - - - '100'
       - Malcolm Brown
-    - coef: 3.9454045
+    - coef: 4.0113736
       frac: 0
   - - - '14'
       - Peter Burkitt
-    - coef: 4.37110239
+    - coef: 4.44443599
       frac: 0
   - - - '67'
       - Mark Alton
-    - coef: 4.46006699
+    - coef: 4.53414668
       frac: 0
   - - - '34'
       - Brad Porter
-    - coef: 4.7136477
+    - coef: 4.78402969
       frac: 0
   - - - '94'
       - Justinas Pleikys
-    - coef: 4.88030724
+    - coef: 4.96213285
       frac: 0
   - - - '88'
       - Simon West
-    - coef: 4.90272773
+    - coef: 4.98387265
       frac: 0
   - - - '55'
       - Don Cramer
-    - coef: 5.21167644
+    - coef: 5.29846228
       frac: 0
-- - - - '8'
-      - Gordon Rigg
-    - coef: 0
-      frac: 0
-  - - - '30'
+- - - - '30'
       - Jason Kath
-    - coef: 0.25956984
-      frac: 0
+    - coef: 4.500778e-2
+      frac: 1
   - - - '27'
       - Guy Hubbard
     - coef: 3.20695415
@@ -334,6 +334,10 @@ leadRank:
       - Yasuhiro Noma
     - coef: 3.38510264
       frac: 0
+  - - - '8'
+      - Gordon Rigg
+    - coef: 3.39932081
+      frac: 0
   - - - '23'
       - Nils Vesk
     - coef: 3.47383989
@@ -352,204 +356,232 @@ leadRank:
       frac: 0
   - - - '6'
       - Yoko Sano
-    - coef: 4.08414704
+    - coef: 3.67709276
+      frac: 0
+  - - - '100'
+      - Malcolm Brown
+    - coef: 3.75678543
+      frac: 0
+  - - - '81'
+      - Nick Purcell
+    - coef: 3.76972867
       frac: 0
   - - - '15'
       - Ryosuke Hattori
-    - coef: 4.92392711
-      frac: 0
-  - - - '77'
-      - Brodrick Osborne
-    - coef: 8.72367494
+    - coef: 3.78670671
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
-    - coef: 8.92965625
+    - coef: 3.8466219
       frac: 0
   - - - '22'
       - Rohan Taylor
-    - coef: 12.55563824
-      frac: 0
-  - - - '37'
-      - Gavin Myers
-    - coef: 13.65098777
-      frac: 0
-  - - - '103'
-      - Wayne Thompson
-    - coef: 18.24892231
-      frac: 0
-  - - - '100'
-      - Malcolm Brown
-    - coef: 27.85414676
-      frac: 0
-  - - - '81'
-      - Nick Purcell
-    - coef: 42.4422543
-      frac: 0
-  - - - '36'
-      - Steve Docherty
-    - coef: 46.74243223
-      frac: 0
-  - - - '34'
-      - Brad Porter
-    - coef: 58.40796226
+    - coef: 3.91297299
       frac: 0
   - - - '106'
       - Jon Durand Snr
-    - coef: 61.66085734
+    - coef: 4.0815151
       frac: 0
   - - - '52'
       - Dale Regehr
-    - coef: 70.01673989
-      frac: 0
-  - - - '71'
-      - Rob Larkin
-    - coef: 70.24210172
-      frac: 0
-  - - - '80'
-      - Michael Cassells
-    - coef: 79.40904537
-      frac: 0
-  - - - '32'
-      - Andrew Barnes
-    - coef: 92.10367271
+    - coef: 4.95004671
       frac: 0
   - - - '31'
       - Trent Brown
-    - coef: 141.14476692
-      frac: 0
-  - - - '55'
-      - Don Cramer
-    - coef: 165.52153419
-      frac: 0
-  - - - '72'
-      - Sasha Serebrennikova
-    - coef: 166.36209509
-      frac: 0
-  - - - '67'
-      - Mark Alton
-    - coef: 194.34143173
-      frac: 0
-  - - - '42'
-      - Rob de Groot
-    - coef: 292.39060924
-      frac: 0
-  - - - '51'
-      - Craig Taylor
-    - coef: 317.75024596
-      frac: 0
-- - - - '8'
-      - Gordon Rigg
-    - coef: 1.72166862
-      frac: 1
-  - - - '30'
-      - Jason Kath
-    - coef: 1.96612999
-      frac: 0.64287913
-  - - - '106'
-      - Jon Durand Snr
-    - coef: 2.26537277
-      frac: 0.39151459
-  - - - '22'
-      - Rohan Taylor
-    - coef: 2.38072161
-      frac: 0.30824024
-  - - - '92'
-      - Attila Bertok
-    - coef: 2.40786874
-      frac: 0.28937208
-  - - - '81'
-      - Nick Purcell
-    - coef: 2.42345526
-      frac: 0.2786515
-  - - - '7'
-      - Olav Opsanger
-    - coef: 2.43101509
-      frac: 0.27348038
-  - - - '6'
-      - Yoko Sano
-    - coef: 2.46109416
-      frac: 0.25308468
-  - - - '34'
-      - Brad Porter
-    - coef: 2.48297622
-      frac: 0.23842061
-  - - - '11'
-      - Steve Blenkinsop
-    - coef: 2.48826385
-      frac: 0.23489833
-  - - - '51'
-      - Craig Taylor
-    - coef: 2.49363808
-      frac: 0.23132666
-  - - - '62'
-      - Josh Woods
-    - coef: 2.5015985
-      frac: 0.22605142
-  - - - '25'
-      - Tyler Borrdaile
-    - coef: 2.51307252
-      frac: 0.21847922
-  - - - '80'
-      - Michael Cassells
-    - coef: 2.52080539
-      frac: 0.21339661
-  - - - '41'
-      - Tony Armstrong
-    - coef: 2.54767434
-      frac: 0.19586227
-  - - - '72'
-      - Sasha Serebrennikova
-    - coef: 2.55858504
-      frac: 0.18879653
-  - - - '68'
-      - Neale Halsall
-    - coef: 2.57245403
-      frac: 0.17985918
-  - - - '42'
-      - Rob de Groot
-    - coef: 2.63360339
-      frac: 0.14101762
-  - - - '100'
-      - Malcolm Brown
-    - coef: 2.67633694
-      frac: 0.11438816
-  - - - '15'
-      - Ryosuke Hattori
-    - coef: 2.68183517
-      frac: 0.11099108
-  - - - '4'
-      - Frank Chetcuti
-    - coef: 2.73440917
-      frac: 7.88284e-2
-  - - - '32'
-      - Andrew Barnes
-    - coef: 2.86936247
-      frac: 0
-  - - - '36'
-      - Steve Docherty
-    - coef: 2.88581304
-      frac: 0
-  - - - '77'
-      - Brodrick Osborne
-    - coef: 2.89102499
+    - coef: 5.12571892
       frac: 0
   - - - '37'
       - Gavin Myers
-    - coef: 2.96071523
+    - coef: 5.20194691
       frac: 0
+  - - - '34'
+      - Brad Porter
+    - coef: 5.29852176
+      frac: 0
+  - - - '32'
+      - Andrew Barnes
+    - coef: 5.51679943
+      frac: 0
+  - - - '77'
+      - Brodrick Osborne
+    - coef: 5.53047842
+      frac: 0
+  - - - '103'
+      - Wayne Thompson
+    - coef: 5.76538917
+      frac: 0
+  - - - '71'
+      - Rob Larkin
+    - coef: 5.81339902
+      frac: 0
+  - - - '80'
+      - Michael Cassells
+    - coef: 6.2693456
+      frac: 0
+  - - - '72'
+      - Sasha Serebrennikova
+    - coef: 6.33299485
+      frac: 0
+  - - - '55'
+      - Don Cramer
+    - coef: 6.65300877
+      frac: 0
+  - - - '36'
+      - Steve Docherty
+    - coef: 6.83248764
+      frac: 0
+  - - - '67'
+      - Mark Alton
+    - coef: 7.17180439
+      frac: 0
+  - - - '42'
+      - Rob de Groot
+    - coef: 8.58042908
+      frac: 0
+  - - - '51'
+      - Craig Taylor
+    - coef: 9.25617149
+      frac: 0
+- - - - '30'
+      - Jason Kath
+    - coef: 1.96612999
+      frac: 1
+  - - - '106'
+      - Jon Durand Snr
+    - coef: 2.26537277
+      frac: 0.6002881
+  - - - '8'
+      - Gordon Rigg
+    - coef: 2.33257211
+      frac: 0.54248899
+  - - - '22'
+      - Rohan Taylor
+    - coef: 2.38072161
+      frac: 0.50324188
+  - - - '92'
+      - Attila Bertok
+    - coef: 2.40786874
+      frac: 0.48178701
+  - - - '81'
+      - Nick Purcell
+    - coef: 2.42345526
+      frac: 0.46966768
+  - - - '7'
+      - Olav Opsanger
+    - coef: 2.43101509
+      frac: 0.46383921
+  - - - '6'
+      - Yoko Sano
+    - coef: 2.46109416
+      frac: 0.44095453
+  - - - '34'
+      - Brad Porter
+    - coef: 2.48297622
+      frac: 0.4245969
+  - - - '11'
+      - Steve Blenkinsop
+    - coef: 2.48826385
+      frac: 0.42067909
+  - - - '51'
+      - Craig Taylor
+    - coef: 2.49363808
+      frac: 0.41671065
+  - - - '62'
+      - Josh Woods
+    - coef: 2.5015985
+      frac: 0.41085719
+  - - - '25'
+      - Tyler Borrdaile
+    - coef: 2.51307252
+      frac: 0.40247086
+  - - - '80'
+      - Michael Cassells
+    - coef: 2.52080539
+      frac: 0.39685199
+  - - - '41'
+      - Tony Armstrong
+    - coef: 2.54767434
+      frac: 0.37752795
+  - - - '72'
+      - Sasha Serebrennikova
+    - coef: 2.55858504
+      frac: 0.36976638
+  - - - '68'
+      - Neale Halsall
+    - coef: 2.57245403
+      frac: 0.35996878
+  - - - '67'
+      - Mark Alton
+    - coef: 2.57523402
+      frac: 0.35801392
+  - - - '28'
+      - Mikhail Karmazin
+    - coef: 2.57524761
+      frac: 0.35800437
+  - - - '52'
+      - Dale Regehr
+    - coef: 2.58327169
+      frac: 0.35237855
+  - - - '42'
+      - Rob de Groot
+    - coef: 2.63360339
+      frac: 0.31762894
+  - - - '74'
+      - Vic Hare
+    - coef: 2.64054475
+      frac: 0.31290624
+  - - - '100'
+      - Malcolm Brown
+    - coef: 2.67633694
+      frac: 0.28880629
+  - - - '15'
+      - Ryosuke Hattori
+    - coef: 2.68183517
+      frac: 0.28514043
+  - - - '14'
+      - Peter Burkitt
+    - coef: 2.7097097
+      frac: 0.26669781
+  - - - '71'
+      - Rob Larkin
+    - coef: 2.73421528
+      frac: 0.25067378
+  - - - '4'
+      - Frank Chetcuti
+    - coef: 2.73440917
+      frac: 0.25054768
+  - - - '75'
+      - Yasuhiro Noma
+    - coef: 2.74875618
+      frac: 0.24124619
+  - - - '32'
+      - Andrew Barnes
+    - coef: 2.86936247
+      frac: 0.16517075
+  - - - '36'
+      - Steve Docherty
+    - coef: 2.88581304
+      frac: 0.15506477
+  - - - '77'
+      - Brodrick Osborne
+    - coef: 2.89102499
+      frac: 0.15187555
   - - - '107'
       - Anatoly Reyter
-    - coef: 3.03059446
-      frac: 0
+    - coef: 2.95990023
+      frac: 0.11027604
+  - - - '37'
+      - Gavin Myers
+    - coef: 2.96071523
+      frac: 0.10978966
   - - - '23'
       - Nils Vesk
     - coef: 3.0805029
-      frac: 0
-  - - - '14'
-      - Peter Burkitt
-    - coef: 3.22062712
-      frac: 0
+      frac: 3.96748e-2
+  - - - '64'
+      - Longfei Yang
+    - coef: 3.09456647
+      frac: 3.161206e-2
   - - - '31'
       - Trent Brown
     - coef: 3.42188867
@@ -562,213 +594,185 @@ leadRank:
       - Rory Duncan
     - coef: 3.57075368
       frac: 0
-  - - - '71'
-      - Rob Larkin
-    - coef: 3.71474727
-      frac: 0
-  - - - '28'
-      - Mikhail Karmazin
-    - coef: 6.2162647
-      frac: 0
-  - - - '67'
-      - Mark Alton
-    - coef: 7.1877174
-      frac: 0
-  - - - '52'
-      - Dale Regehr
-    - coef: 7.36266604
-      frac: 0
-  - - - '74'
-      - Vic Hare
-    - coef: 7.41993909
-      frac: 0
-  - - - '64'
-      - Longfei Yang
-    - coef: 15.37922461
-      frac: 0
-  - - - '75'
-      - Yasuhiro Noma
-    - coef: 20.59355066
+  - - - '83'
+      - Randal Clotworthy
+    - coef: 3.71737073
       frac: 0
   - - - '102'
       - Robert Davies
-    - coef: 50.25139639
-      frac: 0
-  - - - '83'
-      - Randal Clotworthy
-    - coef: 58.70771966
+    - coef: 4.32259341
       frac: 0
   - - - '43'
       - Jonny Durand
-    - coef: 93.59537881
-      frac: 0
-  - - - '101'
-      - Oliver Chitty
-    - coef: 97.01406554
+    - coef: 4.39343313
       frac: 0
   - - - '69'
       - Niki Longshore
-    - coef: 99.28205301
+    - coef: 4.58196335
+      frac: 0
+  - - - '101'
+      - Oliver Chitty
+    - coef: 4.77536712
       frac: 0
   - - - '27'
       - Guy Hubbard
-    - coef: 125.94122893
+    - coef: 5.37385987
       frac: 0
   - - - '55'
       - Don Cramer
-    - coef: 135.26369233
+    - coef: 5.75454484
       frac: 0
-- - - - '8'
-      - Gordon Rigg
-    - coef: 2.41730477
-      frac: 1
-  - - - '43'
+- - - - '43'
       - Jonny Durand
     - coef: 3.52532771
-      frac: 7.5705e-2
+      frac: 1
   - - - '25'
       - Tyler Borrdaile
     - coef: 3.64228041
-      frac: 1.175855e-2
+      frac: 0.80614653
   - - - '101'
       - Oliver Chitty
     - coef: 3.65511511
-      frac: 4.86767e-3
+      frac: 0.79221138
   - - - '30'
       - Jason Kath
     - coef: 3.75390375
-      frac: 0
+      frac: 0.6969689
   - - - '7'
       - Olav Opsanger
     - coef: 3.77309785
-      frac: 0
+      frac: 0.68023368
   - - - '31'
       - Trent Brown
     - coef: 3.83357629
-      frac: 0
+      frac: 0.63011436
   - - - '27'
       - Guy Hubbard
     - coef: 3.90670213
-      frac: 0
+      frac: 0.57371395
   - - - '76'
       - Rory Duncan
     - coef: 4.02496328
-      frac: 0
+      frac: 0.48960981
   - - - '62'
       - Josh Woods
     - coef: 4.03252449
-      frac: 0
+      frac: 0.48447341
   - - - '23'
       - Nils Vesk
     - coef: 4.0980249
-      frac: 0
+      frac: 0.44099359
+  - - - '22'
+      - Rohan Taylor
+    - coef: 4.14133267
+      frac: 0.4131557
   - - - '41'
       - Tony Armstrong
     - coef: 4.15263391
-      frac: 0
+      frac: 0.40599996
   - - - '11'
       - Steve Blenkinsop
     - coef: 4.18576484
-      frac: 0
+      frac: 0.38526529
+  - - - '8'
+      - Gordon Rigg
+    - coef: 4.21206013
+      frac: 0.36905459
+  - - - '51'
+      - Craig Taylor
+    - coef: 4.21521807
+      frac: 0.3671218
+  - - - '37'
+      - Gavin Myers
+    - coef: 4.34058725
+      frac: 0.29260171
   - - - '36'
       - Steve Docherty
     - coef: 4.50707102
-      frac: 0
+      frac: 0.19930819
   - - - '15'
       - Ryosuke Hattori
     - coef: 4.53099567
-      frac: 0
+      frac: 0.18635213
   - - - '72'
       - Sasha Serebrennikova
     - coef: 4.59246739
-      frac: 0
-  - - - '37'
-      - Gavin Myers
-    - coef: 5.35170865
-      frac: 0
-  - - - '51'
-      - Craig Taylor
-    - coef: 5.44922149
-      frac: 0
+      frac: 0.15352476
+  - - - '52'
+      - Dale Regehr
+    - coef: 4.88216948
+      frac: 6.53428e-3
   - - - '32'
       - Andrew Barnes
-    - coef: 5.79673281
-      frac: 0
-  - - - '22'
-      - Rohan Taylor
-    - coef: 5.99469006
-      frac: 0
-  - - - '80'
-      - Michael Cassells
-    - coef: 8.01087701
-      frac: 0
-  - - - '77'
-      - Brodrick Osborne
-    - coef: 9.65133641
-      frac: 0
-  - - - '42'
-      - Rob de Groot
-    - coef: 11.18837658
-      frac: 0
-  - - - '68'
-      - Neale Halsall
-    - coef: 14.5678211
-      frac: 0
-  - - - '103'
-      - Wayne Thompson
-    - coef: 20.10637791
+    - coef: 4.89072983
+      frac: 2.36013e-3
+  - - - '92'
+      - Attila Bertok
+    - coef: 4.90824803
       frac: 0
   - - - '34'
       - Brad Porter
-    - coef: 26.26434168
+    - coef: 4.90878477
       frac: 0
-  - - - '52'
-      - Dale Regehr
-    - coef: 28.09258945
+  - - - '80'
+      - Michael Cassells
+    - coef: 5.0671231
       frac: 0
-  - - - '28'
-      - Mikhail Karmazin
-    - coef: 37.16200221
+  - - - '68'
+      - Neale Halsall
+    - coef: 5.23369354
       frac: 0
-  - - - '88'
-      - Simon West
-    - coef: 37.66664566
-      frac: 0
-  - - - '92'
-      - Attila Bertok
-    - coef: 38.20852992
+  - - - '42'
+      - Rob de Groot
+    - coef: 5.29217788
       frac: 0
   - - - '75'
       - Yasuhiro Noma
-    - coef: 44.60708023
+    - coef: 5.4833695
       frac: 0
-  - - - '67'
-      - Mark Alton
-    - coef: 47.82559006
+  - - - '77'
+      - Brodrick Osborne
+    - coef: 5.53477873
       frac: 0
-  - - - '71'
-      - Rob Larkin
-    - coef: 49.73823108
+  - - - '28'
+      - Mikhail Karmazin
+    - coef: 5.58031608
+      frac: 0
+  - - - '103'
+      - Wayne Thompson
+    - coef: 6.11958859
+      frac: 0
+  - - - '88'
+      - Simon West
+    - coef: 6.61601001
       frac: 0
   - - - '74'
       - Vic Hare
-    - coef: 67.06736149
+    - coef: 6.76543792
+      frac: 0
+  - - - '71'
+      - Rob Larkin
+    - coef: 6.7698894
+      frac: 0
+  - - - '67'
+      - Mark Alton
+    - coef: 6.80385931
       frac: 0
   - - - '106'
       - Jon Durand Snr
-    - coef: 90.49030543
-      frac: 0
-  - - - '64'
-      - Longfei Yang
-    - coef: 114.67332811
+    - coef: 8.15111408
       frac: 0
   - - - '81'
       - Nick Purcell
-    - coef: 115.05333754
+    - coef: 10.12925189
       frac: 0
   - - - '83'
       - Randal Clotworthy
-    - coef: 115.10419858
+    - coef: 10.14665626
+      frac: 0
+  - - - '64'
+      - Longfei Yang
+    - coef: 10.18747331
       frac: 0
 - - - - '76'
       - Rory Duncan
@@ -902,6 +906,10 @@ leadRank:
       - Tyler Borrdaile
     - coef: 2.77453329
       frac: 0
+  - - - '8'
+      - Gordon Rigg
+    - coef: 2.776889
+      frac: 0
   - - - '64'
       - Longfei Yang
     - coef: 2.89438805
@@ -918,262 +926,266 @@ leadRank:
       - Peter Burkitt
     - coef: 6.00200927
       frac: 0
-  - - - '8'
-      - Gordon Rigg
-    - coef: 43.0145216
-      frac: 0
-- - - - '8'
-      - Gordon Rigg
-    - coef: 0
-      frac: 0
-  - - - '30'
+- - - - '30'
       - Jason Kath
     - coef: 2.35327258
-      frac: 0
+      frac: 1
   - - - '43'
       - Jonny Durand
     - coef: 2.37425912
-      frac: 0
+      frac: 0.93402969
   - - - '76'
       - Rory Duncan
     - coef: 2.40494333
-      frac: 0
+      frac: 0.87971325
   - - - '11'
       - Steve Blenkinsop
     - coef: 2.45212027
-      frac: 0
+      frac: 0.81463305
   - - - '27'
       - Guy Hubbard
     - coef: 2.47391426
-      frac: 0
+      frac: 0.78830064
   - - - '75'
       - Yasuhiro Noma
     - coef: 2.47650879
-      frac: 0
+      frac: 0.7852762
   - - - '34'
       - Brad Porter
     - coef: 2.48700936
-      frac: 0
+      frac: 0.77324588
   - - - '36'
       - Steve Docherty
     - coef: 2.50055188
-      frac: 0
+      frac: 0.75818544
   - - - '31'
       - Trent Brown
     - coef: 2.50372732
-      frac: 0
+      frac: 0.75472204
   - - - '41'
       - Tony Armstrong
     - coef: 2.52292656
-      frac: 0
+      frac: 0.73427607
   - - - '37'
       - Gavin Myers
     - coef: 2.58305729
-      frac: 0
+      frac: 0.6747115
   - - - '106'
       - Jon Durand Snr
     - coef: 2.61776627
-      frac: 0
+      frac: 0.64272867
   - - - '100'
       - Malcolm Brown
     - coef: 2.64240633
-      frac: 0
+      frac: 0.62087088
+  - - - '8'
+      - Gordon Rigg
+    - coef: 2.65667626
+      frac: 0.60849691
   - - - '62'
       - Josh Woods
     - coef: 2.72444209
-      frac: 0
+      frac: 0.55218069
+  - - - '23'
+      - Nils Vesk
+    - coef: 2.81223933
+      frac: 0.48408822
   - - - '72'
       - Sasha Serebrennikova
     - coef: 2.84129343
-      frac: 0
+      frac: 0.4625391
   - - - '81'
       - Nick Purcell
     - coef: 2.85229658
-      frac: 0
+      frac: 0.45449058
+  - - - '22'
+      - Rohan Taylor
+    - coef: 2.91861154
+      frac: 0.40717401
   - - - '68'
       - Neale Halsall
     - coef: 2.9269853
-      frac: 0
+      frac: 0.40133443
   - - - '92'
       - Attila Bertok
     - coef: 2.96177831
-      frac: 0
+      frac: 0.37736852
+  - - - '80'
+      - Michael Cassells
+    - coef: 3.01238352
+      frac: 0.34331014
   - - - '101'
       - Oliver Chitty
     - coef: 3.03837405
-      frac: 0
+      frac: 0.32615829
+  - - - '28'
+      - Mikhail Karmazin
+    - coef: 3.08836361
+      frac: 0.29376586
+  - - - '6'
+      - Yoko Sano
+    - coef: 3.1006551
+      frac: 0.28591499
+  - - - '25'
+      - Tyler Borrdaile
+    - coef: 3.10599314
+      frac: 0.28251888
   - - - '7'
       - Olav Opsanger
     - coef: 3.12110459
-      frac: 0
+      frac: 0.27294806
   - - - '98'
       - Oyvind Ellefsen
     - coef: 3.13508923
-      frac: 0
-  - - - '64'
-      - Longfei Yang
-    - coef: 12.53321877
-      frac: 0
-  - - - '42'
-      - Rob de Groot
-    - coef: 13.53865806
-      frac: 0
-  - - - '52'
-      - Dale Regehr
-    - coef: 14.67533071
-      frac: 0
-  - - - '80'
-      - Michael Cassells
-    - coef: 18.52017074
-      frac: 0
-  - - - '25'
-      - Tyler Borrdaile
-    - coef: 18.82125622
-      frac: 0
-  - - - '85'
-      - Rick Martin
-    - coef: 22.82016097
-      frac: 0
-  - - - '22'
-      - Rohan Taylor
-    - coef: 24.93126779
-      frac: 0
+      frac: 0.26414671
   - - - '107'
       - Anatoly Reyter
-    - coef: 25.55142153
-      frac: 0
-  - - - '28'
-      - Mikhail Karmazin
-    - coef: 25.61389653
-      frac: 0
-  - - - '15'
-      - Ryosuke Hattori
-    - coef: 31.98731965
-      frac: 0
-  - - - '14'
-      - Peter Burkitt
-    - coef: 32.22346398
-      frac: 0
-  - - - '23'
-      - Nils Vesk
-    - coef: 34.64031242
-      frac: 0
-  - - - '6'
-      - Yoko Sano
-    - coef: 37.81127358
-      frac: 0
-  - - - '103'
-      - Wayne Thompson
-    - coef: 38.78024844
-      frac: 0
-  - - - '55'
-      - Don Cramer
-    - coef: 40.14402969
-      frac: 0
+    - coef: 3.24943702
+      frac: 0.19404072
+  - - - '42'
+      - Rob de Groot
+    - coef: 3.3650181
+      frac: 0.12615282
   - - - '67'
       - Mark Alton
-    - coef: 53.74574222
+    - coef: 3.62969412
       frac: 0
   - - - '32'
       - Andrew Barnes
-    - coef: 71.09424739
-      frac: 0
-  - - - '74'
-      - Vic Hare
-    - coef: 150.12524113
-      frac: 0
-  - - - '71'
-      - Rob Larkin
-    - coef: 152.9969325
-      frac: 0
-  - - - '83'
-      - Randal Clotworthy
-    - coef: 210.11492855
-      frac: 0
-- - - - '8'
-      - Gordon Rigg
-    - coef: 0
-      frac: 0
-  - - - '42'
-      - Rob de Groot
-    - coef: 0.20131535
-      frac: 0
-  - - - '30'
-      - Jason Kath
-    - coef: 2.21415792
-      frac: 0
-  - - - '92'
-      - Attila Bertok
-    - coef: 2.2524891
-      frac: 0
-  - - - '22'
-      - Rohan Taylor
-    - coef: 2.29244501
-      frac: 0
-  - - - '11'
-      - Steve Blenkinsop
-    - coef: 2.33512441
-      frac: 0
-  - - - '81'
-      - Nick Purcell
-    - coef: 2.37425679
-      frac: 0
-  - - - '43'
-      - Jonny Durand
-    - coef: 2.40736152
-      frac: 0
-  - - - '62'
-      - Josh Woods
-    - coef: 2.41480081
-      frac: 0
-  - - - '31'
-      - Trent Brown
-    - coef: 2.41934762
-      frac: 0
-  - - - '27'
-      - Guy Hubbard
-    - coef: 2.47041167
-      frac: 0
-  - - - '6'
-      - Yoko Sano
-    - coef: 2.85567235
-      frac: 0
-  - - - '41'
-      - Tony Armstrong
-    - coef: 2.89632689
-      frac: 0
-  - - - '7'
-      - Olav Opsanger
-    - coef: 2.96053972
-      frac: 0
-  - - - '37'
-      - Gavin Myers
-    - coef: 3.00505624
-      frac: 0
-  - - - '68'
-      - Neale Halsall
-    - coef: 3.13424817
-      frac: 0
-  - - - '72'
-      - Sasha Serebrennikova
-    - coef: 3.24517488
-      frac: 0
-  - - - '100'
-      - Malcolm Brown
-    - coef: 3.24719684
+    - coef: 3.74731499
       frac: 0
   - - - '15'
       - Ryosuke Hattori
-    - coef: 3.26781981
+    - coef: 3.85833503
+      frac: 0
+  - - - '14'
+      - Peter Burkitt
+    - coef: 4.03183612
+      frac: 0
+  - - - '64'
+      - Longfei Yang
+    - coef: 4.27609147
+      frac: 0
+  - - - '55'
+      - Don Cramer
+    - coef: 4.3531305
+      frac: 0
+  - - - '52'
+      - Dale Regehr
+    - coef: 4.4986581
+      frac: 0
+  - - - '85'
+      - Rick Martin
+    - coef: 4.65367561
+      frac: 0
+  - - - '103'
+      - Wayne Thompson
+    - coef: 4.65946273
+      frac: 0
+  - - - '71'
+      - Rob Larkin
+    - coef: 5.61159395
       frac: 0
   - - - '74'
       - Vic Hare
-    - coef: 3.30711991
+    - coef: 5.7732205
       frac: 0
+  - - - '83'
+      - Randal Clotworthy
+    - coef: 7.44598398
+      frac: 0
+- - - - '30'
+      - Jason Kath
+    - coef: 2.21415792
+      frac: 1
+  - - - '92'
+      - Attila Bertok
+    - coef: 2.2524891
+      frac: 0.90042124
+  - - - '22'
+      - Rohan Taylor
+    - coef: 2.29244501
+      frac: 0.83970301
+  - - - '11'
+      - Steve Blenkinsop
+    - coef: 2.33512441
+      frac: 0.78575603
+  - - - '81'
+      - Nick Purcell
+    - coef: 2.37425679
+      frac: 0.74173984
+  - - - '43'
+      - Jonny Durand
+    - coef: 2.40736152
+      frac: 0.70726451
+  - - - '62'
+      - Josh Woods
+    - coef: 2.41480081
+      frac: 0.69979742
+  - - - '31'
+      - Trent Brown
+    - coef: 2.41934762
+      frac: 0.69527907
+  - - - '27'
+      - Guy Hubbard
+    - coef: 2.47041167
+      frac: 0.64661721
+  - - - '76'
+      - Rory Duncan
+    - coef: 2.49022161
+      frac: 0.62863176
+  - - - '8'
+      - Gordon Rigg
+    - coef: 2.73148179
+      frac: 0.4355308
+  - - - '6'
+      - Yoko Sano
+    - coef: 2.85567235
+      frac: 0.34846735
+  - - - '41'
+      - Tony Armstrong
+    - coef: 2.89632689
+      frac: 0.3212239
+  - - - '7'
+      - Olav Opsanger
+    - coef: 2.96053972
+      frac: 0.27927
+  - - - '37'
+      - Gavin Myers
+    - coef: 3.00505624
+      frac: 0.25088987
+  - - - '68'
+      - Neale Halsall
+    - coef: 3.13424817
+      frac: 0.17138615
+  - - - '72'
+      - Sasha Serebrennikova
+    - coef: 3.24517488
+      frac: 0.10605848
+  - - - '100'
+      - Malcolm Brown
+    - coef: 3.24719684
+      frac: 0.10489011
+  - - - '15'
+      - Ryosuke Hattori
+    - coef: 3.26781981
+      frac: 9.301644e-2
+  - - - '42'
+      - Rob de Groot
+    - coef: 3.27284625
+      frac: 9.013425e-2
+  - - - '74'
+      - Vic Hare
+    - coef: 3.30711991
+      frac: 7.060156e-2
   - - - '101'
       - Oliver Chitty
     - coef: 3.3100855
-      frac: 0
+      frac: 6.892112e-2
+  - - - '25'
+      - Tyler Borrdaile
+    - coef: 3.36045732
+      frac: 4.060538e-2
   - - - '51'
       - Craig Taylor
     - coef: 3.49588854
@@ -1182,65 +1194,57 @@ leadRank:
       - Yasuhiro Noma
     - coef: 3.53278705
       frac: 0
-  - - - '76'
-      - Rory Duncan
-    - coef: 17.30019787
-      frac: 0
-  - - - '52'
-      - Dale Regehr
-    - coef: 33.96678615
-      frac: 0
   - - - '103'
       - Wayne Thompson
-    - coef: 62.07887138
-      frac: 0
-  - - - '28'
-      - Mikhail Karmazin
-    - coef: 65.8051634
+    - coef: 3.88532085
       frac: 0
   - - - '80'
       - Michael Cassells
-    - coef: 83.37542854
+    - coef: 4.00094871
       frac: 0
   - - - '4'
       - Frank Chetcuti
-    - coef: 89.95063688
+    - coef: 4.01232568
       frac: 0
-  - - - '36'
-      - Steve Docherty
-    - coef: 92.07852375
-      frac: 0
-  - - - '25'
-      - Tyler Borrdaile
-    - coef: 94.926261
+  - - - '52'
+      - Dale Regehr
+    - coef: 4.38734455
       frac: 0
   - - - '23'
       - Nils Vesk
-    - coef: 99.25773943
+    - coef: 4.69173792
+      frac: 0
+  - - - '36'
+      - Steve Docherty
+    - coef: 4.70207465
       frac: 0
   - - - '83'
       - Randal Clotworthy
-    - coef: 133.4370721
+    - coef: 4.96282411
+      frac: 0
+  - - - '28'
+      - Mikhail Karmazin
+    - coef: 5.40619799
       frac: 0
   - - - '106'
       - Jon Durand Snr
-    - coef: 236.00390636
-      frac: 0
-  - - - '34'
-      - Brad Porter
-    - coef: 236.30054067
+    - coef: 5.68617453
       frac: 0
   - - - '64'
       - Longfei Yang
-    - coef: 250.14968278
+    - coef: 6.11040069
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
-    - coef: 286.42217685
+    - coef: 6.38571242
+      frac: 0
+  - - - '34'
+      - Brad Porter
+    - coef: 6.40411365
       frac: 0
   - - - '14'
       - Peter Burkitt
-    - coef: 420.09292155
+    - coef: 9.029662
       frac: 0
 arrivalRank:
 - - - - '92'
@@ -1250,63 +1254,67 @@ arrivalRank:
   - - - '101'
       - Oliver Chitty
     - rank: '2'
-      frac: 0.87052124
+      frac: 0.87771545
   - - - '27'
       - Guy Hubbard
     - rank: '3'
-      frac: 0.7559668
+      frac: 0.76869937
   - - - '31'
       - Trent Brown
     - rank: '4'
-      frac: 0.65540942
+      frac: 0.67217871
   - - - '76'
       - Rory Duncan
     - rank: '5'
-      frac: 0.56792188
+      frac: 0.58738042
   - - - '25'
       - Tyler Borrdaile
     - rank: '6'
-      frac: 0.4925769
+      frac: 0.51353145
   - - - '23'
       - Nils Vesk
     - rank: '7'
-      frac: 0.42844727
+      frac: 0.44985874
   - - - '30'
       - Jason Kath
     - rank: '8'
-      frac: 0.37460571
+      frac: 0.39558925
   - - - '106'
       - Jon Durand Snr
     - rank: '9'
-      frac: 0.330125
+      frac: 0.34994993
   - - - '62'
       - Josh Woods
     - rank: '10'
-      frac: 0.29407788
+      frac: 0.31216772
   - - - '11'
       - Steve Blenkinsop
     - rank: '11'
-      frac: 0.26553711
+      frac: 0.28146957
   - - - '69'
       - Niki Longshore
     - rank: '12'
-      frac: 0.24357544
+      frac: 0.25708243
   - - - '8'
       - Gordon Rigg
     - rank: '13'
-      frac: 0.22726562
+      frac: 0.23823326
   - - - '51'
       - Craig Taylor
     - rank: '14'
-      frac: 0.21568042
+      frac: 0.22414899
   - - - '81'
       - Nick Purcell
     - rank: '15'
-      frac: 0.20789258
+      frac: 0.21405658
   - - - '7'
       - Olav Opsanger
     - rank: '16'
-      frac: 0.20297485
+      frac: 0.20718298
+  - - - '22'
+      - Rohan Taylor
+    - rank: '17'
+      frac: 0.20275514
 - - - - '62'
       - Josh Woods
     - rank: '1'
@@ -1347,20 +1355,20 @@ arrivalRank:
       - Steve Blenkinsop
     - rank: '10'
       frac: 0.25863156
-  - - - '69'
-      - Niki Longshore
-    - rank: '11'
-      frac: 0.23594752
-  - - - '41'
-      - Tony Armstrong
-    - rank: '12'
-      frac: 0.22012646
-  - - - '23'
-      - Nils Vesk
-    - rank: '13'
-      frac: 0.20978426
   - - - '8'
       - Gordon Rigg
+    - rank: '11'
+      frac: 0.23594752
+  - - - '69'
+      - Niki Longshore
+    - rank: '12'
+      frac: 0.22012646
+  - - - '41'
+      - Tony Armstrong
+    - rank: '13'
+      frac: 0.20978426
+  - - - '23'
+      - Nils Vesk
     - rank: '14'
       frac: 0.20353681
 - - - - '92'
@@ -1407,76 +1415,76 @@ arrivalRank:
       - Jon Durand Snr
     - rank: '11'
       frac: 0.4580647
-  - - - '30'
-      - Jason Kath
-    - rank: '12'
-      frac: 0.42441437
-  - - - '41'
-      - Tony Armstrong
-    - rank: '13'
-      frac: 0.39387626
-  - - - '72'
-      - Sasha Serebrennikova
-    - rank: '14'
-      frac: 0.36629464
-  - - - '68'
-      - Neale Halsall
-    - rank: '15'
-      frac: 0.3415138
-  - - - '100'
-      - Malcolm Brown
-    - rank: '16'
-      frac: 0.319378
-  - - - '23'
-      - Nils Vesk
-    - rank: '17'
-      frac: 0.29973152
-  - - - '80'
-      - Michael Cassells
-    - rank: '18'
-      frac: 0.28241863
-  - - - '37'
-      - Gavin Myers
-    - rank: '19'
-      frac: 0.26728361
-  - - - '42'
-      - Rob de Groot
-    - rank: '20'
-      frac: 0.25417073
-  - - - '36'
-      - Steve Docherty
-    - rank: '21'
-      frac: 0.24292427
-  - - - '15'
-      - Ryosuke Hattori
-    - rank: '22'
-      frac: 0.23338849
-  - - - '77'
-      - Brodrick Osborne
-    - rank: '23'
-      frac: 0.22540768
-  - - - '32'
-      - Andrew Barnes
-    - rank: '24'
-      frac: 0.21882611
-  - - - '31'
-      - Trent Brown
-    - rank: '25'
-      frac: 0.21348805
-  - - - '76'
-      - Rory Duncan
-    - rank: '26'
-      frac: 0.20923777
-  - - - '4'
-      - Frank Chetcuti
-    - rank: '27'
-      frac: 0.20591955
-  - - - '103'
-      - Wayne Thompson
-    - rank: '28'
-      frac: 0.20337767
   - - - '8'
       - Gordon Rigg
+    - rank: '12'
+      frac: 0.42441437
+  - - - '30'
+      - Jason Kath
+    - rank: '13'
+      frac: 0.39387626
+  - - - '41'
+      - Tony Armstrong
+    - rank: '14'
+      frac: 0.36629464
+  - - - '72'
+      - Sasha Serebrennikova
+    - rank: '15'
+      frac: 0.3415138
+  - - - '68'
+      - Neale Halsall
+    - rank: '16'
+      frac: 0.319378
+  - - - '100'
+      - Malcolm Brown
+    - rank: '17'
+      frac: 0.29973152
+  - - - '23'
+      - Nils Vesk
+    - rank: '18'
+      frac: 0.28241863
+  - - - '80'
+      - Michael Cassells
+    - rank: '19'
+      frac: 0.26728361
+  - - - '37'
+      - Gavin Myers
+    - rank: '20'
+      frac: 0.25417073
+  - - - '42'
+      - Rob de Groot
+    - rank: '21'
+      frac: 0.24292427
+  - - - '36'
+      - Steve Docherty
+    - rank: '22'
+      frac: 0.23338849
+  - - - '15'
+      - Ryosuke Hattori
+    - rank: '23'
+      frac: 0.22540768
+  - - - '77'
+      - Brodrick Osborne
+    - rank: '24'
+      frac: 0.21882611
+  - - - '32'
+      - Andrew Barnes
+    - rank: '25'
+      frac: 0.21348805
+  - - - '31'
+      - Trent Brown
+    - rank: '26'
+      frac: 0.20923777
+  - - - '76'
+      - Rory Duncan
+    - rank: '27'
+      frac: 0.20591955
+  - - - '4'
+      - Frank Chetcuti
+    - rank: '28'
+      frac: 0.20337767
+  - - - '103'
+      - Wayne Thompson
     - rank: '29'
       frac: 0.20145639
 - - - - '101'
@@ -1519,28 +1527,28 @@ arrivalRank:
       - Tony Armstrong
     - rank: '10'
       frac: 0.29407788
-  - - - '76'
-      - Rory Duncan
-    - rank: '11'
-      frac: 0.26553711
-  - - - '23'
-      - Nils Vesk
-    - rank: '12'
-      frac: 0.24357544
-  - - - '15'
-      - Ryosuke Hattori
-    - rank: '13'
-      frac: 0.22726562
-  - - - '36'
-      - Steve Docherty
-    - rank: '14'
-      frac: 0.21568042
-  - - - '72'
-      - Sasha Serebrennikova
-    - rank: '15'
-      frac: 0.20789258
   - - - '8'
       - Gordon Rigg
+    - rank: '11'
+      frac: 0.26553711
+  - - - '76'
+      - Rory Duncan
+    - rank: '12'
+      frac: 0.24357544
+  - - - '23'
+      - Nils Vesk
+    - rank: '13'
+      frac: 0.22726562
+  - - - '15'
+      - Ryosuke Hattori
+    - rank: '14'
+      frac: 0.21568042
+  - - - '36'
+      - Steve Docherty
+    - rank: '15'
+      frac: 0.20789258
+  - - - '72'
+      - Sasha Serebrennikova
     - rank: '16'
       frac: 0.20297485
 - - - - '101'
@@ -1643,28 +1651,28 @@ arrivalRank:
       - Oliver Chitty
     - rank: '16'
       frac: 0.24532447
-  - - - '106'
-      - Jon Durand Snr
-    - rank: '17'
-      frac: 0.23260105
-  - - - '98'
-      - Oyvind Ellefsen
-    - rank: '18'
-      frac: 0.22255494
-  - - - '68'
-      - Neale Halsall
-    - rank: '19'
-      frac: 0.21482945
-  - - - '72'
-      - Sasha Serebrennikova
-    - rank: '20'
-      frac: 0.2090679
-  - - - '31'
-      - Trent Brown
-    - rank: '21'
-      frac: 0.2049136
   - - - '8'
       - Gordon Rigg
+    - rank: '17'
+      frac: 0.23260105
+  - - - '106'
+      - Jon Durand Snr
+    - rank: '18'
+      frac: 0.22255494
+  - - - '98'
+      - Oyvind Ellefsen
+    - rank: '19'
+      frac: 0.21482945
+  - - - '68'
+      - Neale Halsall
+    - rank: '20'
+      frac: 0.2090679
+  - - - '72'
+      - Sasha Serebrennikova
+    - rank: '21'
+      frac: 0.2049136
+  - - - '31'
+      - Trent Brown
     - rank: '22'
       frac: 0.20200986
 - - - - '92'
@@ -1703,60 +1711,60 @@ arrivalRank:
       - Guy Hubbard
     - rank: '9'
       frac: 0.4550111
-  - - - '7'
-      - Olav Opsanger
-    - rank: '10'
-      frac: 0.41344736
-  - - - '101'
-      - Oliver Chitty
-    - rank: '11'
-      frac: 0.37674529
-  - - - '37'
-      - Gavin Myers
-    - rank: '12'
-      frac: 0.34459275
-  - - - '75'
-      - Yasuhiro Noma
-    - rank: '13'
-      frac: 0.31667757
-  - - - '6'
-      - Yoko Sano
-    - rank: '14'
-      frac: 0.2926876
-  - - - '41'
-      - Tony Armstrong
-    - rank: '15'
-      frac: 0.27231068
-  - - - '74'
-      - Vic Hare
-    - rank: '16'
-      frac: 0.25523465
-  - - - '68'
-      - Neale Halsall
-    - rank: '17'
-      frac: 0.24114737
-  - - - '15'
-      - Ryosuke Hattori
-    - rank: '18'
-      frac: 0.22973666
-  - - - '100'
-      - Malcolm Brown
-    - rank: '19'
-      frac: 0.22069039
-  - - - '72'
-      - Sasha Serebrennikova
-    - rank: '20'
-      frac: 0.21369639
-  - - - '51'
-      - Craig Taylor
-    - rank: '21'
-      frac: 0.20844251
-  - - - '42'
-      - Rob de Groot
-    - rank: '22'
-      frac: 0.20461659
   - - - '8'
       - Gordon Rigg
+    - rank: '10'
+      frac: 0.41344736
+  - - - '7'
+      - Olav Opsanger
+    - rank: '11'
+      frac: 0.37674529
+  - - - '101'
+      - Oliver Chitty
+    - rank: '12'
+      frac: 0.34459275
+  - - - '42'
+      - Rob de Groot
+    - rank: '13'
+      frac: 0.31667757
+  - - - '37'
+      - Gavin Myers
+    - rank: '14'
+      frac: 0.2926876
+  - - - '75'
+      - Yasuhiro Noma
+    - rank: '15'
+      frac: 0.27231068
+  - - - '6'
+      - Yoko Sano
+    - rank: '16'
+      frac: 0.25523465
+  - - - '41'
+      - Tony Armstrong
+    - rank: '17'
+      frac: 0.24114737
+  - - - '74'
+      - Vic Hare
+    - rank: '18'
+      frac: 0.22973666
+  - - - '68'
+      - Neale Halsall
+    - rank: '19'
+      frac: 0.22069039
+  - - - '15'
+      - Ryosuke Hattori
+    - rank: '20'
+      frac: 0.21369639
+  - - - '100'
+      - Malcolm Brown
+    - rank: '21'
+      frac: 0.20844251
+  - - - '72'
+      - Sasha Serebrennikova
+    - rank: '22'
+      frac: 0.20461659
+  - - - '51'
+      - Craig Taylor
     - rank: '23'
       frac: 0.20190647
 reachRank:
@@ -1822,6 +1830,10 @@ reachRank:
       reach: 142.788632 km
   - - - '7'
       - Olav Opsanger
+    - frac: 1
+      reach: 142.788632 km
+  - - - '22'
+      - Rohan Taylor
     - frac: 1
       reach: 142.788632 km
   - - - '108'
@@ -1912,10 +1924,6 @@ reachRank:
       - Brodrick Osborne
     - frac: 3.859994e-2
       reach: 5.511632 km
-  - - - '22'
-      - Rohan Taylor
-    - frac: 3.08122e-2
-      reach: 4.399632 km
 - - - - '62'
       - Josh Woods
     - frac: 1
@@ -1956,6 +1964,10 @@ reachRank:
       - Steve Blenkinsop
     - frac: 1
       reach: 185.746183 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 185.746183 km
   - - - '69'
       - Niki Longshore
     - frac: 1
@@ -1966,10 +1978,6 @@ reachRank:
       reach: 185.746183 km
   - - - '23'
       - Nils Vesk
-    - frac: 1
-      reach: 185.746183 km
-  - - - '8'
-      - Gordon Rigg
     - frac: 1
       reach: 185.746183 km
   - - - '30'
@@ -2116,6 +2124,10 @@ reachRank:
       - Jon Durand Snr
     - frac: 1
       reach: 195.224999 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 195.224999 km
   - - - '30'
       - Jason Kath
     - frac: 1
@@ -2182,10 +2194,6 @@ reachRank:
       reach: 195.224999 km
   - - - '103'
       - Wayne Thompson
-    - frac: 1
-      reach: 195.224999 km
-  - - - '8'
-      - Gordon Rigg
     - frac: 1
       reach: 195.224999 km
   - - - '107'
@@ -2292,6 +2300,10 @@ reachRank:
       - Tony Armstrong
     - frac: 1
       reach: 388.750522 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 388.750522 km
   - - - '76'
       - Rory Duncan
     - frac: 1
@@ -2310,10 +2322,6 @@ reachRank:
       reach: 388.750522 km
   - - - '72'
       - Sasha Serebrennikova
-    - frac: 1
-      reach: 388.750522 km
-  - - - '8'
-      - Gordon Rigg
     - frac: 1
       reach: 388.750522 km
   - - - '32'
@@ -2628,6 +2636,10 @@ reachRank:
       - Oliver Chitty
     - frac: 1
       reach: 166.445178 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 166.445178 km
   - - - '106'
       - Jon Durand Snr
     - frac: 1
@@ -2646,10 +2658,6 @@ reachRank:
       reach: 166.445178 km
   - - - '31'
       - Trent Brown
-    - frac: 1
-      reach: 166.445178 km
-  - - - '8'
-      - Gordon Rigg
     - frac: 1
       reach: 166.445178 km
   - - - '64'
@@ -2776,12 +2784,20 @@ reachRank:
       - Guy Hubbard
     - frac: 1
       reach: 172.146534 km
+  - - - '8'
+      - Gordon Rigg
+    - frac: 1
+      reach: 172.146534 km
   - - - '7'
       - Olav Opsanger
     - frac: 1
       reach: 172.146534 km
   - - - '101'
       - Oliver Chitty
+    - frac: 1
+      reach: 172.146534 km
+  - - - '42'
+      - Rob de Groot
     - frac: 1
       reach: 172.146534 km
   - - - '37'
@@ -2822,14 +2838,6 @@ reachRank:
       reach: 172.146534 km
   - - - '51'
       - Craig Taylor
-    - frac: 1
-      reach: 172.146534 km
-  - - - '42'
-      - Rob de Groot
-    - frac: 1
-      reach: 172.146534 km
-  - - - '8'
-      - Gordon Rigg
     - frac: 1
       reach: 172.146534 km
   - - - '76'
@@ -2957,6 +2965,10 @@ ssSpeed:
       - Olav Opsanger
     - time: 3.004859 h
       frac: 0.23710303
+  - - - '22'
+      - Rohan Taylor
+    - time: 3.106882 h
+      frac: 0.17439093
 - - - - '62'
       - Josh Woods
     - time: 3.802120 h
@@ -2997,6 +3009,10 @@ ssSpeed:
       - Steve Blenkinsop
     - time: 4.247363 h
       frac: 0.53327575
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.251121 h
+      frac: 0.53065309
   - - - '69'
       - Niki Longshore
     - time: 4.276925 h
@@ -3009,10 +3025,6 @@ ssSpeed:
       - Nils Vesk
     - time: 4.655328 h
       frac: 0.27994495
-  - - - '8'
-      - Gordon Rigg
-    - time: 52.251121 h
-      frac: 0
 - - - - '92'
       - Attila Bertok
     - time: 3.104037 h
@@ -3041,6 +3053,10 @@ ssSpeed:
       - Steve Blenkinsop
     - time: 3.178784 h
       frac: 0.85308179
+  - - - '8'
+      - Gordon Rigg
+    - time: 3.194355 h
+      frac: 0.83332788
   - - - '34'
       - Brad Porter
     - time: 3.221871 h
@@ -3125,10 +3141,6 @@ ssSpeed:
       - Wayne Thompson
     - time: 4.259530 h
       frac: 8.828901e-2
-  - - - '8'
-      - Gordon Rigg
-    - time: 123.194355 h
-      frac: 0
 - - - - '101'
       - Oliver Chitty
     - time: 5.276402 h
@@ -3165,6 +3177,10 @@ ssSpeed:
       - Steve Blenkinsop
     - time: 6.037479 h
       frac: 0.36822418
+  - - - '8'
+      - Gordon Rigg
+    - time: 6.189528 h
+      frac: 0.28665827
   - - - '41'
       - Tony Armstrong
     - time: 6.270170 h
@@ -3189,10 +3205,6 @@ ssSpeed:
       - Nils Vesk
     - time: 6.623433 h
       frac: 7.55953e-2
-  - - - '8'
-      - Gordon Rigg
-    - time: 78.189528 h
-      frac: 0
 - - - - '101'
       - Oliver Chitty
     - time: 2.790995 h
@@ -3301,6 +3313,10 @@ ssSpeed:
       - Jon Durand Snr
     - time: 4.125703 h
       frac: 0.44622692
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.129978 h
+      frac: 0.44344264
   - - - '68'
       - Neale Halsall
     - time: 4.300585 h
@@ -3313,10 +3329,6 @@ ssSpeed:
       - Trent Brown
     - time: 4.677292 h
       frac: 0.12843902
-  - - - '8'
-      - Gordon Rigg
-    - time: 124.129978 h
-      frac: 0
 - - - - '92'
       - Attila Bertok
     - time: 3.527729 h
@@ -3353,10 +3365,18 @@ ssSpeed:
       - Guy Hubbard
     - time: 3.963339 h
       frac: 0.53425345
+  - - - '42'
+      - Rob de Groot
+    - time: 4.199146 h
+      frac: 0.37854117
   - - - '101'
       - Oliver Chitty
     - time: 4.202401 h
       frac: 0.3765344
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.290855 h
+      frac: 0.32316681
   - - - '75'
       - Yasuhiro Noma
     - time: 4.348322 h
@@ -3400,14 +3420,6 @@ ssSpeed:
   - - - '51'
       - Craig Taylor
     - time: 6.239940 h
-      frac: 0
-  - - - '42'
-      - Rob de Groot
-    - time: 28.199146 h
-      frac: 0
-  - - - '8'
-      - Gordon Rigg
-    - time: 28.290855 h
       frac: 0
 gsSpeed:
 - - - - '92'
@@ -3474,6 +3486,10 @@ gsSpeed:
       - Olav Opsanger
     - time: 3.056777 h
       frac: 0.2088581
+  - - - '22'
+      - Rohan Taylor
+    - time: 3.108527 h
+      frac: 0.17732101
 - - - - '62'
       - Josh Woods
     - time: 3.834283 h
@@ -3514,6 +3530,10 @@ gsSpeed:
       - Steve Blenkinsop
     - time: 4.258963 h
       frac: 0.54839368
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.278482 h
+      frac: 0.53465922
   - - - '69'
       - Niki Longshore
     - time: 4.300971 h
@@ -3526,10 +3546,6 @@ gsSpeed:
       - Nils Vesk
     - time: 4.762307 h
       frac: 0.23951247
-  - - - '8'
-      - Gordon Rigg
-    - time: 171.528482 h
-      frac: 0
 - - - - '92'
       - Attila Bertok
     - time: 3.145657 h
@@ -3562,6 +3578,10 @@ gsSpeed:
       - Brad Porter
     - time: 3.231805 h
       frac: 0.83885718
+  - - - '8'
+      - Gordon Rigg
+    - time: 3.243218 h
+      frac: 0.82492256
   - - - '23'
       - Nils Vesk
     - time: 3.384860 h
@@ -3642,10 +3662,6 @@ gsSpeed:
       - Wayne Thompson
     - time: 4.300839 h
       frac: 9.04744e-2
-  - - - '8'
-      - Gordon Rigg
-    - time: 123.243218 h
-      frac: 0
 - - - - '101'
       - Oliver Chitty
     - time: 5.306634 h
@@ -3682,6 +3698,10 @@ gsSpeed:
       - Josh Woods
     - time: 6.046947 h
       frac: 0.38035814
+  - - - '8'
+      - Gordon Rigg
+    - time: 6.200941 h
+      frac: 0.29716261
   - - - '41'
       - Tony Armstrong
     - time: 6.288678 h
@@ -3706,10 +3726,6 @@ gsSpeed:
       - Sasha Serebrennikova
     - time: 6.717539 h
       frac: 4.75063e-2
-  - - - '8'
-      - Gordon Rigg
-    - time: 78.200941 h
-      frac: 0
 - - - - '101'
       - Oliver Chitty
     - time: 2.794577 h
@@ -3814,6 +3830,10 @@ gsSpeed:
       - Tony Armstrong
     - time: 4.109937 h
       frac: 0.46121957
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.134776 h
+      frac: 0.44492573
   - - - '106'
       - Jon Durand Snr
     - time: 4.142582 h
@@ -3830,10 +3850,6 @@ gsSpeed:
       - Trent Brown
     - time: 4.682422 h
       frac: 0.12958696
-  - - - '8'
-      - Gordon Rigg
-    - time: 146.801442 h
-      frac: 0
 - - - - '92'
       - Attila Bertok
     - time: 3.533649 h
@@ -3874,6 +3890,14 @@ gsSpeed:
       - Oliver Chitty
     - time: 4.205872 h
       frac: 0.37821792
+  - - - '42'
+      - Rob de Groot
+    - time: 4.209956 h
+      frac: 0.37570232
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.332480 h
+      frac: 0.30241177
   - - - '75'
       - Yasuhiro Noma
     - time: 4.358905 h
@@ -3917,14 +3941,6 @@ gsSpeed:
   - - - '51'
       - Craig Taylor
     - time: 6.285822 h
-      frac: 0
-  - - - '42'
-      - Rob de Groot
-    - time: 28.209956 h
-      frac: 0
-  - - - '8'
-      - Gordon Rigg
-    - time: 314.999146 h
       frac: 0
 nigh:
 - - - - '108'
@@ -4279,22 +4295,6 @@ nigh:
         - lat: -32.06966276
           lng: 147.99933756
       made: 5.511632 km
-  - - - '22'
-      - Rohan Taylor
-    - togo:
-        distance: 138.388624 km
-        flipSum:
-        - 138.388624 km
-        legs:
-        - 138.388624 km
-        legsSum:
-        - 138.388624 km
-        waypoints:
-        - lat: -33.31271667
-          lng: 147.92663333
-        - lat: -32.06966276
-          lng: 147.99933756
-      made: 4.399632 km
 - - - - '30'
       - Jason Kath
     - togo:
@@ -6884,10 +6884,6 @@ land:
       - Brodrick Osborne
     - togo: 137.920179 km
       made: 4.868453 km
-  - - - '22'
-      - Rohan Taylor
-    - togo: 138.388624 km
-      made: 4.400008 km
 - - - - '30'
       - Jason Kath
     - togo: 5.133714 km
@@ -7555,9 +7551,6 @@ altStopped:
   - - - '71'
       - Rob Larkin
     - 343.000 m
-  - - - '22'
-      - Rohan Taylor
-    - 1953.000 m
   - - - '86'
       - Ross Smith
     - 278.000 m
