@@ -22,7 +22,7 @@ raceTime:
   firstStart: 2017-12-31T02:15:45.57026666361Z
   firstLead: 2017-12-31T02:15:45.57026666361Z
   lastArrival: 2017-12-31T07:15:44.306206155387Z
-  leadAllDown: 107906.43
+  leadAllDown: 22195.43
   leadArrival: 17998.736
   leadClose: 27854.43
   openClose: 26100
@@ -135,7 +135,7 @@ leadScaling:
 - 1.979048e-8
 leadCoefMin:
 - 1.39118071
-- 4.500778e-2
+- 3.20695415
 - 1.96612999
 - 3.52532771
 - 1.57230789
@@ -294,94 +294,94 @@ leadRank:
       - Don Cramer
     - coef: 5.29846228
       frac: 0
-- - - - '30'
-      - Jason Kath
-    - coef: 4.500778e-2
-      frac: 1
-  - - - '27'
+- - - - '27'
       - Guy Hubbard
     - coef: 3.20695415
-      frac: 0
+      frac: 1
   - - - '92'
       - Attila Bertok
     - coef: 3.21163768
-      frac: 0
+      frac: 0.97694844
   - - - '43'
       - Jonny Durand
     - coef: 3.27428967
-      frac: 0
+      frac: 0.86370476
   - - - '62'
       - Josh Woods
     - coef: 3.28661915
-      frac: 0
+      frac: 0.84753754
   - - - '101'
       - Oliver Chitty
     - coef: 3.3319249
-      frac: 0
+      frac: 0.794163
   - - - '7'
       - Olav Opsanger
     - coef: 3.37732713
-      frac: 0
+      frac: 0.74692358
   - - - '76'
       - Rory Duncan
     - coef: 3.37802457
-      frac: 0
+      frac: 0.74623338
   - - - '25'
       - Tyler Borrdaile
     - coef: 3.3792772
-      frac: 0
+      frac: 0.74499612
   - - - '75'
       - Yasuhiro Noma
     - coef: 3.38510264
-      frac: 0
+      frac: 0.73928103
   - - - '8'
       - Gordon Rigg
     - coef: 3.39932081
-      frac: 0
+      frac: 0.72558717
   - - - '23'
       - Nils Vesk
     - coef: 3.47383989
-      frac: 0
+      frac: 0.65864878
   - - - '41'
       - Tony Armstrong
     - coef: 3.51461
-      frac: 0
+      frac: 0.6247149
   - - - '69'
       - Niki Longshore
     - coef: 3.58344476
-      frac: 0
+      frac: 0.57064093
   - - - '11'
       - Steve Blenkinsop
     - coef: 3.63388288
-      frac: 0
+      frac: 0.53310259
   - - - '6'
       - Yoko Sano
     - coef: 3.67709276
-      frac: 0
+      frac: 0.50210799
   - - - '100'
       - Malcolm Brown
     - coef: 3.75678543
-      frac: 0
+      frac: 0.44732371
   - - - '81'
       - Nick Purcell
     - coef: 3.76972867
-      frac: 0
+      frac: 0.43868391
   - - - '15'
       - Ryosuke Hattori
     - coef: 3.78670671
-      frac: 0
+      frac: 0.42745056
   - - - '98'
       - Oyvind Ellefsen
     - coef: 3.8466219
-      frac: 0
+      frac: 0.38865338
+  - - - '30'
+      - Jason Kath
+    - coef: 3.84820839
+      frac: 0.38764297
   - - - '22'
       - Rohan Taylor
     - coef: 3.91297299
-      frac: 0
+      frac: 0.34707685
   - - - '106'
       - Jon Durand Snr
     - coef: 4.0815151
-      frac: 0
+      frac: 0.24691396
   - - - '52'
       - Dale Regehr
     - coef: 4.95004671

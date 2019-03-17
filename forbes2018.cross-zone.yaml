@@ -1303,22 +1303,22 @@ flying:
       scoredFixes:
       - 0
       - 17778
-      loggedSeconds: 109643
+      loggedSeconds: 23243
       flyingSeconds:
       - 0
-      - 109643
+      - 23243
       scoredSeconds:
       - 0
-      - 109643
+      - 23243
       loggedTimes:
       - 2017-12-31T01:46:49Z
-      - 2018-01-01T08:14:12Z
+      - 2017-12-31T08:14:12Z
       flyingTimes:
       - 2017-12-31T01:46:49Z
-      - 2018-01-01T08:14:12Z
+      - 2017-12-31T08:14:12Z
       scoredTimes:
       - 2017-12-31T01:46:49Z
-      - 2018-01-01T08:14:12Z
+      - 2017-12-31T08:14:12Z
   - - - '106'
       - Jon Durand Snr
     - loggedFixes: 1268
@@ -12177,11 +12177,11 @@ crossing:
       - null
       - crossingPair:
         - fix: 2766
-          time: 2018-01-01T02:45:50Z
+          time: 2017-12-31T02:45:50Z
           lat: -33.44596667
           lng: 147.92865
         - fix: 2767
-          time: 2018-01-01T02:45:51Z
+          time: 2017-12-31T02:45:51Z
           lat: -33.44605
           lng: 147.92848333
         inZone:
@@ -12189,11 +12189,11 @@ crossing:
         - false
       - crossingPair:
         - fix: 5079
-          time: 2018-01-01T03:45:53Z
+          time: 2017-12-31T03:45:53Z
           lat: -33.837
           lng: 147.94995
         - fix: 5080
-          time: 2018-01-01T03:45:54Z
+          time: 2017-12-31T03:45:54Z
           lat: -33.83711667
           lng: 147.95015
         inZone:
@@ -12201,11 +12201,11 @@ crossing:
         - true
       - crossingPair:
         - fix: 13835
-          time: 2018-01-01T06:54:37Z
+          time: 2017-12-31T06:54:37Z
           lat: -34.4808
           lng: 148.65266667
         - fix: 13836
-          time: 2018-01-01T06:54:38Z
+          time: 2017-12-31T06:54:38Z
           lat: -34.48086667
           lng: 148.65293333
         inZone:
@@ -12216,11 +12216,11 @@ crossing:
       - []
       - - crossingPair:
           - fix: 2766
-            time: 2018-01-01T02:45:50Z
+            time: 2017-12-31T02:45:50Z
             lat: -33.44596667
             lng: 147.92865
           - fix: 2767
-            time: 2018-01-01T02:45:51Z
+            time: 2017-12-31T02:45:51Z
             lat: -33.44605
             lng: 147.92848333
           inZone:
@@ -12228,11 +12228,11 @@ crossing:
           - false
       - - crossingPair:
           - fix: 5079
-            time: 2018-01-01T03:45:53Z
+            time: 2017-12-31T03:45:53Z
             lat: -33.837
             lng: 147.94995
           - fix: 5080
-            time: 2018-01-01T03:45:54Z
+            time: 2017-12-31T03:45:54Z
             lat: -33.83711667
             lng: 147.95015
           inZone:
@@ -12240,11 +12240,11 @@ crossing:
           - true
         - crossingPair:
           - fix: 5130
-            time: 2018-01-01T03:46:44Z
+            time: 2017-12-31T03:46:44Z
             lat: -33.84428333
             lng: 147.96023333
           - fix: 5131
-            time: 2018-01-01T03:46:46Z
+            time: 2017-12-31T03:46:46Z
             lat: -33.84433333
             lng: 147.9608
           inZone:
@@ -12252,11 +12252,11 @@ crossing:
           - false
       - - crossingPair:
           - fix: 13835
-            time: 2018-01-01T06:54:37Z
+            time: 2017-12-31T06:54:37Z
             lat: -34.4808
             lng: 148.65266667
           - fix: 13836
-            time: 2018-01-01T06:54:38Z
+            time: 2017-12-31T06:54:38Z
             lat: -34.48086667
             lng: 148.65293333
           inZone:
@@ -12264,11 +12264,11 @@ crossing:
           - true
         - crossingPair:
           - fix: 13904
-            time: 2018-01-01T06:56:06Z
+            time: 2017-12-31T06:56:06Z
             lat: -34.48655
             lng: 148.65641667
           - fix: 13905
-            time: 2018-01-01T06:56:07Z
+            time: 2017-12-31T06:56:07Z
             lat: -34.4867
             lng: 148.65628333
           inZone:
