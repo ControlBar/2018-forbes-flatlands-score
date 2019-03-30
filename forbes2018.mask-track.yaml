@@ -22,7 +22,7 @@ raceTime:
   firstStart: 2017-12-31T02:15:45.57026666361Z
   firstLead: 2017-12-31T02:15:45.57026666361Z
   lastArrival: 2017-12-31T07:15:44.306206155387Z
-  leadAllDown: 22195.43
+  leadAllDown: 107906.43
   leadArrival: 17998.736
   leadClose: 27854.43
   openClose: 26100
@@ -135,7 +135,7 @@ leadAreaToCoef:
 - 0.00000001979048 km^-2 s^-1
 leadCoefMin:
 - 1.59895592
-- 3.56603823
+- 5.004732e-2
 - 2.17474976
 - 3.70610521
 - 1.78840809
@@ -332,116 +332,116 @@ leadRank:
     - area: 194450747.6608 km^2 s
       coef: 6.08979663
       frac: 0
-- - - - '27'
+- - - - '30'
+      - Jason Kath
+    - area: 2795116.3158 km^2 s
+      coef: 5.004732e-2
+      frac: 1
+  - - - '27'
       - Guy Hubbard
     - area: 199161345.6449 km^2 s
       coef: 3.56603823
-      frac: 1
+      frac: 0
   - - - '92'
       - Attila Bertok
     - area: 199452206.9774 km^2 s
       coef: 3.57124618
-      frac: 0.980334
+      frac: 0
   - - - '43'
       - Jonny Durand
     - area: 203343080.8726 km^2 s
       coef: 3.64091334
-      frac: 0.88372233
+      frac: 0
   - - - '62'
       - Josh Woods
     - area: 204108778.0819 km^2 s
       coef: 3.65462336
-      frac: 0.86992958
+      frac: 0
   - - - '101'
       - Oliver Chitty
     - area: 206922399.0013 km^2 s
       coef: 3.70500201
-      frac: 0.82439411
+      frac: 0
   - - - '7'
       - Olav Opsanger
     - area: 209742011.9265 km^2 s
       coef: 3.75548795
-      frac: 0.78409271
+      frac: 0
   - - - '76'
       - Rory Duncan
     - area: 209785325.0262 km^2 s
       coef: 3.75626348
-      frac: 0.78350388
+      frac: 0
   - - - '25'
       - Tyler Borrdaile
     - area: 209863116.9103 km^2 s
       coef: 3.75765636
-      frac: 0.78244834
+      frac: 0
   - - - '75'
       - Yasuhiro Noma
     - area: 210224894.2097 km^2 s
       coef: 3.76413408
-      frac: 0.77757261
+      frac: 0
   - - - '8'
       - Gordon Rigg
     - area: 211107884.8226 km^2 s
       coef: 3.77994427
-      frac: 0.76588996
+      frac: 0
   - - - '23'
       - Nils Vesk
     - area: 215735740.1432 km^2 s
       coef: 3.86280728
-      frac: 0.70878276
+      frac: 0
   - - - '41'
       - Tony Armstrong
     - area: 218267684.6469 km^2 s
       coef: 3.90814244
-      frac: 0.67983272
+      frac: 0
   - - - '69'
       - Niki Longshore
     - area: 222542526.9790 km^2 s
       coef: 3.98468466
-      frac: 0.63370055
+      frac: 0
   - - - '11'
       - Steve Blenkinsop
     - area: 225674883.3749 km^2 s
       coef: 4.04077036
-      frac: 0.60167544
+      frac: 0
   - - - '6'
       - Yoko Sano
     - area: 228358344.8612 km^2 s
       coef: 4.08881847
-      frac: 0.57523299
+      frac: 0
   - - - '100'
       - Malcolm Brown
     - area: 233307495.5380 km^2 s
       coef: 4.17743436
-      frac: 0.52849483
+      frac: 0
   - - - '81'
       - Nick Purcell
     - area: 234111309.4307 km^2 s
       coef: 4.19182687
-      frac: 0.52112395
+      frac: 0
   - - - '15'
       - Ryosuke Hattori
     - area: 235165695.9327 km^2 s
       coef: 4.21070594
-      frac: 0.51154044
+      frac: 0
   - - - '98'
       - Oyvind Ellefsen
     - area: 238886606.5633 km^2 s
       coef: 4.27732986
-      frac: 0.47844137
-  - - - '30'
-      - Jason Kath
-    - area: 238985132.1944 km^2 s
-      coef: 4.27909399
-      frac: 0.47757935
+      frac: 0
   - - - '22'
       - Rohan Taylor
     - area: 243007205.6968 km^2 s
       coef: 4.35111031
-      frac: 0.44297115
+      frac: 0
   - - - '106'
       - Jon Durand Snr
     - area: 253474169.2917 km^2 s
       coef: 4.53852415
-      frac: 0.3575191
+      frac: 0
   - - - '52'
       - Dale Regehr
     - area: 307412553.1182 km^2 s
