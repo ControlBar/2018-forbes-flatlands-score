@@ -1,3 +1,23 @@
+suspectDnf:
+- - - '99'
+    - Gennadiy Khramov
+  - - '85'
+    - Rick Martin
+- - - '85'
+    - Rick Martin
+- - - '99'
+    - Gennadiy Khramov
+  - - '85'
+    - Rick Martin
+  - - '86'
+    - Ross Smith
+- - - '99'
+    - Gennadiy Khramov
+- - - '86'
+    - Ross Smith
+- []
+- - - '99'
+    - Gennadiy Khramov
 flying:
 - - - - '107'
       - Anatoly Reyter
@@ -11193,17 +11213,17 @@ crossing:
         - true
         - false
       - crossingPair:
-        - fix: 247
-          time: 2017-12-31T02:15:36Z
-          lat: -33.38801667
-          lng: 147.8308
-        - fix: 248
-          time: 2017-12-31T02:15:46Z
-          lat: -33.38715
-          lng: 147.83258333
+        - fix: 243
+          time: 2017-12-31T02:14:56Z
+          lat: -33.38866667
+          lng: 147.83456667
+        - fix: 244
+          time: 2017-12-31T02:15:06Z
+          lat: -33.38905
+          lng: 147.8332
         inZone:
-        - false
         - true
+        - false
       - null
       - null
       - null
@@ -41313,17 +41333,17 @@ crossing:
         - true
         - false
       - crossingPair:
-        - fix: 2069
-          time: 2018-01-04T07:20:40Z
-          lat: -33.33988333
-          lng: 147.98586667
-        - fix: 2070
-          time: 2018-01-04T07:20:50Z
-          lat: -33.3405
-          lng: 147.98398333
+        - fix: 453
+          time: 2018-01-04T02:51:12Z
+          lat: -33.37958333
+          lng: 147.97793333
+        - fix: 454
+          time: 2018-01-04T02:51:22Z
+          lat: -33.38095
+          lng: 147.9788
         inZone:
-        - false
         - true
+        - false
       - null
       - null
       - null
@@ -49605,17 +49625,17 @@ crossing:
         - true
         - false
       - crossingPair:
-        - fix: 9269
-          time: 2018-01-04T04:50:03Z
-          lat: -33.40073333
-          lng: 147.92596667
-        - fix: 9270
-          time: 2018-01-04T04:50:04Z
-          lat: -33.40055
-          lng: 147.92598333
+        - fix: 2106
+          time: 2018-01-04T02:50:40Z
+          lat: -33.3638
+          lng: 147.9865
+        - fix: 2107
+          time: 2018-01-04T02:50:41Z
+          lat: -33.3638
+          lng: 147.9867
         inZone:
-        - false
         - true
+        - false
       - null
       - null
       - null
@@ -62705,26 +62725,6 @@ crossing:
           inZone:
           - false
           - true
-suspectDnf:
-- - - '99'
-    - Gennadiy Khramov
-  - - '85'
-    - Rick Martin
-- - - '85'
-    - Rick Martin
-- - - '99'
-    - Gennadiy Khramov
-  - - '85'
-    - Rick Martin
-  - - '86'
-    - Ross Smith
-- - - '99'
-    - Gennadiy Khramov
-- - - '86'
-    - Ross Smith
-- []
-- - - '99'
-    - Gennadiy Khramov
 trackLogError:
 - fileUnset:
   - - '52'
