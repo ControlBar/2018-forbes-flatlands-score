@@ -19,14 +19,14 @@ raceTime:
   tickClose: 11274.077
 - openTask: 2017-12-31T02:45:00Z
   closeTask: 2017-12-31T10:00:00Z
-  firstStart: 2017-12-31T02:15:45.57025729409Z
-  firstLead: 2017-12-31T02:15:45.57025729409Z
+  firstStart: 2017-12-31T02:15:05.0142171488Z
+  firstLead: 2017-12-31T02:15:05.0142171488Z
   lastArrival: 2017-12-31T07:15:44.306204785299Z
-  leadAllDown: 107906.43
-  leadArrival: 17998.736
-  leadClose: 27854.43
+  leadAllDown: 107946.986
+  leadArrival: 18039.292
+  leadClose: 27894.986
   openClose: 26100
-  tickClose: 27854.43
+  tickClose: 27894.986
 - openTask: 2018-01-01T02:30:00Z
   closeTask: 2018-01-01T09:00:00Z
   firstStart: 2018-01-01T02:28:45.36826463683Z
@@ -414,13 +414,13 @@ leadRank:
       frac: 0
   - - - '100'
       - Malcolm Brown
-    - area: 233307479.5139 km^2 s
-      coef: 4.17746391
+    - area: 233407971.2689 km^2 s
+      coef: 4.17926325
       frac: 0
   - - - '81'
       - Nick Purcell
-    - area: 234111302.6500 km^2 s
-      coef: 4.19185668
+    - area: 234272576.3230 km^2 s
+      coef: 4.19474435
       frac: 0
   - - - '15'
       - Ryosuke Hattori
@@ -429,28 +429,28 @@ leadRank:
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
-    - area: 238886600.5623 km^2 s
-      coef: 4.2773603
+    - area: 238907798.0302 km^2 s
+      coef: 4.27773985
       frac: 0
   - - - '22'
       - Rohan Taylor
-    - area: 243007182.5393 km^2 s
-      coef: 4.35114098
+    - area: 243043224.5187 km^2 s
+      coef: 4.35178632
       frac: 0
   - - - '106'
       - Jon Durand Snr
-    - area: 253474155.7949 km^2 s
-      coef: 4.53855633
+    - area: 253714275.4111 km^2 s
+      coef: 4.54285576
       frac: 0
   - - - '52'
       - Dale Regehr
-    - area: 307412362.0874 km^2 s
-      coef: 5.50434152
+    - area: 307683705.7463 km^2 s
+      coef: 5.50920004
       frac: 0
   - - - '31'
       - Trent Brown
-    - area: 318322316.4693 km^2 s
-      coef: 5.69968863
+    - area: 318889548.4024 km^2 s
+      coef: 5.70984514
       frac: 0
   - - - '37'
       - Gavin Myers
@@ -459,13 +459,13 @@ leadRank:
       frac: 0
   - - - '34'
       - Brad Porter
-    - area: 329053874.7294 km^2 s
-      coef: 5.89184148
+    - area: 329275353.7873 km^2 s
+      coef: 5.89580715
       frac: 0
   - - - '32'
       - Andrew Barnes
-    - area: 342609569.0943 km^2 s
-      coef: 6.13456162
+    - area: 342970657.0466 km^2 s
+      coef: 6.14102704
       frac: 0
   - - - '77'
       - Brodrick Osborne
@@ -479,23 +479,23 @@ leadRank:
       frac: 0
   - - - '71'
       - Rob Larkin
-    - area: 361029267.3097 km^2 s
-      coef: 6.46437369
+    - area: 361297950.3958 km^2 s
+      coef: 6.46918457
       frac: 0
   - - - '80'
       - Michael Cassells
-    - area: 389344912.0833 km^2 s
-      coef: 6.97137666
+    - area: 389649922.1087 km^2 s
+      coef: 6.97683799
       frac: 0
   - - - '72'
       - Sasha Serebrennikova
-    - area: 393297720.1704 km^2 s
-      coef: 7.04215327
+    - area: 393965079.7587 km^2 s
+      coef: 7.05410261
       frac: 0
   - - - '55'
       - Don Cramer
-    - area: 413171529.3880 km^2 s
-      coef: 7.39800179
+    - area: 413834049.1020 km^2 s
+      coef: 7.40986447
       frac: 0
   - - - '36'
       - Steve Docherty
@@ -504,18 +504,18 @@ leadRank:
       frac: 0
   - - - '67'
       - Mark Alton
-    - area: 445390280.5464 km^2 s
-      coef: 7.97489144
+    - area: 446170822.6182 km^2 s
+      coef: 7.98886736
       frac: 0
   - - - '42'
       - Rob de Groot
-    - area: 532870042.0033 km^2 s
-      coef: 9.54125162
+    - area: 534053598.2735 km^2 s
+      coef: 9.56244367
       frac: 0
   - - - '51'
       - Craig Taylor
-    - area: 574835645.5751 km^2 s
-      coef: 10.29266257
+    - area: 576122139.5830 km^2 s
+      coef: 10.31569776
       frac: 0
 - - - - '30'
       - Jason Kath
