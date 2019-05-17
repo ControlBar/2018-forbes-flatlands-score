@@ -17,7 +17,15 @@ validityWorking:
     nominalDistance: 100.0 km
     minimumDistance: 10.000 km
     bestDistance: 142.789 km
-  stop: null
+  stop:
+    bestDistance: 142.789 km
+    flownMean: 95.770 km
+    flownStdDev: 49.949 km
+    flying: 52
+    landed: 36
+    launchToEssDistance: 142.789 km
+    pilotsAtEss: 17
+    stillFlying: 4
 - time:
     nominalTime: 1.500000 h
     ssBestTime: 3.802120 h
