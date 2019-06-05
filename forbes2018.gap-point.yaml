@@ -10,7 +10,7 @@ validityWorking:
     flying: 52
     present: 52
   distance:
-    sum: 3345.0 km
+    sum: 3090.5 km
     flying: 52
     area: 61.59857712
     nominalGoal: 0.25
@@ -19,8 +19,8 @@ validityWorking:
     bestDistance: 142.789 km
   stop:
     bestDistance: 142.789 km
-    flownMean: 95.770 km
-    flownStdDev: 49.949 km
+    flownMean: 91.203 km
+    flownStdDev: 49.763 km
     flying: 52
     landed: 36
     launchToEssDistance: 142.789 km
@@ -143,8 +143,8 @@ validityWorking:
 validity:
 - time: 1
   launch: 1
-  distance: 1
-  task: 1
+  distance: 0.96482793
+  task: 0.96482793
   stop: 1
 - time: 1
   launch: 1
@@ -186,13 +186,13 @@ allocation:
     arrival: 0
     time: 0.48175415
   points:
-    reach: 259.123
-    effort: 259.123
-    distance: 518.246
+    reach: 250.009
+    effort: 250.009
+    distance: 500.018
     leading: 0
     arrival: 0
-    time: 481.8
-  taskPoints: 1000
+    time: 464.8
+  taskPoints: 965
 - goalRatio: 0.26923077
   weight:
     reach: 0.28222124
@@ -293,16 +293,16 @@ score:
 - - - - '92'
       - Attila Bertok
     - place: '1'
-      total: 1000
+      total: 965
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 481.8
+        time: 464.8
       velocity:
         ss: 2017-12-30T04:00:21.211720694669Z
         gs: 2017-12-30T04:00:00Z
@@ -318,16 +318,16 @@ score:
   - - - '101'
       - Oliver Chitty
     - place: '2'
-      total: 960
+      total: 927
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 442.2
+        time: 426.6
       velocity:
         ss: 2017-12-30T04:00:09.332741571144Z
         gs: 2017-12-30T04:00:00Z
@@ -343,16 +343,16 @@ score:
   - - - '27'
       - Guy Hubbard
     - place: '3'
-      total: 863
+      total: 833
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 345.2
+        time: 333.1
       velocity:
         ss: 2017-12-30T04:00:34.546885955344Z
         gs: 2017-12-30T04:00:00Z
@@ -368,16 +368,16 @@ score:
   - - - '62'
       - Josh Woods
     - place: '4'
-      total: 794
+      total: 766
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 275.5
+        time: 265.8
       velocity:
         ss: 2017-12-30T04:15:16.784208493895Z
         gs: 2017-12-30T04:15:00Z
@@ -393,16 +393,16 @@ score:
   - - - '11'
       - Steve Blenkinsop
     - place: '5'
-      total: 793
+      total: 765
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 274.6
+        time: 264.9
       velocity:
         ss: 2017-12-30T04:15:05.476967748209Z
         gs: 2017-12-30T04:15:00Z
@@ -418,16 +418,16 @@ score:
   - - - '69'
       - Niki Longshore
     - place: '6'
-      total: 791
+      total: 763
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 272.9
+        time: 263.3
       velocity:
         ss: 2017-12-30T04:15:20.30106435003Z
         gs: 2017-12-30T04:15:00Z
@@ -443,16 +443,16 @@ score:
   - - - '31'
       - Trent Brown
     - place: '7'
-      total: 778
+      total: 751
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 260.2
+        time: 251
       velocity:
         ss: 2017-12-30T04:00:33.33855332839Z
         gs: 2017-12-30T04:00:00Z
@@ -468,16 +468,16 @@ score:
   - - - '76'
       - Rory Duncan
     - place: '8'
-      total: 776
+      total: 749
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 257.8
+        time: 248.7
       velocity:
         ss: 2017-12-30T04:00:43.355435169105Z
         gs: 2017-12-30T04:00:00Z
@@ -493,16 +493,16 @@ score:
   - - - '25'
       - Tyler Borrdaile
     - place: '9'
-      total: 758
+      total: 732
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 240.1
+        time: 231.7
       velocity:
         ss: 2017-12-30T04:00:28.06030878096Z
         gs: 2017-12-30T04:00:00Z
@@ -518,16 +518,16 @@ score:
   - - - '23'
       - Nils Vesk
     - place: '10'
-      total: 755
+      total: 729
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 237.2
+        time: 228.8
       velocity:
         ss: 2017-12-30T04:00:12.5668206381Z
         gs: 2017-12-30T04:00:00Z
@@ -543,16 +543,16 @@ score:
   - - - '30'
       - Jason Kath
     - place: '11'
-      total: 747
+      total: 721
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 229
+        time: 220.9
       velocity:
         ss: 2017-12-30T04:05:48.148882029951Z
         gs: 2017-12-30T04:00:00Z
@@ -568,16 +568,16 @@ score:
   - - - '106'
       - Jon Durand Snr
     - place: '12'
-      total: 734
+      total: 708
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 215.3
+        time: 207.7
       velocity:
         ss: 2017-12-30T04:00:21.57128569201Z
         gs: 2017-12-30T04:00:00Z
@@ -593,16 +593,16 @@ score:
   - - - '8'
       - Gordon Rigg
     - place: 13=
-      total: 714
+      total: 689
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 195.9
+        time: 189
       velocity:
         ss: 2017-12-30T04:00:16.59128615997Z
         gs: 2017-12-30T04:00:00Z
@@ -618,16 +618,16 @@ score:
   - - - '51'
       - Craig Taylor
     - place: 13=
-      total: 714
+      total: 689
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 195.8
+        time: 189
       velocity:
         ss: 2017-12-30T04:00:33.35134164381Z
         gs: 2017-12-30T04:00:00Z
@@ -643,16 +643,16 @@ score:
   - - - '81'
       - Nick Purcell
     - place: '15'
-      total: 711
+      total: 686
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 192.6
+        time: 185.8
       velocity:
         ss: 2017-12-30T04:00:35.168327717478Z
         gs: 2017-12-30T04:00:00Z
@@ -668,16 +668,16 @@ score:
   - - - '7'
       - Olav Opsanger
     - place: '16'
-      total: 666
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 147.5
+        time: 142.4
       velocity:
         ss: 2017-12-30T04:03:06.904228919544Z
         gs: 2017-12-30T04:00:00Z
@@ -693,16 +693,16 @@ score:
   - - - '22'
       - Rohan Taylor
     - place: '17'
-      total: 652
+      total: 630
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 134.2
+        time: 129.5
       velocity:
         ss: 2017-12-30T04:00:05.923193872081Z
         gs: 2017-12-30T04:00:00Z
@@ -718,13 +718,13 @@ score:
   - - - '42'
       - Rob de Groot
     - place: '18'
-      total: 483
+      total: 466
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 223.699
-        effort: 259.123
-        distance: 482.821
+        reach: 215.831
+        effort: 250.009
+        distance: 465.84
         leading: 0
         arrival: 0
         time: 0
@@ -735,13 +735,13 @@ score:
   - - - '75'
       - Yasuhiro Noma
     - place: '19'
-      total: 474
+      total: 458
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 217.146
-        effort: 257.189
-        distance: 474.335
+        reach: 209.508
+        effort: 248.086
+        distance: 457.594
         leading: 0
         arrival: 0
         time: 0
@@ -752,13 +752,13 @@ score:
   - - - '74'
       - Vic Hare
     - place: '20'
-      total: 470
+      total: 453
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 216.365
-        effort: 253.322
-        distance: 469.687
+        reach: 208.755
+        effort: 244.24
+        distance: 452.995
         leading: 0
         arrival: 0
         time: 0
@@ -769,13 +769,13 @@ score:
   - - - '6'
       - Yoko Sano
     - place: '21'
-      total: 458
+      total: 442
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 210.521
-        effort: 247.52
-        distance: 458.041
+        reach: 203.116
+        effort: 238.47
+        distance: 441.586
         leading: 0
         arrival: 0
         time: 0
@@ -783,66 +783,33 @@ score:
       reachDistance: 116.006 km
       landedDistance: 116.006 km
       stoppedAlt: null
-  - - - '108'
-      - Peter Adriaans
+  - - - '52'
+      - Dale Regehr
     - place: '22'
-      total: 450
+      total: 422
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 210.45
-        effort: 239.785
-        distance: 450.235
+        reach: 191.155
+        effort: 230.778
+        distance: 421.932
         leading: 0
         arrival: 0
         time: 0
-      velocity:
-        ss: 2017-12-30T04:08:41.396470274937Z
-        gs: 2017-12-30T04:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 115.968 km
-      landedDistance: 115.766 km
-      stoppedAlt: 293.000 m
-  - - - '15'
-      - Ryosuke Hattori
-    - place: '23'
-      total: 433
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 202.714
-        effort: 230.117
-        distance: 432.83
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2017-12-30T04:20:15.703637105292Z
-        gs: 2017-12-30T04:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 111.705 km
-      landedDistance: 111.705 km
-      stoppedAlt: 1974.000 m
+      velocity: null
+      reachDistance: 109.175 km
+      landedDistance: 109.175 km
+      stoppedAlt: null
   - - - '41'
       - Tony Armstrong
-    - place: '24'
-      total: 421
+    - place: '23'
+      total: 404
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 202.835
-        effort: 218.514
-        distance: 421.35
+        reach: 181.337
+        effort: 223.085
+        distance: 404.422
         leading: 0
         arrival: 0
         time: 0
@@ -855,61 +822,53 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 111.772 km
-      landedDistance: 111.388 km
-      stoppedAlt: 274.000 m
-  - - - '52'
-      - Dale Regehr
-    - place: '25'
-      total: 403
+      reachDistance: 103.568 km
+      landedDistance: 97.343 km
+      stoppedAlt: 1458.000 m
+  - - - '103'
+      - Wayne Thompson
+    - place: '24'
+      total: 388
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 198.123
-        effort: 204.978
-        distance: 403.101
+        reach: 169.036
+        effort: 219.239
+        distance: 388.274
         leading: 0
         arrival: 0
         time: 0
       velocity: null
-      reachDistance: 109.175 km
-      landedDistance: 109.175 km
+      reachDistance: 96.542 km
+      landedDistance: 96.542 km
       stoppedAlt: null
-  - - - '32'
-      - Andrew Barnes
-    - place: '26'
-      total: 385
+  - - - '36'
+      - Steve Docherty
+    - place: '25'
+      total: 381
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 194.018
-        effort: 191.442
-        distance: 385.459
+        reach: 167.74
+        effort: 213.469
+        distance: 381.209
         leading: 0
         arrival: 0
         time: 0
-      velocity:
-        ss: 2017-12-30T04:16:26.808416693785Z
-        gs: 2017-12-30T04:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 106.913 km
-      landedDistance: 106.913 km
-      stoppedAlt: 1347.000 m
+      velocity: null
+      reachDistance: 95.802 km
+      landedDistance: 95.802 km
+      stoppedAlt: null
   - - - '72'
       - Sasha Serebrennikova
-    - place: '27'
-      total: 369
+    - place: '26'
+      total: 350
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 193.047
-        effort: 175.972
-        distance: 369.018
+        reach: 142.619
+        effort: 207.7
+        distance: 350.319
         leading: 0
         arrival: 0
         time: 0
@@ -922,103 +881,44 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 106.378 km
-      landedDistance: 106.214 km
-      stoppedAlt: 321.000 m
-  - - - '68'
-      - Neale Halsall
-    - place: '28'
-      total: 341
+      reachDistance: 81.455 km
+      landedDistance: 79.349 km
+      stoppedAlt: 632.000 m
+  - - - '108'
+      - Peter Adriaans
+    - place: '27'
+      total: 345
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 180.028
-        effort: 160.502
-        distance: 340.529
+        reach: 139.511
+        effort: 205.777
+        distance: 345.288
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2017-12-30T04:15:31.972516909005Z
-        gs: 2017-12-30T04:15:00Z
+        ss: 2017-12-30T04:08:41.396470274937Z
+        gs: 2017-12-30T04:00:00Z
         es: null
         ssDistance: null
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 99.204 km
-      landedDistance: 99.038 km
-      stoppedAlt: 282.000 m
-  - - - '103'
-      - Wayne Thompson
-    - place: '29'
-      total: 324
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 175.198
-        effort: 148.899
-        distance: 324.097
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 96.542 km
-      landedDistance: 96.542 km
-      stoppedAlt: null
-  - - - '36'
-      - Steve Docherty
-    - place: '30'
-      total: 313
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 173.855
-        effort: 139.23
-        distance: 313.085
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity: null
-      reachDistance: 95.802 km
-      landedDistance: 95.802 km
-      stoppedAlt: null
-  - - - '28'
-      - Mikhail Karmazin
-    - place: '31'
-      total: 280
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 150.294
-        effort: 129.561
-        distance: 279.855
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2017-12-30T04:52:14.80840597784Z
-        gs: 2017-12-30T04:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 82.819 km
-      landedDistance: 82.733 km
-      stoppedAlt: 296.000 m
+      reachDistance: 79.680 km
+      landedDistance: 76.115 km
+      stoppedAlt: 926.000 m
   - - - '98'
       - Oyvind Ellefsen
-    - place: '32'
-      total: 246
+    - place: '28'
+      total: 316
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 122.494
-        effort: 123.76
-        distance: 246.254
+        reach: 120.001
+        effort: 196.161
+        distance: 316.162
         leading: 0
         arrival: 0
         time: 0
@@ -1031,19 +931,69 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 67.500 km
+      reachDistance: 68.537 km
       landedDistance: 67.143 km
       stoppedAlt: 334.000 m
-  - - - '43'
-      - Jonny Durand
-    - place: '33'
-      total: 239
+  - - - '68'
+      - Neale Halsall
+    - place: '29'
+      total: 315
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 118.886
-        effort: 119.893
-        distance: 238.779
+        reach: 126.444
+        effort: 188.468
+        distance: 314.913
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:15:31.972516909005Z
+        gs: 2017-12-30T04:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 72.217 km
+      landedDistance: 65.547 km
+      stoppedAlt: 1547.000 m
+  - - - '15'
+      - Ryosuke Hattori
+    - place: '30'
+      total: 302
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 130.928
+        effort: 171.16
+        distance: 302.088
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:20:15.703637105292Z
+        gs: 2017-12-30T04:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 74.778 km
+      landedDistance: 63.783 km
+      stoppedAlt: 2412.000 m
+  - - - '43'
+      - Jonny Durand
+    - place: '31'
+      total: 297
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 115.991
+        effort: 180.776
+        distance: 296.767
         leading: 0
         arrival: 0
         time: 0
@@ -1056,44 +1006,44 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 65.512 km
+      reachDistance: 66.247 km
       landedDistance: 65.448 km
       stoppedAlt: 324.000 m
-  - - - '107'
-      - Anatoly Reyter
-    - place: '34'
-      total: 231
+  - - - '32'
+      - Andrew Barnes
+    - place: '32'
+      total: 285
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 117.01
-        effort: 114.091
-        distance: 231.101
+        reach: 125.229
+        effort: 159.621
+        distance: 284.85
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2017-12-30T04:39:02.716215193388Z
-        gs: 2017-12-30T04:30:00Z
+        ss: 2017-12-30T04:16:26.808416693785Z
+        gs: 2017-12-30T04:15:00Z
         es: null
         ssDistance: null
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 64.478 km
-      landedDistance: 62.664 km
-      stoppedAlt: 323.000 m
+      reachDistance: 71.523 km
+      landedDistance: 62.497 km
+      stoppedAlt: 2018.000 m
   - - - '83'
       - Randal Clotworthy
-    - place: '35'
-      total: 218
+    - place: '33'
+      total: 256
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 111.886
-        effort: 106.356
-        distance: 218.242
+        reach: 107.95
+        effort: 148.082
+        distance: 256.033
         leading: 0
         arrival: 0
         time: 0
@@ -1103,14 +1053,14 @@ score:
       stoppedAlt: null
   - - - '4'
       - Frank Chetcuti
-    - place: '36'
-      total: 201
+    - place: '34'
+      total: 235
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 103.891
-        effort: 96.688
-        distance: 200.578
+        reach: 100.237
+        effort: 134.62
+        distance: 234.857
         leading: 0
         arrival: 0
         time: 0
@@ -1128,14 +1078,14 @@ score:
       stoppedAlt: 0.000 m
   - - - '80'
       - Michael Cassells
-    - place: '37'
-      total: 189
+    - place: '35'
+      total: 221
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 101.737
-        effort: 87.019
-        distance: 188.756
+        reach: 99.747
+        effort: 121.158
+        distance: 220.905
         leading: 0
         arrival: 0
         time: 0
@@ -1148,19 +1098,44 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 56.062 km
-      landedDistance: 55.904 km
-      stoppedAlt: 324.000 m
-  - - - '71'
-      - Rob Larkin
-    - place: '38'
-      total: 169
+      reachDistance: 56.969 km
+      landedDistance: 55.182 km
+      stoppedAlt: 565.000 m
+  - - - '107'
+      - Anatoly Reyter
+    - place: '36'
+      total: 215
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 93.364
-        effort: 75.416
-        distance: 168.78
+        reach: 108.888
+        effort: 105.773
+        distance: 214.661
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:39:02.716215193388Z
+        gs: 2017-12-30T04:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 62.190 km
+      landedDistance: 52.080 km
+      stoppedAlt: 2235.000 m
+  - - - '71'
+      - Rob Larkin
+    - place: '37'
+      total: 186
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 92.05
+        effort: 94.234
+        distance: 186.284
         leading: 0
         arrival: 0
         time: 0
@@ -1173,19 +1148,44 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 51.448 km
+      reachDistance: 52.573 km
       landedDistance: 51.415 km
       stoppedAlt: 343.000 m
-  - - - '86'
-      - Ross Smith
-    - place: '39'
-      total: 154
+  - - - '28'
+      - Mikhail Karmazin
+    - place: '38'
+      total: 184
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 87.909
-        effort: 65.748
-        distance: 153.656
+        reach: 102.809
+        effort: 80.772
+        distance: 183.581
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:52:14.80840597784Z
+        gs: 2017-12-30T04:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 58.718 km
+      landedDistance: 48.868 km
+      stoppedAlt: 2183.000 m
+  - - - '86'
+      - Ross Smith
+    - place: '39'
+      total: 155
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 85.906
+        effort: 69.233
+        distance: 155.139
         leading: 0
         arrival: 0
         time: 0
@@ -1198,19 +1198,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 48.442 km
-      landedDistance: 48.228 km
-      stoppedAlt: 278.000 m
+      reachDistance: 49.064 km
+      landedDistance: 48.342 km
+      stoppedAlt: 356.000 m
   - - - '100'
       - Malcolm Brown
     - place: '40'
-      total: 113
+      total: 114
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 54.888
-        effort: 58.013
-        distance: 112.9
+        reach: 56.135
+        effort: 57.694
+        distance: 113.829
         leading: 0
         arrival: 0
         time: 0
@@ -1223,19 +1223,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 30.246 km
+      reachDistance: 32.061 km
       landedDistance: 29.380 km
       stoppedAlt: 353.000 m
   - - - '34'
       - Brad Porter
     - place: '41'
-      total: 104
+      total: 106
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.961
-        effort: 56.079
-        distance: 104.04
+        reach: 50.6
+        effort: 55.771
+        distance: 106.372
         leading: 0
         arrival: 0
         time: 0
@@ -1248,19 +1248,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 26.429 km
+      reachDistance: 28.900 km
       landedDistance: 26.269 km
       stoppedAlt: 286.000 m
   - - - '14'
       - Peter Burkitt
     - place: '42'
-      total: 96
+      total: 95
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 43.527
-        effort: 52.211
-        distance: 95.739
+        reach: 43.257
+        effort: 51.925
+        distance: 95.182
         leading: 0
         arrival: 0
         time: 0
@@ -1273,7 +1273,7 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 23.986 km
+      reachDistance: 24.706 km
       landedDistance: 23.761 km
       stoppedAlt: 323.000 m
   - - - '67'
@@ -1283,9 +1283,9 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 42.37
-        effort: 46.41
-        distance: 88.78
+        reach: 43.325
+        effort: 46.156
+        distance: 89.481
         leading: 0
         arrival: 0
         time: 0
@@ -1298,7 +1298,7 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 23.348 km
+      reachDistance: 24.745 km
       landedDistance: 23.283 km
       stoppedAlt: 317.000 m
   - - - '88'
@@ -1308,9 +1308,9 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 32.107
-        effort: 38.675
-        distance: 70.782
+        reach: 32.221
+        effort: 38.463
+        distance: 70.684
         leading: 0
         arrival: 0
         time: 0
@@ -1323,19 +1323,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 17.693 km
+      reachDistance: 18.403 km
       landedDistance: 17.477 km
       stoppedAlt: 311.000 m
   - - - '94'
       - Justinas Pleikys
     - place: '45'
-      total: 60
+      total: 63
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.115
-        effort: 29.006
-        distance: 60.121
+        reach: 33.716
+        effort: 28.847
+        distance: 62.564
         leading: 0
         arrival: 0
         time: 0
@@ -1348,19 +1348,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 17.146 km
+      reachDistance: 19.257 km
       landedDistance: 16.310 km
       stoppedAlt: 301.000 m
   - - - '55'
       - Don Cramer
     - place: '46'
-      total: 42
+      total: 47
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 24.195
-        effort: 17.404
-        distance: 41.599
+        reach: 29.234
+        effort: 17.308
+        distance: 46.542
         leading: 0
         arrival: 0
         time: 0
@@ -1373,19 +1373,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 13.333 km
+      reachDistance: 16.697 km
       landedDistance: 12.561 km
       stoppedAlt: 310.000 m
   - - - '77'
       - Brodrick Osborne
     - place: 47=
-      total: 26
+      total: 25
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 18.147
-        effort: 7.735
-        distance: 25.882
+        reach: 17.509
+        effort: 7.693
+        distance: 25.202
         leading: 0
         arrival: 0
         time: 0
@@ -1398,19 +1398,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.512 km
+      reachDistance: 6.853 km
       landedDistance: 4.868 km
       stoppedAlt: 297.000 m
   - - - '37'
       - Gavin Myers
     - place: 47=
-      total: 26
+      total: 25
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 18.147
-        effort: 7.735
-        distance: 25.882
+        reach: 17.509
+        effort: 7.693
+        distance: 25.202
         leading: 0
         arrival: 0
         time: 0
@@ -1421,13 +1421,13 @@ score:
   - - - '102'
       - Robert Davies
     - place: 47=
-      total: 26
+      total: 25
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 18.147
-        effort: 7.735
-        distance: 25.882
+        reach: 17.509
+        effort: 7.693
+        distance: 25.202
         leading: 0
         arrival: 0
         time: 0
@@ -7922,16 +7922,16 @@ scoreDf:
 - - - - '92'
       - Attila Bertok
     - place: '1'
-      total: 1000
+      total: 965
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 481.8
+        time: 464.8
       velocity:
         ss: 2017-12-30T04:00:21.211720694669Z
         gs: 2017-12-30T04:00:00Z
@@ -7947,16 +7947,16 @@ scoreDf:
   - - - '101'
       - Oliver Chitty
     - place: '2'
-      total: 960
+      total: 927
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 442.2
+        time: 426.6
       velocity:
         ss: 2017-12-30T04:00:09.332741571144Z
         gs: 2017-12-30T04:00:00Z
@@ -7972,16 +7972,16 @@ scoreDf:
   - - - '27'
       - Guy Hubbard
     - place: '3'
-      total: 863
+      total: 833
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 345.2
+        time: 333.1
       velocity:
         ss: 2017-12-30T04:00:34.546885955344Z
         gs: 2017-12-30T04:00:00Z
@@ -7997,16 +7997,16 @@ scoreDf:
   - - - '62'
       - Josh Woods
     - place: '4'
-      total: 794
+      total: 766
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 275.5
+        time: 265.8
       velocity:
         ss: 2017-12-30T04:15:16.784208493895Z
         gs: 2017-12-30T04:15:00Z
@@ -8022,16 +8022,16 @@ scoreDf:
   - - - '11'
       - Steve Blenkinsop
     - place: '5'
-      total: 793
+      total: 765
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 274.6
+        time: 264.9
       velocity:
         ss: 2017-12-30T04:15:05.476967748209Z
         gs: 2017-12-30T04:15:00Z
@@ -8047,16 +8047,16 @@ scoreDf:
   - - - '69'
       - Niki Longshore
     - place: '6'
-      total: 791
+      total: 763
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 272.9
+        time: 263.3
       velocity:
         ss: 2017-12-30T04:15:20.30106435003Z
         gs: 2017-12-30T04:15:00Z
@@ -8072,16 +8072,16 @@ scoreDf:
   - - - '31'
       - Trent Brown
     - place: '7'
-      total: 778
+      total: 751
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 260.2
+        time: 251
       velocity:
         ss: 2017-12-30T04:00:33.33855332839Z
         gs: 2017-12-30T04:00:00Z
@@ -8097,16 +8097,16 @@ scoreDf:
   - - - '76'
       - Rory Duncan
     - place: '8'
-      total: 776
+      total: 749
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 257.8
+        time: 248.7
       velocity:
         ss: 2017-12-30T04:00:43.355435169105Z
         gs: 2017-12-30T04:00:00Z
@@ -8122,16 +8122,16 @@ scoreDf:
   - - - '25'
       - Tyler Borrdaile
     - place: '9'
-      total: 758
+      total: 732
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 240.1
+        time: 231.7
       velocity:
         ss: 2017-12-30T04:00:28.06030878096Z
         gs: 2017-12-30T04:00:00Z
@@ -8147,16 +8147,16 @@ scoreDf:
   - - - '23'
       - Nils Vesk
     - place: '10'
-      total: 755
+      total: 729
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 237.2
+        time: 228.8
       velocity:
         ss: 2017-12-30T04:00:12.5668206381Z
         gs: 2017-12-30T04:00:00Z
@@ -8172,16 +8172,16 @@ scoreDf:
   - - - '30'
       - Jason Kath
     - place: '11'
-      total: 747
+      total: 721
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 229
+        time: 220.9
       velocity:
         ss: 2017-12-30T04:05:48.148882029951Z
         gs: 2017-12-30T04:00:00Z
@@ -8197,16 +8197,16 @@ scoreDf:
   - - - '106'
       - Jon Durand Snr
     - place: '12'
-      total: 734
+      total: 708
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 215.3
+        time: 207.7
       velocity:
         ss: 2017-12-30T04:00:21.57128569201Z
         gs: 2017-12-30T04:00:00Z
@@ -8222,16 +8222,16 @@ scoreDf:
   - - - '8'
       - Gordon Rigg
     - place: 13=
-      total: 714
+      total: 689
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 195.9
+        time: 189
       velocity:
         ss: 2017-12-30T04:00:16.59128615997Z
         gs: 2017-12-30T04:00:00Z
@@ -8247,16 +8247,16 @@ scoreDf:
   - - - '51'
       - Craig Taylor
     - place: 13=
-      total: 714
+      total: 689
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 195.8
+        time: 189
       velocity:
         ss: 2017-12-30T04:00:33.35134164381Z
         gs: 2017-12-30T04:00:00Z
@@ -8272,16 +8272,16 @@ scoreDf:
   - - - '81'
       - Nick Purcell
     - place: '15'
-      total: 711
+      total: 686
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 192.6
+        time: 185.8
       velocity:
         ss: 2017-12-30T04:00:35.168327717478Z
         gs: 2017-12-30T04:00:00Z
@@ -8297,16 +8297,16 @@ scoreDf:
   - - - '7'
       - Olav Opsanger
     - place: '16'
-      total: 666
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 147.5
+        time: 142.4
       velocity:
         ss: 2017-12-30T04:03:06.904228919544Z
         gs: 2017-12-30T04:00:00Z
@@ -8322,16 +8322,16 @@ scoreDf:
   - - - '22'
       - Rohan Taylor
     - place: '17'
-      total: 652
+      total: 630
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 259.123
-        effort: 259.123
-        distance: 518.246
+        reach: 250.009
+        effort: 250.009
+        distance: 500.018
         leading: 0
         arrival: 0
-        time: 134.2
+        time: 129.5
       velocity:
         ss: 2017-12-30T04:00:05.923193872081Z
         gs: 2017-12-30T04:00:00Z
@@ -8344,66 +8344,16 @@ scoreDf:
       reachDistance: 142.789 km
       landedDistance: 142.789 km
       stoppedAlt: null
-  - - - '108'
-      - Peter Adriaans
-    - place: '18'
-      total: 450
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 210.45
-        effort: 239.785
-        distance: 450.235
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2017-12-30T04:08:41.396470274937Z
-        gs: 2017-12-30T04:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 115.968 km
-      landedDistance: 115.766 km
-      stoppedAlt: 293.000 m
-  - - - '15'
-      - Ryosuke Hattori
-    - place: '19'
-      total: 433
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 202.714
-        effort: 230.117
-        distance: 432.83
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2017-12-30T04:20:15.703637105292Z
-        gs: 2017-12-30T04:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 111.705 km
-      landedDistance: 111.705 km
-      stoppedAlt: 1974.000 m
   - - - '41'
       - Tony Armstrong
-    - place: '20'
-      total: 421
+    - place: '18'
+      total: 404
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 202.835
-        effort: 218.514
-        distance: 421.35
+        reach: 181.337
+        effort: 223.085
+        distance: 404.422
         leading: 0
         arrival: 0
         time: 0
@@ -8416,44 +8366,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 111.772 km
-      landedDistance: 111.388 km
-      stoppedAlt: 274.000 m
-  - - - '32'
-      - Andrew Barnes
-    - place: '21'
-      total: 385
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 194.018
-        effort: 191.442
-        distance: 385.459
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2017-12-30T04:16:26.808416693785Z
-        gs: 2017-12-30T04:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 106.913 km
-      landedDistance: 106.913 km
-      stoppedAlt: 1347.000 m
+      reachDistance: 103.568 km
+      landedDistance: 97.343 km
+      stoppedAlt: 1458.000 m
   - - - '72'
       - Sasha Serebrennikova
-    - place: '22'
-      total: 369
+    - place: '19'
+      total: 350
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 193.047
-        effort: 175.972
-        distance: 369.018
+        reach: 142.619
+        effort: 207.7
+        distance: 350.319
         leading: 0
         arrival: 0
         time: 0
@@ -8466,69 +8391,44 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 106.378 km
-      landedDistance: 106.214 km
-      stoppedAlt: 321.000 m
-  - - - '68'
-      - Neale Halsall
-    - place: '23'
-      total: 341
+      reachDistance: 81.455 km
+      landedDistance: 79.349 km
+      stoppedAlt: 632.000 m
+  - - - '108'
+      - Peter Adriaans
+    - place: '20'
+      total: 345
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 180.028
-        effort: 160.502
-        distance: 340.529
+        reach: 139.511
+        effort: 205.777
+        distance: 345.288
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2017-12-30T04:15:31.972516909005Z
-        gs: 2017-12-30T04:15:00Z
+        ss: 2017-12-30T04:08:41.396470274937Z
+        gs: 2017-12-30T04:00:00Z
         es: null
         ssDistance: null
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 99.204 km
-      landedDistance: 99.038 km
-      stoppedAlt: 282.000 m
-  - - - '28'
-      - Mikhail Karmazin
-    - place: '24'
-      total: 280
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 150.294
-        effort: 129.561
-        distance: 279.855
-        leading: 0
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2017-12-30T04:52:14.80840597784Z
-        gs: 2017-12-30T04:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 82.819 km
-      landedDistance: 82.733 km
-      stoppedAlt: 296.000 m
+      reachDistance: 79.680 km
+      landedDistance: 76.115 km
+      stoppedAlt: 926.000 m
   - - - '98'
       - Oyvind Ellefsen
-    - place: '25'
-      total: 246
+    - place: '21'
+      total: 316
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 122.494
-        effort: 123.76
-        distance: 246.254
+        reach: 120.001
+        effort: 196.161
+        distance: 316.162
         leading: 0
         arrival: 0
         time: 0
@@ -8541,19 +8441,69 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 67.500 km
+      reachDistance: 68.537 km
       landedDistance: 67.143 km
       stoppedAlt: 334.000 m
-  - - - '43'
-      - Jonny Durand
-    - place: '26'
-      total: 239
+  - - - '68'
+      - Neale Halsall
+    - place: '22'
+      total: 315
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 118.886
-        effort: 119.893
-        distance: 238.779
+        reach: 126.444
+        effort: 188.468
+        distance: 314.913
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:15:31.972516909005Z
+        gs: 2017-12-30T04:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 72.217 km
+      landedDistance: 65.547 km
+      stoppedAlt: 1547.000 m
+  - - - '15'
+      - Ryosuke Hattori
+    - place: '23'
+      total: 302
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 130.928
+        effort: 171.16
+        distance: 302.088
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:20:15.703637105292Z
+        gs: 2017-12-30T04:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 74.778 km
+      landedDistance: 63.783 km
+      stoppedAlt: 2412.000 m
+  - - - '43'
+      - Jonny Durand
+    - place: '24'
+      total: 297
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 115.991
+        effort: 180.776
+        distance: 296.767
         leading: 0
         arrival: 0
         time: 0
@@ -8566,44 +8516,44 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 65.512 km
+      reachDistance: 66.247 km
       landedDistance: 65.448 km
       stoppedAlt: 324.000 m
-  - - - '107'
-      - Anatoly Reyter
-    - place: '27'
-      total: 231
+  - - - '32'
+      - Andrew Barnes
+    - place: '25'
+      total: 285
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 117.01
-        effort: 114.091
-        distance: 231.101
+        reach: 125.229
+        effort: 159.621
+        distance: 284.85
         leading: 0
         arrival: 0
         time: 0
       velocity:
-        ss: 2017-12-30T04:39:02.716215193388Z
-        gs: 2017-12-30T04:30:00Z
+        ss: 2017-12-30T04:16:26.808416693785Z
+        gs: 2017-12-30T04:15:00Z
         es: null
         ssDistance: null
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 64.478 km
-      landedDistance: 62.664 km
-      stoppedAlt: 323.000 m
+      reachDistance: 71.523 km
+      landedDistance: 62.497 km
+      stoppedAlt: 2018.000 m
   - - - '4'
       - Frank Chetcuti
-    - place: '28'
-      total: 201
+    - place: '26'
+      total: 235
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 103.891
-        effort: 96.688
-        distance: 200.578
+        reach: 100.237
+        effort: 134.62
+        distance: 234.857
         leading: 0
         arrival: 0
         time: 0
@@ -8621,14 +8571,14 @@ scoreDf:
       stoppedAlt: 0.000 m
   - - - '80'
       - Michael Cassells
-    - place: '29'
-      total: 189
+    - place: '27'
+      total: 221
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 101.737
-        effort: 87.019
-        distance: 188.756
+        reach: 99.747
+        effort: 121.158
+        distance: 220.905
         leading: 0
         arrival: 0
         time: 0
@@ -8641,19 +8591,44 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 56.062 km
-      landedDistance: 55.904 km
-      stoppedAlt: 324.000 m
-  - - - '71'
-      - Rob Larkin
-    - place: '30'
-      total: 169
+      reachDistance: 56.969 km
+      landedDistance: 55.182 km
+      stoppedAlt: 565.000 m
+  - - - '107'
+      - Anatoly Reyter
+    - place: '28'
+      total: 215
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 93.364
-        effort: 75.416
-        distance: 168.78
+        reach: 108.888
+        effort: 105.773
+        distance: 214.661
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:39:02.716215193388Z
+        gs: 2017-12-30T04:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 62.190 km
+      landedDistance: 52.080 km
+      stoppedAlt: 2235.000 m
+  - - - '71'
+      - Rob Larkin
+    - place: '29'
+      total: 186
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 92.05
+        effort: 94.234
+        distance: 186.284
         leading: 0
         arrival: 0
         time: 0
@@ -8666,19 +8641,44 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 51.448 km
+      reachDistance: 52.573 km
       landedDistance: 51.415 km
       stoppedAlt: 343.000 m
-  - - - '86'
-      - Ross Smith
-    - place: '31'
-      total: 154
+  - - - '28'
+      - Mikhail Karmazin
+    - place: '30'
+      total: 184
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 87.909
-        effort: 65.748
-        distance: 153.656
+        reach: 102.809
+        effort: 80.772
+        distance: 183.581
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2017-12-30T04:52:14.80840597784Z
+        gs: 2017-12-30T04:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 58.718 km
+      landedDistance: 48.868 km
+      stoppedAlt: 2183.000 m
+  - - - '86'
+      - Ross Smith
+    - place: '31'
+      total: 155
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 85.906
+        effort: 69.233
+        distance: 155.139
         leading: 0
         arrival: 0
         time: 0
@@ -8691,19 +8691,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 48.442 km
-      landedDistance: 48.228 km
-      stoppedAlt: 278.000 m
+      reachDistance: 49.064 km
+      landedDistance: 48.342 km
+      stoppedAlt: 356.000 m
   - - - '100'
       - Malcolm Brown
     - place: '32'
-      total: 113
+      total: 114
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 54.888
-        effort: 58.013
-        distance: 112.9
+        reach: 56.135
+        effort: 57.694
+        distance: 113.829
         leading: 0
         arrival: 0
         time: 0
@@ -8716,19 +8716,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 30.246 km
+      reachDistance: 32.061 km
       landedDistance: 29.380 km
       stoppedAlt: 353.000 m
   - - - '34'
       - Brad Porter
     - place: '33'
-      total: 104
+      total: 106
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.961
-        effort: 56.079
-        distance: 104.04
+        reach: 50.6
+        effort: 55.771
+        distance: 106.372
         leading: 0
         arrival: 0
         time: 0
@@ -8741,19 +8741,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 26.429 km
+      reachDistance: 28.900 km
       landedDistance: 26.269 km
       stoppedAlt: 286.000 m
   - - - '14'
       - Peter Burkitt
     - place: '34'
-      total: 96
+      total: 95
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 43.527
-        effort: 52.211
-        distance: 95.739
+        reach: 43.257
+        effort: 51.925
+        distance: 95.182
         leading: 0
         arrival: 0
         time: 0
@@ -8766,7 +8766,7 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 23.986 km
+      reachDistance: 24.706 km
       landedDistance: 23.761 km
       stoppedAlt: 323.000 m
   - - - '67'
@@ -8776,9 +8776,9 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 42.37
-        effort: 46.41
-        distance: 88.78
+        reach: 43.325
+        effort: 46.156
+        distance: 89.481
         leading: 0
         arrival: 0
         time: 0
@@ -8791,7 +8791,7 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 23.348 km
+      reachDistance: 24.745 km
       landedDistance: 23.283 km
       stoppedAlt: 317.000 m
   - - - '88'
@@ -8801,9 +8801,9 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 32.107
-        effort: 38.675
-        distance: 70.782
+        reach: 32.221
+        effort: 38.463
+        distance: 70.684
         leading: 0
         arrival: 0
         time: 0
@@ -8816,19 +8816,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 17.693 km
+      reachDistance: 18.403 km
       landedDistance: 17.477 km
       stoppedAlt: 311.000 m
   - - - '94'
       - Justinas Pleikys
     - place: '37'
-      total: 60
+      total: 63
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.115
-        effort: 29.006
-        distance: 60.121
+        reach: 33.716
+        effort: 28.847
+        distance: 62.564
         leading: 0
         arrival: 0
         time: 0
@@ -8841,19 +8841,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 17.146 km
+      reachDistance: 19.257 km
       landedDistance: 16.310 km
       stoppedAlt: 301.000 m
   - - - '55'
       - Don Cramer
     - place: '38'
-      total: 42
+      total: 47
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 24.195
-        effort: 17.404
-        distance: 41.599
+        reach: 29.234
+        effort: 17.308
+        distance: 46.542
         leading: 0
         arrival: 0
         time: 0
@@ -8866,19 +8866,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 13.333 km
+      reachDistance: 16.697 km
       landedDistance: 12.561 km
       stoppedAlt: 310.000 m
   - - - '77'
       - Brodrick Osborne
     - place: '39'
-      total: 26
+      total: 25
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 18.147
-        effort: 7.735
-        distance: 25.882
+        reach: 17.509
+        effort: 7.693
+        distance: 25.202
         leading: 0
         arrival: 0
         time: 0
@@ -8891,7 +8891,7 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.512 km
+      reachDistance: 6.853 km
       landedDistance: 4.868 km
       stoppedAlt: 297.000 m
 - - - - '62'
@@ -14999,13 +14999,13 @@ scoreDfNoTrack:
 - - - - '42'
       - Rob de Groot
     - place: '1'
-      total: 483
+      total: 466
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 223.699
-        effort: 259.123
-        distance: 482.821
+        reach: 215.831
+        effort: 250.009
+        distance: 465.84
         leading: 0
         arrival: 0
         time: 0
@@ -15016,13 +15016,13 @@ scoreDfNoTrack:
   - - - '75'
       - Yasuhiro Noma
     - place: '2'
-      total: 474
+      total: 458
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 217.146
-        effort: 257.189
-        distance: 474.335
+        reach: 209.508
+        effort: 248.086
+        distance: 457.594
         leading: 0
         arrival: 0
         time: 0
@@ -15033,13 +15033,13 @@ scoreDfNoTrack:
   - - - '74'
       - Vic Hare
     - place: '3'
-      total: 470
+      total: 453
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 216.365
-        effort: 253.322
-        distance: 469.687
+        reach: 208.755
+        effort: 244.24
+        distance: 452.995
         leading: 0
         arrival: 0
         time: 0
@@ -15050,13 +15050,13 @@ scoreDfNoTrack:
   - - - '6'
       - Yoko Sano
     - place: '4'
-      total: 458
+      total: 442
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 210.521
-        effort: 247.52
-        distance: 458.041
+        reach: 203.116
+        effort: 238.47
+        distance: 441.586
         leading: 0
         arrival: 0
         time: 0
@@ -15067,13 +15067,13 @@ scoreDfNoTrack:
   - - - '52'
       - Dale Regehr
     - place: '5'
-      total: 403
+      total: 422
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 198.123
-        effort: 204.978
-        distance: 403.101
+        reach: 191.155
+        effort: 230.778
+        distance: 421.932
         leading: 0
         arrival: 0
         time: 0
@@ -15084,13 +15084,13 @@ scoreDfNoTrack:
   - - - '103'
       - Wayne Thompson
     - place: '6'
-      total: 324
+      total: 388
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 175.198
-        effort: 148.899
-        distance: 324.097
+        reach: 169.036
+        effort: 219.239
+        distance: 388.274
         leading: 0
         arrival: 0
         time: 0
@@ -15101,13 +15101,13 @@ scoreDfNoTrack:
   - - - '36'
       - Steve Docherty
     - place: '7'
-      total: 313
+      total: 381
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 173.855
-        effort: 139.23
-        distance: 313.085
+        reach: 167.74
+        effort: 213.469
+        distance: 381.209
         leading: 0
         arrival: 0
         time: 0
@@ -15118,13 +15118,13 @@ scoreDfNoTrack:
   - - - '83'
       - Randal Clotworthy
     - place: '8'
-      total: 218
+      total: 256
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 111.886
-        effort: 106.356
-        distance: 218.242
+        reach: 107.95
+        effort: 148.082
+        distance: 256.033
         leading: 0
         arrival: 0
         time: 0
@@ -15135,13 +15135,13 @@ scoreDfNoTrack:
   - - - '37'
       - Gavin Myers
     - place: 9=
-      total: 26
+      total: 25
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 18.147
-        effort: 7.735
-        distance: 25.882
+        reach: 17.509
+        effort: 7.693
+        distance: 25.202
         leading: 0
         arrival: 0
         time: 0
@@ -15152,13 +15152,13 @@ scoreDfNoTrack:
   - - - '102'
       - Robert Davies
     - place: 9=
-      total: 26
+      total: 25
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 18.147
-        effort: 7.735
-        distance: 25.882
+        reach: 17.509
+        effort: 7.693
+        distance: 25.202
         leading: 0
         arrival: 0
         time: 0
