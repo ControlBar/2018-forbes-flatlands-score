@@ -6,6 +6,277 @@ bestTime:
 - 2.794444 h
 - 3.566389 h
 - 3.533611 h
+validity:
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 0.99865946
+  stop: 1
+  task: 0.99865946
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+validityWorkingDistance:
+- area: 61.5945
+  flying: 52
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 142.756000 km
+    flown: 142.756000 km
+  sum: 4153.6 km
+- area: 66.968375
+  flying: 52
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 185.747000 km
+    flown: 185.747000 km
+  sum: 4954.9 km
+- area: 68.153125
+  flying: 48
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 195.225000 km
+    flown: 195.225000 km
+  sum: 7635.9 km
+- area: 92.34375
+  flying: 47
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 388.750000 km
+    flown: 388.750000 km
+  sum: 11083.6 km
+- area: 62.991
+  flying: 41
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 153.928000 km
+    flown: 153.928000 km
+  sum: 4359.5 km
+- area: 64.54525
+  flying: 45
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 166.362000 km
+    flown: 166.362000 km
+  sum: 5582.6 km
+- area: 65.268125
+  flying: 40
+  minimumDistance: 10.000 km
+  nominalDistance: 100.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 172.145000 km
+    flown: 172.145000 km
+  sum: 5404.7 km
+validityWorkingLaunch:
+- flying: 52
+  nominalLaunch: 1
+  present: 52
+- flying: 52
+  nominalLaunch: 1
+  present: 52
+- flying: 48
+  nominalLaunch: 1
+  present: 48
+- flying: 47
+  nominalLaunch: 1
+  present: 47
+- flying: 41
+  nominalLaunch: 1
+  present: 42
+- flying: 45
+  nominalLaunch: 1
+  present: 45
+- flying: 40
+  nominalLaunch: 1
+  present: 40
+validityWorkingStop:
+- flying: 52
+  landed: 39
+  launchToEssDistance: 142.756 km
+  pilotsAtEss: 17
+  reachStats:
+    extra:
+      max: 142.757000 km
+      mean: 90.329615 km
+      stdDev: 49.805009 km
+    flown:
+      max: 142.757000 km
+      mean: 89.384481 km
+      stdDev: 50.426882 km
+  stillFlying: 13
+- flying: 52
+  landed: 0
+  launchToEssDistance: 185.747 km
+  pilotsAtEss: 14
+  reachStats:
+    extra:
+      max: 185.748000 km
+      mean: 103.095115 km
+      stdDev: 76.620693 km
+    flown:
+      max: 185.748000 km
+      mean: 102.688865 km
+      stdDev: 76.642766 km
+  stillFlying: 52
+- flying: 48
+  landed: 0
+  launchToEssDistance: 195.225 km
+  pilotsAtEss: 30
+  reachStats:
+    extra:
+      max: 195.226000 km
+      mean: 169.953187 km
+      stdDev: 46.452051 km
+    flown:
+      max: 195.226000 km
+      mean: 169.073125 km
+      stdDev: 47.960784 km
+  stillFlying: 48
+- flying: 47
+  landed: 0
+  launchToEssDistance: 388.750 km
+  pilotsAtEss: 16
+  reachStats:
+    extra:
+      max: 388.751000 km
+      mean: 245.672660 km
+      stdDev: 145.463092 km
+    flown:
+      max: 388.751000 km
+      mean: 244.508617 km
+      stdDev: 145.987508 km
+  stillFlying: 47
+- flying: 41
+  landed: 0
+  launchToEssDistance: 153.928 km
+  pilotsAtEss: 9
+  reachStats:
+    extra:
+      max: 153.929000 km
+      mean: 116.695244 km
+      stdDev: 39.298383 km
+    flown:
+      max: 153.929000 km
+      mean: 115.842049 km
+      stdDev: 39.661472 km
+  stillFlying: 41
+- flying: 45
+  landed: 0
+  launchToEssDistance: 166.362 km
+  pilotsAtEss: 24
+  reachStats:
+    extra:
+      max: 166.363000 km
+      mean: 135.356689 km
+      stdDev: 42.870710 km
+    flown:
+      max: 166.363000 km
+      mean: 133.834444 km
+      stdDev: 44.280072 km
+  stillFlying: 45
+- flying: 40
+  landed: 0
+  launchToEssDistance: 172.145 km
+  pilotsAtEss: 25
+  reachStats:
+    extra:
+      max: 172.146000 km
+      mean: 146.004350 km
+      stdDev: 40.431539 km
+    flown:
+      max: 172.146000 km
+      mean: 145.116475 km
+      stdDev: 41.607641 km
+  stillFlying: 40
+validityWorkingTime:
+- gsBestTime: 2.199444 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 142.756000 km
+    flown: 142.756000 km
+  ssBestTime: null
+- gsBestTime: 3.834167 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 185.747000 km
+    flown: 185.747000 km
+  ssBestTime: null
+- gsBestTime: 3.145556 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 195.225000 km
+    flown: 195.225000 km
+  ssBestTime: null
+- gsBestTime: 5.306389 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 388.750000 km
+    flown: 388.750000 km
+  ssBestTime: null
+- gsBestTime: 2.794444 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 153.928000 km
+    flown: 153.928000 km
+  ssBestTime: null
+- gsBestTime: 3.566389 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 166.362000 km
+    flown: 166.362000 km
+  ssBestTime: null
+- gsBestTime: 3.533611 h
+  nominalDistance: 100.0 km
+  nominalTime: 1.500000 h
+  reachMax:
+    extra: 172.145000 km
+    flown: 172.145000 km
+  ssBestTime: null
 score:
 - - - - '92'
       - Attila Bertok
@@ -15,7 +286,10 @@ score:
       leading: 0
       arrival: 0
       time: 481.8
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:11:58Z
@@ -33,7 +307,10 @@ score:
       leading: 0
       arrival: 0
       time: 442.1
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:14:04Z
@@ -51,7 +328,10 @@ score:
       leading: 0
       arrival: 0
       time: 345.3
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:25:23Z
@@ -69,7 +349,10 @@ score:
       leading: 0
       arrival: 0
       time: 275.6
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:15:00Z
       es: 2017-12-30T06:51:53Z
@@ -87,7 +370,10 @@ score:
       leading: 0
       arrival: 0
       time: 274.6
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:15:00Z
       es: 2017-12-30T06:52:03Z
@@ -105,7 +391,10 @@ score:
       leading: 0
       arrival: 0
       time: 272.9
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:15:00Z
       es: 2017-12-30T06:52:22Z
@@ -123,7 +412,10 @@ score:
       leading: 0
       arrival: 0
       time: 260.2
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:39:43Z
@@ -141,7 +433,10 @@ score:
       leading: 0
       arrival: 0
       time: 257.8
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:40:10Z
@@ -159,7 +454,10 @@ score:
       leading: 0
       arrival: 0
       time: 240.2
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:43:34Z
@@ -177,7 +475,10 @@ score:
       leading: 0
       arrival: 0
       time: 237.2
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:44:09Z
@@ -195,7 +496,10 @@ score:
       leading: 0
       arrival: 0
       time: 229
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:45:47Z
@@ -213,7 +517,10 @@ score:
       leading: 0
       arrival: 0
       time: 215.3
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:48:34Z
@@ -231,7 +538,10 @@ score:
       leading: 0
       arrival: 0
       time: 195.9
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:52:38Z
@@ -249,7 +559,10 @@ score:
       leading: 0
       arrival: 0
       time: 195.8
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:52:39Z
@@ -267,7 +580,10 @@ score:
       leading: 0
       arrival: 0
       time: 192.7
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T06:53:20Z
@@ -285,7 +601,10 @@ score:
       leading: 0
       arrival: 0
       time: 147.5
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T07:03:23Z
@@ -303,7 +622,10 @@ score:
       leading: 0
       arrival: 0
       time: 134.2
-      distanceMade: 142.756000 km
+      reach:
+        extra: 142.757000 km
+        flown: 142.757000 km
+      reachMade: 142.756000 km
       distanceFrac: 1
       ss: 2017-12-30T04:00:00Z
       es: 2017-12-30T07:06:29Z
@@ -313,16 +635,19 @@ score:
       leadingCoef: 0
       leadingFrac: 0
       arrivalFrac: 0
-  - - - '42'
-      - Rob de Groot
+  - - - '15'
+      - Ryosuke Hattori
     - place: '18'
-      total: 483
-      distance: 482.8
+      total: 487
+      distance: 487
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 123.240000 km
-      distanceFrac: 0.8632912101768053
+      reach:
+        extra: 125.530000 km
+        flown: 120.579000 km
+      reachMade: 120.579000 km
+      distanceFrac: 0.8446510129171454
       ss: 2017-12-30T04:15:00Z
       es: null
       timeElapsed: null
@@ -331,16 +656,19 @@ score:
       leadingCoef: 0
       leadingFrac: 0
       arrivalFrac: 0
-  - - - '15'
-      - Ryosuke Hattori
+  - - - '42'
+      - Rob de Groot
     - place: '19'
-      total: 476
-      distance: 476.4
+      total: 481
+      distance: 481.4
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 120.579000 km
-      distanceFrac: 0.8446510129171454
+      reach:
+        extra: 123.240000 km
+        flown: 123.240000 km
+      reachMade: 123.240000 km
+      distanceFrac: 0.8632912101768053
       ss: 2017-12-30T04:15:00Z
       es: null
       timeElapsed: null
@@ -352,12 +680,15 @@ score:
   - - - '75'
       - Yasuhiro Noma
     - place: '20'
-      total: 474
-      distance: 473.5
+      total: 470
+      distance: 470.4
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 119.630000 km
+      reach:
+        extra: 119.630000 km
+        flown: 119.630000 km
+      reachMade: 119.630000 km
       distanceFrac: 0.8380033063408894
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -370,12 +701,15 @@ score:
   - - - '74'
       - Vic Hare
     - place: '21'
-      total: 472
-      distance: 472
+      total: 469
+      distance: 468.9
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 119.200000 km
+      reach:
+        extra: 119.200000 km
+        flown: 119.200000 km
+      reachMade: 119.200000 km
       distanceFrac: 0.8349911737510157
       ss: 2017-12-30T04:30:00Z
       es: null
@@ -389,11 +723,14 @@ score:
       - Peter Adriaans
     - place: '22'
       total: 458
-      distance: 458
+      distance: 457.7
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 115.937000 km
+      reach:
+        extra: 116.598000 km
+        flown: 115.937000 km
+      reachMade: 115.937000 km
       distanceFrac: 0.8121339908655328
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -405,13 +742,16 @@ score:
       arrivalFrac: 0
   - - - '6'
       - Yoko Sano
-    - place: '22'
-      total: 458
-      distance: 458.1
+    - place: '23'
+      total: 455
+      distance: 454.7
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 115.980000 km
+      reach:
+        extra: 115.980000 km
+        flown: 115.980000 km
+      reachMade: 115.980000 km
       distanceFrac: 0.8124352041245202
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -421,15 +761,39 @@ score:
       leadingCoef: 0
       leadingFrac: 0
       arrivalFrac: 0
-  - - - '41'
-      - Tony Armstrong
+  - - - '32'
+      - Andrew Barnes
     - place: '24'
-      total: 435
-      distance: 434.8
+      total: 436
+      distance: 435.7
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 111.742000 km
+      reach:
+        extra: 112.442000 km
+        flown: 106.882000 km
+      reachMade: 106.882000 km
+      distanceFrac: 0.7487040824904032
+      ss: 2017-12-30T04:00:00Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+      leadingFrac: 0
+      arrivalFrac: 0
+  - - - '41'
+      - Tony Armstrong
+    - place: '25'
+      total: 432
+      distance: 431.9
+      leading: 0
+      arrival: 0
+      time: 0
+      reach:
+        extra: 112.137000 km
+        flown: 111.742000 km
+      reachMade: 111.742000 km
       distanceFrac: 0.7827481857154865
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -441,33 +805,18 @@ score:
       arrivalFrac: 0
   - - - '52'
       - Dale Regehr
-    - place: '25'
-      total: 420
-      distance: 420
+    - place: '26'
+      total: 417
+      distance: 417.1
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 109.150000 km
+      reach:
+        extra: 109.150000 km
+        flown: 109.150000 km
+      reachMade: 109.150000 km
       distanceFrac: 0.7645913306621088
       ss: 2017-12-30T04:15:00Z
-      es: null
-      timeElapsed: null
-      timeFrac: 0
-      leadingArea: 0.0000 km^2 s
-      leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
-  - - - '32'
-      - Andrew Barnes
-    - place: '26'
-      total: 407
-      distance: 407.4
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 106.882000 km
-      distanceFrac: 0.7487040824904032
-      ss: 2017-12-30T04:00:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
@@ -478,12 +827,15 @@ score:
   - - - '72'
       - Sasha Serebrennikova
     - place: '27'
-      total: 405
-      distance: 404.8
+      total: 401
+      distance: 401
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 106.347000 km
+      reach:
+        extra: 106.902000 km
+        flown: 106.347000 km
+      reachMade: 106.347000 km
       distanceFrac: 0.7449564291518396
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -496,12 +848,15 @@ score:
   - - - '68'
       - Neale Halsall
     - place: '28'
-      total: 371
-      distance: 371
+      total: 368
+      distance: 368.2
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 99.172000 km
+      reach:
+        extra: 99.543000 km
+        flown: 99.172000 km
+      reachMade: 99.172000 km
       distanceFrac: 0.6946958446580179
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -514,12 +869,15 @@ score:
   - - - '103'
       - Wayne Thompson
     - place: '29'
-      total: 360
-      distance: 359.9
+      total: 359
+      distance: 358.7
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 96.520000 km
+      reach:
+        extra: 96.520000 km
+        flown: 96.520000 km
+      reachMade: 96.520000 km
       distanceFrac: 0.67611869203396
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -532,12 +890,15 @@ score:
   - - - '36'
       - Steve Docherty
     - place: '30'
-      total: 357
-      distance: 356.7
+      total: 356
+      distance: 356
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 95.780000 km
+      reach:
+        extra: 95.780000 km
+        flown: 95.780000 km
+      reachMade: 95.780000 km
       distanceFrac: 0.6709350219955729
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -555,7 +916,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 82.789000 km
+      reach:
+        extra: 85.172000 km
+        flown: 82.789000 km
+      reachMade: 82.789000 km
       distanceFrac: 0.5799335929838325
       ss: 2017-12-30T04:45:00Z
       es: null
@@ -573,7 +937,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 67.469000 km
+      reach:
+        extra: 68.260000 km
+        flown: 67.469000 km
+      reachMade: 67.469000 km
       distanceFrac: 0.4726176132701954
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -591,7 +958,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 65.481000 km
+      reach:
+        extra: 65.911000 km
+        flown: 65.481000 km
+      reachMade: 65.481000 km
       distanceFrac: 0.4586917537616632
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -609,7 +979,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 64.446000 km
+      reach:
+        extra: 68.522000 km
+        flown: 64.446000 km
+      reachMade: 64.446000 km
       distanceFrac: 0.45144162066743254
       ss: 2017-12-30T04:30:00Z
       es: null
@@ -627,7 +1000,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 61.640000 km
+      reach:
+        extra: 61.640000 km
+        flown: 61.640000 km
+      reachMade: 61.640000 km
       distanceFrac: 0.4317857042786293
       ss: 2017-12-30T05:15:00Z
       es: null
@@ -645,7 +1021,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 57.219000 km
+      reach:
+        extra: 60.154000 km
+        flown: 57.219000 km
+      reachMade: 57.219000 km
       distanceFrac: 0.40081677827902157
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -663,7 +1042,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 56.032000 km
+      reach:
+        extra: 56.894000 km
+        flown: 56.032000 km
+      reachMade: 56.032000 km
       distanceFrac: 0.39250189133906804
       ss: 2017-12-30T04:30:00Z
       es: null
@@ -681,7 +1063,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 51.417000 km
+      reach:
+        extra: 52.318000 km
+        flown: 51.417000 km
+      reachMade: 51.417000 km
       distanceFrac: 0.3601740031942615
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -699,7 +1084,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 48.411000 km
+      reach:
+        extra: 49.063000 km
+        flown: 48.411000 km
+      reachMade: 48.411000 km
       distanceFrac: 0.3391170949031915
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -717,7 +1105,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 39.538000 km
+      reach:
+        extra: 40.306000 km
+        flown: 39.538000 km
+      reachMade: 39.538000 km
       distanceFrac: 0.27696208915912474
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -735,7 +1126,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 30.214000 km
+      reach:
+        extra: 31.859000 km
+        flown: 30.214000 km
+      reachMade: 30.214000 km
       distanceFrac: 0.21164784667544626
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -753,7 +1147,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 26.399000 km
+      reach:
+        extra: 28.893000 km
+        flown: 26.399000 km
+      reachMade: 26.399000 km
       distanceFrac: 0.1849239261397069
       ss: 2017-12-30T05:15:00Z
       es: null
@@ -771,7 +1168,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 23.955000 km
+      reach:
+        extra: 24.414000 km
+        flown: 23.955000 km
+      reachMade: 23.955000 km
       distanceFrac: 0.16780380509400658
       ss: 2017-12-30T04:00:00Z
       es: null
@@ -789,7 +1189,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 23.316000 km
+      reach:
+        extra: 24.614000 km
+        flown: 23.316000 km
+      reachMade: 23.316000 km
       distanceFrac: 0.16332763596626412
       ss: 2017-12-30T04:15:00Z
       es: null
@@ -807,7 +1210,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 20.201000 km
+      reach:
+        extra: 28.176000 km
+        flown: 20.201000 km
+      reachMade: 20.201000 km
       distanceFrac: 0.14150718708845864
       ss: 2017-12-30T04:45:00Z
       es: null
@@ -825,7 +1231,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 17.662000 km
+      reach:
+        extra: 18.162000 km
+        flown: 17.662000 km
+      reachMade: 17.662000 km
       distanceFrac: 0.12372159488918154
       ss: 2017-12-30T04:30:00Z
       es: null
@@ -843,7 +1252,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 17.114000 km
+      reach:
+        extra: 19.079000 km
+        flown: 17.114000 km
+      reachMade: 17.114000 km
       distanceFrac: 0.1198828770769705
       ss: 2017-12-30T04:30:00Z
       es: null
@@ -861,7 +1273,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 13.302000 km
+      reach:
+        extra: 16.609000 km
+        flown: 13.302000 km
+      reachMade: 13.302000 km
       distanceFrac: 9.31799714197652e-2
       ss: 2017-12-30T05:00:00Z
       es: null
@@ -879,7 +1294,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 7.004959511334025e-2
       ss: null
       es: null
@@ -897,7 +1315,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 10.890000 km
+        flown: 8.847000 km
+      reachMade: 10.000000 km
       distanceFrac: 7.004959511334025e-2
       ss: null
       es: null
@@ -915,7 +1336,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 6.683000 km
+        flown: 5.513000 km
+      reachMade: 10.000000 km
       distanceFrac: 7.004959511334025e-2
       ss: null
       es: null
@@ -933,7 +1357,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 7.004959511334025e-2
       ss: null
       es: null
@@ -951,7 +1378,10 @@ score:
       leading: 64.6
       arrival: 54.4
       time: 304.9
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:35:03Z
@@ -969,7 +1399,10 @@ score:
       leading: 67.2
       arrival: 46.5
       time: 303.2
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:35:06Z
@@ -987,7 +1420,10 @@ score:
       leading: 75.5
       arrival: 39.5
       time: 292.3
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:36:02Z
@@ -1005,7 +1441,10 @@ score:
       leading: 58.8
       arrival: 33.6
       time: 280.2
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:37:45Z
@@ -1023,7 +1462,10 @@ score:
       leading: 62.1
       arrival: 28.5
       time: 254.9
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:42:51Z
@@ -1041,7 +1483,10 @@ score:
       leading: 58.8
       arrival: 18
       time: 251.5
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:43:40Z
@@ -1059,7 +1504,10 @@ score:
       leading: 58.9
       arrival: 15.8
       time: 246
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T06:45:02Z
@@ -1077,7 +1525,10 @@ score:
       leading: 76.2
       arrival: 20.8
       time: 201
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:30:00Z
       es: 2017-12-31T06:43:26Z
@@ -1090,12 +1541,15 @@ score:
   - - - '75'
       - Yasuhiro Noma
     - place: '9'
-      total: 848
+      total: 849
       distance: 564.4
       leading: 58.3
       arrival: 24.3
       time: 201.5
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:30:00Z
       es: 2017-12-31T06:43:15Z
@@ -1113,7 +1567,10 @@ score:
       leading: 57.4
       arrival: 12.8
       time: 191.5
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T07:01:42Z
@@ -1131,7 +1588,10 @@ score:
       leading: 44.1
       arrival: 14.1
       time: 194.8
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T07:00:32Z
@@ -1149,7 +1609,10 @@ score:
       leading: 46.8
       arrival: 12
       time: 187.7
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T07:03:03Z
@@ -1167,7 +1630,10 @@ score:
       leading: 50.5
       arrival: 11.4
       time: 167.6
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:45:00Z
       es: 2017-12-31T07:10:33Z
@@ -1185,7 +1651,10 @@ score:
       leading: 54.1
       arrival: 11.1
       time: 119.6
-      distanceMade: 185.747000 km
+      reach:
+        extra: 185.748000 km
+        flown: 185.748000 km
+      reachMade: 185.747000 km
       distanceFrac: 1
       ss: 2017-12-31T02:30:00Z
       es: 2017-12-31T07:15:44Z
@@ -1203,7 +1672,10 @@ score:
       leading: 41.9
       arrival: 0
       time: 0
-      distanceMade: 179.279000 km
+      reach:
+        extra: 180.011000 km
+        flown: 179.279000 km
+      reachMade: 179.279000 km
       distanceFrac: 0.9651784416437412
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1221,7 +1693,10 @@ score:
       leading: 34.2
       arrival: 0
       time: 0
-      distanceMade: 180.658000 km
+      reach:
+        extra: 180.625000 km
+        flown: 180.658000 km
+      reachMade: 180.658000 km
       distanceFrac: 0.9726025184794372
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1239,7 +1714,10 @@ score:
       leading: 36.8
       arrival: 0
       time: 0
-      distanceMade: 174.918000 km
+      reach:
+        extra: 174.999000 km
+        flown: 174.918000 km
+      reachMade: 174.918000 km
       distanceFrac: 0.9417002697217183
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1257,7 +1735,10 @@ score:
       leading: 32.8
       arrival: 0
       time: 0
-      distanceMade: 162.886000 km
+      reach:
+        extra: 163.756000 km
+        flown: 162.886000 km
+      reachMade: 162.886000 km
       distanceFrac: 0.8769239880051899
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1275,7 +1756,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 167.568000 km
+      reach:
+        extra: 168.482000 km
+        flown: 167.568000 km
+      reachMade: 167.568000 km
       distanceFrac: 0.9021303170441515
       ss: 2017-12-31T03:15:00Z
       es: null
@@ -1293,7 +1777,10 @@ score:
       leading: 28.9
       arrival: 0
       time: 0
-      distanceMade: 155.937000 km
+      reach:
+        extra: 158.104000 km
+        flown: 155.937000 km
+      reachMade: 155.937000 km
       distanceFrac: 0.8395128858070386
       ss: 2017-12-31T02:30:00Z
       es: null
@@ -1311,7 +1798,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1329,7 +1819,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 156.255000 km
+      reach:
+        extra: 157.051000 km
+        flown: 156.255000 km
+      reachMade: 156.255000 km
       distanceFrac: 0.8412248919228843
       ss: 2017-12-31T03:30:00Z
       es: null
@@ -1347,7 +1840,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 152.716000 km
+      reach:
+        extra: 153.764000 km
+        flown: 152.716000 km
+      reachMade: 152.716000 km
       distanceFrac: 0.8221720943003117
       ss: 2017-12-31T03:00:00Z
       es: null
@@ -1365,7 +1861,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 149.840000 km
+      reach:
+        extra: 149.970000 km
+        flown: 149.840000 km
+      reachMade: 149.840000 km
       distanceFrac: 0.8066886679192665
       ss: 2017-12-31T03:30:00Z
       es: null
@@ -1383,7 +1882,10 @@ score:
       leading: 31
       arrival: 0
       time: 0
-      distanceMade: 135.969000 km
+      reach:
+        extra: 136.979000 km
+        flown: 135.969000 km
+      reachMade: 135.969000 km
       distanceFrac: 0.7320118225328
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1401,7 +1903,10 @@ score:
       leading: 26.3
       arrival: 0
       time: 0
-      distanceMade: 122.686000 km
+      reach:
+        extra: 122.713000 km
+        flown: 122.686000 km
+      reachMade: 122.686000 km
       distanceFrac: 0.6605005733605388
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1419,7 +1924,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 121.548000 km
+      reach:
+        extra: 123.097000 km
+        flown: 121.548000 km
+      reachMade: 121.548000 km
       distanceFrac: 0.6543739602793046
       ss: 2017-12-31T03:15:00Z
       es: null
@@ -1437,7 +1945,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1455,7 +1966,10 @@ score:
       leading: 9.9
       arrival: 0
       time: 0
-      distanceMade: 108.801000 km
+      reach:
+        extra: 109.506000 km
+        flown: 108.801000 km
+      reachMade: 108.801000 km
       distanceFrac: 0.5857483566356388
       ss: 2017-12-31T02:30:00Z
       es: null
@@ -1473,7 +1987,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 111.847000 km
+      reach:
+        extra: 112.666000 km
+        flown: 111.847000 km
+      reachMade: 111.847000 km
       distanceFrac: 0.6021470064119475
       ss: 2017-12-31T03:15:00Z
       es: null
@@ -1491,7 +2008,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1509,7 +2029,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 104.352000 km
+      reach:
+        extra: 106.400000 km
+        flown: 104.352000 km
+      reachMade: 104.352000 km
       distanceFrac: 0.5617964220148912
       ss: 2017-12-31T03:00:00Z
       es: null
@@ -1527,7 +2050,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 103.950000 km
+      reach:
+        extra: 104.000000 km
+        flown: 103.950000 km
+      reachMade: 103.950000 km
       distanceFrac: 0.5596321878684447
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1545,7 +2071,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 99.025000 km
+      reach:
+        extra: 98.608000 km
+        flown: 99.025000 km
+      reachMade: 99.025000 km
       distanceFrac: 0.5331176277409595
       ss: 2017-12-31T03:00:00Z
       es: null
@@ -1563,7 +2092,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1581,7 +2113,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 91.388000 km
+      reach:
+        extra: 92.571000 km
+        flown: 91.388000 km
+      reachMade: 91.388000 km
       distanceFrac: 0.49200256262550673
       ss: 2017-12-31T03:15:00Z
       es: null
@@ -1599,7 +2134,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 67.482000 km
+      reach:
+        extra: 66.992000 km
+        flown: 67.482000 km
+      reachMade: 67.482000 km
       distanceFrac: 0.36330061858334184
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1617,7 +2155,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1635,7 +2176,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 57.934000 km
+      reach:
+        extra: 59.989000 km
+        flown: 57.934000 km
+      reachMade: 57.934000 km
       distanceFrac: 0.3118973657717218
       ss: 2017-12-31T03:30:00Z
       es: null
@@ -1653,7 +2197,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 57.469000 km
+      reach:
+        extra: 59.359000 km
+        flown: 57.469000 km
+      reachMade: 57.469000 km
       distanceFrac: 0.30939396060232466
       ss: 2017-12-31T03:15:00Z
       es: null
@@ -1671,7 +2218,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1689,7 +2239,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 47.016000 km
+      reach:
+        extra: 46.651000 km
+        flown: 47.016000 km
+      reachMade: 47.016000 km
       distanceFrac: 0.2531184891276844
       ss: 2017-12-31T03:30:00Z
       es: null
@@ -1707,7 +2260,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1720,12 +2276,15 @@ score:
   - - - '42'
       - Rob de Groot
     - place: '44'
-      total: 119
+      total: 118
       distance: 118.5
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 14.913000 km
+      reach:
+        extra: 16.140000 km
+        flown: 14.913000 km
+      reachMade: 14.913000 km
       distanceFrac: 8.02866264327284e-2
       ss: 2017-12-31T02:45:00Z
       es: null
@@ -1743,7 +2302,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1761,7 +2323,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1779,7 +2344,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 8.094000 km
+        flown: 7.240000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1797,7 +2365,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 1.178000 km
+        flown: 0.032000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1815,7 +2386,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 8.769000 km
+        flown: 7.640000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1833,7 +2407,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1851,7 +2428,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1869,7 +2449,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.383667030961469e-2
       ss: null
       es: null
@@ -1882,164 +2465,191 @@ score:
 - - - - '92'
       - Attila Bertok
     - place: '1'
-      total: 948
+      total: 947
       distance: 385.2
-      leading: 55.1
+      leading: 54.7
       arrival: 76.8
       time: 430.4
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:53:44Z
       timeElapsed: 3.145556 h
       timeFrac: 1
-      leadingArea: 165996117.0000 km^2 s
-      leadingCoef: 2.67654013
-      leadingFrac: 0.51208178
+      leadingArea: 163413321.0000 km^2 s
+      leadingCoef: 2.63489483
+      leadingFrac: 0.50836431
       arrivalFrac: 1
   - - - '25'
       - Tyler Borrdaile
     - place: '2'
       total: 915
       distance: 385.2
-      leading: 46.9
+      leading: 46.5
       arrival: 71.4
       time: 411.8
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:54:41Z
       timeElapsed: 3.161389 h
       timeFrac: 0.9569656
-      leadingArea: 173589129.0000 km^2 s
-      leadingCoef: 2.79897071
-      leadingFrac: 0.43587361
+      leadingArea: 171008220.0000 km^2 s
+      leadingCoef: 2.75735584
+      leadingFrac: 0.43215613
       arrivalFrac: 0.9296875
   - - - '62'
       - Josh Woods
     - place: '3'
       total: 906
       distance: 385.2
-      leading: 48.1
+      leading: 47.7
       arrival: 66.3
       time: 406.6
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:55:07Z
       timeElapsed: 3.168611 h
       timeFrac: 0.94471365
-      leadingArea: 172385233.0000 km^2 s
-      leadingCoef: 2.77955895
-      leadingFrac: 0.44702602
+      leadingArea: 169804051.0000 km^2 s
+      leadingCoef: 2.73793969
+      leadingFrac: 0.44330855
       arrivalFrac: 0.86328125
   - - - '7'
       - Olav Opsanger
     - place: '4'
-      total: 899
+      total: 898
       distance: 385.2
-      leading: 53.4
+      leading: 53
       arrival: 61.5
       time: 398.6
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:55:52Z
       timeElapsed: 3.181111 h
       timeFrac: 0.92620292
-      leadingArea: 167505969.0000 km^2 s
-      leadingCoef: 2.70088515
-      leadingFrac: 0.49628253
+      leadingArea: 164923910.0000 km^2 s
+      leadingCoef: 2.65925173
+      leadingFrac: 0.49256506
       arrivalFrac: 0.80078125
   - - - '81'
       - Nick Purcell
     - place: '5'
       total: 891
       distance: 385.2
-      leading: 54
+      leading: 53.6
       arrival: 57
       time: 395.2
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:56:13Z
       timeElapsed: 3.186944 h
       timeFrac: 0.91833736
-      leadingArea: 166956053.0000 km^2 s
-      leadingCoef: 2.69201824
-      leadingFrac: 0.50185874
+      leadingArea: 164377529.0000 km^2 s
+      leadingCoef: 2.65044183
+      leadingFrac: 0.49814126
       arrivalFrac: 0.7421875
   - - - '11'
       - Steve Blenkinsop
     - place: '6'
       total: 881
       distance: 385.2
-      leading: 49
+      leading: 48.6
       arrival: 52.8
       time: 394.4
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:56:18Z
       timeElapsed: 3.188333 h
       timeFrac: 0.91652053
-      leadingArea: 171573605.0000 km^2 s
-      leadingCoef: 2.76647217
-      leadingFrac: 0.45539033
+      leadingArea: 168990721.0000 km^2 s
+      leadingCoef: 2.72482547
+      leadingFrac: 0.45167286
       arrivalFrac: 0.6875
   - - - '51'
       - Craig Taylor
     - place: '7'
       total: 855
       distance: 385.2
-      leading: 48.6
+      leading: 48.3
       arrival: 42
       time: 379
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:58:07Z
       timeElapsed: 3.218611 h
       timeFrac: 0.88072858
-      leadingArea: 171885451.0000 km^2 s
-      leadingCoef: 2.7715004
-      leadingFrac: 0.45167286
+      leadingArea: 169303066.0000 km^2 s
+      leadingCoef: 2.72986175
+      leadingFrac: 0.44888476
       arrivalFrac: 0.546875
   - - - '8'
       - Gordon Rigg
     - place: '8'
       total: 848
       distance: 385.2
-      leading: 61.1
+      leading: 60.8
       arrival: 33.5
       time: 368.1
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:59:35Z
       timeElapsed: 3.243056 h
       timeFrac: 0.85542142
-      leadingArea: 160792679.0000 km^2 s
-      leadingCoef: 2.5926393
-      leadingFrac: 0.56784387
+      leadingArea: 158209630.0000 km^2 s
+      leadingCoef: 2.55098994
+      leadingFrac: 0.56505576
       arrivalFrac: 0.43619792
   - - - '34'
       - Brad Porter
     - place: '9'
-      total: 847
+      total: 846
       distance: 385.2
-      leading: 49.3
+      leading: 48.9
       arrival: 38.9
       time: 373.1
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T05:58:54Z
       timeElapsed: 3.231667 h
       timeFrac: 0.86691156
-      leadingArea: 171245773.0000 km^2 s
-      leadingCoef: 2.76118617
-      leadingFrac: 0.45817844
+      leadingArea: 168661784.0000 km^2 s
+      leadingCoef: 2.71952163
+      leadingFrac: 0.45446097
       arrivalFrac: 0.50651042
   - - - '43'
       - Jonny Durand
@@ -2049,159 +2659,186 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 75.552000 km
+      reach:
+        extra: 80.051000 km
+        flown: 75.552000 km
+      reachMade: 75.552000 km
       distanceFrac: 0.3869996158278909
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 357415856.0000 km^2 s
-      leadingCoef: 5.7630136
+      leadingArea: 354832087.0000 km^2 s
+      leadingCoef: 5.72135262
       leadingFrac: 0
       arrivalFrac: 0
-  - - - '6'
-      - Yoko Sano
-    - place: '11'
-      total: 783
-      distance: 385.2
-      leading: 51.5
-      arrival: 48.9
-      time: 297.1
-      distanceMade: 195.225000 km
-      distanceFrac: 1
-      ss: 2018-01-01T02:30:00Z
-      es: 2018-01-01T05:57:04Z
-      timeElapsed: 3.451111 h
-      timeFrac: 0.69038095
-      leadingArea: 169262902.0000 km^2 s
-      leadingCoef: 2.72921414
-      leadingFrac: 0.47862454
-      arrivalFrac: 0.63671875
   - - - '30'
       - Jason Kath
-    - place: '12'
+    - place: '11'
       total: 782
       distance: 385.2
       leading: 107.6
       arrival: 31.2
       time: 258.4
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:30:00Z
       es: 2018-01-01T06:05:36Z
       timeElapsed: 3.593333 h
       timeFrac: 0.6005376
-      leadingArea: 134834932.0000 km^2 s
-      leadingCoef: 2.17409366
+      leadingArea: 132251186.0000 km^2 s
+      leadingCoef: 2.13243305
       leadingFrac: 1
       arrivalFrac: 0.40625
+  - - - '6'
+      - Yoko Sano
+    - place: '11'
+      total: 782
+      distance: 385.2
+      leading: 51.1
+      arrival: 48.9
+      time: 297.1
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
+      distanceFrac: 1
+      ss: 2018-01-01T02:30:00Z
+      es: 2018-01-01T05:57:04Z
+      timeElapsed: 3.451111 h
+      timeFrac: 0.69038095
+      leadingArea: 166679777.0000 km^2 s
+      leadingCoef: 2.68756354
+      leadingFrac: 0.47490706
+      arrivalFrac: 0.63671875
   - - - '22'
       - Rohan Taylor
     - place: '13'
       total: 781
       distance: 385.2
-      leading: 58.2
+      leading: 57.9
       arrival: 45.3
       time: 292.4
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:30:00Z
       es: 2018-01-01T05:58:03Z
       timeElapsed: 3.467500 h
       timeFrac: 0.67940641
-      leadingArea: 163267797.0000 km^2 s
-      leadingCoef: 2.63254839
-      leadingFrac: 0.54089219
+      leadingArea: 160684465.0000 km^2 s
+      leadingCoef: 2.59089445
+      leadingFrac: 0.53810409
       arrivalFrac: 0.58984375
   - - - '106'
       - Jon Durand Snr
     - place: '14'
-      total: 775
+      total: 774
       distance: 385.2
-      leading: 67.7
+      leading: 67.5
       arrival: 36.1
       time: 285.5
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:30:00Z
       es: 2018-01-01T05:59:31Z
       timeElapsed: 3.491944 h
       timeFrac: 0.66337721
-      leadingArea: 155436112.0000 km^2 s
-      leadingCoef: 2.50626942
-      leadingFrac: 0.62918216
+      leadingArea: 152852500.0000 km^2 s
+      leadingCoef: 2.46461097
+      leadingFrac: 0.62732342
       arrivalFrac: 0.47005208
   - - - '41'
       - Tony Armstrong
     - place: '15'
       total: 743
       distance: 385.2
-      leading: 45
+      leading: 44.6
       arrival: 29
       time: 283.8
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:14:53Z
       timeElapsed: 3.498056 h
       timeFrac: 0.65942955
-      leadingArea: 175377690.0000 km^2 s
-      leadingCoef: 2.82780968
-      leadingFrac: 0.41821561
+      leadingArea: 172794974.0000 km^2 s
+      leadingCoef: 2.78616567
+      leadingFrac: 0.41449814
       arrivalFrac: 0.37760417
   - - - '23'
       - Nils Vesk
     - place: '16'
-      total: 736
+      total: 735
       distance: 385.2
-      leading: 11.1
+      leading: 10.5
       arrival: 22.4
       time: 317.2
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T03:00:00Z
       es: 2018-01-01T06:23:05Z
       timeElapsed: 3.384722 h
       timeFrac: 0.73703296
-      leadingArea: 212470985.0000 km^2 s
-      leadingCoef: 3.42590614
-      leadingFrac: 0.10315985
+      leadingArea: 209892757.0000 km^2 s
+      leadingCoef: 3.38433451
+      leadingFrac: 9.758364e-2
       arrivalFrac: 0.29166667
   - - - '68'
       - Neale Halsall
     - place: '17'
       total: 732
       distance: 385.2
-      leading: 43.4
+      leading: 43
       arrival: 27.1
       time: 276.5
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:16:29Z
       timeElapsed: 3.524722 h
       timeFrac: 0.64246301
-      leadingArea: 176974289.0000 km^2 s
-      leadingCoef: 2.85355341
-      leadingFrac: 0.40334572
+      leadingArea: 174393115.0000 km^2 s
+      leadingCoef: 2.81193427
+      leadingFrac: 0.39962825
       arrivalFrac: 0.35286458
   - - - '37'
       - Gavin Myers
     - place: '18'
-      total: 731
+      total: 730
       distance: 385.2
-      leading: 18.6
+      leading: 18
       arrival: 20.2
       time: 306.6
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T03:00:00Z
       es: 2018-01-01T06:25:09Z
       timeElapsed: 3.419167 h
       timeFrac: 0.71235509
-      leadingArea: 203644706.0000 km^2 s
-      leadingCoef: 3.28359022
-      leadingFrac: 0.17286245
+      leadingArea: 201062058.0000 km^2 s
+      leadingCoef: 3.24194732
+      leadingFrac: 0.16728625
       arrivalFrac: 0.26302083
   - - - '31'
       - Trent Brown
@@ -2211,14 +2848,17 @@ score:
       leading: 0
       arrival: 16.3
       time: 299.8
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T03:15:00Z
       es: 2018-01-01T06:41:31Z
       timeElapsed: 3.441944 h
       timeFrac: 0.69660472
-      leadingArea: 235576026.0000 km^2 s
-      leadingCoef: 3.79845443
+      leadingArea: 232993730.0000 km^2 s
+      leadingCoef: 3.7568172
       leadingFrac: 0
       arrivalFrac: 0.21223958
   - - - '76'
@@ -2229,14 +2869,17 @@ score:
       leading: 0
       arrival: 16
       time: 297.2
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T03:15:00Z
       es: 2018-01-01T06:42:03Z
       timeElapsed: 3.450833 h
       timeFrac: 0.69056863
-      leadingArea: 253144833.0000 km^2 s
-      leadingCoef: 4.08173586
+      leadingArea: 250561268.0000 km^2 s
+      leadingCoef: 4.04007817
       leadingFrac: 0
       arrivalFrac: 0.20833333
   - - - '100'
@@ -2244,180 +2887,210 @@ score:
     - place: '21'
       total: 693
       distance: 385.2
-      leading: 36.1
+      leading: 35.6
       arrival: 23.8
       time: 248.3
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:23:01Z
       timeElapsed: 3.633611 h
       timeFrac: 0.57692855
-      leadingArea: 184360512.0000 km^2 s
-      leadingCoef: 2.97264971
-      leadingFrac: 0.33550186
+      leadingArea: 181782349.0000 km^2 s
+      leadingCoef: 2.93107911
+      leadingFrac: 0.33085502
       arrivalFrac: 0.30989583
   - - - '42'
       - Rob de Groot
     - place: '22'
-      total: 682
+      total: 681
       distance: 385.2
-      leading: 38.8
+      leading: 38.4
       arrival: 19.2
       time: 238.5
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:25:24Z
       timeElapsed: 3.673333 h
       timeFrac: 0.55427368
-      leadingArea: 181521650.0000 km^2 s
-      leadingCoef: 2.92687558
-      leadingFrac: 0.3605948
+      leadingArea: 178939102.0000 km^2 s
+      leadingCoef: 2.88523427
+      leadingFrac: 0.35687732
       arrivalFrac: 0.25
   - - - '15'
       - Ryosuke Hattori
     - place: '23'
-      total: 675
+      total: 674
       distance: 385.2
-      leading: 35.8
+      leading: 35.3
       arrival: 17.8
       time: 235.7
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:26:07Z
       timeElapsed: 3.685278 h
       timeFrac: 0.5475738
-      leadingArea: 184681926.0000 km^2 s
-      leadingCoef: 2.97783222
-      leadingFrac: 0.33271375
+      leadingArea: 182099768.0000 km^2 s
+      leadingCoef: 2.93619721
+      leadingFrac: 0.32806691
       arrivalFrac: 0.23177083
   - - - '72'
       - Sasha Serebrennikova
     - place: '24'
       total: 672
       distance: 385.2
-      leading: 45
+      leading: 44.6
       arrival: 27.1
       time: 214.7
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:30:00Z
       es: 2018-01-01T06:16:29Z
       timeElapsed: 3.774722 h
       timeFrac: 0.4988766
-      leadingArea: 175414918.0000 km^2 s
-      leadingCoef: 2.82840994
-      leadingFrac: 0.41821561
+      leadingArea: 172831117.0000 km^2 s
+      leadingCoef: 2.78674844
+      leadingFrac: 0.41449814
       arrivalFrac: 0.35286458
   - - - '36'
       - Steve Docherty
     - place: '25'
-      total: 665
+      total: 664
       distance: 385.2
-      leading: 23.6
+      leading: 23.1
       arrival: 18.4
       time: 237.7
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:25:36Z
       timeElapsed: 3.676667 h
       timeFrac: 0.55239891
-      leadingArea: 197872386.0000 km^2 s
-      leadingCoef: 3.19051669
-      leadingFrac: 0.21933086
+      leadingArea: 195291654.0000 km^2 s
+      leadingCoef: 3.14890467
+      leadingFrac: 0.21468401
       arrivalFrac: 0.23958333
   - - - '77'
       - Brodrick Osborne
     - place: '26'
       total: 650
       distance: 385.2
-      leading: 22.4
+      leading: 21.8
       arrival: 17.2
       time: 225.6
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:28:40Z
       timeElapsed: 3.727778 h
       timeFrac: 0.52412444
-      leadingArea: 199255736.0000 km^2 s
-      leadingCoef: 3.21282197
-      leadingFrac: 0.20817844
+      leadingArea: 196672479.0000 km^2 s
+      leadingCoef: 3.17116924
+      leadingFrac: 0.20260223
       arrivalFrac: 0.22395833
   - - - '32'
       - Andrew Barnes
     - place: '27'
       total: 645
       distance: 385.2
-      leading: 23.6
+      leading: 23.1
       arrival: 16.7
       time: 219.7
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T06:30:11Z
       timeElapsed: 3.753056 h
       timeFrac: 0.51044848
-      leadingArea: 197852104.0000 km^2 s
-      leadingCoef: 3.19018966
-      leadingFrac: 0.21933086
+      leadingArea: 195271697.0000 km^2 s
+      leadingCoef: 3.14858289
+      leadingFrac: 0.21468401
       arrivalFrac: 0.21744792
   - - - '80'
       - Michael Cassells
     - place: '28'
-      total: 597
+      total: 596
       distance: 385.2
-      leading: 47.5
+      leading: 47.1
       arrival: 21.2
       time: 180.4
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:28:45Z
       es: 2018-01-01T06:24:36Z
       timeElapsed: 3.930833 h
       timeFrac: 0.41907988
-      leadingArea: 173002916.0000 km^2 s
-      leadingCoef: 2.78951854
-      leadingFrac: 0.44144981
+      leadingArea: 170421016.0000 km^2 s
+      leadingCoef: 2.7478877
+      leadingFrac: 0.43773234
       arrivalFrac: 0.27604167
   - - - '4'
       - Frank Chetcuti
     - place: '29'
       total: 550
       distance: 385.2
-      leading: 33.1
+      leading: 32.6
       arrival: 15.8
       time: 116.2
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:30:00Z
       es: 2018-01-01T06:45:07Z
       timeElapsed: 4.251944 h
       timeFrac: 0.26991614
-      leadingArea: 187536942.0000 km^2 s
-      leadingCoef: 3.02386682
-      leadingFrac: 0.30762082
+      leadingArea: 184956924.0000 km^2 s
+      leadingCoef: 2.98226632
+      leadingFrac: 0.30297398
       arrivalFrac: 0.20572917
   - - - '99'
       - Gennadiy Khramov
     - place: '30'
-      total: 519
+      total: 518
       distance: 385.2
-      leading: 14.6
+      leading: 14
       arrival: 15.6
       time: 103.3
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T02:45:00Z
       es: 2018-01-01T07:04:14Z
       timeElapsed: 4.320556 h
       timeFrac: 0.2400364
-      leadingArea: 208276219.0000 km^2 s
-      leadingCoef: 3.35826927
-      leadingFrac: 0.13568773
+      leadingArea: 205693414.0000 km^2 s
+      leadingCoef: 3.31662383
+      leadingFrac: 0.13011152
       arrivalFrac: 0.203125
   - - - '103'
       - Wayne Thompson
@@ -2427,123 +3100,144 @@ score:
       leading: 0
       arrival: 15.5
       time: 107
-      distanceMade: 195.225000 km
+      reach:
+        extra: 195.226000 km
+        flown: 195.226000 km
+      reachMade: 195.225000 km
       distanceFrac: 1
       ss: 2018-01-01T03:00:00Z
       es: 2018-01-01T07:18:03Z
       timeElapsed: 4.300833 h
       timeFrac: 0.2485643
-      leadingArea: 237790451.0000 km^2 s
-      leadingCoef: 3.83416006
+      leadingArea: 235210698.0000 km^2 s
+      leadingCoef: 3.79256385
       leadingFrac: 0
       arrivalFrac: 0.20182292
   - - - '14'
       - Peter Burkitt
     - place: '32'
-      total: 409
+      total: 408
       distance: 374.3
-      leading: 34.4
+      leading: 33.9
       arrival: 0
       time: 0
-      distanceMade: 186.168000 km
+      reach:
+        extra: 186.263000 km
+        flown: 186.168000 km
+      reachMade: 186.168000 km
       distanceFrac: 0.9536073761044949
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 186125163.0000 km^2 s
-      leadingCoef: 3.00110314
-      leadingFrac: 0.3197026
+      leadingArea: 183541247.0000 km^2 s
+      leadingCoef: 2.95943978
+      leadingFrac: 0.31505576
       arrivalFrac: 0
   - - - '71'
       - Rob Larkin
     - place: '33'
-      total: 401
+      total: 400
       distance: 368.4
-      leading: 32.5
+      leading: 32
       arrival: 0
       time: 0
-      distanceMade: 182.679000 km
+      reach:
+        extra: 183.511000 km
+        flown: 182.679000 km
+      reachMade: 182.679000 km
       distanceFrac: 0.9357356895889358
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 188126927.0000 km^2 s
-      leadingCoef: 3.0333798
-      leadingFrac: 0.30204461
+      leadingArea: 185545089.0000 km^2 s
+      leadingCoef: 2.99174996
+      leadingFrac: 0.29739777
       arrivalFrac: 0
   - - - '107'
       - Anatoly Reyter
     - place: '33'
-      total: 401
+      total: 400
       distance: 381.9
-      leading: 19
+      leading: 18.4
       arrival: 0
       time: 0
-      distanceMade: 191.856000 km
+      reach:
+        extra: 192.370000 km
+        flown: 191.856000 km
+      reachMade: 191.856000 km
       distanceFrac: 0.9827429888590088
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 203124351.0000 km^2 s
-      leadingCoef: 3.27519996
-      leadingFrac: 0.17657993
+      leadingArea: 200540461.0000 km^2 s
+      leadingCoef: 3.23353703
+      leadingFrac: 0.17100372
       arrivalFrac: 0
   - - - '28'
       - Mikhail Karmazin
     - place: '35'
-      total: 382
+      total: 381
       distance: 341
-      leading: 40.5
+      leading: 40.1
       arrival: 0
       time: 0
-      distanceMade: 171.048000 km
+      reach:
+        extra: 171.616000 km
+        flown: 171.048000 km
+      reachMade: 171.048000 km
       distanceFrac: 0.8761582789089513
       ss: 2018-01-01T02:45:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 179792254.0000 km^2 s
-      leadingCoef: 2.8989906
-      leadingFrac: 0.37639405
+      leadingArea: 177209331.0000 km^2 s
+      leadingCoef: 2.85734326
+      leadingFrac: 0.37267658
       arrivalFrac: 0
   - - - '67'
       - Mark Alton
     - place: '36'
       total: 373
       distance: 332.9
-      leading: 40.3
+      leading: 39.8
       arrival: 0
       time: 0
-      distanceMade: 168.013000 km
+      reach:
+        extra: 169.455000 km
+        flown: 168.013000 km
+      reachMade: 168.013000 km
       distanceFrac: 0.8606121142271738
       ss: 2018-01-01T02:45:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 180054246.0000 km^2 s
-      leadingCoef: 2.90321499
-      leadingFrac: 0.37453532
+      leadingArea: 177471308.0000 km^2 s
+      leadingCoef: 2.86156739
+      leadingFrac: 0.36988848
       arrivalFrac: 0
   - - - '52'
       - Dale Regehr
     - place: '37'
       total: 371
       distance: 331.4
-      leading: 40
+      leading: 39.6
       arrival: 0
       time: 0
-      distanceMade: 167.524000 km
+      reach:
+        extra: 167.721000 km
+        flown: 167.524000 km
+      reachMade: 167.524000 km
       distanceFrac: 0.8581073120758099
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 180337147.0000 km^2 s
-      leadingCoef: 2.90777651
-      leadingFrac: 0.37174721
+      leadingArea: 177754015.0000 km^2 s
+      leadingCoef: 2.8661258
+      leadingFrac: 0.36802974
       arrivalFrac: 0
   - - - '86'
       - Ross Smith
@@ -2553,69 +3247,81 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 183.057000 km
+      reach:
+        extra: 183.317000 km
+        flown: 183.057000 km
+      reachMade: 183.057000 km
       distanceFrac: 0.9376719170188246
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 293029967.0000 km^2 s
-      leadingCoef: 4.72484827
+      leadingArea: 290446820.0000 km^2 s
+      leadingCoef: 4.6831973
       leadingFrac: 0
       arrivalFrac: 0
   - - - '74'
       - Vic Hare
     - place: '39'
-      total: 367
+      total: 366
       distance: 331.4
-      leading: 35.5
+      leading: 35.1
       arrival: 0
       time: 0
-      distanceMade: 167.525000 km
+      reach:
+        extra: 167.912000 km
+        flown: 167.525000 km
+      reachMade: 167.525000 km
       distanceFrac: 0.858112434370598
       ss: 2018-01-01T02:45:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 184921208.0000 km^2 s
-      leadingCoef: 2.98169044
-      leadingFrac: 0.32992565
+      leadingArea: 182338746.0000 km^2 s
+      leadingCoef: 2.94005052
+      leadingFrac: 0.32620818
       arrivalFrac: 0
   - - - '64'
       - Longfei Yang
     - place: '40'
-      total: 278
+      total: 277
       distance: 273
-      leading: 5.1
+      leading: 4.4
       arrival: 0
       time: 0
-      distanceMade: 150.815000 km
+      reach:
+        extra: 156.695000 km
+        flown: 150.815000 km
+      reachMade: 150.815000 km
       distanceFrac: 0.772518888462031
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 219908687.0000 km^2 s
-      leadingCoef: 3.5458325
-      leadingFrac: 4.739777e-2
+      leadingArea: 217325398.0000 km^2 s
+      leadingCoef: 3.50417925
+      leadingFrac: 4.089219e-2
       arrivalFrac: 0
   - - - '75'
       - Yasuhiro Noma
     - place: '41'
-      total: 270
+      total: 269
       distance: 248.1
-      leading: 21.4
+      leading: 20.9
       arrival: 0
       time: 0
-      distanceMade: 141.700000 km
+      reach:
+        extra: 142.622000 km
+        flown: 141.700000 km
+      reachMade: 141.700000 km
       distanceFrac: 0.7258291714688182
       ss: 2018-01-01T02:45:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 200334475.0000 km^2 s
-      leadingCoef: 3.23021568
-      leadingFrac: 0.19888476
+      leadingArea: 197752230.0000 km^2 s
+      leadingCoef: 3.18857928
+      leadingFrac: 0.19423792
       arrivalFrac: 0
   - - - '102'
       - Robert Davies
@@ -2625,32 +3331,38 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 109.354000 km
+      reach:
+        extra: 111.023000 km
+        flown: 109.354000 km
+      reachMade: 109.354000 km
       distanceFrac: 0.5601434242540658
       ss: 2018-01-01T02:45:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 325190519.0000 km^2 s
-      leadingCoef: 5.24340864
+      leadingArea: 322606532.0000 km^2 s
+      leadingCoef: 5.20174414
       leadingFrac: 0
       arrivalFrac: 0
   - - - '83'
       - Randal Clotworthy
     - place: '43'
-      total: 179
+      total: 178
       distance: 178.5
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 101.264000 km
+      reach:
+        extra: 101.897000 km
+        flown: 101.264000 km
+      reachMade: 101.264000 km
       distanceFrac: 0.5187040594186195
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 289313805.0000 km^2 s
-      leadingCoef: 4.66492844
+      leadingArea: 286729816.0000 km^2 s
+      leadingCoef: 4.62326392
       leadingFrac: 0
       arrivalFrac: 0
   - - - '101'
@@ -2661,14 +3373,17 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 73.532000 km
+      reach:
+        extra: 73.768000 km
+        flown: 73.532000 km
+      reachMade: 73.532000 km
       distanceFrac: 0.37665258035599947
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 386110435.0000 km^2 s
-      leadingCoef: 6.22568823
+      leadingArea: 383527083.0000 km^2 s
+      leadingCoef: 6.18403398
       leadingFrac: 0
       arrivalFrac: 0
   - - - '69'
@@ -2679,14 +3394,17 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 71.919000 km
+      reach:
+        extra: 82.739000 km
+        flown: 71.919000 km
+      reachMade: 71.919000 km
       distanceFrac: 0.36839031886285056
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 374413169.0000 km^2 s
-      leadingCoef: 6.03708019
+      leadingArea: 371829906.0000 km^2 s
+      leadingCoef: 5.99542737
       leadingFrac: 0
       arrivalFrac: 0
   - - - '27'
@@ -2697,14 +3415,17 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 56.095000 km
+      reach:
+        extra: 56.627000 km
+        flown: 56.095000 km
+      reachMade: 56.095000 km
       distanceFrac: 0.28733512613650913
       ss: 2018-01-01T02:30:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 444031120.0000 km^2 s
-      leadingCoef: 7.1596079
+      leadingArea: 441448356.0000 km^2 s
+      leadingCoef: 7.11796311
       leadingFrac: 0
       arrivalFrac: 0
   - - - '55'
@@ -2715,14 +3436,17 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 51.028000 km
+      reach:
+        extra: 58.403000 km
+        flown: 51.028000 km
+      reachMade: 51.028000 km
       distanceFrac: 0.26138045844538355
       ss: 2018-01-01T02:45:00Z
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 475931941.0000 km^2 s
-      leadingCoef: 7.67398033
+      leadingArea: 473348080.0000 km^2 s
+      leadingCoef: 7.63231786
       leadingFrac: 0
       arrivalFrac: 0
   - - - '85'
@@ -2733,14 +3457,17 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 14.983000 km
+        flown: 9.601000 km
+      reachMade: 10.000000 km
       distanceFrac: 5.122294788065053e-2
       ss: null
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 0.0000 km^2 s
-      leadingCoef: 0
+      leadingArea: 654644460.0000 km^2 s
+      leadingCoef: 10.55556117
       leadingFrac: 0
       arrivalFrac: 0
 - - - - '101'
@@ -2751,7 +3478,10 @@ score:
       leading: 71.2
       arrival: 61.4
       time: 344
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:18:23Z
@@ -2769,7 +3499,10 @@ score:
       leading: 86
       arrival: 53.5
       time: 330.6
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:19:27Z
@@ -2787,7 +3520,10 @@ score:
       leading: 72.2
       arrival: 46.4
       time: 325
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:20:11Z
@@ -2805,7 +3541,10 @@ score:
       leading: 55.8
       arrival: 40.3
       time: 250.6
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:37:57Z
@@ -2823,7 +3562,10 @@ score:
       leading: 59.7
       arrival: 34.9
       time: 226.7
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:45:55Z
@@ -2841,7 +3583,10 @@ score:
       leading: 63.3
       arrival: 30.3
       time: 218.9
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:48:41Z
@@ -2859,7 +3604,10 @@ score:
       leading: 64.5
       arrival: 26.3
       time: 215.3
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T07:50:00Z
@@ -2877,7 +3625,10 @@ score:
       leading: 49.4
       arrival: 20.3
       time: 182.6
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:02:49Z
@@ -2895,7 +3646,10 @@ score:
       leading: 42.4
       arrival: 23
       time: 182.8
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:02:44Z
@@ -2913,7 +3667,10 @@ score:
       leading: 41.3
       arrival: 16.3
       time: 160.9
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:15:00Z
       es: 2018-01-02T08:27:03Z
@@ -2931,7 +3688,10 @@ score:
       leading: 43.8
       arrival: 18.1
       time: 149.1
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:17:19Z
@@ -2949,7 +3709,10 @@ score:
       leading: 49.8
       arrival: 15
       time: 125.7
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:28:16Z
@@ -2967,7 +3730,10 @@ score:
       leading: 46.3
       arrival: 14
       time: 106.4
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:37:42Z
@@ -2985,7 +3751,10 @@ score:
       leading: 28.3
       arrival: 13.2
       time: 105.9
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:37:58Z
@@ -3003,7 +3772,10 @@ score:
       leading: 29.2
       arrival: 12.8
       time: 104.2
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:38:51Z
@@ -3021,7 +3793,10 @@ score:
       leading: 25.9
       arrival: 12.5
       time: 95.9
-      distanceMade: 388.750000 km
+      reach:
+        extra: 388.751000 km
+        flown: 388.751000 km
+      reachMade: 388.750000 km
       distanceFrac: 1
       ss: 2018-01-02T02:00:00Z
       es: 2018-01-02T08:43:03Z
@@ -3039,7 +3814,10 @@ score:
       leading: 41.1
       arrival: 0
       time: 0
-      distanceMade: 352.697000 km
+      reach:
+        extra: 352.249000 km
+        flown: 352.697000 km
+      reachMade: 352.697000 km
       distanceFrac: 0.9072591639871382
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3057,7 +3835,10 @@ score:
       leading: 35.9
       arrival: 0
       time: 0
-      distanceMade: 356.115000 km
+      reach:
+        extra: 357.025000 km
+        flown: 356.115000 km
+      reachMade: 356.115000 km
       distanceFrac: 0.9160514469453376
       ss: 2018-01-02T02:15:00Z
       es: null
@@ -3075,7 +3856,10 @@ score:
       leading: 44.3
       arrival: 0
       time: 0
-      distanceMade: 344.566000 km
+      reach:
+        extra: 346.119000 km
+        flown: 344.566000 km
+      reachMade: 344.566000 km
       distanceFrac: 0.8863434083601288
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3093,7 +3877,10 @@ score:
       leading: 15.4
       arrival: 0
       time: 0
-      distanceMade: 357.858000 km
+      reach:
+        extra: 358.398000 km
+        flown: 357.858000 km
+      reachMade: 357.858000 km
       distanceFrac: 0.9205350482315112
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3111,7 +3898,10 @@ score:
       leading: 9.3
       arrival: 0
       time: 0
-      distanceMade: 333.065000 km
+      reach:
+        extra: 333.443000 km
+        flown: 333.065000 km
+      reachMade: 333.065000 km
       distanceFrac: 0.8567588424437299
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3129,7 +3919,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 322.900000 km
+      reach:
+        extra: 325.589000 km
+        flown: 322.900000 km
+      reachMade: 322.900000 km
       distanceFrac: 0.8306109324758844
       ss: 2018-01-02T02:30:00Z
       es: null
@@ -3147,7 +3940,10 @@ score:
       leading: 2
       arrival: 0
       time: 0
-      distanceMade: 309.941000 km
+      reach:
+        extra: 310.408000 km
+        flown: 309.941000 km
+      reachMade: 309.941000 km
       distanceFrac: 0.7972758842443731
       ss: 2018-01-02T02:15:00Z
       es: null
@@ -3160,12 +3956,15 @@ score:
   - - - '68'
       - Neale Halsall
     - place: '24'
-      total: 385
+      total: 384
       distance: 380.6
       leading: 3.9
       arrival: 0
       time: 0
-      distanceMade: 289.592000 km
+      reach:
+        extra: 290.459000 km
+        flown: 289.592000 km
+      reachMade: 289.592000 km
       distanceFrac: 0.7449311897106109
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3183,7 +3982,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 267.369000 km
+      reach:
+        extra: 269.078000 km
+        flown: 267.369000 km
+      reachMade: 267.369000 km
       distanceFrac: 0.6877659163987139
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3201,7 +4003,10 @@ score:
       leading: 14.6
       arrival: 0
       time: 0
-      distanceMade: 238.765000 km
+      reach:
+        extra: 242.388000 km
+        flown: 238.765000 km
+      reachMade: 238.765000 km
       distanceFrac: 0.614186495176849
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3219,7 +4024,10 @@ score:
       leading: 15.6
       arrival: 0
       time: 0
-      distanceMade: 232.387000 km
+      reach:
+        extra: 238.846000 km
+        flown: 232.387000 km
+      reachMade: 232.387000 km
       distanceFrac: 0.5977800643086817
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3237,7 +4045,10 @@ score:
       leading: 14.6
       arrival: 0
       time: 0
-      distanceMade: 201.459000 km
+      reach:
+        extra: 201.858000 km
+        flown: 201.459000 km
+      reachMade: 201.459000 km
       distanceFrac: 0.5182225080385852
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3255,7 +4066,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 207.896000 km
+      reach:
+        extra: 213.920000 km
+        flown: 207.896000 km
+      reachMade: 207.896000 km
       distanceFrac: 0.5347807073954984
       ss: 2018-01-02T02:30:00Z
       es: null
@@ -3273,7 +4087,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 206.356000 km
+      reach:
+        extra: 209.050000 km
+        flown: 206.356000 km
+      reachMade: 206.356000 km
       distanceFrac: 0.5308192926045016
       ss: 2018-01-02T02:15:00Z
       es: null
@@ -3291,7 +4108,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 185.741000 km
+      reach:
+        extra: 187.645000 km
+        flown: 185.741000 km
+      reachMade: 185.741000 km
       distanceFrac: 0.4777903536977492
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3309,7 +4129,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 180.876000 km
+      reach:
+        extra: 184.904000 km
+        flown: 180.876000 km
+      reachMade: 180.876000 km
       distanceFrac: 0.465275884244373
       ss: 2018-01-02T02:30:00Z
       es: null
@@ -3327,7 +4150,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 176.000000 km
+      reach:
+        extra: 177.781000 km
+        flown: 176.000000 km
+      reachMade: 176.000000 km
       distanceFrac: 0.4527331189710611
       ss: 2018-01-02T02:15:00Z
       es: null
@@ -3345,7 +4171,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 224.782000 km
+      reach:
+        extra: 224.782000 km
+        flown: 224.782000 km
+      reachMade: 224.782000 km
       distanceFrac: 0.5782173633440515
       ss: 2018-01-02T01:56:06Z
       es: null
@@ -3363,7 +4192,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 136.716000 km
+      reach:
+        extra: 137.525000 km
+        flown: 136.716000 km
+      reachMade: 136.716000 km
       distanceFrac: 0.35168102893890674
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3381,7 +4213,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 94.242000 km
+      reach:
+        extra: 99.465000 km
+        flown: 94.242000 km
+      reachMade: 94.242000 km
       distanceFrac: 0.24242315112540194
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3399,7 +4234,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 74.776000 km
+      reach:
+        extra: 79.120000 km
+        flown: 74.776000 km
+      reachMade: 74.776000 km
       distanceFrac: 0.19234983922829582
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3417,7 +4255,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 56.991000 km
+      reach:
+        extra: 61.406000 km
+        flown: 56.991000 km
+      reachMade: 56.991000 km
       distanceFrac: 0.14660064308681672
       ss: 2018-01-02T02:15:00Z
       es: null
@@ -3435,7 +4276,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 56.296000 km
+      reach:
+        extra: 57.437000 km
+        flown: 56.296000 km
+      reachMade: 56.296000 km
       distanceFrac: 0.1448128617363344
       ss: 2018-01-02T02:00:00Z
       es: null
@@ -3453,7 +4297,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 56.243000 km
+      reach:
+        extra: 57.498000 km
+        flown: 56.243000 km
+      reachMade: 56.243000 km
       distanceFrac: 0.1446765273311897
       ss: 2018-01-02T02:15:00Z
       es: null
@@ -3471,7 +4318,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3489,7 +4339,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3507,7 +4360,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3525,7 +4381,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 5.970000 km
+        flown: 5.262000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3543,7 +4402,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 4.236000 km
+        flown: 2.998000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3561,7 +4423,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3579,7 +4444,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 2.572347266881029e-2
       ss: null
       es: null
@@ -3597,7 +4465,10 @@ score:
       leading: 61.5
       arrival: 48.6
       time: 272
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:02:40Z
@@ -3615,7 +4486,10 @@ score:
       leading: 68
       arrival: 37.9
       time: 260.4
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:03:33Z
@@ -3633,7 +4507,10 @@ score:
       leading: 61.6
       arrival: 29.4
       time: 258.6
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:03:46Z
@@ -3651,7 +4528,10 @@ score:
       leading: 66
       arrival: 22.8
       time: 253.7
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:04:25Z
@@ -3669,7 +4549,10 @@ score:
       leading: 67.8
       arrival: 17.9
       time: 246.7
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:05:31Z
@@ -3687,7 +4570,10 @@ score:
       leading: 65.7
       arrival: 12.2
       time: 189.4
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:19:27Z
@@ -3705,7 +4591,10 @@ score:
       leading: 48.4
       arrival: 14.5
       time: 190.4
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:19:10Z
@@ -3723,7 +4612,10 @@ score:
       leading: 55.2
       arrival: 10.8
       time: 167
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:26:44Z
@@ -3741,7 +4633,10 @@ score:
       leading: 50.9
       arrival: 10
       time: 93.6
-      distanceMade: 153.928000 km
+      reach:
+        extra: 153.929000 km
+        flown: 153.929000 km
+      reachMade: 153.928000 km
       distanceFrac: 1
       ss: 2018-01-03T04:15:00Z
       es: 2018-01-03T07:55:58Z
@@ -3759,7 +4654,10 @@ score:
       leading: 62.7
       arrival: 0
       time: 0
-      distanceMade: 144.711000 km
+      reach:
+        extra: 145.026000 km
+        flown: 144.711000 km
+      reachMade: 144.711000 km
       distanceFrac: 0.9401213554389065
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3777,7 +4675,10 @@ score:
       leading: 59.2
       arrival: 0
       time: 0
-      distanceMade: 145.112000 km
+      reach:
+        extra: 145.178000 km
+        flown: 145.112000 km
+      reachMade: 145.112000 km
       distanceFrac: 0.9427264695182163
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3795,7 +4696,10 @@ score:
       leading: 34.6
       arrival: 0
       time: 0
-      distanceMade: 143.821000 km
+      reach:
+        extra: 144.559000 km
+        flown: 143.821000 km
+      reachMade: 143.821000 km
       distanceFrac: 0.9343394314224832
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3813,7 +4717,10 @@ score:
       leading: 22
       arrival: 0
       time: 0
-      distanceMade: 147.549000 km
+      reach:
+        extra: 147.365000 km
+        flown: 147.549000 km
+      reachMade: 147.549000 km
       distanceFrac: 0.9585585468530742
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -3831,7 +4738,10 @@ score:
       leading: 10.1
       arrival: 0
       time: 0
-      distanceMade: 145.599000 km
+      reach:
+        extra: 145.861000 km
+        flown: 145.599000 km
+      reachMade: 145.599000 km
       distanceFrac: 0.9458902863676524
       ss: 2018-01-03T04:45:00Z
       es: null
@@ -3849,7 +4759,10 @@ score:
       leading: 22.4
       arrival: 0
       time: 0
-      distanceMade: 134.739000 km
+      reach:
+        extra: 134.493000 km
+        flown: 134.739000 km
+      reachMade: 134.739000 km
       distanceFrac: 0.8753378202796113
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -3867,7 +4780,10 @@ score:
       leading: 54.3
       arrival: 0
       time: 0
-      distanceMade: 126.791000 km
+      reach:
+        extra: 127.202000 km
+        flown: 126.791000 km
+      reachMade: 126.791000 km
       distanceFrac: 0.8237032898497999
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3885,7 +4801,10 @@ score:
       leading: 50
       arrival: 0
       time: 0
-      distanceMade: 127.006000 km
+      reach:
+        extra: 127.051000 km
+        flown: 127.006000 km
+      reachMade: 127.006000 km
       distanceFrac: 0.8251000467751156
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3903,7 +4822,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 136.182000 km
+      reach:
+        extra: 136.514000 km
+        flown: 136.182000 km
+      reachMade: 136.182000 km
       distanceFrac: 0.8847123330388236
       ss: 2018-01-03T04:45:00Z
       es: null
@@ -3921,7 +4843,10 @@ score:
       leading: 44.3
       arrival: 0
       time: 0
-      distanceMade: 127.889000 km
+      reach:
+        extra: 128.254000 km
+        flown: 127.889000 km
+      reachMade: 127.889000 km
       distanceFrac: 0.8308364949846682
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3939,7 +4864,10 @@ score:
       leading: 45.9
       arrival: 0
       time: 0
-      distanceMade: 127.289000 km
+      reach:
+        extra: 128.291000 km
+        flown: 127.289000 km
+      reachMade: 127.289000 km
       distanceFrac: 0.8269385686814614
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3952,12 +4880,15 @@ score:
   - - - '6'
       - Yoko Sano
     - place: '21'
-      total: 526
+      total: 525
       distance: 483.9
       leading: 41.6
       arrival: 0
       time: 0
-      distanceMade: 125.409000 km
+      reach:
+        extra: 125.385000 km
+        flown: 125.409000 km
+      reachMade: 125.409000 km
       distanceFrac: 0.8147250662647472
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -3975,7 +4906,10 @@ score:
       leading: 1.4
       arrival: 0
       time: 0
-      distanceMade: 129.651000 km
+      reach:
+        extra: 129.508000 km
+        flown: 129.651000 km
+      reachMade: 129.651000 km
       distanceFrac: 0.8422834052284186
       ss: 2018-01-03T04:45:00Z
       es: null
@@ -3993,7 +4927,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 124.452000 km
+      reach:
+        extra: 125.904000 km
+        flown: 124.452000 km
+      reachMade: 124.452000 km
       distanceFrac: 0.8085078738111324
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4011,7 +4948,10 @@ score:
       leading: 46.2
       arrival: 0
       time: 0
-      distanceMade: 114.263000 km
+      reach:
+        extra: 114.905000 km
+        flown: 114.263000 km
+      reachMade: 114.263000 km
       distanceFrac: 0.7423145886388441
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4029,7 +4969,10 @@ score:
       leading: 44.5
       arrival: 0
       time: 0
-      distanceMade: 113.595000 km
+      reach:
+        extra: 114.790000 km
+        flown: 113.595000 km
+      reachMade: 113.595000 km
       distanceFrac: 0.7379748973546073
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4047,7 +4990,10 @@ score:
       leading: 40.8
       arrival: 0
       time: 0
-      distanceMade: 112.439000 km
+      reach:
+        extra: 113.028000 km
+        flown: 112.439000 km
+      reachMade: 112.439000 km
       distanceFrac: 0.7304648926770958
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4065,7 +5011,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 115.729000 km
+      reach:
+        extra: 115.415000 km
+        flown: 115.729000 km
+      reachMade: 115.729000 km
       distanceFrac: 0.7518385219063458
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4083,7 +5032,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 114.123000 km
+      reach:
+        extra: 116.003000 km
+        flown: 114.123000 km
+      reachMade: 114.123000 km
       distanceFrac: 0.7414050725014293
       ss: 2018-01-03T04:45:00Z
       es: null
@@ -4096,12 +5048,15 @@ score:
   - - - '103'
       - Wayne Thompson
     - place: '29'
-      total: 383
+      total: 382
       distance: 367
       leading: 15.5
       arrival: 0
       time: 0
-      distanceMade: 108.770000 km
+      reach:
+        extra: 109.949000 km
+        flown: 108.770000 km
+      reachMade: 108.770000 km
       distanceFrac: 0.7066290733329869
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4119,7 +5074,10 @@ score:
       leading: 17.2
       arrival: 0
       time: 0
-      distanceMade: 97.067000 km
+      reach:
+        extra: 99.565000 km
+        flown: 97.067000 km
+      reachMade: 97.067000 km
       distanceFrac: 0.6306000207889403
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4137,7 +5095,10 @@ score:
       leading: 15.4
       arrival: 0
       time: 0
-      distanceMade: 96.233000 km
+      reach:
+        extra: 99.061000 km
+        flown: 96.233000 km
+      reachMade: 96.233000 km
       distanceFrac: 0.625181903227483
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4155,7 +5116,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 95.266000 km
+      reach:
+        extra: 98.444000 km
+        flown: 95.266000 km
+      reachMade: 95.266000 km
       distanceFrac: 0.6188997453354815
       ss: 2018-01-03T04:45:00Z
       es: null
@@ -4173,7 +5137,10 @@ score:
       leading: 7.8
       arrival: 0
       time: 0
-      distanceMade: 92.151000 km
+      reach:
+        extra: 92.633000 km
+        flown: 92.151000 km
+      reachMade: 92.151000 km
       distanceFrac: 0.5986630112780001
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4191,7 +5158,10 @@ score:
       leading: 5.4
       arrival: 0
       time: 0
-      distanceMade: 89.364000 km
+      reach:
+        extra: 90.991000 km
+        flown: 89.364000 km
+      reachMade: 89.364000 km
       distanceFrac: 0.580557143599605
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4209,7 +5179,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 90.150000 km
+      reach:
+        extra: 98.662000 km
+        flown: 90.150000 km
+      reachMade: 90.150000 km
       distanceFrac: 0.5856634270568057
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4227,7 +5200,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 85.466000 km
+      reach:
+        extra: 89.833000 km
+        flown: 85.466000 km
+      reachMade: 85.466000 km
       distanceFrac: 0.5552336157164389
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4245,7 +5221,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 70.412000 km
+      reach:
+        extra: 69.913000 km
+        flown: 70.412000 km
+      reachMade: 70.412000 km
       distanceFrac: 0.4574346447689829
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4263,7 +5242,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 67.771000 km
+      reach:
+        extra: 69.773000 km
+        flown: 67.771000 km
+      reachMade: 67.771000 km
       distanceFrac: 0.44027727249103477
       ss: 2018-01-03T04:30:00Z
       es: null
@@ -4281,7 +5263,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 15.164000 km
+      reach:
+        extra: 15.588000 km
+        flown: 15.164000 km
+      reachMade: 15.164000 km
       distanceFrac: 9.851359076971052e-2
       ss: 2018-01-03T04:15:00Z
       es: null
@@ -4299,7 +5284,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 6.496543838677823e-2
       ss: null
       es: null
@@ -4317,7 +5305,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 6.496543838677823e-2
       ss: null
       es: null
@@ -4335,7 +5326,10 @@ score:
       leading: 97.7
       arrival: 73.7
       time: 412.9
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:23:59Z
@@ -4353,7 +5347,10 @@ score:
       leading: 92.7
       arrival: 67.2
       time: 361.4
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:28:58Z
@@ -4371,7 +5368,10 @@ score:
       leading: 103.2
       arrival: 61.2
       time: 355.4
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:29:52Z
@@ -4389,7 +5389,10 @@ score:
       leading: 83.8
       arrival: 55.7
       time: 315.5
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:36:58Z
@@ -4407,7 +5410,10 @@ score:
       leading: 86.5
       arrival: 50.7
       time: 314.7
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:37:07Z
@@ -4425,7 +5431,10 @@ score:
       leading: 81.4
       arrival: 46.1
       time: 307.1
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:38:41Z
@@ -4443,7 +5452,10 @@ score:
       leading: 47.6
       arrival: 28.9
       time: 357.7
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T03:10:00Z
       es: 2018-01-04T06:49:31Z
@@ -4461,7 +5473,10 @@ score:
       leading: 82.6
       arrival: 41.9
       time: 289.8
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:42:25Z
@@ -4479,7 +5494,10 @@ score:
       leading: 83.9
       arrival: 38.1
       time: 281.2
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:44:23Z
@@ -4497,7 +5515,10 @@ score:
       leading: 73.7
       arrival: 34.7
       time: 280
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:44:40Z
@@ -4515,7 +5536,10 @@ score:
       leading: 43
       arrival: 19.6
       time: 314
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T03:10:00Z
       es: 2018-01-04T06:57:16Z
@@ -4533,7 +5557,10 @@ score:
       leading: 37.9
       arrival: 20.9
       time: 315.6
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T03:10:00Z
       es: 2018-01-04T06:56:56Z
@@ -4551,7 +5578,10 @@ score:
       leading: 62.5
       arrival: 31.6
       time: 268.8
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:47:20Z
@@ -4569,7 +5599,10 @@ score:
       leading: 36.8
       arrival: 16.8
       time: 307.3
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T03:10:00Z
       es: 2018-01-04T06:58:38Z
@@ -4587,7 +5620,10 @@ score:
       leading: 79.2
       arrival: 22.5
       time: 232.9
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:56:35Z
@@ -4605,7 +5641,10 @@ score:
       leading: 68.8
       arrival: 24.3
       time: 238.2
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:55:10Z
@@ -4623,7 +5662,10 @@ score:
       leading: 53.5
       arrival: 26.5
       time: 245.8
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:53:09Z
@@ -4641,7 +5683,10 @@ score:
       leading: 70.8
       arrival: 17.5
       time: 225.8
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:58:33Z
@@ -4659,7 +5704,10 @@ score:
       leading: 67.6
       arrival: 18.4
       time: 227.5
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T06:58:05Z
@@ -4677,7 +5725,10 @@ score:
       leading: 48.7
       arrival: 16.2
       time: 191.8
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T07:08:23Z
@@ -4695,7 +5746,10 @@ score:
       leading: 80.9
       arrival: 15.1
       time: 122.1
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T07:30:56Z
@@ -4713,7 +5767,10 @@ score:
       leading: 49.6
       arrival: 15.7
       time: 140.1
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T07:24:50Z
@@ -4731,7 +5788,10 @@ score:
       leading: 54.2
       arrival: 15.3
       time: 134.2
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T02:50:00Z
       es: 2018-01-04T07:26:49Z
@@ -4749,7 +5809,10 @@ score:
       leading: 5.6
       arrival: 14.9
       time: 74.2
-      distanceMade: 166.362000 km
+      reach:
+        extra: 166.363000 km
+        flown: 166.363000 km
+      reachMade: 166.362000 km
       distanceFrac: 1
       ss: 2018-01-04T03:10:00Z
       es: 2018-01-04T08:08:10Z
@@ -4762,12 +5825,15 @@ score:
   - - - '42'
       - Rob de Groot
     - place: '25'
-      total: 392
+      total: 391
       distance: 370.3
       leading: 21.2
       arrival: 0
       time: 0
-      distanceMade: 135.020000 km
+      reach:
+        extra: 136.592000 km
+        flown: 135.020000 km
+      reachMade: 135.020000 km
       distanceFrac: 0.8116036114016422
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4779,13 +5845,16 @@ score:
       arrivalFrac: 0
   - - - '80'
       - Michael Cassells
-    - place: '26'
+    - place: '25'
       total: 391
       distance: 351.9
       leading: 39.4
       arrival: 0
       time: 0
-      distanceMade: 127.666000 km
+      reach:
+        extra: 130.688000 km
+        flown: 127.666000 km
+      reachMade: 127.666000 km
       distanceFrac: 0.7673988050155685
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4803,7 +5872,10 @@ score:
       leading: 34.9
       arrival: 0
       time: 0
-      distanceMade: 127.408000 km
+      reach:
+        extra: 128.706000 km
+        flown: 127.408000 km
+      reachMade: 127.408000 km
       distanceFrac: 0.7658479700893233
       ss: 2018-01-04T03:10:00Z
       es: null
@@ -4821,7 +5893,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 138.106000 km
+      reach:
+        extra: 140.315000 km
+        flown: 138.106000 km
+      reachMade: 138.106000 km
       distanceFrac: 0.8301535206357221
       ss: 2018-01-04T03:10:00Z
       es: null
@@ -4839,7 +5914,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 134.970000 km
+      reach:
+        extra: 136.160000 km
+        flown: 134.970000 km
+      reachMade: 134.970000 km
       distanceFrac: 0.8113030619973312
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4857,7 +5935,10 @@ score:
       leading: 43.2
       arrival: 0
       time: 0
-      distanceMade: 120.260000 km
+      reach:
+        extra: 122.165000 km
+        flown: 120.260000 km
+      reachMade: 120.260000 km
       distanceFrac: 0.7228814272490112
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4875,7 +5956,10 @@ score:
       leading: 33.3
       arrival: 0
       time: 0
-      distanceMade: 119.725000 km
+      reach:
+        extra: 122.721000 km
+        flown: 119.725000 km
+      reachMade: 119.725000 km
       distanceFrac: 0.7196655486228827
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4893,7 +5977,10 @@ score:
       leading: 24.4
       arrival: 0
       time: 0
-      distanceMade: 119.957000 km
+      reach:
+        extra: 124.400000 km
+        flown: 119.957000 km
+      reachMade: 119.957000 km
       distanceFrac: 0.7210600978588861
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4911,7 +5998,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 124.451000 km
+      reach:
+        extra: 127.273000 km
+        flown: 124.451000 km
+      reachMade: 124.451000 km
       distanceFrac: 0.748073478318366
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4929,7 +6019,10 @@ score:
       leading: 47.1
       arrival: 0
       time: 0
-      distanceMade: 110.896000 km
+      reach:
+        extra: 114.172000 km
+        flown: 110.896000 km
+      reachMade: 110.896000 km
       distanceFrac: 0.666594534809632
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4942,12 +6035,15 @@ score:
   - - - '6'
       - Yoko Sano
     - place: '35'
-      total: 298
+      total: 297
       distance: 267.8
       leading: 29.7
       arrival: 0
       time: 0
-      distanceMade: 108.456000 km
+      reach:
+        extra: 111.006000 km
+        flown: 108.456000 km
+      reachMade: 108.456000 km
       distanceFrac: 0.6519277238792512
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4965,7 +6061,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 114.259000 km
+      reach:
+        extra: 117.364000 km
+        flown: 114.259000 km
+      reachMade: 114.259000 km
       distanceFrac: 0.6868094877435953
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -4983,7 +6082,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 108.953000 km
+      reach:
+        extra: 110.425000 km
+        flown: 108.953000 km
+      reachMade: 108.953000 km
       distanceFrac: 0.6549151849581034
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -5001,7 +6103,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 107.560000 km
+      reach:
+        extra: 113.748000 km
+        flown: 107.560000 km
+      reachMade: 107.560000 km
       distanceFrac: 0.6465418785539967
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -5019,7 +6124,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 96.771000 km
+      reach:
+        extra: 99.702000 km
+        flown: 96.771000 km
+      reachMade: 96.771000 km
       distanceFrac: 0.5816893280917517
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -5037,7 +6145,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 85.698000 km
+      reach:
+        extra: 96.058000 km
+        flown: 85.698000 km
+      reachMade: 85.698000 km
       distanceFrac: 0.5151296570130199
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -5055,7 +6166,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 48.359000 km
+      reach:
+        extra: 50.486000 km
+        flown: 48.359000 km
+      reachMade: 48.359000 km
       distanceFrac: 0.29068537286159096
       ss: 2018-01-04T03:10:00Z
       es: null
@@ -5073,7 +6187,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 47.081000 km
+      reach:
+        extra: 50.451000 km
+        flown: 47.081000 km
+      reachMade: 47.081000 km
       distanceFrac: 0.28300333008739975
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -5091,7 +6208,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 27.717000 km
+      reach:
+        extra: 37.656000 km
+        flown: 27.717000 km
+      reachMade: 27.717000 km
       distanceFrac: 0.16660655678580447
       ss: 2018-01-04T02:50:00Z
       es: null
@@ -5109,7 +6229,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 26.525000 km
+      reach:
+        extra: 28.251000 km
+        flown: 26.525000 km
+      reachMade: 26.525000 km
       distanceFrac: 0.1594414589870283
       ss: 2018-01-04T03:50:00Z
       es: null
@@ -5127,7 +6250,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 10.000000 km
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      reachMade: 10.000000 km
       distanceFrac: 6.010988086221613e-2
       ss: null
       es: null
@@ -5145,7 +6271,10 @@ score:
       leading: 98
       arrival: 76.8
       time: 430.4
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:12:01Z
@@ -5163,7 +6292,10 @@ score:
       leading: 90
       arrival: 70.3
       time: 364.3
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:18:48Z
@@ -5181,7 +6313,10 @@ score:
       leading: 85
       arrival: 64.3
       time: 361.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:19:14Z
@@ -5199,7 +6334,10 @@ score:
       leading: 107.6
       arrival: 48.9
       time: 328.3
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:25:03Z
@@ -5217,7 +6355,10 @@ score:
       leading: 92.2
       arrival: 53.6
       time: 333.1
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:24:08Z
@@ -5235,7 +6376,10 @@ score:
       leading: 78.7
       arrival: 58.8
       time: 340.6
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:22:46Z
@@ -5253,7 +6397,10 @@ score:
       leading: 79.4
       arrival: 44.7
       time: 327.6
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:25:11Z
@@ -5271,7 +6418,10 @@ score:
       leading: 78.3
       arrival: 40.8
       time: 315.7
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:27:32Z
@@ -5289,7 +6439,10 @@ score:
       leading: 82.8
       arrival: 37.2
       time: 305.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:29:38Z
@@ -5307,7 +6460,10 @@ score:
       leading: 87
       arrival: 34
       time: 304
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:29:57Z
@@ -5325,7 +6481,10 @@ score:
       leading: 73.6
       arrival: 31.2
       time: 260.1
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:40:05Z
@@ -5343,7 +6502,10 @@ score:
       leading: 53.4
       arrival: 28.6
       time: 187.1
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T06:59:56Z
@@ -5361,7 +6523,10 @@ score:
       leading: 20.3
       arrival: 22.7
       time: 212.7
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T03:00:00Z
       es: 2018-01-05T07:12:35Z
@@ -5379,7 +6544,10 @@ score:
       leading: 18
       arrival: 24.4
       time: 213.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T03:00:00Z
       es: 2018-01-05T07:12:21Z
@@ -5397,7 +6565,10 @@ score:
       leading: 38.4
       arrival: 26.4
       time: 151.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:10:50Z
@@ -5415,7 +6586,10 @@ score:
       leading: 6.5
       arrival: 20
       time: 181.8
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T03:00:00Z
       es: 2018-01-05T07:21:32Z
@@ -5433,7 +6607,10 @@ score:
       leading: 35.7
       arrival: 21.2
       time: 127.8
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:18:31Z
@@ -5451,7 +6628,10 @@ score:
       leading: 45.1
       arrival: 18.9
       time: 115.2
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:22:42Z
@@ -5469,7 +6649,10 @@ score:
       leading: 42.4
       arrival: 18
       time: 108.8
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:24:51Z
@@ -5487,7 +6670,10 @@ score:
       leading: 28.1
       arrival: 17.3
       time: 73.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:37:11Z
@@ -5505,7 +6691,10 @@ score:
       leading: 18.5
       arrival: 17.3
       time: 73.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:37:11Z
@@ -5523,7 +6712,10 @@ score:
       leading: 20.5
       arrival: 16.3
       time: 40.5
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:49:16Z
@@ -5541,7 +6733,10 @@ score:
       leading: 21.8
       arrival: 15.9
       time: 30.1
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:53:10Z
@@ -5559,7 +6754,10 @@ score:
       leading: 21.8
       arrival: 15.7
       time: 22.2
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T07:56:12Z
@@ -5577,7 +6775,10 @@ score:
       leading: 8.4
       arrival: 15.5
       time: 0
-      distanceMade: 172.145000 km
+      reach:
+        extra: 172.146000 km
+        flown: 172.146000 km
+      reachMade: 172.145000 km
       distanceFrac: 1
       ss: 2018-01-05T02:40:00Z
       es: 2018-01-05T08:57:08Z
@@ -5595,7 +6796,10 @@ score:
       leading: 6.6
       arrival: 0
       time: 0
-      distanceMade: 168.607000 km
+      reach:
+        extra: 169.404000 km
+        flown: 168.607000 km
+      reachMade: 168.607000 km
       distanceFrac: 0.9794475587440821
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5613,7 +6817,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 160.674000 km
+      reach:
+        extra: 160.854000 km
+        flown: 160.674000 km
+      reachMade: 160.674000 km
       distanceFrac: 0.9333643149670336
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5631,7 +6838,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 134.587000 km
+      reach:
+        extra: 135.655000 km
+        flown: 134.587000 km
+      reachMade: 134.587000 km
       distanceFrac: 0.7818234627784716
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5649,7 +6859,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 119.472000 km
+      reach:
+        extra: 123.780000 km
+        flown: 119.472000 km
+      reachMade: 119.472000 km
       distanceFrac: 0.6940195765197944
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5667,7 +6880,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 118.481000 km
+      reach:
+        extra: 121.801000 km
+        flown: 118.481000 km
+      reachMade: 118.481000 km
       distanceFrac: 0.6882628017078627
       ss: 2018-01-05T03:40:00Z
       es: null
@@ -5685,7 +6901,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 110.623000 km
+      reach:
+        extra: 112.612000 km
+        flown: 110.623000 km
+      reachMade: 110.623000 km
       distanceFrac: 0.6426152371547242
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5703,7 +6922,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 108.119000 km
+      reach:
+        extra: 111.084000 km
+        flown: 108.119000 km
+      reachMade: 108.119000 km
       distanceFrac: 0.6280693601324465
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5721,7 +6943,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 104.818000 km
+      reach:
+        extra: 105.563000 km
+        flown: 104.818000 km
+      reachMade: 104.818000 km
       distanceFrac: 0.6088936652240844
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5739,7 +6964,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 93.736000 km
+      reach:
+        extra: 97.476000 km
+        flown: 93.736000 km
+      reachMade: 93.736000 km
       distanceFrac: 0.5445177030991315
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5757,7 +6985,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 95.030000 km
+      reach:
+        extra: 95.030000 km
+        flown: 95.030000 km
+      reachMade: 95.030000 km
       distanceFrac: 0.55203462197566
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5775,7 +7006,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 67.149000 km
+      reach:
+        extra: 70.758000 km
+        flown: 67.149000 km
+      reachMade: 67.149000 km
       distanceFrac: 0.3900723227511691
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5793,7 +7027,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 67.244000 km
+      reach:
+        extra: 70.272000 km
+        flown: 67.244000 km
+      reachMade: 67.244000 km
       distanceFrac: 0.3906241831014552
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5811,7 +7048,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 64.080000 km
+      reach:
+        extra: 67.075000 km
+        flown: 64.080000 km
+      reachMade: 64.080000 km
       distanceFrac: 0.3722443289087688
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5829,7 +7069,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 56.432000 km
+      reach:
+        extra: 62.132000 km
+        flown: 56.432000 km
+      reachMade: 56.432000 km
       distanceFrac: 0.32781666618257865
       ss: 2018-01-05T02:40:00Z
       es: null
@@ -5847,7 +7090,10 @@ score:
       leading: 0
       arrival: 0
       time: 0
-      distanceMade: 31.957000 km
+      reach:
+        extra: 33.028000 km
+        flown: 31.957000 km
+      reachMade: 31.957000 km
       distanceFrac: 0.1856400127799239
       ss: 2018-01-05T03:20:00Z
       es: null

@@ -1,43 +1,47 @@
-bestReach:
-- 142.788617 km
-- 185.745570 km
-- 195.225011 km
-- 388.750515 km
-- 153.937472 km
-- 166.416649 km
-- 172.127877 km
-flownMean:
-- 89.242704 km
-- 133.387834 km
-- 171.724167 km
-- 280.101764 km
-- 121.720288 km
-- 133.103263 km
-- 141.963956 km
-flownStdDev:
-- 50.968984 km
-- 59.986429 km
-- 43.636800 km
-- 125.810728 km
-- 31.311459 km
-- 41.924517 km
-- 42.555641 km
-reachMean:
-- 89.127617 km
-- 133.001057 km
-- 171.724167 km
-- 279.808290 km
-- 121.720288 km
-- 133.103263 km
-- 141.963956 km
-reachStdDev:
-- 51.157340 km
-- 60.820537 km
-- 43.636800 km
-- 126.462185 km
-- 31.311459 km
-- 41.924517 km
-- 42.555641 km
+bolster:
+- max: 142.788617 km
+  mean: 73.070723 km
+  stdDev: 55.087456 km
+- max: 185.745570 km
+  mean: 104.355402 km
+  stdDev: 73.624089 km
+- max: 195.225011 km
+  mean: 171.724167 km
+  stdDev: 43.149222 km
+- max: 388.750515 km
+  mean: 244.871099 km
+  stdDev: 147.290000 km
+- max: 153.937472 km
+  mean: 116.134273 km
+  stdDev: 38.726535 km
+- max: 166.416649 km
+  mean: 130.367635 km
+  stdDev: 44.819948 km
+- max: 172.127877 km
+  mean: 138.580265 km
+  stdDev: 46.402452 km
+reach:
+- max: 142.788617 km
+  mean: 70.955477 km
+  stdDev: 57.597322 km
+- max: 185.745570 km
+  mean: 101.706691 km
+  stdDev: 77.065340 km
+- max: 195.225011 km
+  mean: 171.724167 km
+  stdDev: 43.149222 km
+- max: 388.750515 km
+  mean: 243.316443 km
+  stdDev: 149.788902 km
+- max: 153.937472 km
+  mean: 115.634273 km
+  stdDev: 40.132640 km
+- max: 166.416649 km
+  mean: 130.145412 km
+  stdDev: 45.436740 km
+- max: 172.127877 km
+  mean: 138.326291 km
+  stdDev: 47.126964 km
 reachRank:
 - - - - '92'
       - Attila Bertok
@@ -107,10 +111,38 @@ reachRank:
       - Rohan Taylor
     - frac: 1
       reach: 142.788617 km
+  - - - '42'
+      - Rob de Groot
+    - frac: 0.86329121
+      reach: 0.123268 km
+  - - - '75'
+      - Yasuhiro Noma
+    - frac: 0.83800331
+      reach: 0.119657 km
+  - - - '74'
+      - Vic Hare
+    - frac: 0.83499117
+      reach: 0.119227 km
+  - - - '6'
+      - Yoko Sano
+    - frac: 0.8124352
+      reach: 0.116006 km
+  - - - '52'
+      - Dale Regehr
+    - frac: 0.76459133
+      reach: 0.109175 km
   - - - '41'
       - Tony Armstrong
     - frac: 0.68172533
       reach: 97.342617 km
+  - - - '103'
+      - Wayne Thompson
+    - frac: 0.67611869
+      reach: 0.096542 km
+  - - - '36'
+      - Steve Docherty
+    - frac: 0.67093502
+      reach: 0.095802 km
   - - - '72'
       - Sasha Serebrennikova
     - frac: 0.55578392
@@ -139,6 +171,10 @@ reachRank:
       - Andrew Barnes
     - frac: 0.43769327
       reach: 62.497617 km
+  - - - '83'
+      - Randal Clotworthy
+    - frac: 0.4317857
+      reach: 0.061654 km
   - - - '4'
       - Frank Chetcuti
     - frac: 0.40093264
@@ -195,6 +231,14 @@ reachRank:
       - Brodrick Osborne
     - frac: 3.859983e-2
       reach: 5.511617 km
+  - - - '37'
+      - Gavin Myers
+    - frac: 0
+      reach: 0.000000 km
+  - - - '102'
+      - Robert Davies
+    - frac: 0
+      reach: 0.000000 km
 - - - - '62'
       - Josh Woods
     - frac: 1
@@ -351,6 +395,54 @@ reachRank:
       - Longfei Yang
     - frac: 1.8073e-4
       reach: 0.033570 km
+  - - - '107'
+      - Anatoly Reyter
+    - frac: 0
+      reach: 0.000000 km
+  - - - '4'
+      - Frank Chetcuti
+    - frac: 0
+      reach: 0.000000 km
+  - - - '99'
+      - Gennadiy Khramov
+    - frac: 0
+      reach: 0.000000 km
+  - - - '94'
+      - Justinas Pleikys
+    - frac: 0
+      reach: 0.000000 km
+  - - - '28'
+      - Mikhail Karmazin
+    - frac: 0
+      reach: 0.000000 km
+  - - - '68'
+      - Neale Halsall
+    - frac: 0
+      reach: 0.000000 km
+  - - - '108'
+      - Peter Adriaans
+    - frac: 0
+      reach: 0.000000 km
+  - - - '83'
+      - Randal Clotworthy
+    - frac: 0
+      reach: 0.000000 km
+  - - - '102'
+      - Robert Davies
+    - frac: 0
+      reach: 0.000000 km
+  - - - '86'
+      - Ross Smith
+    - frac: 0
+      reach: 0.000000 km
+  - - - '88'
+      - Simon West
+    - frac: 0
+      reach: 0.000000 km
+  - - - '74'
+      - Vic Hare
+    - frac: 0
+      reach: 0.000000 km
 - - - - '92'
       - Attila Bertok
     - frac: 1
@@ -639,6 +731,10 @@ reachRank:
       - Dale Regehr
     - frac: 0.59777802
       reach: 232.386515 km
+  - - - '85'
+      - Rick Martin
+    - frac: 0.57821736
+      reach: 0.224782 km
   - - - '88'
       - Simon West
     - frac: 0.53477875
@@ -691,6 +787,26 @@ reachRank:
       - Peter Burkitt
     - frac: 7.71321e-3
       reach: 2.998515 km
+  - - - '55'
+      - Don Cramer
+    - frac: 0
+      reach: 0.000000 km
+  - - - '4'
+      - Frank Chetcuti
+    - frac: 0
+      reach: 0.000000 km
+  - - - '100'
+      - Malcolm Brown
+    - frac: 0
+      reach: 0.000000 km
+  - - - '98'
+      - Oyvind Ellefsen
+    - frac: 0
+      reach: 0.000000 km
+  - - - '86'
+      - Ross Smith
+    - frac: 0
+      reach: 0.000000 km
 - - - - '101'
       - Oliver Chitty
     - frac: 1
@@ -843,6 +959,14 @@ reachRank:
       - Peter Burkitt
     - frac: 9.851709e-2
       reach: 15.165472 km
+  - - - '80'
+      - Michael Cassells
+    - frac: 0
+      reach: 0.000000 km
+  - - - '71'
+      - Rob Larkin
+    - frac: 0
+      reach: 0.000000 km
 - - - - '43'
       - Jonny Durand
     - frac: 1
@@ -1019,6 +1143,10 @@ reachRank:
       - Randal Clotworthy
     - frac: 0.15938098
       reach: 26.523649 km
+  - - - '99'
+      - Gennadiy Khramov
+    - frac: 0
+      reach: 0.000000 km
 - - - - '92'
       - Attila Bertok
     - frac: 1
@@ -1147,6 +1275,10 @@ reachRank:
       - Nils Vesk
     - frac: 0.60944734
       reach: 104.902877 km
+  - - - '85'
+      - Rick Martin
+    - frac: 0.55203462
+      reach: 0.095021 km
   - - - '83'
       - Randal Clotworthy
     - frac: 0.54476868
