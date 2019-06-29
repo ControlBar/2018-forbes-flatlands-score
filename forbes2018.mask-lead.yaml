@@ -87,7 +87,7 @@ leadAreaToCoef:
 - 0.00000001979490 km^-2 s^-1
 leadCoefMin:
 - 1.61315266
-- 5.00665e-2
+- 3.58860851
 - 2.17475361
 - 3.70610886
 - 1.78847922
@@ -284,116 +284,116 @@ leadRank:
     - area: 194450751.9966 km^2 s
       coef: 6.08979822
       frac: 0
-- - - - '30'
-      - Jason Kath
-    - area: 2796167.4589 km^2 s
-      coef: 5.00665e-2
-      frac: 1
-  - - - '27'
+- - - - '27'
       - Guy Hubbard
     - area: 200420452.7741 km^2 s
       coef: 3.58860851
-      frac: 0
+      frac: 1
   - - - '92'
       - Attila Bertok
     - area: 200714977.8179 km^2 s
       coef: 3.5938821
-      frac: 0
+      frac: 0.98021077
   - - - '43'
       - Jonny Durand
     - area: 204606773.4990 km^2 s
       coef: 3.66356626
-      frac: 0
+      frac: 0.88388125
   - - - '62'
       - Josh Woods
     - area: 205349197.5613 km^2 s
       coef: 3.67685966
-      frac: 0
+      frac: 0.87052928
   - - - '101'
       - Oliver Chitty
     - area: 208181226.6132 km^2 s
       coef: 3.72756828
-      frac: 0
+      frac: 0.82476641
   - - - '7'
       - Olav Opsanger
     - area: 211001197.9499 km^2 s
       coef: 3.778061
-      frac: 0
+      frac: 0.78454421
   - - - '76'
       - Rory Duncan
     - area: 211044229.3811 km^2 s
       coef: 3.77883149
-      frac: 0
+      frac: 0.78396044
   - - - '25'
       - Tyler Borrdaile
     - area: 211123372.1453 km^2 s
       coef: 3.78024857
-      frac: 0
+      frac: 0.78288883
   - - - '75'
       - Yasuhiro Noma
     - area: 211484701.4813 km^2 s
       coef: 3.78671832
-      frac: 0
+      frac: 0.77802949
   - - - '8'
       - Gordon Rigg
-    - area: 212366929.3270 km^2 s
-      coef: 3.80251496
-      frac: 0
+    - area: 212366939.7467 km^2 s
+      coef: 3.80251515
+      frac: 0.76638137
   - - - '23'
       - Nils Vesk
     - area: 217036078.2401 km^2 s
       coef: 3.88611795
-      frac: 0
+      frac: 0.70891144
   - - - '41'
       - Tony Armstrong
     - area: 219526812.0254 km^2 s
       coef: 3.93071553
-      frac: 0
+      frac: 0.68050361
   - - - '69'
       - Niki Longshore
     - area: 223801916.8869 km^2 s
       coef: 4.007263
-      frac: 0
+      frac: 0.63446542
   - - - '11'
       - Steve Blenkinsop
     - area: 226932051.8567 km^2 s
       coef: 4.06330932
-      frac: 0
+      frac: 0.60252976
   - - - '6'
       - Yoko Sano
     - area: 229617650.7715 km^2 s
       coef: 4.11139604
-      frac: 0
+      frac: 0.57612144
   - - - '100'
       - Malcolm Brown
     - area: 234567114.7436 km^2 s
       coef: 4.20001818
-      frac: 0
+      frac: 0.52947846
   - - - '81'
       - Nick Purcell
     - area: 235370523.3626 km^2 s
       coef: 4.21440353
-      frac: 0
+      frac: 0.52212677
   - - - '15'
       - Ryosuke Hattori
     - area: 236424824.2978 km^2 s
       coef: 4.23328121
-      frac: 0
+      frac: 0.51256412
   - - - '98'
       - Oyvind Ellefsen
     - area: 240145578.3139 km^2 s
       coef: 4.2999028
-      frac: 0
+      frac: 0.47953581
+  - - - '30'
+      - Jason Kath
+    - area: 240244344.8971 km^2 s
+      coef: 4.30167126
+      frac: 0.4786735
   - - - '22'
       - Rohan Taylor
     - area: 244267332.4369 km^2 s
       coef: 4.37370446
-      frac: 0
+      frac: 0.44413014
   - - - '106'
       - Jon Durand Snr
     - area: 254734534.4674 km^2 s
       coef: 4.56112391
-      frac: 0
+      frac: 0.35885593
   - - - '52'
       - Dale Regehr
     - area: 308676890.9058 km^2 s
@@ -481,9 +481,9 @@ leadRank:
       frac: 0.63067294
   - - - '8'
       - Gordon Rigg
-    - area: 160021533.9977 km^2 s
-      coef: 2.58007862
-      frac: 0.57726756
+    - area: 160021545.4367 km^2 s
+      coef: 2.5800788
+      frac: 0.57726743
   - - - '22'
       - Rohan Taylor
     - area: 163324731.7069 km^2 s
@@ -761,9 +761,9 @@ leadRank:
       frac: 0.49332747
   - - - '8'
       - Gordon Rigg
-    - area: 1145800533.6777 km^2 s
-      coef: 4.42805712
-      frac: 0.47996649
+    - area: 1145800542.2918 km^2 s
+      coef: 4.42805716
+      frac: 0.47996648
   - - - '51'
       - Craig Taylor
     - area: 1146659599.0380 km^2 s
@@ -1051,8 +1051,8 @@ leadRank:
       frac: 0
   - - - '8'
       - Gordon Rigg
-    - area: 118451732.3580 km^2 s
-      coef: 3.15871703
+    - area: 118451737.1924 km^2 s
+      coef: 3.15871716
       frac: 0
   - - - '64'
       - Longfei Yang
@@ -1141,9 +1141,9 @@ leadRank:
       frac: 0.66502348
   - - - '8'
       - Gordon Rigg
-    - area: 132480781.0679 km^2 s
-      coef: 2.81082604
-      frac: 0.65409559
+    - area: 132480795.7110 km^2 s
+      coef: 2.81082635
+      frac: 0.65409537
   - - - '62'
       - Josh Woods
     - area: 135860199.4348 km^2 s
@@ -1346,9 +1346,9 @@ leadRank:
       frac: 0.66902201
   - - - '8'
       - Gordon Rigg
-    - area: 145695748.7439 km^2 s
-      coef: 2.88403286
-      frac: 0.49653138
+    - area: 145695760.3880 km^2 s
+      coef: 2.88403309
+      frac: 0.49653124
   - - - '6'
       - Yoko Sano
     - area: 152322318.2085 km^2 s
