@@ -10,8 +10,8 @@ comp:
     timeZoneMinutes: 660
   scoreBack: 900.000 s
   give:
-    giveFraction: 5.0e-4
-    giveDistance: 5.0 m
+    giveFraction: 5.0e-3
+    giveDistance: null
   earth:
     sphere:
       radius: 6371000.0 m
@@ -32,19 +32,22 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 230.000 m
     - zoneName: TRANG
       lat: -31.9798
       lng: 148.0035
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 213.000 m
     raceKind:
       prolog:
@@ -89,6 +92,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: 0
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals: []
 - taskName: task 2
   zones:
@@ -97,31 +103,36 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 245.000 m
     - zoneName: PINEY
       lat: -33.85373
       lng: 147.94195
       radius: 2000.0 m
-      give: null
+      giveIn: 1990.0 m
+      giveOut: 2010.0 m
       alt: 279.000 m
     - zoneName: ATTILA
       lat: -34.46358
       lng: 148.70315
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 518.000 m
     - zoneName: BOOKHA
       lat: -34.8188
       lng: 148.66808
       radius: 1000.0 m
-      give: null
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 515.000 m
     raceKind:
       prolog:
@@ -177,6 +188,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals:
   - - - '74'
       - Vic Hare
@@ -213,25 +227,29 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 230.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 395.000 m
     - zoneName: GULGO
       lat: -32.2985
       lng: 149.5573
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 445.000 m
     raceKind:
       prolog:
@@ -280,6 +298,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals:
   - - - '43'
       - Jonny Durand
@@ -292,19 +313,22 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 230.000 m
     - zoneName: MAN037
       lat: -30.7635
       lng: 150.7237
       radius: 1000.0 m
-      give: null
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 370.000 m
     raceKind:
       prolog:
@@ -346,6 +370,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals: []
 - taskName: Task 5
   zones:
@@ -354,25 +381,29 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 230.000 m
     - zoneName: TOMING
       lat: -32.56608
       lng: 148.22657
       radius: 10000.0 m
-      give: null
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
       alt: 278.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 395.000 m
     raceKind:
       prolog:
@@ -421,6 +452,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals: []
 - taskName: Task 6
   zones:
@@ -429,31 +463,36 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 230.000 m
     - zoneName: GRENFE
       lat: -33.9082
       lng: 148.13425
       radius: 15000.0 m
-      give: null
+      giveIn: 14925.0 m
+      giveOut: 15075.0 m
       alt: 369.000 m
     - zoneName: MANILD
       lat: -33.18538
       lng: 148.67978
       radius: 20000.0 m
-      give: null
+      giveIn: 19900.0 m
+      giveOut: 20100.0 m
       alt: 440.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     raceKind:
       prolog:
@@ -509,6 +548,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals: []
 - taskName: Task 7
   zones:
@@ -517,31 +559,36 @@ tasks:
       lat: -33.3562
       lng: 147.9336
       radius: 400.0 m
-      give: 395.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 230.000 m
     - zoneName: BMI023
       lat: -33.3562
       lng: 147.9336
       radius: 5000.0 m
-      give: null
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 230.000 m
     - zoneName: WELLIN
       lat: -32.46522
       lng: 148.9893
       radius: 40000.0 m
-      give: null
+      giveIn: 39800.0 m
+      giveOut: 40200.0 m
       alt: 395.000 m
     - zoneName: BUMF
       lat: -32.19498
       lng: 147.76218
       radius: 50000.0 m
-      give: null
+      giveIn: 49750.0 m
+      giveOut: 50250.0 m
       alt: 211.000 m
     - zoneName: PEAKHI
       lat: -32.729
       lng: 148.2111
       radius: 400.0 m
-      give: null
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 285.000 m
     raceKind:
       prolog:
@@ -597,6 +644,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 600 s
+    earlyPenalty: 2 s
   penals:
   - - - '85'
       - Rick Martin
