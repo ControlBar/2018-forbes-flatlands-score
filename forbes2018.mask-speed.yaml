@@ -1,19 +1,19 @@
 ssBestTime:
-- 2.193893 h
-- 3.802120 h
-- 3.104037 h
-- 5.276402 h
-- 2.790995 h
-- 3.559660 h
-- 3.527729 h
+- 2.192823 h
+- 3.801321 h
+- 3.103532 h
+- 5.275799 h
+- 2.790284 h
+- 3.558524 h
+- 3.527233 h
 gsBestTime:
-- 2.199785 h
-- 3.834283 h
-- 3.145657 h
-- 5.306634 h
-- 2.794577 h
-- 3.566465 h
-- 3.533649 h
+- 2.199352 h
+- 3.834233 h
+- 3.145641 h
+- 5.306594 h
+- 2.794556 h
+- 3.566446 h
+- 3.533631 h
 taskDistance:
 - 142.789048 km
 - 185.745298 km
@@ -33,1044 +33,1076 @@ taskSpeedDistance:
 ssSpeed:
 - - - - '92'
       - Attila Bertok
-    - time: 2.193893 h
+    - time: 2.192823 h
       frac: 1
   - - - '101'
       - Oliver Chitty
-    - time: 2.232108 h
-      frac: 0.91268609
+    - time: 2.231044 h
+      frac: 0.91266184
   - - - '27'
       - Guy Hubbard
-    - time: 2.414012 h
-      frac: 0.71943566
+    - time: 2.412704 h
+      frac: 0.71959161
   - - - '62'
       - Josh Woods
-    - time: 2.610547 h
-      frac: 0.57068287
+    - time: 2.609496 h
+      frac: 0.57059932
   - - - '11'
       - Steve Blenkinsop
-    - time: 2.616485 h
-      frac: 0.56661348
+    - time: 2.615393 h
+      frac: 0.56655761
   - - - '69'
       - Niki Longshore
-    - time: 2.617599 h
-      frac: 0.56585225
+    - time: 2.616441 h
+      frac: 0.56584114
   - - - '31'
       - Trent Brown
-    - time: 2.653209 h
-      frac: 0.54185526
+    - time: 2.652068 h
+      frac: 0.54182832
   - - - '76'
       - Rory Duncan
-    - time: 2.657816 h
-      frac: 0.53879727
+    - time: 2.656545 h
+      frac: 0.53885509
   - - - '30'
       - Jason Kath
-    - time: 2.666731 h
-      frac: 0.53290759
+    - time: 2.665097 h
+      frac: 0.53320269
   - - - '25'
       - Tyler Borrdaile
-    - time: 2.718791 h
-      frac: 0.49922254
+    - time: 2.717611 h
+      frac: 0.4992107
   - - - '23'
       - Nils Vesk
-    - time: 2.732836 h
-      frac: 0.49032898
+    - time: 2.731720 h
+      frac: 0.49027514
   - - - '106'
       - Jon Durand Snr
-    - time: 2.803900 h
-      frac: 0.44645676
+    - time: 2.802724 h
+      frac: 0.44643128
   - - - '51'
       - Craig Taylor
-    - time: 2.868614 h
-      frac: 0.40796905
+    - time: 2.867378 h
+      frac: 0.40796973
   - - - '8'
       - Gordon Rigg
-    - time: 2.873023 h
-      frac: 0.40539281
+    - time: 2.872018 h
+      frac: 0.40525796
   - - - '81'
       - Nick Purcell
-    - time: 2.879669 h
-      frac: 0.40152012
+    - time: 2.878538 h
+      frac: 0.40145821
   - - - '7'
       - Olav Opsanger
-    - time: 3.004859 h
-      frac: 0.33073724
+    - time: 3.003602 h
+      frac: 0.33073145
   - - - '22'
       - Rohan Taylor
-    - time: 3.106882 h
-      frac: 0.2757221
+    - time: 3.105419 h
+      frac: 0.27581227
 - - - - '62'
       - Josh Woods
-    - time: 3.802120 h
+    - time: 3.801321 h
       frac: 1
   - - - '43'
       - Jonny Durand
-    - time: 3.805632 h
-      frac: 0.98519612
+    - time: 3.804864 h
+      frac: 0.98510871
   - - - '92'
       - Attila Bertok
-    - time: 3.815938 h
-      frac: 0.96310533
+    - time: 3.815223 h
+      frac: 0.96295486
   - - - '76'
       - Rory Duncan
-    - time: 3.853160 h
-      frac: 0.91184132
+    - time: 3.852338 h
+      frac: 0.91186249
   - - - '101'
       - Oliver Chitty
-    - time: 3.946513 h
-      frac: 0.82365765
+    - time: 3.945803 h
+      frac: 0.8235735
   - - - '25'
       - Tyler Borrdaile
-    - time: 3.955594 h
-      frac: 0.81633977
+    - time: 3.954742 h
+      frac: 0.81636966
   - - - '7'
       - Olav Opsanger
-    - time: 3.974729 h
-      frac: 0.80137454
+    - time: 3.973997 h
+      frac: 0.80130981
   - - - '27'
       - Guy Hubbard
-    - time: 4.177959 h
-      frac: 0.66632298
+    - time: 4.177105 h
+      frac: 0.66633294
   - - - '75'
       - Yasuhiro Noma
-    - time: 4.196679 h
-      frac: 0.6553328
+    - time: 4.195882 h
+      frac: 0.65530821
   - - - '11'
       - Steve Blenkinsop
-    - time: 4.247363 h
-      frac: 0.62641503
+    - time: 4.246323 h
+      frac: 0.62652392
   - - - '8'
       - Gordon Rigg
-    - time: 4.251121 h
-      frac: 0.62431574
+    - time: 4.250419 h
+      frac: 0.62423552
   - - - '69'
       - Niki Longshore
-    - time: 4.276925 h
-      frac: 0.61005656
+    - time: 4.276098 h
+      frac: 0.61004482
   - - - '41'
       - Tony Armstrong
-    - time: 4.399160 h
-      frac: 0.54571631
+    - time: 4.398424 h
+      frac: 0.54565262
   - - - '23'
       - Nils Vesk
-    - time: 4.655328 h
-      frac: 0.42363877
+    - time: 4.653932 h
+      frac: 0.42386759
 - - - - '92'
       - Attila Bertok
-    - time: 3.104037 h
+    - time: 3.103532 h
       frac: 1
   - - - '25'
       - Tyler Borrdaile
-    - time: 3.107023 h
-      frac: 0.98578383
+    - time: 3.106167 h
+      frac: 0.98692074
   - - - '62'
       - Josh Woods
-    - time: 3.123115 h
-      frac: 0.95105325
+    - time: 3.122620 h
+      frac: 0.95103431
   - - - '7'
       - Olav Opsanger
-    - time: 3.130201 h
-      frac: 0.93958152
+    - time: 3.129605 h
+      frac: 0.93971953
   - - - '81'
       - Nick Purcell
-    - time: 3.141515 h
-      frac: 0.92322699
+    - time: 3.140936 h
+      frac: 0.92332459
   - - - '51'
       - Craig Taylor
-    - time: 3.171008 h
-      frac: 0.88694691
+    - time: 3.170465 h
+      frac: 0.88698346
   - - - '11'
       - Steve Blenkinsop
-    - time: 3.178784 h
-      frac: 0.87835683
+    - time: 3.178142 h
+      frac: 0.87849951
   - - - '8'
       - Gordon Rigg
-    - time: 3.194355 h
-      frac: 0.86200123
+    - time: 3.193779 h
+      frac: 0.86206711
   - - - '34'
       - Brad Porter
-    - time: 3.221871 h
-      frac: 0.8352322
+    - time: 3.221210 h
+      frac: 0.83536883
   - - - '6'
       - Yoko Sano
-    - time: 3.310037 h
-      frac: 0.76088676
+    - time: 3.309121 h
+      frac: 0.76119279
   - - - '23'
       - Nils Vesk
-    - time: 3.378634 h
-      frac: 0.71038438
+    - time: 3.377741 h
+      frac: 0.71064176
   - - - '37'
       - Gavin Myers
-    - time: 3.411163 h
-      frac: 0.68794176
+    - time: 3.410526 h
+      frac: 0.6880144
   - - - '76'
       - Rory Duncan
-    - time: 3.432066 h
-      frac: 0.67393842
+    - time: 3.431390 h
+      frac: 0.67403461
   - - - '31'
       - Trent Brown
-    - time: 3.436827 h
-      frac: 0.67079127
+    - time: 3.436129 h
+      frac: 0.67090097
   - - - '41'
       - Tony Armstrong
-    - time: 3.454563 h
-      frac: 0.65919565
+    - time: 3.454028 h
+      frac: 0.65919712
   - - - '22'
       - Rohan Taylor
-    - time: 3.457805 h
-      frac: 0.65709751
+    - time: 3.457234 h
+      frac: 0.65712219
   - - - '68'
       - Neale Halsall
-    - time: 3.476638 h
-      frac: 0.64503338
+    - time: 3.476086 h
+      frac: 0.64504426
   - - - '106'
       - Jon Durand Snr
-    - time: 3.485827 h
-      frac: 0.63922138
+    - time: 3.485049 h
+      frac: 0.63937407
   - - - '100'
       - Malcolm Brown
-    - time: 3.582017 h
-      frac: 0.58091915
+    - time: 3.581350 h
+      frac: 0.58099125
   - - - '30'
       - Jason Kath
-    - time: 3.587800 h
-      frac: 0.57754555
+    - time: 3.587222 h
+      frac: 0.5775656
   - - - '36'
       - Steve Docherty
-    - time: 3.603853 h
-      frac: 0.56825097
+    - time: 3.599980 h
+      frac: 0.57016966
   - - - '42'
       - Rob de Groot
-    - time: 3.625336 h
-      frac: 0.55596624
+    - time: 3.624757 h
+      frac: 0.55598481
   - - - '15'
       - Ryosuke Hattori
-    - time: 3.630148 h
-      frac: 0.55323795
+    - time: 3.629535 h
+      frac: 0.55327542
   - - - '32'
       - Andrew Barnes
-    - time: 3.695093 h
-      frac: 0.51718938
+    - time: 3.693202 h
+      frac: 0.5179183
   - - - '77'
       - Brodrick Osborne
-    - time: 3.708792 h
-      frac: 0.50975742
+    - time: 3.708088 h
+      frac: 0.50983869
   - - - '72'
       - Sasha Serebrennikova
-    - time: 3.732311 h
-      frac: 0.49712812
+    - time: 3.731116 h
+      frac: 0.49746933
   - - - '80'
       - Michael Cassells
-    - time: 3.930777 h
-      frac: 0.39613894
+    - time: 3.910830 h
+      frac: 0.40561133
   - - - '4'
       - Frank Chetcuti
-    - time: 4.132227 h
-      frac: 0.30164944
+    - time: 4.131605 h
+      frac: 0.30166508
   - - - '103'
       - Wayne Thompson
-    - time: 4.259530 h
-      frac: 0.24513482
+    - time: 4.258864 h
+      frac: 0.24516436
 - - - - '101'
       - Oliver Chitty
-    - time: 5.276402 h
+    - time: 5.275799 h
       frac: 1
   - - - '25'
       - Tyler Borrdaile
-    - time: 5.306338 h
-      frac: 0.94462037
+    - time: 5.305504 h
+      frac: 0.94490373
   - - - '43'
       - Jonny Durand
-    - time: 5.322179 h
-      frac: 0.92649401
+    - time: 5.321395 h
+      frac: 0.92668602
   - - - '27'
       - Guy Hubbard
-    - time: 5.630147 h
-      frac: 0.71269187
+    - time: 5.629575 h
+      frac: 0.71266434
   - - - '31'
       - Trent Brown
-    - time: 5.758011 h
-      frac: 0.64707374
+    - time: 5.757114 h
+      frac: 0.64720427
   - - - '7'
       - Olav Opsanger
-    - time: 5.803261 h
-      frac: 0.62529969
+    - time: 5.802501 h
+      frac: 0.62536048
   - - - '30'
       - Jason Kath
-    - time: 5.823838 h
-      frac: 0.6156061
+    - time: 5.823292 h
+      frac: 0.61556486
   - - - '62'
       - Josh Woods
-    - time: 6.027515 h
-      frac: 0.52536729
+    - time: 6.026885 h
+      frac: 0.52536081
   - - - '11'
       - Steve Blenkinsop
-    - time: 6.037479 h
-      frac: 0.52117882
+    - time: 6.037047 h
+      frac: 0.52108924
   - - - '8'
       - Gordon Rigg
-    - time: 6.189528 h
-      frac: 0.45936022
+    - time: 6.188809 h
+      frac: 0.45938552
   - - - '41'
       - Tony Armstrong
-    - time: 6.270170 h
-      frac: 0.42798042
+    - time: 6.269376 h
+      frac: 0.42803227
   - - - '76'
       - Rory Duncan
-    - time: 6.445274 h
-      frac: 0.36261946
+    - time: 6.444593 h
+      frac: 0.36262361
   - - - '15'
       - Ryosuke Hattori
-    - time: 6.525110 h
-      frac: 0.3339175
+    - time: 6.524334 h
+      frac: 0.33395368
   - - - '36'
       - Steve Docherty
-    - time: 6.602121 h
-      frac: 0.3068054
+    - time: 6.601484 h
+      frac: 0.30679104
   - - - '72'
       - Sasha Serebrennikova
-    - time: 6.609300 h
-      frac: 0.30430508
+    - time: 6.608565 h
+      frac: 0.30432486
   - - - '23'
       - Nils Vesk
-    - time: 6.623433 h
-      frac: 0.29939618
+    - time: 6.622686 h
+      frac: 0.29941949
 - - - - '101'
       - Oliver Chitty
-    - time: 2.790995 h
+    - time: 2.790284 h
       frac: 1
   - - - '43'
       - Jonny Durand
-    - time: 2.807277 h
-      frac: 0.95437417
+    - time: 2.806600 h
+      frac: 0.95430574
   - - - '27'
       - Guy Hubbard
-    - time: 2.810167 h
-      frac: 0.94912271
+    - time: 2.809322 h
+      frac: 0.94935553
   - - - '37'
       - Gavin Myers
-    - time: 2.815953 h
-      frac: 0.93934245
+    - time: 2.815234 h
+      frac: 0.93935114
   - - - '76'
       - Rory Duncan
-    - time: 2.835574 h
-      frac: 0.9107046
+    - time: 2.834977 h
+      frac: 0.91054431
   - - - '106'
       - Jon Durand Snr
-    - time: 3.048847 h
-      frac: 0.71226421
+    - time: 3.048297 h
+      frac: 0.71212041
   - - - '23'
       - Nils Vesk
-    - time: 3.072102 h
-      frac: 0.69521474
+    - time: 3.071305 h
+      frac: 0.69525095
   - - - '51'
       - Craig Taylor
-    - time: 3.186257 h
-      frac: 0.61746616
+    - time: 3.185434 h
+      frac: 0.61750555
   - - - '30'
       - Jason Kath
-    - time: 3.678678 h
-      frac: 0.34397738
+    - time: 3.678080 h
+      frac: 0.34386584
 - - - - '43'
       - Jonny Durand
-    - time: 3.559660 h
+    - time: 3.558524 h
       frac: 1
   - - - '92'
       - Attila Bertok
-    - time: 3.622919 h
-      frac: 0.89602042
+    - time: 3.622218 h
+      frac: 0.89553411
   - - - '30'
       - Jason Kath
-    - time: 3.632017 h
-      frac: 0.88627628
+    - time: 3.631677 h
+      frac: 0.88543189
   - - - '76'
       - Rory Duncan
-    - time: 3.641033 h
-      frac: 0.87701472
+    - time: 3.640072 h
+      frac: 0.87682589
   - - - '7'
       - Olav Opsanger
-    - time: 3.744167 h
-      frac: 0.78773746
+    - time: 3.743606 h
+      frac: 0.78727477
   - - - '101'
       - Oliver Chitty
-    - time: 3.744948 h
-      frac: 0.78713892
+    - time: 3.744492 h
+      frac: 0.78659672
   - - - '27'
       - Guy Hubbard
-    - time: 3.750763 h
-      frac: 0.7827089
+    - time: 3.750382 h
+      frac: 0.78211415
   - - - '98'
       - Oyvind Ellefsen
-    - time: 3.763574 h
-      frac: 0.77310303
+    - time: 3.763149 h
+      frac: 0.77255185
   - - - '11'
       - Steve Blenkinsop
-    - time: 3.781539 h
-      frac: 0.75996463
+    - time: 3.780802 h
+      frac: 0.75965159
   - - - '36'
       - Steve Docherty
-    - time: 3.805505 h
-      frac: 0.7429772
+    - time: 3.804819 h
+      frac: 0.74263649
   - - - '34'
       - Brad Porter
-    - time: 3.859906 h
-      frac: 0.70633731
+    - time: 3.859041 h
+      frac: 0.70612975
   - - - '75'
       - Yasuhiro Noma
-    - time: 3.893624 h
-      frac: 0.68474393
+    - time: 3.893197 h
+      frac: 0.68426425
   - - - '37'
       - Gavin Myers
-    - time: 3.898980 h
-      frac: 0.68138215
+    - time: 3.898048 h
+      frac: 0.68122085
   - - - '62'
       - Josh Woods
-    - time: 3.948390 h
-      frac: 0.65115742
+    - time: 3.947079 h
+      frac: 0.65122573
   - - - '81'
       - Nick Purcell
-    - time: 4.024697 h
-      frac: 0.60688253
+    - time: 4.024288 h
+      frac: 0.6064313
   - - - '100'
       - Malcolm Brown
-    - time: 4.077227 h
-      frac: 0.57780943
+    - time: 4.076429 h
+      frac: 0.57758133
   - - - '41'
       - Tony Armstrong
-    - time: 4.097951 h
-      frac: 0.5666137
+    - time: 4.095716 h
+      frac: 0.56715806
   - - - '106'
       - Jon Durand Snr
-    - time: 4.125703 h
-      frac: 0.55184275
+    - time: 4.124477 h
+      frac: 0.55184326
   - - - '8'
       - Gordon Rigg
-    - time: 4.129978 h
-      frac: 0.54958956
+    - time: 4.129370 h
+      frac: 0.54926369
   - - - '68'
       - Neale Halsall
-    - time: 4.300585 h
-      frac: 0.46373441
-  - - - '72'
-      - Sasha Serebrennikova
-    - time: 4.603012 h
-      frac: 0.3262721
-  - - - '31'
-      - Trent Brown
-    - time: 4.677292 h
-      frac: 0.29466351
-- - - - '92'
-      - Attila Bertok
-    - time: 3.527729 h
-      frac: 1
-  - - - '62'
-      - Josh Woods
-    - time: 3.697157 h
-      frac: 0.79886274
-  - - - '22'
-      - Rohan Taylor
-    - time: 3.728198 h
-      frac: 0.77499095
-  - - - '30'
-      - Jason Kath
-    - time: 3.735922 h
-      frac: 0.76924789
-  - - - '43'
-      - Jonny Durand
-    - time: 3.750937 h
-      frac: 0.75828245
-  - - - '31'
-      - Trent Brown
-    - time: 3.777728 h
-      frac: 0.73930844
-  - - - '81'
-      - Nick Purcell
-    - time: 3.820938 h
-      frac: 0.710074
-  - - - '11'
-      - Steve Blenkinsop
-    - time: 3.830053 h
-      frac: 0.70409648
-  - - - '27'
-      - Guy Hubbard
-    - time: 3.963339 h
-      frac: 0.62251433
-  - - - '42'
-      - Rob de Groot
-    - time: 4.199146 h
-      frac: 0.49631017
-  - - - '101'
-      - Oliver Chitty
-    - time: 4.202400 h
-      frac: 0.4946837
-  - - - '8'
-      - Gordon Rigg
-    - time: 4.290855 h
-      frac: 0.45142949
-  - - - '75'
-      - Yasuhiro Noma
-    - time: 4.348322 h
-      frac: 0.42422382
-  - - - '7'
-      - Olav Opsanger
-    - time: 4.458625 h
-      frac: 0.37371925
-  - - - '37'
-      - Gavin Myers
-    - time: 4.595072 h
-      frac: 0.3139261
-  - - - '6'
-      - Yoko Sano
-    - time: 4.687216 h
-      frac: 0.27498733
-  - - - '41'
-      - Tony Armstrong
-    - time: 4.728034 h
-      frac: 0.25807026
-  - - - '74'
-      - Vic Hare
-    - time: 4.862353 h
-      frac: 0.20370451
-  - - - '68'
-      - Neale Halsall
-    - time: 4.898872 h
-      frac: 0.18924416
-  - - - '15'
-      - Ryosuke Hattori
-    - time: 5.066121 h
-      frac: 0.12458678
-  - - - '100'
-      - Malcolm Brown
-    - time: 5.171377 h
-      frac: 8.509863e-2
-  - - - '72'
-      - Sasha Serebrennikova
-    - time: 5.256707 h
-      frac: 5.370184e-2
+    - time: 4.300073 h
+      frac: 0.46337657
   - - - '51'
       - Craig Taylor
-    - time: 6.239940 h
+    - time: 4.557816 h
+      frac: 0.34530609
+  - - - '72'
+      - Sasha Serebrennikova
+    - time: 4.602548 h
+      frac: 0.32591128
+  - - - '31'
+      - Trent Brown
+    - time: 4.676761 h
+      frac: 0.29433394
+  - - - '15'
+      - Ryosuke Hattori
+    - time: 4.912503 h
+      frac: 0.1983506
+- - - - '92'
+      - Attila Bertok
+    - time: 3.527233 h
+      frac: 1
+  - - - '25'
+      - Tyler Borrdaile
+    - time: 3.636264 h
+      frac: 0.85007022
+  - - - '76'
+      - Rory Duncan
+    - time: 3.643001 h
+      frac: 0.84395619
+  - - - '62'
+      - Josh Woods
+    - time: 3.696854 h
+      frac: 0.79870074
+  - - - '22'
+      - Rohan Taylor
+    - time: 3.727858 h
+      frac: 0.77486375
+  - - - '30'
+      - Jason Kath
+    - time: 3.735588 h
+      frac: 0.76911787
+  - - - '43'
+      - Jonny Durand
+    - time: 3.750569 h
+      frac: 0.75817867
+  - - - '31'
+      - Trent Brown
+    - time: 3.777345 h
+      frac: 0.73921803
+  - - - '81'
+      - Nick Purcell
+    - time: 3.820655 h
+      frac: 0.70992048
+  - - - '11'
+      - Steve Blenkinsop
+    - time: 3.829727 h
+      frac: 0.70397185
+  - - - '27'
+      - Guy Hubbard
+    - time: 3.963050 h
+      frac: 0.62237727
+  - - - '42'
+      - Rob de Groot
+    - time: 4.198680 h
+      frac: 0.49627165
+  - - - '101'
+      - Oliver Chitty
+    - time: 4.201850 h
+      frac: 0.49468729
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.290363 h
+      frac: 0.45140183
+  - - - '75'
+      - Yasuhiro Noma
+    - time: 4.347891 h
+      frac: 0.42416702
+  - - - '7'
+      - Olav Opsanger
+    - time: 4.458371 h
+      frac: 0.37358132
+  - - - '37'
+      - Gavin Myers
+    - time: 4.594759 h
+      frac: 0.31381566
+  - - - '6'
+      - Yoko Sano
+    - time: 4.686898 h
+      frac: 0.27487927
+  - - - '41'
+      - Tony Armstrong
+    - time: 4.727720 h
+      frac: 0.25796064
+  - - - '74'
+      - Vic Hare
+    - time: 4.861959 h
+      frac: 0.20362681
+  - - - '68'
+      - Neale Halsall
+    - time: 4.898527 h
+      frac: 0.18914688
+  - - - '15'
+      - Ryosuke Hattori
+    - time: 5.065704 h
+      frac: 0.1245163
+  - - - '100'
+      - Malcolm Brown
+    - time: 5.170943 h
+      frac: 8.5033e-2
+  - - - '72'
+      - Sasha Serebrennikova
+    - time: 5.256234 h
+      frac: 5.364935e-2
+  - - - '51'
+      - Craig Taylor
+    - time: 6.239442 h
       frac: 0
 gsSpeed:
 - - - - '92'
       - Attila Bertok
-    - time: 2.199785 h
+    - time: 2.199352 h
       frac: 1
   - - - '101'
       - Oliver Chitty
-    - time: 2.234700 h
-      frac: 0.91786099
+    - time: 2.234263 h
+      frac: 0.9178622
   - - - '27'
       - Guy Hubbard
-    - time: 2.423608 h
-      frac: 0.71655036
+    - time: 2.422959 h
+      frac: 0.71671376
   - - - '62'
       - Josh Woods
-    - time: 2.615209 h
-      frac: 0.57191103
+    - time: 2.614781 h
+      frac: 0.57187933
   - - - '11'
       - Steve Blenkinsop
-    - time: 2.618006 h
-      frac: 0.56999156
+    - time: 2.617578 h
+      frac: 0.56995985
   - - - '69'
       - Niki Longshore
-    - time: 2.623238 h
-      frac: 0.56641289
+    - time: 2.622817 h
+      frac: 0.56637618
   - - - '31'
       - Trent Brown
-    - time: 2.662470 h
-      frac: 0.54002943
+    - time: 2.662009 h
+      frac: 0.54001742
   - - - '76'
       - Rory Duncan
-    - time: 2.669859 h
-      frac: 0.53514536
+    - time: 2.669286 h
+      frac: 0.53520715
   - - - '25'
       - Tyler Borrdaile
-    - time: 2.726586 h
-      frac: 0.49846187
+    - time: 2.726142 h
+      frac: 0.49843534
   - - - '23'
       - Nils Vesk
-    - time: 2.736327 h
-      frac: 0.49229819
+    - time: 2.735933 h
+      frac: 0.49223974
   - - - '30'
       - Jason Kath
-    - time: 2.763439 h
-      frac: 0.4753359
+    - time: 2.762828 h
+      frac: 0.47541147
   - - - '106'
       - Jon Durand Snr
-    - time: 2.809893 h
-      frac: 0.44689105
+    - time: 2.809383 h
+      frac: 0.44690114
   - - - '8'
       - Gordon Rigg
-    - time: 2.877632 h
-      frac: 0.4066729
+    - time: 2.877216 h
+      frac: 0.406624
   - - - '51'
       - Craig Taylor
-    - time: 2.877878 h
-      frac: 0.40652902
+    - time: 2.877444 h
+      frac: 0.40649105
   - - - '81'
       - Nick Purcell
-    - time: 2.889438 h
-      frac: 0.39980354
+    - time: 2.888949 h
+      frac: 0.39979618
   - - - '7'
       - Olav Opsanger
-    - time: 3.056777 h
-      frac: 0.30626915
+    - time: 3.056324 h
+      frac: 0.3062342
   - - - '22'
       - Rohan Taylor
-    - time: 3.108527 h
-      frac: 0.27861512
+    - time: 3.107889 h
+      frac: 0.27867646
 - - - - '62'
       - Josh Woods
-    - time: 3.834283 h
+    - time: 3.834233 h
       frac: 1
   - - - '43'
       - Jonny Durand
-    - time: 3.835046 h
-      frac: 0.99466772
+    - time: 3.834996 h
+      frac: 0.9946622
   - - - '92'
       - Attila Bertok
-    - time: 3.850692 h
-      frac: 0.95874423
+    - time: 3.850638 h
+      frac: 0.95874962
   - - - '76'
       - Rory Duncan
-    - time: 3.879238 h
-      frac: 0.91922289
+    - time: 3.879187 h
+      frac: 0.91922316
   - - - '101'
       - Oliver Chitty
-    - time: 3.964182 h
-      frac: 0.83612653
+    - time: 3.964118 h
+      frac: 0.83613733
   - - - '25'
       - Tyler Borrdaile
-    - time: 3.978004 h
-      frac: 0.82469857
+    - time: 3.977953 h
+      frac: 0.82469811
   - - - '7'
       - Olav Opsanger
-    - time: 4.000758 h
-      frac: 0.80665277
+    - time: 4.000709 h
+      frac: 0.8066509
   - - - '75'
       - Yasuhiro Noma
-    - time: 4.220969 h
-      frac: 0.66088731
+    - time: 4.220909 h
+      frac: 0.66089134
   - - - '27'
       - Guy Hubbard
-    - time: 4.223971 h
-      frac: 0.65913431
+    - time: 4.223886 h
+      frac: 0.65915299
   - - - '11'
       - Steve Blenkinsop
-    - time: 4.258963 h
-      frac: 0.63902318
+    - time: 4.258916 h
+      frac: 0.63901954
   - - - '8'
       - Gordon Rigg
-    - time: 4.278482 h
-      frac: 0.62804499
+    - time: 4.278429 h
+      frac: 0.62804498
   - - - '69'
       - Niki Longshore
-    - time: 4.300971 h
-      frac: 0.61559481
+    - time: 4.300916 h
+      frac: 0.61559532
   - - - '41'
       - Tony Armstrong
-    - time: 4.426081 h
-      frac: 0.54964604
+    - time: 4.426028 h
+      frac: 0.54964535
   - - - '23'
       - Nils Vesk
-    - time: 4.762307 h
-      frac: 0.39212904
+    - time: 4.762243 h
+      frac: 0.39213226
 - - - - '92'
       - Attila Bertok
-    - time: 3.145657 h
+    - time: 3.145641 h
       frac: 1
   - - - '25'
       - Tyler Borrdaile
-    - time: 3.161386 h
-      frac: 0.95715615
+    - time: 3.161364 h
+      frac: 0.95716523
   - - - '62'
       - Josh Woods
-    - time: 3.168641 h
-      frac: 0.9448287
+    - time: 3.168620 h
+      frac: 0.94483559
   - - - '7'
       - Olav Opsanger
-    - time: 3.181375 h
-      frac: 0.92597898
+    - time: 3.181356 h
+      frac: 0.9259823
   - - - '81'
       - Nick Purcell
-    - time: 3.187160 h
-      frac: 0.91818868
+    - time: 3.187136 h
+      frac: 0.91819779
   - - - '11'
       - Steve Blenkinsop
-    - time: 3.188550 h
-      frac: 0.91637174
+    - time: 3.188522 h
+      frac: 0.91638745
   - - - '51'
       - Craig Taylor
-    - time: 3.218602 h
-      frac: 0.88085017
+    - time: 3.218573 h
+      frac: 0.88086361
   - - - '34'
       - Brad Porter
-    - time: 3.231805 h
-      frac: 0.86687517
+    - time: 3.231778 h
+      frac: 0.86688573
   - - - '8'
       - Gordon Rigg
-    - time: 3.243218 h
-      frac: 0.85536338
+    - time: 3.243202 h
+      frac: 0.85536227
   - - - '23'
       - Nils Vesk
-    - time: 3.384860 h
-      frac: 0.73700944
+    - time: 3.384841 h
+      frac: 0.73701115
   - - - '37'
       - Gavin Myers
-    - time: 3.419332 h
-      frac: 0.71231382
+    - time: 3.419311 h
+      frac: 0.71231604
   - - - '31'
       - Trent Brown
-    - time: 3.442041 h
-      frac: 0.69661138
+    - time: 3.442012 h
+      frac: 0.69661964
   - - - '76'
       - Rory Duncan
-    - time: 3.451105 h
-      frac: 0.69045692
+    - time: 3.451085 h
+      frac: 0.69045869
   - - - '6'
       - Yoko Sano
-    - time: 3.451290 h
-      frac: 0.69033224
+    - time: 3.451266 h
+      frac: 0.69033674
   - - - '22'
       - Rohan Taylor
-    - time: 3.467628 h
-      frac: 0.67939242
+    - time: 3.467609 h
+      frac: 0.67939363
   - - - '106'
       - Jon Durand Snr
-    - time: 3.492039 h
-      frac: 0.66338546
+    - time: 3.492019 h
+      frac: 0.66338728
   - - - '41'
       - Tony Armstrong
-    - time: 3.498327 h
-      frac: 0.65932388
+    - time: 3.498306 h
+      frac: 0.65932654
   - - - '68'
       - Neale Halsall
-    - time: 3.524904 h
-      frac: 0.64241625
+    - time: 3.524880 h
+      frac: 0.64242048
   - - - '30'
       - Jason Kath
-    - time: 3.593345 h
-      frac: 0.6005952
+    - time: 3.593321 h
+      frac: 0.6005992
   - - - '100'
       - Malcolm Brown
-    - time: 3.633873 h
-      frac: 0.5768407
+    - time: 3.633850 h
+      frac: 0.57684337
   - - - '42'
       - Rob de Groot
-    - time: 3.673457 h
-      frac: 0.55426582
+    - time: 3.673437 h
+      frac: 0.55426756
   - - - '36'
       - Steve Docherty
-    - time: 3.676799 h
-      frac: 0.55238651
+    - time: 3.676779 h
+      frac: 0.5523876
   - - - '15'
       - Ryosuke Hattori
-    - time: 3.685364 h
-      frac: 0.54758734
+    - time: 3.685344 h
+      frac: 0.54758868
   - - - '77'
       - Brodrick Osborne
-    - time: 3.727810 h
-      frac: 0.52416743
+    - time: 3.727789 h
+      frac: 0.52416919
   - - - '32'
       - Andrew Barnes
-    - time: 3.753249 h
-      frac: 0.51040433
+    - time: 3.753229 h
+      frac: 0.5104055
   - - - '72'
       - Sasha Serebrennikova
-    - time: 3.774889 h
-      frac: 0.49884722
+    - time: 3.774867 h
+      frac: 0.4988493
   - - - '80'
       - Michael Cassells
-    - time: 3.910046 h
-      frac: 0.42943443
+    - time: 3.910020 h
+      frac: 0.42943822
   - - - '4'
       - Frank Chetcuti
-    - time: 4.252100 h
-      frac: 0.26990046
+    - time: 4.252060 h
+      frac: 0.26990935
   - - - '103'
       - Wayne Thompson
-    - time: 4.300839 h
-      frac: 0.24861413
+    - time: 4.300807 h
+      frac: 0.24861941
 - - - - '101'
       - Oliver Chitty
-    - time: 5.306634 h
+    - time: 5.306594 h
       frac: 1
   - - - '43'
       - Jonny Durand
-    - time: 5.324282 h
-      frac: 0.96113734
+    - time: 5.324235 h
+      frac: 0.96114854
   - - - '25'
       - Tyler Borrdaile
-    - time: 5.336582 h
-      frac: 0.94471071
+    - time: 5.336529 h
+      frac: 0.94472744
   - - - '27'
       - Guy Hubbard
-    - time: 5.632660 h
-      frac: 0.72842124
+    - time: 5.632620 h
+      frac: 0.72842127
   - - - '31'
       - Trent Brown
-    - time: 5.765376 h
-      frac: 0.65898522
+    - time: 5.765332 h
+      frac: 0.6589871
   - - - '7'
       - Olav Opsanger
-    - time: 5.811390 h
-      frac: 0.63654725
+    - time: 5.811343 h
+      frac: 0.6365499
   - - - '30'
       - Jason Kath
-    - time: 5.833414 h
-      frac: 0.62605016
+    - time: 5.833368 h
+      frac: 0.62605232
   - - - '11'
       - Steve Blenkinsop
-    - time: 6.045588 h
-      frac: 0.53139652
+    - time: 6.045544 h
+      frac: 0.53139743
   - - - '62'
       - Josh Woods
-    - time: 6.046947 h
-      frac: 0.53082208
+    - time: 6.046896 h
+      frac: 0.53082582
   - - - '8'
       - Gordon Rigg
-    - time: 6.200941 h
-      frac: 0.46782842
+    - time: 6.200887 h
+      frac: 0.46783296
   - - - '41'
       - Tony Armstrong
-    - time: 6.288678 h
-      frac: 0.43356825
+    - time: 6.288625 h
+      frac: 0.43357178
   - - - '76'
       - Rory Duncan
-    - time: 6.471185 h
-      frac: 0.36540084
+    - time: 6.471138 h
+      frac: 0.36540217
   - - - '23'
       - Nils Vesk
-    - time: 6.628374 h
-      frac: 0.30950927
+    - time: 6.628319 h
+      frac: 0.30951305
   - - - '15'
       - Ryosuke Hattori
-    - time: 6.632918 h
-      frac: 0.30792764
+    - time: 6.632876 h
+      frac: 0.30792679
   - - - '36'
       - Steve Docherty
-    - time: 6.647703 h
-      frac: 0.30279387
+    - time: 6.647665 h
+      frac: 0.30279174
   - - - '72'
       - Sasha Serebrennikova
-    - time: 6.717539 h
-      frac: 0.27879467
+    - time: 6.717467 h
+      frac: 0.27880407
 - - - - '101'
       - Oliver Chitty
-    - time: 2.794577 h
+    - time: 2.794556 h
       frac: 1
   - - - '43'
       - Jonny Durand
-    - time: 2.809209 h
-      frac: 0.95752919
+    - time: 2.809191 h
+      frac: 0.95752364
   - - - '27'
       - Guy Hubbard
-    - time: 2.812839 h
-      frac: 0.95076674
+    - time: 2.812806 h
+      frac: 0.95078821
   - - - '37'
       - Gavin Myers
-    - time: 2.823722 h
-      frac: 0.93276419
+    - time: 2.823700 h
+      frac: 0.93276448
   - - - '76'
       - Rory Duncan
-    - time: 2.841984 h
-      frac: 0.90700617
+    - time: 2.841961 h
+      frac: 0.90700856
   - - - '106'
       - Jon Durand Snr
-    - time: 3.069634 h
-      frac: 0.69973175
+    - time: 3.069614 h
+      frac: 0.69972995
   - - - '23'
       - Nils Vesk
-    - time: 3.074362 h
-      frac: 0.69630016
+    - time: 3.074330 h
+      frac: 0.6963075
   - - - '51'
       - Craig Taylor
-    - time: 3.195634 h
-      frac: 0.61390106
+    - time: 3.195615 h
+      frac: 0.61389855
   - - - '30'
       - Jason Kath
-    - time: 3.682935 h
-      frac: 0.34392541
+    - time: 3.682906 h
+      frac: 0.34392771
 - - - - '43'
       - Jonny Durand
-    - time: 3.566465 h
+    - time: 3.566446 h
       frac: 1
   - - - '76'
       - Rory Duncan
-    - time: 3.649577 h
-      frac: 0.87534822
+    - time: 3.649553 h
+      frac: 0.87535381
   - - - '92'
       - Attila Bertok
-    - time: 3.658651 h
-      frac: 0.86643352
+    - time: 3.658631 h
+      frac: 0.86643453
   - - - '30'
       - Jason Kath
-    - time: 3.664584 h
-      frac: 0.86076228
+    - time: 3.664548 h
+      frac: 0.86077803
   - - - '7'
       - Olav Opsanger
-    - time: 3.782428 h
-      frac: 0.76440051
+    - time: 3.782402 h
+      frac: 0.7644056
   - - - '27'
       - Guy Hubbard
-    - time: 3.782797 h
-      frac: 0.76413269
+    - time: 3.782765 h
+      frac: 0.76414123
   - - - '11'
       - Steve Blenkinsop
-    - time: 3.785454 h
-      frac: 0.7622053
+    - time: 3.785434 h
+      frac: 0.76220528
   - - - '101'
       - Oliver Chitty
-    - time: 3.787904 h
-      frac: 0.76043503
+    - time: 3.787856 h
+      frac: 0.76045514
   - - - '98'
       - Oyvind Ellefsen
-    - time: 3.810744 h
-      frac: 0.74423268
+    - time: 3.810700 h
+      frac: 0.74425005
   - - - '36'
       - Steve Docherty
-    - time: 3.811505 h
-      frac: 0.74370145
+    - time: 3.811472 h
+      frac: 0.74371105
   - - - '34'
       - Brad Porter
-    - time: 3.873680 h
-      frac: 0.70200012
+    - time: 3.873652 h
+      frac: 0.70200546
   - - - '75'
       - Yasuhiro Noma
-    - time: 3.906475 h
-      frac: 0.68115322
+    - time: 3.906454 h
+      frac: 0.6811538
   - - - '37'
       - Gavin Myers
-    - time: 3.911358 h
-      frac: 0.67810742
+    - time: 3.911338 h
+      frac: 0.67810786
   - - - '62'
       - Josh Woods
-    - time: 3.955677 h
-      frac: 0.6510913
+    - time: 3.955656 h
+      frac: 0.65109202
   - - - '81'
       - Nick Purcell
-    - time: 4.052561 h
-      frac: 0.59535972
+    - time: 4.052534 h
+      frac: 0.5953637
   - - - '100'
       - Malcolm Brown
-    - time: 4.086169 h
-      frac: 0.57691746
+    - time: 4.086134 h
+      frac: 0.57692592
   - - - '41'
       - Tony Armstrong
-    - time: 4.109937 h
-      frac: 0.56411476
+    - time: 4.109915 h
+      frac: 0.56411532
   - - - '8'
       - Gordon Rigg
-    - time: 4.134776 h
-      frac: 0.55093269
+    - time: 4.134754 h
+      frac: 0.55093327
   - - - '106'
       - Jon Durand Snr
-    - time: 4.142582 h
-      frac: 0.54682997
+    - time: 4.142556 h
+      frac: 0.54683275
   - - - '68'
       - Neale Halsall
-    - time: 4.306580 h
-      frac: 0.46446624
-  - - - '72'
-      - Sasha Serebrennikova
-    - time: 4.613815 h
-      frac: 0.32498182
-  - - - '31'
-      - Trent Brown
-    - time: 4.682422 h
-      frac: 0.29581668
-- - - - '92'
-      - Attila Bertok
-    - time: 3.533649 h
-      frac: 1
-  - - - '62'
-      - Josh Woods
-    - time: 3.713065 h
-      frac: 0.79115071
-  - - - '22'
-      - Rohan Taylor
-    - time: 3.735731 h
-      frac: 0.77391246
-  - - - '30'
-      - Jason Kath
-    - time: 3.750898 h
-      frac: 0.76273718
-  - - - '43'
-      - Jonny Durand
-    - time: 3.753144 h
-      frac: 0.76110439
-  - - - '31'
-      - Trent Brown
-    - time: 3.792493 h
-      frac: 0.73334446
-  - - - '81'
-      - Nick Purcell
-    - time: 3.827435 h
-      frac: 0.70985642
-  - - - '11'
-      - Steve Blenkinsop
-    - time: 3.832785 h
-      frac: 0.70634507
-  - - - '27'
-      - Guy Hubbard
-    - time: 4.001423 h
-      frac: 0.60437612
-  - - - '101'
-      - Oliver Chitty
-    - time: 4.205872 h
-      frac: 0.49618903
-  - - - '42'
-      - Rob de Groot
-    - time: 4.209956 h
-      frac: 0.49415071
-  - - - '8'
-      - Gordon Rigg
-    - time: 4.332480 h
-      frac: 0.43476563
-  - - - '75'
-      - Yasuhiro Noma
-    - time: 4.358905 h
-      frac: 0.42236802
-  - - - '7'
-      - Olav Opsanger
-    - time: 4.514078 h
-      frac: 0.35205775
-  - - - '37'
-      - Gavin Myers
-    - time: 4.642168 h
-      frac: 0.29678597
-  - - - '6'
-      - Yoko Sano
-    - time: 4.711828 h
-      frac: 0.26762589
-  - - - '41'
-      - Tony Armstrong
-    - time: 4.747588 h
-      frac: 0.25288054
-  - - - '74'
-      - Vic Hare
-    - time: 4.953280 h
-      frac: 0.17070487
-  - - - '68'
-      - Neale Halsall
-    - time: 4.953311 h
-      frac: 0.17069288
-  - - - '15'
-      - Ryosuke Hattori
-    - time: 5.154734 h
-      frac: 9.399783e-2
-  - - - '100'
-      - Malcolm Brown
-    - time: 5.219615 h
-      frac: 6.99821e-2
-  - - - '72'
-      - Sasha Serebrennikova
-    - time: 5.270205 h
-      frac: 5.146957e-2
+    - time: 4.306526 h
+      frac: 0.46448211
   - - - '51'
       - Craig Taylor
-    - time: 6.285822 h
+    - time: 4.580695 h
+      frac: 0.33927931
+  - - - '72'
+      - Sasha Serebrennikova
+    - time: 4.613777 h
+      frac: 0.32498913
+  - - - '31'
+      - Trent Brown
+    - time: 4.682397 h
+      frac: 0.29581803
+  - - - '15'
+      - Ryosuke Hattori
+    - time: 4.969541 h
+      frac: 0.17968723
+- - - - '92'
+      - Attila Bertok
+    - time: 3.533631 h
+      frac: 1
+  - - - '25'
+      - Tyler Borrdaile
+    - time: 3.646876 h
+      frac: 0.84632411
+  - - - '76'
+      - Rory Duncan
+    - time: 3.653927 h
+      frac: 0.8400091
+  - - - '62'
+      - Josh Woods
+    - time: 3.713043 h
+      frac: 0.79115315
+  - - - '22'
+      - Rohan Taylor
+    - time: 3.735707 h
+      frac: 0.77391616
+  - - - '30'
+      - Jason Kath
+    - time: 3.750875 h
+      frac: 0.76273962
+  - - - '43'
+      - Jonny Durand
+    - time: 3.753119 h
+      frac: 0.76110827
+  - - - '31'
+      - Trent Brown
+    - time: 3.792471 h
+      frac: 0.73334637
+  - - - '81'
+      - Nick Purcell
+    - time: 3.827414 h
+      frac: 0.70985766
+  - - - '11'
+      - Steve Blenkinsop
+    - time: 3.832762 h
+      frac: 0.70634696
+  - - - '27'
+      - Guy Hubbard
+    - time: 4.001401 h
+      frac: 0.60437706
+  - - - '101'
+      - Oliver Chitty
+    - time: 4.205850 h
+      frac: 0.49618966
+  - - - '42'
+      - Rob de Groot
+    - time: 4.209930 h
+      frac: 0.49415348
+  - - - '8'
+      - Gordon Rigg
+    - time: 4.332461 h
+      frac: 0.43476455
+  - - - '75'
+      - Yasuhiro Noma
+    - time: 4.358876 h
+      frac: 0.42237199
+  - - - '7'
+      - Olav Opsanger
+    - time: 4.514054 h
+      frac: 0.35205933
+  - - - '37'
+      - Gavin Myers
+    - time: 4.642149 h
+      frac: 0.29678504
+  - - - '6'
+      - Yoko Sano
+    - time: 4.711800 h
+      frac: 0.26762862
+  - - - '41'
+      - Tony Armstrong
+    - time: 4.747569 h
+      frac: 0.25287944
+  - - - '74'
+      - Vic Hare
+    - time: 4.953262 h
+      frac: 0.17070325
+  - - - '68'
+      - Neale Halsall
+    - time: 4.953292 h
+      frac: 0.1706914
+  - - - '15'
+      - Ryosuke Hattori
+    - time: 5.154712 h
+      frac: 9.399738e-2
+  - - - '100'
+      - Malcolm Brown
+    - time: 5.219589 h
+      frac: 6.998313e-2
+  - - - '72'
+      - Sasha Serebrennikova
+    - time: 5.270170 h
+      frac: 5.147365e-2
+  - - - '51'
+      - Craig Taylor
+    - time: 6.285792 h
       frac: 0
 altStopped:
 - - - - '107'
@@ -1430,9 +1462,6 @@ altStopped:
   - - - '32'
       - Andrew Barnes
     - 245.000 m
-  - - - '51'
-      - Craig Taylor
-    - 243.000 m
   - - - '52'
       - Dale Regehr
     - 411.000 m
@@ -1475,9 +1504,6 @@ altStopped:
   - - - '86'
       - Ross Smith
     - 238.000 m
-  - - - '15'
-      - Ryosuke Hattori
-    - 262.000 m
   - - - '25'
       - Tyler Borrdaile
     - 394.000 m
@@ -1523,15 +1549,9 @@ altStopped:
   - - - '83'
       - Randal Clotworthy
     - 494.000 m
-  - - - '76'
-      - Rory Duncan
-    - 301.000 m
   - - - '36'
       - Steve Docherty
     - 273.000 m
-  - - - '25'
-      - Tyler Borrdaile
-    - 294.000 m
   - - - '103'
       - Wayne Thompson
     - 345.000 m
