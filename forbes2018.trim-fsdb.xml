@@ -280,16 +280,120 @@
             <FsResult rank="49" points="56" distance="10" ss_time="00:00:00" distance_points="55.9" linear_distance_points="18.15" difficulty_distance_points="37.76" time_points="0" arrival_points="0" leading_points="0" real_distance="10" last_distance="-1.79769313486232E+305"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="133.129" task_distance="142.756" launch_to_ess_distance="142.756" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="35" no_of_pilots_reaching_es="17" best_dist="142.756" best_time="2.19944444444444" no_of_pilots_landed_before_stop="39" sum_real_dist_over_min="4153.633" best_real_dist="142.756" goalratio="0.326923076923077" arrival_weight="0" leading_weight="0" time_weight="0.481754146279017" distance_weight="0.518245853720983" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="9.628"/>
-          <FsTaskDistToTp tp_no="3" distance="142.757"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.3526" lon="147.93379"/>
           <FsTurnpoint lat="-33.26609" lon="147.93823"/>
           <FsTurnpoint lat="-32.06993" lon="147.99897"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="133.129" task_distance="142.756" launch_to_ess_distance="142.756" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="35" no_of_pilots_reaching_es="17" best_dist="142.756" best_time="2.19944444444444" no_of_pilots_landed_before_stop="39" sum_real_dist_over_min="4153.633" best_real_dist="142.756" goalratio="0.326923076923077" arrival_weight="0" leading_weight="0" time_weight="0.481754146279017" distance_weight="0.518245853720983" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.628"/>
+          <FsTaskDistToTp tp_no="3" distance="142.757"/>
+          <FsTaskDifficulty chunks="1431" start_chunks="0" end_chunks="143.2" look_ahead="122" sum_of_difficulty="4186" no_of_pilots_lo="35">
+            <FsChunk chunk="100" start="10" end="10.1" end_ahead="22.2" down="4" downward="4" rel="0.000955566172957477" frac="0.0728619206880076">
+              <FsDown id="102" down="10"/>
+              <FsDown id="77" down="10"/>
+              <FsDown id="99" down="10"/>
+              <FsDown id="37" down="10"/>
+            </FsChunk>
+            <FsChunk chunk="133" start="13.3" end="13.4" end_ahead="25.5" down="1" downward="5" rel="0.000716674629718108" frac="0.093167701863354">
+              <FsDown id="55" down="13.302"/>
+            </FsChunk>
+            <FsChunk chunk="171" start="17.1" end="17.2" end_ahead="29.3" down="1" downward="5" rel="0.000716674629718108" frac="0.119445771619685">
+              <FsDown id="94" down="17.114"/>
+            </FsChunk>
+            <FsChunk chunk="176" start="17.6" end="17.7" end_ahead="29.8" down="1" downward="4" rel="0.000597228858098423" frac="0.122431915910177">
+              <FsDown id="88" down="17.662"/>
+            </FsChunk>
+            <FsChunk chunk="202" start="20.2" end="20.3" end_ahead="32.4" down="1" downward="4" rel="0.000597228858098423" frac="0.137482083134257">
+              <FsDown id="64" down="20.201"/>
+            </FsChunk>
+            <FsChunk chunk="233" start="23.3" end="23.4" end_ahead="35.5" down="1" downward="3" rel="0.000477783086478739" frac="0.152293358815098">
+              <FsDown id="67" down="23.316"/>
+            </FsChunk>
+            <FsChunk chunk="239" start="23.9" end="24" end_ahead="36.1" down="1" downward="2" rel="0.000358337314859054" frac="0.154443382704253">
+              <FsDown id="14" down="23.955"/>
+            </FsChunk>
+            <FsChunk chunk="263" start="26.3" end="26.4" end_ahead="38.5" down="1" downward="1" rel="0.000238891543239369" frac="0.160176779741997">
+              <FsDown id="34" down="26.399"/>
+            </FsChunk>
+            <FsChunk chunk="302" start="30.2" end="30.3" end_ahead="42.4" down="1" downward="1" rel="0.000238891543239369" frac="0.168299092212136">
+              <FsDown id="100" down="30.214"/>
+            </FsChunk>
+            <FsChunk chunk="395" start="39.5" end="39.6" end_ahead="51.7" down="1" downward="2" rel="0.000358337314859054" frac="0.183707596751074">
+              <FsDown id="85" down="39.538"/>
+            </FsChunk>
+            <FsChunk chunk="484" start="48.4" end="48.5" end_ahead="60.6" down="1" downward="3" rel="0.000477783086478739" frac="0.214524605828953">
+              <FsDown id="86" down="48.411"/>
+            </FsChunk>
+            <FsChunk chunk="514" start="51.4" end="51.5" end_ahead="63.6" down="1" downward="3" rel="0.000477783086478739" frac="0.227663640707118">
+              <FsDown id="71" down="51.417"/>
+            </FsChunk>
+            <FsChunk chunk="560" start="56" end="56.1" end_ahead="68.2" down="1" downward="5" rel="0.000716674629718108" frac="0.252986144290492">
+              <FsDown id="80" down="56.032"/>
+            </FsChunk>
+            <FsChunk chunk="572" start="57.2" end="57.3" end_ahead="69.4" down="1" downward="4" rel="0.000597228858098423" frac="0.260152890587673">
+              <FsDown id="4" down="57.219"/>
+            </FsChunk>
+            <FsChunk chunk="616" start="61.6" end="61.7" end_ahead="73.8" down="1" downward="3" rel="0.000477783086478739" frac="0.281175346392737">
+              <FsDown id="83" down="61.64"/>
+            </FsChunk>
+            <FsChunk chunk="644" start="64.4" end="64.5" end_ahead="76.6" down="1" downward="2" rel="0.000358337314859054" frac="0.291208791208791">
+              <FsDown id="107" down="64.446"/>
+            </FsChunk>
+            <FsChunk chunk="654" start="65.4" end="65.5" end_ahead="77.6" down="1" downward="1" rel="0.000238891543239369" frac="0.293597706641184">
+              <FsDown id="43" down="65.481"/>
+            </FsChunk>
+            <FsChunk chunk="674" start="67.4" end="67.5" end_ahead="79.6" down="1" downward="0" rel="0.000119445771619685" frac="0.295986622073578">
+              <FsDown id="98" down="67.469"/>
+            </FsChunk>
+            <FsChunk chunk="827" start="82.7" end="82.8" end_ahead="94.9" down="1" downward="0" rel="0.000119445771619685" frac="0.310559006211183">
+              <FsDown id="28" down="82.789"/>
+            </FsChunk>
+            <FsChunk chunk="957" start="95.7" end="95.8" end_ahead="107.9" down="1" downward="4" rel="0.000597228858098423" frac="0.352484472049693">
+              <FsDown id="36" down="95.78"/>
+            </FsChunk>
+            <FsChunk chunk="965" start="96.5" end="96.6" end_ahead="108.7" down="1" downward="3" rel="0.000477783086478739" frac="0.356306736741523">
+              <FsDown id="103" down="96.52"/>
+            </FsChunk>
+            <FsChunk chunk="991" start="99.1" end="99.2" end_ahead="111.3" down="1" downward="3" rel="0.000477783086478739" frac="0.368251313903491">
+              <FsDown id="68" down="99.172"/>
+            </FsChunk>
+            <FsChunk chunk="1063" start="106.3" end="106.4" end_ahead="118.5" down="1" downward="5" rel="0.000716674629718108" frac="0.408385093167704">
+              <FsDown id="72" down="106.347"/>
+            </FsChunk>
+            <FsChunk chunk="1068" start="106.8" end="106.9" end_ahead="119" down="1" downward="4" rel="0.000597228858098423" frac="0.411371237458196">
+              <FsDown id="32" down="106.882"/>
+            </FsChunk>
+            <FsChunk chunk="1091" start="109.1" end="109.2" end_ahead="121.3" down="1" downward="6" rel="0.000836120401337793" frac="0.427854753941712">
+              <FsDown id="52" down="109.15"/>
+            </FsChunk>
+            <FsChunk chunk="1117" start="111.7" end="111.8" end_ahead="123.9" down="1" downward="6" rel="0.000836120401337793" frac="0.44732441471572">
+              <FsDown id="41" down="111.742"/>
+            </FsChunk>
+            <FsChunk chunk="1159" start="115.9" end="116" end_ahead="128.1" down="2" downward="4" rel="0.000716674629718108" frac="0.47742474916388">
+              <FsDown id="6" down="115.98"/>
+              <FsDown id="108" down="115.937"/>
+            </FsChunk>
+            <FsChunk chunk="1192" start="119.2" end="119.3" end_ahead="131.4" down="1" downward="3" rel="0.000477783086478739" frac="0.493191591017678">
+              <FsDown id="74" down="119.2"/>
+            </FsChunk>
+            <FsChunk chunk="1196" start="119.6" end="119.7" end_ahead="131.8" down="1" downward="2" rel="0.000358337314859054" frac="0.494624940277114">
+              <FsDown id="75" down="119.63"/>
+            </FsChunk>
+            <FsChunk chunk="1205" start="120.5" end="120.6" end_ahead="132.7" down="1" downward="1" rel="0.000238891543239369" frac="0.496774964166268">
+              <FsDown id="15" down="120.579"/>
+            </FsChunk>
+            <FsChunk chunk="1232" start="123.2" end="123.3" end_ahead="135.4" down="1" downward="0" rel="0.000119445771619685" frac="0.5">
+              <FsDown id="42" down="123.24"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.3526" lon="147.93379"/>
+          <FsPathVertex lat="-33.26609" lon="147.93823"/>
+          <FsPathVertex lat="-32.06993" lon="147.99897"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="task 2" tracklog_folder="task 2">
         <FsScoreFormula id="GAP2016" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
@@ -525,13 +629,6 @@
             <FsResult rank="39" points="212" distance="57.934" ss_time="00:00:00" distance_points="212.3" linear_distance_points="88.02" difficulty_distance_points="124.24" time_points="0" arrival_points="0" leading_points="0" started_ss="2017-12-31T14:30:00+11:00" real_distance="57.934" last_distance="57.867"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="176.12" task_distance="185.747" launch_to_ess_distance="185.747" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="38" no_of_pilots_reaching_es="14" best_dist="185.747" best_time="3.83416666666667" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="4954.909" best_real_dist="185.747" goalratio="0.269230769230769" arrival_weight="0.0544446902025489" leading_weight="0.0762225662835685" time_weight="0.304890265134274" distance_weight="0.564442478379609" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="9.627"/>
-          <FsTaskDistToTp tp_no="3" distance="54.221"/>
-          <FsTaskDistToTp tp_no="4" distance="149.125"/>
-          <FsTaskDistToTp tp_no="5" distance="185.748"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.3598" lon="147.93381"/>
           <FsTurnpoint lat="-33.44629" lon="147.93877"/>
@@ -539,6 +636,108 @@
           <FsTurnpoint lat="-34.48066" lon="148.65278"/>
           <FsTurnpoint lat="-34.80979" lon="148.66767"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="176.12" task_distance="185.747" launch_to_ess_distance="185.747" no_of_pilots_present="52" no_of_pilots_flying="52" no_of_pilots_lo="38" no_of_pilots_reaching_es="14" best_dist="185.747" best_time="3.83416666666667" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="4954.909" best_real_dist="185.747" goalratio="0.269230769230769" arrival_weight="0.0544446902025489" leading_weight="0.0762225662835685" time_weight="0.304890265134274" distance_weight="0.564442478379609" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.627"/>
+          <FsTaskDistToTp tp_no="3" distance="54.221"/>
+          <FsTaskDistToTp tp_no="4" distance="149.125"/>
+          <FsTaskDistToTp tp_no="5" distance="185.748"/>
+          <FsTaskDifficulty chunks="1861" start_chunks="0" end_chunks="186.2" look_ahead="147" sum_of_difficulty="4896" no_of_pilots_lo="38">
+            <FsChunk chunk="100" start="10" end="10.1" end_ahead="24.7" down="15" downward="1" rel="0.00163398692810458" frac="0.164726307189542">
+              <FsDown id="102" down="10"/>
+              <FsDown id="99" down="10"/>
+              <FsDown id="94" down="10"/>
+              <FsDown id="51" down="10"/>
+              <FsDown id="64" down="10"/>
+              <FsDown id="14" down="10"/>
+              <FsDown id="74" down="10"/>
+              <FsDown id="108" down="10"/>
+              <FsDown id="68" down="10"/>
+              <FsDown id="28" down="10"/>
+              <FsDown id="107" down="10"/>
+              <FsDown id="83" down="10"/>
+              <FsDown id="4" down="10"/>
+              <FsDown id="86" down="10"/>
+              <FsDown id="88" down="10"/>
+            </FsChunk>
+            <FsChunk chunk="149" start="14.9" end="15" end_ahead="29.6" down="1" downward="0" rel="0.000102124183006536" frac="0.169730392156862">
+              <FsDown id="42" down="14.913"/>
+            </FsChunk>
+            <FsChunk chunk="470" start="47" end="47.1" end_ahead="61.7" down="1" downward="2" rel="0.000306372549019608" frac="0.193014705882353">
+              <FsDown id="67" down="47.016"/>
+            </FsChunk>
+            <FsChunk chunk="574" start="57.4" end="57.5" end_ahead="72.1" down="1" downward="2" rel="0.000306372549019608" frac="0.219056372549019">
+              <FsDown id="72" down="57.469"/>
+            </FsChunk>
+            <FsChunk chunk="579" start="57.9" end="58" end_ahead="72.6" down="1" downward="1" rel="0.000204248366013072" frac="0.220077614379084">
+              <FsDown id="55" down="57.934"/>
+            </FsChunk>
+            <FsChunk chunk="674" start="67.4" end="67.5" end_ahead="82.1" down="1" downward="0" rel="0.000102124183006536" frac="0.229779411764705">
+              <FsDown id="31" down="67.482"/>
+            </FsChunk>
+            <FsChunk chunk="913" start="91.3" end="91.4" end_ahead="106" down="1" downward="3" rel="0.000408496732026144" frac="0.255821078431372">
+              <FsDown id="32" down="91.388"/>
+            </FsChunk>
+            <FsChunk chunk="990" start="99" end="99.1" end_ahead="113.7" down="1" downward="4" rel="0.00051062091503268" frac="0.286356209150326">
+              <FsDown id="80" down="99.025"/>
+            </FsChunk>
+            <FsChunk chunk="1039" start="103.9" end="104" end_ahead="118.6" down="1" downward="3" rel="0.000408496732026144" frac="0.306372549019607">
+              <FsDown id="52" down="103.95"/>
+            </FsChunk>
+            <FsChunk chunk="1043" start="104.3" end="104.4" end_ahead="119" down="1" downward="2" rel="0.000306372549019608" frac="0.307598039215685">
+              <FsDown id="71" down="104.352"/>
+            </FsChunk>
+            <FsChunk chunk="1088" start="108.8" end="108.9" end_ahead="123.5" down="1" downward="3" rel="0.000408496732026144" frac="0.319750816993463">
+              <FsDown id="106" down="108.801"/>
+            </FsChunk>
+            <FsChunk chunk="1118" start="111.8" end="111.9" end_ahead="126.5" down="1" downward="2" rel="0.000306372549019608" frac="0.328941993464051">
+              <FsDown id="34" down="111.847"/>
+            </FsChunk>
+            <FsChunk chunk="1215" start="121.5" end="121.6" end_ahead="136.2" down="1" downward="2" rel="0.000306372549019608" frac="0.349060457516339">
+              <FsDown id="36" down="121.548"/>
+            </FsChunk>
+            <FsChunk chunk="1226" start="122.6" end="122.7" end_ahead="137.3" down="1" downward="1" rel="0.000204248366013072" frac="0.351307189542483">
+              <FsDown id="81" down="122.686"/>
+            </FsChunk>
+            <FsChunk chunk="1359" start="135.9" end="136" end_ahead="150.6" down="1" downward="1" rel="0.000204248366013072" frac="0.365706699346404">
+              <FsDown id="100" down="135.969"/>
+            </FsChunk>
+            <FsChunk chunk="1498" start="149.8" end="149.9" end_ahead="164.5" down="1" downward="4" rel="0.00051062091503268" frac="0.410947712418299">
+              <FsDown id="103" down="149.84"/>
+            </FsChunk>
+            <FsChunk chunk="1527" start="152.7" end="152.8" end_ahead="167.4" down="1" downward="3" rel="0.000408496732026144" frac="0.422794117647058">
+              <FsDown id="85" down="152.716"/>
+            </FsChunk>
+            <FsChunk chunk="1559" start="155.9" end="156" end_ahead="170.6" down="1" downward="3" rel="0.000408496732026144" frac="0.435763888888888">
+              <FsDown id="22" down="155.937"/>
+            </FsChunk>
+            <FsChunk chunk="1562" start="156.2" end="156.3" end_ahead="170.9" down="1" downward="2" rel="0.000306372549019608" frac="0.436683006535946">
+              <FsDown id="37" down="156.255"/>
+            </FsChunk>
+            <FsChunk chunk="1628" start="162.8" end="162.9" end_ahead="177.5" down="1" downward="2" rel="0.000306372549019608" frac="0.452818627450979">
+              <FsDown id="98" down="162.886"/>
+            </FsChunk>
+            <FsChunk chunk="1675" start="167.5" end="167.6" end_ahead="182.2" down="1" downward="3" rel="0.000408496732026144" frac="0.467116013071894">
+              <FsDown id="77" down="167.568"/>
+            </FsChunk>
+            <FsChunk chunk="1749" start="174.9" end="175" end_ahead="189.6" down="1" downward="2" rel="0.000306372549019608" frac="0.489787581699345">
+              <FsDown id="15" down="174.918"/>
+            </FsChunk>
+            <FsChunk chunk="1792" start="179.2" end="179.3" end_ahead="193.9" down="1" downward="1" rel="0.000204248366013072" frac="0.498570261437907">
+              <FsDown id="6" down="179.279"/>
+            </FsChunk>
+            <FsChunk chunk="1806" start="180.6" end="180.7" end_ahead="195.3" down="1" downward="0" rel="0.000102124183006536" frac="0.499999999999999">
+              <FsDown id="30" down="180.658"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.3598" lon="147.93381"/>
+          <FsPathVertex lat="-33.44629" lon="147.93877"/>
+          <FsPathVertex lat="-33.84686" lon="147.96194"/>
+          <FsPathVertex lat="-34.48066" lon="148.65278"/>
+          <FsPathVertex lat="-34.80979" lon="148.66767"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="Task 3" tracklog_folder="task 3">
         <FsScoreFormula id="GAP2016" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
@@ -752,18 +951,78 @@
             <FsResult rank="31" points="508" distance="195.225" ss_time="04:18:03" distance_points="385.2" linear_distance_points="192.6" difficulty_distance_points="192.6" time_points="107" arrival_points="15.5" leading_points="0" started_ss="2018-01-01T14:00:00+11:00" finished_ss="2018-01-01T18:18:03+11:00" real_distance="195.225" last_distance="195.225"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="185.62" task_distance="195.225" launch_to_ess_distance="195.225" no_of_pilots_present="48" no_of_pilots_flying="48" no_of_pilots_lo="18" no_of_pilots_reaching_es="30" best_dist="195.225" best_time="3.14555555555556" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="7635.909" best_real_dist="195.225" goalratio="0.625" arrival_weight="0.076849365234375" leading_weight="0.107589111328125" time_weight="0.4303564453125" distance_weight="0.385205078125" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="9.605"/>
-          <FsTaskDistToTp tp_no="3" distance="139.247"/>
-          <FsTaskDistToTp tp_no="4" distance="195.225"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.35367" lon="147.93666"/>
           <FsTurnpoint lat="-33.29288" lon="148.0101"/>
           <FsTurnpoint lat="-32.46827" lon="148.99157"/>
           <FsTurnpoint lat="-32.29971" lon="149.5533"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="185.62" task_distance="195.225" launch_to_ess_distance="195.225" no_of_pilots_present="48" no_of_pilots_flying="48" no_of_pilots_lo="18" no_of_pilots_reaching_es="30" best_dist="195.225" best_time="3.14555555555556" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="7635.909" best_real_dist="195.225" goalratio="0.625" arrival_weight="0.076849365234375" leading_weight="0.107589111328125" time_weight="0.4303564453125" distance_weight="0.385205078125" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.605"/>
+          <FsTaskDistToTp tp_no="3" distance="139.247"/>
+          <FsTaskDistToTp tp_no="4" distance="195.225"/>
+          <FsTaskDifficulty chunks="1961" start_chunks="0" end_chunks="196.2" look_ahead="325" sum_of_difficulty="5626" no_of_pilots_lo="18">
+            <FsChunk chunk="100" start="10" end="10.1" end_ahead="42.5" down="1" downward="0" rel="8.88730892285816E-05" frac="0.00897618201208674">
+              <FsDown id="85" down="10"/>
+            </FsChunk>
+            <FsChunk chunk="510" start="51" end="51.1" end_ahead="83.5" down="1" downward="4" rel="0.000444365446142908" frac="0.0886064699608954">
+              <FsDown id="55" down="51.028"/>
+            </FsChunk>
+            <FsChunk chunk="560" start="56" end="56.1" end_ahead="88.5" down="1" downward="3" rel="0.000355492356914326" frac="0.106381087806612">
+              <FsDown id="27" down="56.095"/>
+            </FsChunk>
+            <FsChunk chunk="719" start="71.9" end="72" end_ahead="104.4" down="1" downward="3" rel="0.000355492356914326" frac="0.15161749022396">
+              <FsDown id="69" down="71.919"/>
+            </FsChunk>
+            <FsChunk chunk="735" start="73.5" end="73.6" end_ahead="106" down="1" downward="2" rel="0.000266619267685745" frac="0.155883398506933">
+              <FsDown id="101" down="73.532"/>
+            </FsChunk>
+            <FsChunk chunk="755" start="75.5" end="75.6" end_ahead="108" down="1" downward="1" rel="0.000177746178457163" frac="0.159438322076076">
+              <FsDown id="43" down="75.552"/>
+            </FsChunk>
+            <FsChunk chunk="1012" start="101.2" end="101.3" end_ahead="133.7" down="1" downward="1" rel="0.000177746178457163" frac="0.203963739779598">
+              <FsDown id="83" down="101.264"/>
+            </FsChunk>
+            <FsChunk chunk="1093" start="109.3" end="109.4" end_ahead="141.8" down="1" downward="1" rel="0.000177746178457163" frac="0.211251333096342">
+              <FsDown id="102" down="109.354"/>
+            </FsChunk>
+            <FsChunk chunk="1417" start="141.7" end="141.8" end_ahead="174.2" down="1" downward="5" rel="0.00053323853537149" frac="0.281105581230009">
+              <FsDown id="75" down="141.7"/>
+            </FsChunk>
+            <FsChunk chunk="1508" start="150.8" end="150.9" end_ahead="183.3" down="1" downward="6" rel="0.000622111624600071" frac="0.322431567721299">
+              <FsDown id="64" down="150.815"/>
+            </FsChunk>
+            <FsChunk chunk="1675" start="167.5" end="167.6" end_ahead="200" down="2" downward="6" rel="0.000710984713828653" frac="0.431123355847854">
+              <FsDown id="52" down="167.524"/>
+              <FsDown id="74" down="167.525"/>
+            </FsChunk>
+            <FsChunk chunk="1680" start="168" end="168.1" end_ahead="200.5" down="1" downward="5" rel="0.00053323853537149" frac="0.433789548524712">
+              <FsDown id="67" down="168.013"/>
+            </FsChunk>
+            <FsChunk chunk="1710" start="171" end="171.1" end_ahead="203.5" down="1" downward="4" rel="0.000444365446142908" frac="0.447120511908999">
+              <FsDown id="28" down="171.048"/>
+            </FsChunk>
+            <FsChunk chunk="1826" start="182.6" end="182.7" end_ahead="215.1" down="1" downward="3" rel="0.000355492356914326" frac="0.488357625311063">
+              <FsDown id="71" down="182.679"/>
+            </FsChunk>
+            <FsChunk chunk="1830" start="183" end="183.1" end_ahead="215.5" down="1" downward="2" rel="0.000266619267685745" frac="0.489424102381806">
+              <FsDown id="86" down="183.057"/>
+            </FsChunk>
+            <FsChunk chunk="1861" start="186.1" end="186.2" end_ahead="218.6" down="1" downward="1" rel="0.000177746178457163" frac="0.494934233913978">
+              <FsDown id="14" down="186.168"/>
+            </FsChunk>
+            <FsChunk chunk="1918" start="191.8" end="191.9" end_ahead="224.3" down="1" downward="0" rel="8.88730892285816E-05" frac="0.500000000000006">
+              <FsDown id="107" down="191.856"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.35367" lon="147.93666"/>
+          <FsPathVertex lat="-33.29288" lon="148.0101"/>
+          <FsPathVertex lat="-32.46827" lon="148.99157"/>
+          <FsPathVertex lat="-32.29971" lon="149.5533"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="Task 4" tracklog_folder="task 4">
         <FsScoreFormula id="GAP2016" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
@@ -973,16 +1232,102 @@
             <FsResult rank="16" points="643" distance="388.75" ss_time="06:43:03" distance_points="508.6" linear_distance_points="254.28" difficulty_distance_points="254.28" time_points="95.9" arrival_points="12.5" leading_points="25.9" started_ss="2018-01-02T13:00:00+11:00" finished_ss="2018-01-02T19:43:03+11:00" real_distance="388.75" last_distance="388.75"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="379.143" task_distance="388.75" launch_to_ess_distance="388.75" no_of_pilots_present="47" no_of_pilots_flying="47" no_of_pilots_lo="31" no_of_pilots_reaching_es="16" best_dist="388.75" best_time="5.30638888888889" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="11083.645" best_real_dist="388.75" goalratio="0.340425531914894" arrival_weight="0.0614309883166543" leading_weight="0.086003383643316" time_weight="0.344013534573264" distance_weight="0.508552093466766" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="9.606"/>
-          <FsTaskDistToTp tp_no="3" distance="388.750"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.35357" lon="147.93654"/>
           <FsTurnpoint lat="-33.29045" lon="148.00714"/>
           <FsTurnpoint lat="-30.77021" lon="150.71674"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="379.143" task_distance="388.75" launch_to_ess_distance="388.75" no_of_pilots_present="47" no_of_pilots_flying="47" no_of_pilots_lo="31" no_of_pilots_reaching_es="16" best_dist="388.75" best_time="5.30638888888889" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="11083.645" best_real_dist="388.75" goalratio="0.340425531914894" arrival_weight="0.0614309883166543" leading_weight="0.086003383643316" time_weight="0.344013534573264" distance_weight="0.508552093466766" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.606"/>
+          <FsTaskDistToTp tp_no="3" distance="388.750"/>
+          <FsTaskDifficulty chunks="3891" start_chunks="0" end_chunks="389.2" look_ahead="376" sum_of_difficulty="9731" no_of_pilots_lo="31">
+            <FsChunk chunk="100" start="10" end="10.1" end_ahead="47.6" down="7" downward="0" rel="0.00035967526461823" frac="0.0363272017264413">
+              <FsDown id="98" down="10"/>
+              <FsDown id="100" down="10"/>
+              <FsDown id="14" down="10"/>
+              <FsDown id="6" down="10"/>
+              <FsDown id="4" down="10"/>
+              <FsDown id="55" down="10"/>
+              <FsDown id="86" down="10"/>
+            </FsChunk>
+            <FsChunk chunk="562" start="56.2" end="56.3" end_ahead="93.8" down="2" downward="2" rel="0.000205528722638989" frac="0.103740622752029">
+              <FsDown id="83" down="56.243"/>
+              <FsDown id="81" down="56.296"/>
+            </FsChunk>
+            <FsChunk chunk="569" start="56.9" end="57" end_ahead="94.5" down="1" downward="2" rel="0.000154146541979242" frac="0.104614119823245">
+              <FsDown id="64" down="56.991"/>
+            </FsChunk>
+            <FsChunk chunk="747" start="74.7" end="74.8" end_ahead="112.3" down="1" downward="1" rel="0.000102764361319494" frac="0.122906176138115">
+              <FsDown id="99" down="74.776"/>
+            </FsChunk>
+            <FsChunk chunk="942" start="94.2" end="94.3" end_ahead="131.8" down="1" downward="0" rel="5.13821806597472E-05" frac="0.132925701366767">
+              <FsDown id="106" down="94.242"/>
+            </FsChunk>
+            <FsChunk chunk="1367" start="136.7" end="136.8" end_ahead="174.3" down="1" downward="0" rel="5.13821806597472E-05" frac="0.152245401294834">
+              <FsDown id="74" down="136.716"/>
+            </FsChunk>
+            <FsChunk chunk="1760" start="176" end="176.1" end_ahead="213.6" down="1" downward="5" rel="0.000308293083958483" frac="0.215753776590282">
+              <FsDown id="71" down="176"/>
+            </FsChunk>
+            <FsChunk chunk="1808" start="180.8" end="180.9" end_ahead="218.4" down="1" downward="4" rel="0.000256910903298736" frac="0.228085499948621">
+              <FsDown id="67" down="180.876"/>
+            </FsChunk>
+            <FsChunk chunk="1857" start="185.7" end="185.8" end_ahead="223.3" down="1" downward="3" rel="0.000205528722638989" frac="0.238156407357932">
+              <FsDown id="75" down="185.741"/>
+            </FsChunk>
+            <FsChunk chunk="2014" start="201.4" end="201.5" end_ahead="239" down="1" downward="5" rel="0.000308293083958483" frac="0.273301818929198">
+              <FsDown id="92" down="201.459"/>
+            </FsChunk>
+            <FsChunk chunk="2063" start="206.3" end="206.4" end_ahead="243.9" down="1" downward="4" rel="0.000256910903298736" frac="0.285890453190835">
+              <FsDown id="28" down="206.356"/>
+            </FsChunk>
+            <FsChunk chunk="2078" start="207.8" end="207.9" end_ahead="245.4" down="1" downward="3" rel="0.000205528722638989" frac="0.28897338403042">
+              <FsDown id="88" down="207.896"/>
+            </FsChunk>
+            <FsChunk chunk="2247" start="224.7" end="224.8" end_ahead="262.3" down="1" downward="2" rel="0.000154146541979242" frac="0.315024149624915">
+              <FsDown id="85" down="224.782"/>
+            </FsChunk>
+            <FsChunk chunk="2323" start="232.3" end="232.4" end_ahead="269.9" down="1" downward="2" rel="0.000154146541979242" frac="0.324170177782351">
+              <FsDown id="52" down="232.387"/>
+            </FsChunk>
+            <FsChunk chunk="2387" start="238.7" end="238.8" end_ahead="276.3" down="1" downward="1" rel="0.000102764361319494" frac="0.330747096906799">
+              <FsDown id="34" down="238.765"/>
+            </FsChunk>
+            <FsChunk chunk="2673" start="267.3" end="267.4" end_ahead="304.9" down="1" downward="1" rel="0.000102764361319494" frac="0.353355256397091">
+              <FsDown id="103" down="267.369"/>
+            </FsChunk>
+            <FsChunk chunk="2895" start="289.5" end="289.6" end_ahead="327.1" down="1" downward="2" rel="0.000154146541979242" frac="0.375757887164744">
+              <FsDown id="68" down="289.592"/>
+            </FsChunk>
+            <FsChunk chunk="3099" start="309.9" end="310" end_ahead="347.5" down="1" downward="3" rel="0.000205528722638989" frac="0.40571369848938">
+              <FsDown id="42" down="309.941"/>
+            </FsChunk>
+            <FsChunk chunk="3229" start="322.9" end="323" end_ahead="360.5" down="1" downward="5" rel="0.000308293083958483" frac="0.433460076045645">
+              <FsDown id="77" down="322.9"/>
+            </FsChunk>
+            <FsChunk chunk="3330" start="333" end="333.1" end_ahead="370.6" down="1" downward="4" rel="0.000256910903298736" frac="0.459408077278815">
+              <FsDown id="80" down="333.065"/>
+            </FsChunk>
+            <FsChunk chunk="3445" start="344.5" end="344.6" end_ahead="382.1" down="1" downward="3" rel="0.000205528722638989" frac="0.483043880382301">
+              <FsDown id="22" down="344.566"/>
+            </FsChunk>
+            <FsChunk chunk="3526" start="352.6" end="352.7" end_ahead="390.2" down="1" downward="2" rel="0.000154146541979242" frac="0.495529750282621">
+              <FsDown id="51" down="352.697"/>
+            </FsChunk>
+            <FsChunk chunk="3561" start="356.1" end="356.2" end_ahead="393.7" down="1" downward="1" rel="0.000102764361319494" frac="0.499126502928804">
+              <FsDown id="37" down="356.115"/>
+            </FsChunk>
+            <FsChunk chunk="3578" start="357.8" end="357.9" end_ahead="395.4" down="1" downward="0" rel="5.13821806597472E-05" frac="0.50000000000002">
+              <FsDown id="32" down="357.858"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.35357" lon="147.93654"/>
+          <FsPathVertex lat="-33.29045" lon="148.00714"/>
+          <FsPathVertex lat="-30.77021" lon="150.71674"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="Task 5" tracklog_folder="task 5">
         <FsScoreFormula id="GAP2016" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
@@ -1171,18 +1516,120 @@
             <FsResult rank="34" points="277" distance="89.364" ss_time="00:00:00" distance_points="271.8" linear_distance_points="177.08" difficulty_distance_points="94.71" time_points="0" arrival_points="0" leading_points="5.4" started_ss="2018-01-03T15:30:00+11:00" real_distance="89.364" last_distance="87.251"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="144.307" task_distance="153.928" launch_to_ess_distance="153.928" no_of_pilots_present="42" no_of_pilots_flying="41" no_of_pilots_lo="32" no_of_pilots_reaching_es="9" best_dist="153.928" best_time="2.79444444444444" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="4359.524" best_real_dist="153.928" goalratio="0.219512195121951" arrival_weight="0.048644344611947" leading_weight="0.0681020824567258" time_weight="0.272408329826903" distance_weight="0.610845243104424" time_validity="1" launch_validity="0.998659459021704" distance_validity="1" stop_validity="1" day_quality="0.998659459021704">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="9.621"/>
-          <FsTaskDistToTp tp_no="3" distance="86.800"/>
-          <FsTaskDistToTp tp_no="4" distance="153.928"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.35288" lon="147.93528"/>
           <FsTurnpoint lat="-33.27322" lon="147.97567"/>
           <FsTurnpoint lat="-32.63367" lon="148.29712"/>
           <FsTurnpoint lat="-32.46623" lon="148.98521"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="144.307" task_distance="153.928" launch_to_ess_distance="153.928" no_of_pilots_present="42" no_of_pilots_flying="41" no_of_pilots_lo="32" no_of_pilots_reaching_es="9" best_dist="153.928" best_time="2.79444444444444" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="4359.524" best_real_dist="153.928" goalratio="0.219512195121951" arrival_weight="0.048644344611947" leading_weight="0.0681020824567258" time_weight="0.272408329826903" distance_weight="0.610845243104424" time_validity="1" launch_validity="0.998659459021704" distance_validity="1" stop_validity="1" day_quality="0.998659459021704">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.621"/>
+          <FsTaskDistToTp tp_no="3" distance="86.800"/>
+          <FsTaskDistToTp tp_no="4" distance="153.928"/>
+          <FsTaskDifficulty chunks="1541" start_chunks="0" end_chunks="154.2" look_ahead="144" sum_of_difficulty="4522" no_of_pilots_lo="32">
+            <FsChunk chunk="100" start="10" end="10.1" end_ahead="24.4" down="2" downward="1" rel="0.00033171163202123" frac="0.0326183104820875">
+              <FsDown id="80" down="10"/>
+              <FsDown id="71" down="10"/>
+            </FsChunk>
+            <FsChunk chunk="151" start="15.1" end="15.2" end_ahead="29.5" down="1" downward="0" rel="0.000110570544007077" frac="0.0382574082264486">
+              <FsDown id="14" down="15.164"/>
+            </FsChunk>
+            <FsChunk chunk="677" start="67.7" end="67.8" end_ahead="82.1" down="1" downward="1" rel="0.000221141088014153" frac="0.0671163202122958">
+              <FsDown id="67" down="67.771"/>
+            </FsChunk>
+            <FsChunk chunk="704" start="70.4" end="70.5" end_ahead="84.8" down="1" downward="0" rel="0.000110570544007077" frac="0.0701017249004869">
+              <FsDown id="8" down="70.412"/>
+            </FsChunk>
+            <FsChunk chunk="854" start="85.4" end="85.5" end_ahead="99.8" down="1" downward="6" rel="0.000773993808049536" frac="0.129035824856259">
+              <FsDown id="99" down="85.466"/>
+            </FsChunk>
+            <FsChunk chunk="893" start="89.3" end="89.4" end_ahead="103.7" down="1" downward="5" rel="0.000663423264042459" frac="0.154909332153914">
+              <FsDown id="34" down="89.364"/>
+            </FsChunk>
+            <FsChunk chunk="901" start="90.1" end="90.2" end_ahead="104.5" down="1" downward="4" rel="0.000552852720035383" frac="0.159332153914197">
+              <FsDown id="107" down="90.15"/>
+            </FsChunk>
+            <FsChunk chunk="921" start="92.1" end="92.2" end_ahead="106.5" down="1" downward="3" rel="0.000442282176028306" frac="0.168177797434764">
+              <FsDown id="42" down="92.151"/>
+            </FsChunk>
+            <FsChunk chunk="952" start="95.2" end="95.3" end_ahead="109.6" down="1" downward="3" rel="0.000442282176028306" frac="0.179455992923486">
+              <FsDown id="25" down="95.266"/>
+            </FsChunk>
+            <FsChunk chunk="962" start="96.2" end="96.3" end_ahead="110.6" down="1" downward="2" rel="0.00033171163202123" frac="0.182773109243698">
+              <FsDown id="52" down="96.233"/>
+            </FsChunk>
+            <FsChunk chunk="970" start="97" end="97.1" end_ahead="111.4" down="1" downward="1" rel="0.000221141088014153" frac="0.184542237947811">
+              <FsDown id="68" down="97.067"/>
+            </FsChunk>
+            <FsChunk chunk="1087" start="108.7" end="108.8" end_ahead="123.1" down="1" downward="5" rel="0.000663423264042459" frac="0.247899159663865">
+              <FsDown id="103" down="108.77"/>
+            </FsChunk>
+            <FsChunk chunk="1124" start="112.4" end="112.5" end_ahead="126.8" down="1" downward="7" rel="0.000884564352056612" frac="0.27266696152145">
+              <FsDown id="7" down="112.439"/>
+            </FsChunk>
+            <FsChunk chunk="1135" start="113.5" end="113.6" end_ahead="127.9" down="1" downward="9" rel="0.00110570544007077" frac="0.283060592658116">
+              <FsDown id="41" down="113.595"/>
+            </FsChunk>
+            <FsChunk chunk="1141" start="114.1" end="114.2" end_ahead="128.5" down="1" downward="8" rel="0.000995134896063689" frac="0.289031402034498">
+              <FsDown id="98" down="114.123"/>
+            </FsChunk>
+            <FsChunk chunk="1142" start="114.2" end="114.3" end_ahead="128.6" down="1" downward="7" rel="0.000884564352056612" frac="0.289915966386554">
+              <FsDown id="75" down="114.263"/>
+            </FsChunk>
+            <FsChunk chunk="1157" start="115.7" end="115.8" end_ahead="130.1" down="1" downward="7" rel="0.000884564352056612" frac="0.302078726227333">
+              <FsDown id="64" down="115.729"/>
+            </FsChunk>
+            <FsChunk chunk="1244" start="124.4" end="124.5" end_ahead="138.8" down="1" downward="8" rel="0.000995134896063689" frac="0.376934984520124">
+              <FsDown id="86" down="124.452"/>
+            </FsChunk>
+            <FsChunk chunk="1254" start="125.4" end="125.5" end_ahead="139.8" down="1" downward="7" rel="0.000884564352056612" frac="0.385780628040691">
+              <FsDown id="6" down="125.409"/>
+            </FsChunk>
+            <FsChunk chunk="1267" start="126.7" end="126.8" end_ahead="141.1" down="1" downward="6" rel="0.000773993808049536" frac="0.395842547545335">
+              <FsDown id="62" down="126.791"/>
+            </FsChunk>
+            <FsChunk chunk="1270" start="127" end="127.1" end_ahead="141.4" down="1" downward="5" rel="0.000663423264042459" frac="0.397832817337462">
+              <FsDown id="36" down="127.006"/>
+            </FsChunk>
+            <FsChunk chunk="1272" start="127.2" end="127.3" end_ahead="141.6" down="1" downward="4" rel="0.000552852720035383" frac="0.398938522777533">
+              <FsDown id="28" down="127.289"/>
+            </FsChunk>
+            <FsChunk chunk="1278" start="127.8" end="127.9" end_ahead="142.2" down="1" downward="3" rel="0.000442282176028306" frac="0.401592215833703">
+              <FsDown id="72" down="127.889"/>
+            </FsChunk>
+            <FsChunk chunk="1296" start="129.6" end="129.7" end_ahead="144" down="1" downward="3" rel="0.000442282176028306" frac="0.407784166298099">
+              <FsDown id="74" down="129.651"/>
+            </FsChunk>
+            <FsChunk chunk="1347" start="134.7" end="134.8" end_ahead="149.1" down="1" downward="6" rel="0.000773993808049536" frac="0.439739053516144">
+              <FsDown id="92" down="134.739"/>
+            </FsChunk>
+            <FsChunk chunk="1361" start="136.1" end="136.2" end_ahead="150.5" down="1" downward="5" rel="0.000663423264042459" frac="0.449026979212738">
+              <FsDown id="15" down="136.182"/>
+            </FsChunk>
+            <FsChunk chunk="1438" start="143.8" end="143.9" end_ahead="158.2" down="1" downward="4" rel="0.000552852720035383" frac="0.491596638655461">
+              <FsDown id="4" down="143.821"/>
+            </FsChunk>
+            <FsChunk chunk="1447" start="144.7" end="144.8" end_ahead="159.1" down="1" downward="3" rel="0.000442282176028306" frac="0.495577178239716">
+              <FsDown id="22" down="144.711"/>
+            </FsChunk>
+            <FsChunk chunk="1451" start="145.1" end="145.2" end_ahead="159.5" down="1" downward="2" rel="0.00033171163202123" frac="0.4969040247678">
+              <FsDown id="31" down="145.112"/>
+            </FsChunk>
+            <FsChunk chunk="1455" start="145.5" end="145.6" end_ahead="159.9" down="1" downward="1" rel="0.000221141088014153" frac="0.497788589119857">
+              <FsDown id="81" down="145.599"/>
+            </FsChunk>
+            <FsChunk chunk="1475" start="147.5" end="147.6" end_ahead="161.9" down="1" downward="0" rel="0.000110570544007077" frac="0.499999999999999">
+              <FsDown id="11" down="147.549"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.35288" lon="147.93528"/>
+          <FsPathVertex lat="-33.27322" lon="147.97567"/>
+          <FsPathVertex lat="-32.63367" lon="148.29712"/>
+          <FsPathVertex lat="-32.46623" lon="148.98521"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="6" name="Task 6" tracklog_folder="task 6">
         <FsScoreFormula id="GAP2016" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
@@ -1388,13 +1835,6 @@
             <FsResult rank="38" points="263" distance="107.56" ss_time="00:00:00" distance_points="262.9" linear_distance_points="132.61" difficulty_distance_points="130.29" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-01-04T13:50:00+11:00" real_distance="107.56" last_distance="104.458"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="161.752" task_distance="166.362" launch_to_ess_distance="166.362" no_of_pilots_present="45" no_of_pilots_flying="45" no_of_pilots_lo="21" no_of_pilots_reaching_es="24" best_dist="166.362" best_time="3.56638888888889" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="5582.55" best_real_dist="166.362" goalratio="0.533333333333333" arrival_weight="0.0737245925925926" leading_weight="0.10321442962963" time_weight="0.412857718518519" distance_weight="0.410203259259259" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="4.610"/>
-          <FsTaskDistToTp tp_no="3" distance="49.980"/>
-          <FsTaskDistToTp tp_no="4" distance="113.436"/>
-          <FsTaskDistToTp tp_no="5" distance="166.363"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.35952" lon="147.93528"/>
           <FsTurnpoint lat="-33.3977" lon="147.95463"/>
@@ -1402,6 +1842,85 @@
           <FsTurnpoint lat="-33.28546" lon="148.50124"/>
           <FsTurnpoint lat="-33.35568" lon="147.93785"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="161.752" task_distance="166.362" launch_to_ess_distance="166.362" no_of_pilots_present="45" no_of_pilots_flying="45" no_of_pilots_lo="21" no_of_pilots_reaching_es="24" best_dist="166.362" best_time="3.56638888888889" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="5582.55" best_real_dist="166.362" goalratio="0.533333333333333" arrival_weight="0.0737245925925926" leading_weight="0.10321442962963" time_weight="0.412857718518519" distance_weight="0.410203259259259" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.610"/>
+          <FsTaskDistToTp tp_no="3" distance="49.980"/>
+          <FsTaskDistToTp tp_no="4" distance="113.436"/>
+          <FsTaskDistToTp tp_no="5" distance="166.363"/>
+          <FsTaskDifficulty chunks="1671" start_chunks="0" end_chunks="167.2" look_ahead="238" sum_of_difficulty="4861" no_of_pilots_lo="21">
+            <FsChunk chunk="100" start="10" end="10.1" end_ahead="33.8" down="1" downward="2" rel="0.00030857848179387" frac="0.0241719810738531">
+              <FsDown id="99" down="10"/>
+            </FsChunk>
+            <FsChunk chunk="265" start="26.5" end="26.6" end_ahead="50.3" down="1" downward="3" rel="0.000411437975725159" frac="0.0635671672495369">
+              <FsDown id="83" down="26.525"/>
+            </FsChunk>
+            <FsChunk chunk="277" start="27.7" end="27.8" end_ahead="51.5" down="1" downward="2" rel="0.00030857848179387" frac="0.0672701090310634">
+              <FsDown id="86" down="27.717"/>
+            </FsChunk>
+            <FsChunk chunk="470" start="47" end="47.1" end_ahead="70.8" down="1" downward="1" rel="0.00020571898786258" frac="0.106973873688541">
+              <FsDown id="71" down="47.081"/>
+            </FsChunk>
+            <FsChunk chunk="483" start="48.3" end="48.4" end_ahead="72.1" down="1" downward="0" rel="0.00010285949393129" frac="0.108311047109648">
+              <FsDown id="74" down="48.359"/>
+            </FsChunk>
+            <FsChunk chunk="856" start="85.6" end="85.7" end_ahead="109.4" down="1" downward="4" rel="0.000514297469656449" frac="0.149351985188234">
+              <FsDown id="32" down="85.698"/>
+            </FsChunk>
+            <FsChunk chunk="967" start="96.7" end="96.8" end_ahead="120.5" down="1" downward="8" rel="0.000925735445381609" frac="0.213227730919565">
+              <FsDown id="67" down="96.771"/>
+            </FsChunk>
+            <FsChunk chunk="1075" start="107.5" end="107.6" end_ahead="131.3" down="1" downward="10" rel="0.00113145443324419" frac="0.317012960296236">
+              <FsDown id="55" down="107.56"/>
+            </FsChunk>
+            <FsChunk chunk="1084" start="108.4" end="108.5" end_ahead="132.2" down="1" downward="9" rel="0.0010285949393129" frac="0.326270314750052">
+              <FsDown id="6" down="108.456"/>
+            </FsChunk>
+            <FsChunk chunk="1089" start="108.9" end="109" end_ahead="132.7" down="1" downward="8" rel="0.000925735445381609" frac="0.33089899197696">
+              <FsDown id="103" down="108.953"/>
+            </FsChunk>
+            <FsChunk chunk="1108" start="110.8" end="110.9" end_ahead="134.6" down="1" downward="7" rel="0.000822875951450319" frac="0.346533635054516">
+              <FsDown id="23" down="110.896"/>
+            </FsChunk>
+            <FsChunk chunk="1142" start="114.2" end="114.3" end_ahead="138" down="1" downward="8" rel="0.000925735445381609" frac="0.377288623739971">
+              <FsDown id="14" down="114.259"/>
+            </FsChunk>
+            <FsChunk chunk="1197" start="119.7" end="119.8" end_ahead="143.5" down="1" downward="8" rel="0.000925735445381609" frac="0.428101213742028">
+              <FsDown id="28" down="119.725"/>
+            </FsChunk>
+            <FsChunk chunk="1199" start="119.9" end="120" end_ahead="143.7" down="1" downward="7" rel="0.000822875951450319" frac="0.429746965644929">
+              <FsDown id="107" down="119.957"/>
+            </FsChunk>
+            <FsChunk chunk="1202" start="120.2" end="120.3" end_ahead="144" down="1" downward="6" rel="0.000720016457519029" frac="0.431907015017486">
+              <FsDown id="22" down="120.26"/>
+            </FsChunk>
+            <FsChunk chunk="1244" start="124.4" end="124.5" end_ahead="148.2" down="1" downward="5" rel="0.000617156963587739" frac="0.45782760748817">
+              <FsDown id="85" down="124.451"/>
+            </FsChunk>
+            <FsChunk chunk="1274" start="127.4" end="127.5" end_ahead="151.2" down="1" downward="4" rel="0.000514297469656449" frac="0.473256531577863">
+              <FsDown id="25" down="127.408"/>
+            </FsChunk>
+            <FsChunk chunk="1276" start="127.6" end="127.7" end_ahead="151.4" down="1" downward="3" rel="0.000411437975725159" frac="0.474079407529313">
+              <FsDown id="80" down="127.666"/>
+            </FsChunk>
+            <FsChunk chunk="1349" start="134.9" end="135" end_ahead="158.7" down="1" downward="2" rel="0.00030857848179387" frac="0.496605636700267">
+              <FsDown id="52" down="134.97"/>
+            </FsChunk>
+            <FsChunk chunk="1350" start="135" end="135.1" end_ahead="158.8" down="1" downward="1" rel="0.00020571898786258" frac="0.496811355688129">
+              <FsDown id="42" down="135.02"/>
+            </FsChunk>
+            <FsChunk chunk="1381" start="138.1" end="138.2" end_ahead="161.9" down="1" downward="0" rel="0.00010285949393129" frac="0.5">
+              <FsDown id="64" down="138.106"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.35952" lon="147.93528"/>
+          <FsPathVertex lat="-33.3977" lon="147.95463"/>
+          <FsPathVertex lat="-33.77329" lon="148.14601"/>
+          <FsPathVertex lat="-33.28546" lon="148.50124"/>
+          <FsPathVertex lat="-33.35568" lon="147.93785"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="7" name="Task 7" tracklog_folder="task 7">
         <FsScoreFormula id="GAP2016" min_dist="10" nom_dist="100" nom_time="1.5" nom_launch="1" nom_goal="0.25" jump_the_gun_factor="2" jump_the_gun_max="600" use_arrival_position_points="1" use_leading_points="1" score_back_time="15" double_leading_weight="0"/>
@@ -1593,13 +2112,6 @@
             <FsResult rank="18" points="564" distance="172.145" ss_time="04:42:42" distance_points="385.2" linear_distance_points="192.6" difficulty_distance_points="192.6" time_points="115.2" arrival_points="18.9" leading_points="45.1" started_ss="2018-01-05T13:40:00+11:00" finished_ss="2018-01-05T18:22:42+11:00" real_distance="172.145" last_distance="172.145"/>
           </FsParticipant>
         </FsParticipants>
-        <FsTaskScoreParams ss_distance="167.54" task_distance="172.145" launch_to_ess_distance="172.145" no_of_pilots_present="40" no_of_pilots_flying="40" no_of_pilots_lo="15" no_of_pilots_reaching_es="25" best_dist="172.145" best_time="3.53361111111111" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="5404.659" best_real_dist="172.145" goalratio="0.625" arrival_weight="0.076849365234375" leading_weight="0.107589111328125" time_weight="0.4303564453125" distance_weight="0.385205078125" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
-          <FsTaskDistToTp tp_no="1" distance="0.000"/>
-          <FsTaskDistToTp tp_no="2" distance="4.606"/>
-          <FsTaskDistToTp tp_no="3" distance="104.237"/>
-          <FsTaskDistToTp tp_no="4" distance="147.297"/>
-          <FsTaskDistToTp tp_no="5" distance="172.146"/>
-        </FsTaskScoreParams>
         <FsTaskShortestRoute>
           <FsTurnpoint lat="-33.35329" lon="147.93614"/>
           <FsTurnpoint lat="-33.31981" lon="147.96534"/>
@@ -1607,6 +2119,67 @@
           <FsTurnpoint lat="-32.50921" lon="148.14334"/>
           <FsTurnpoint lat="-32.72551" lon="148.21002"/>
         </FsTaskShortestRoute>
+        <FsTaskScoreParams ss_distance="167.54" task_distance="172.145" launch_to_ess_distance="172.145" no_of_pilots_present="40" no_of_pilots_flying="40" no_of_pilots_lo="15" no_of_pilots_reaching_es="25" best_dist="172.145" best_time="3.53361111111111" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="5404.659" best_real_dist="172.145" goalratio="0.625" arrival_weight="0.076849365234375" leading_weight="0.107589111328125" time_weight="0.4303564453125" distance_weight="0.385205078125" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.606"/>
+          <FsTaskDistToTp tp_no="3" distance="104.237"/>
+          <FsTaskDistToTp tp_no="4" distance="147.297"/>
+          <FsTaskDistToTp tp_no="5" distance="172.146"/>
+          <FsTaskDifficulty chunks="1731" start_chunks="0" end_chunks="173.2" look_ahead="344" sum_of_difficulty="5136" no_of_pilots_lo="15">
+            <FsChunk chunk="319" start="31.9" end="32" end_ahead="66.3" down="1" downward="2" rel="0.000292056074766355" frac="0.0430295950155762">
+              <FsDown id="14" down="31.957"/>
+            </FsChunk>
+            <FsChunk chunk="564" start="56.4" end="56.5" end_ahead="90.8" down="1" downward="3" rel="0.000389408099688474" frac="0.136779595015576">
+              <FsDown id="98" down="56.432"/>
+            </FsChunk>
+            <FsChunk chunk="640" start="64" end="64.1" end_ahead="98.4" down="1" downward="4" rel="0.000486760124610592" frac="0.16686137071651">
+              <FsDown id="64" down="64.08"/>
+            </FsChunk>
+            <FsChunk chunk="671" start="67.1" end="67.2" end_ahead="101.5" down="1" downward="3" rel="0.000389408099688474" frac="0.178933021806853">
+              <FsDown id="106" down="67.149"/>
+            </FsChunk>
+            <FsChunk chunk="672" start="67.2" end="67.3" end_ahead="101.6" down="1" downward="2" rel="0.000292056074766355" frac="0.179225077881619">
+              <FsDown id="34" down="67.244"/>
+            </FsChunk>
+            <FsChunk chunk="937" start="93.7" end="93.8" end_ahead="128.1" down="1" downward="6" rel="0.000681464174454829" frac="0.307924454828657">
+              <FsDown id="83" down="93.736"/>
+            </FsChunk>
+            <FsChunk chunk="950" start="95" end="95.1" end_ahead="129.4" down="1" downward="5" rel="0.00058411214953271" frac="0.315517912772582">
+              <FsDown id="85" down="95.03"/>
+            </FsChunk>
+            <FsChunk chunk="1048" start="104.8" end="104.9" end_ahead="139.2" down="1" downward="5" rel="0.00058411214953271" frac="0.367795950155758">
+              <FsDown id="23" down="104.818"/>
+            </FsChunk>
+            <FsChunk chunk="1081" start="108.1" end="108.2" end_ahead="142.5" down="1" downward="4" rel="0.000486760124610592" frac="0.383859034267907">
+              <FsDown id="4" down="108.119"/>
+            </FsChunk>
+            <FsChunk chunk="1106" start="110.6" end="110.7" end_ahead="145" down="1" downward="3" rel="0.000389408099688474" frac="0.393594236760118">
+              <FsDown id="80" down="110.623"/>
+            </FsChunk>
+            <FsChunk chunk="1184" start="118.4" end="118.5" end_ahead="152.8" down="1" downward="2" rel="0.000292056074766355" frac="0.416374610591893">
+              <FsDown id="28" down="118.481"/>
+            </FsChunk>
+            <FsChunk chunk="1194" start="119.4" end="119.5" end_ahead="153.8" down="1" downward="1" rel="0.000194704049844237" frac="0.418321651090336">
+              <FsDown id="103" down="119.472"/>
+            </FsChunk>
+            <FsChunk chunk="1345" start="134.5" end="134.6" end_ahead="168.9" down="1" downward="2" rel="0.000292056074766355" frac="0.441394080996877">
+              <FsDown id="52" down="134.587"/>
+            </FsChunk>
+            <FsChunk chunk="1606" start="160.6" end="160.7" end_ahead="195" down="1" downward="1" rel="0.000194704049844237" frac="0.492211838006221">
+              <FsDown id="36" down="160.674"/>
+            </FsChunk>
+            <FsChunk chunk="1686" start="168.6" end="168.7" end_ahead="203" down="1" downward="0" rel="9.73520249221184E-05" frac="0.49999999999999">
+              <FsDown id="99" down="168.607"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="-33.35329" lon="147.93614"/>
+          <FsPathVertex lat="-33.31981" lon="147.96534"/>
+          <FsPathVertex lat="-32.59407" lon="148.59159"/>
+          <FsPathVertex lat="-32.50921" lon="148.14334"/>
+          <FsPathVertex lat="-32.72551" lon="148.21002"/>
+        </FsTaskShortestPath>
       </FsTask>
     </FsTasks>
   </FsCompetition>
