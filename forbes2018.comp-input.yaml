@@ -95,6 +95,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: task 2
   zones:
@@ -191,6 +192,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '74'
       - Vic Hare
@@ -301,6 +303,11 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto:
+  - - - '80'
+      - Michael Cassells
+    - - penalty-points: 37.5
+    - Jumped the gun by 1:15
   penals:
   - - - '43'
       - Jonny Durand
@@ -373,6 +380,11 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto:
+  - - - '85'
+      - Rick Martin
+    - - penalty-points: 117
+    - Jumped the gun by 3:54
   penals: []
 - taskName: Task 5
   zones:
@@ -455,6 +467,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: Task 6
   zones:
@@ -551,6 +564,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals: []
 - taskName: Task 7
   zones:
@@ -647,6 +661,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+  penalsAuto: []
   penals:
   - - - '85'
       - Rick Martin
