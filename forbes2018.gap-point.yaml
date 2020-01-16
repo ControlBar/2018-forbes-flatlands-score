@@ -214,15 +214,15 @@ allocation:
 - goalRatio: 0.32692308
   weight:
     effort: 0.25912293
-    arrival: 6.021927e-2
-    time: 0.42153488
+    arrival: 0
+    time: 0.48175415
     reach: 0.25912293
     distance: 0.51824585
     leading: 0
   points:
     effort: 254.984
-    arrival: 59.3
-    time: 414.8
+    arrival: 0
+    time: 474.1
     reach: 254.984
     distance: 509.967
     leading: 0
@@ -334,8 +334,8 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 59.3
-        time: 414.8
+        arrival: 0
+        time: 474.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -356,15 +356,15 @@ score:
   - - - '101'
       - Oliver Chitty
     - place: '2'
-      total: 943
+      total: 945
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 52
-        time: 380.7
+        arrival: 0
+        time: 435.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -385,15 +385,15 @@ score:
   - - - '27'
       - Guy Hubbard
     - place: '3'
-      total: 853
+      total: 850
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 45.6
-        time: 297.3
+        arrival: 0
+        time: 339.8
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -411,76 +411,18 @@ score:
         flown: 142.789 km
       landedMade: 142.789 km
       stoppedAlt: null
-  - - - '31'
-      - Trent Brown
-    - place: '4'
-      total: 774
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 254.984
-        arrival: 39.8
-        time: 224
-        reach: 254.984
-        distance: 509.967
-        leading: 0
-      velocity:
-        ss: 2017-12-30T04:00:35.790631310135Z
-        gs: 2017-12-30T04:00:00Z
-        es: 2017-12-30T06:39:43.234050030475Z
-        ssDistance: 133.189 km
-        ssElapsed: 2.652068 h
-        gsElapsed: 2.662009 h
-        ssVelocity: 50.22 km / h
-        gsVelocity: 50.03 km / h
-      reach:
-        extra: 142.789 km
-        flown: 142.789 km
-      landedMade: 142.789 km
-      stoppedAlt: null
-  - - - '76'
-      - Rory Duncan
-    - place: '5'
-      total: 767
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 254.984
-        arrival: 34.8
-        time: 222
-        reach: 254.984
-        distance: 509.967
-        leading: 0
-      velocity:
-        ss: 2017-12-30T04:00:45.866150898215Z
-        gs: 2017-12-30T04:00:00Z
-        es: 2017-12-30T06:40:09.42871555453Z
-        ssDistance: 133.189 km
-        ssElapsed: 2.656545 h
-        gsElapsed: 2.669286 h
-        ssVelocity: 50.14 km / h
-        gsVelocity: 49.90 km / h
-      reach:
-        extra: 142.789 km
-        flown: 142.789 km
-      landedMade: 142.789 km
-      stoppedAlt: null
   - - - '62'
       - Josh Woods
-    - place: '6'
-      total: 766
+    - place: '4'
+      total: 781
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 18.5
-        time: 237.2
+        arrival: 0
+        time: 271.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -500,16 +442,16 @@ score:
       stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
-    - place: '7'
-      total: 763
+    - place: '5'
+      total: 780
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 16.7
-        time: 236.4
+        arrival: 0
+        time: 270.2
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -529,16 +471,16 @@ score:
       stoppedAlt: null
   - - - '69'
       - Niki Longshore
-    - place: '8'
-      total: 760
+    - place: '6'
+      total: 778
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 15.2
-        time: 234.9
+        arrival: 0
+        time: 268.5
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -556,18 +498,76 @@ score:
         flown: 142.789 km
       landedMade: 142.789 km
       stoppedAlt: null
-  - - - '25'
-      - Tyler Borrdaile
-    - place: '9'
-      total: 747
+  - - - '31'
+      - Trent Brown
+    - place: '7'
+      total: 766
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 30.4
-        time: 206.8
+        arrival: 0
+        time: 256
+        reach: 254.984
+        distance: 509.967
+        leading: 0
+      velocity:
+        ss: 2017-12-30T04:00:35.790631310135Z
+        gs: 2017-12-30T04:00:00Z
+        es: 2017-12-30T06:39:43.234050030475Z
+        ssDistance: 133.189 km
+        ssElapsed: 2.652068 h
+        gsElapsed: 2.662009 h
+        ssVelocity: 50.22 km / h
+        gsVelocity: 50.03 km / h
+      reach:
+        extra: 142.789 km
+        flown: 142.789 km
+      landedMade: 142.789 km
+      stoppedAlt: null
+  - - - '76'
+      - Rory Duncan
+    - place: '8'
+      total: 764
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 254.984
+        arrival: 0
+        time: 253.7
+        reach: 254.984
+        distance: 509.967
+        leading: 0
+      velocity:
+        ss: 2017-12-30T04:00:45.866150898215Z
+        gs: 2017-12-30T04:00:00Z
+        es: 2017-12-30T06:40:09.42871555453Z
+        ssDistance: 133.189 km
+        ssElapsed: 2.656545 h
+        gsElapsed: 2.669286 h
+        ssVelocity: 50.14 km / h
+        gsVelocity: 49.90 km / h
+      reach:
+        extra: 142.789 km
+        flown: 142.789 km
+      landedMade: 142.789 km
+      stoppedAlt: null
+  - - - '25'
+      - Tyler Borrdaile
+    - place: '9'
+      total: 746
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 254.984
+        arrival: 0
+        time: 236.3
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -588,15 +588,15 @@ score:
   - - - '23'
       - Nils Vesk
     - place: '10'
-      total: 741
+      total: 743
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 26.7
-        time: 204.2
+        arrival: 0
+        time: 233.4
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -617,15 +617,15 @@ score:
   - - - '30'
       - Jason Kath
     - place: '11'
-      total: 731
+      total: 735
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 23.4
-        time: 197.2
+        arrival: 0
+        time: 225.4
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -646,15 +646,15 @@ score:
   - - - '106'
       - Jon Durand Snr
     - place: '12'
-      total: 716
+      total: 722
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 20.7
-        time: 185.4
+        arrival: 0
+        time: 211.9
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -674,16 +674,16 @@ score:
       stoppedAlt: null
   - - - '8'
       - Gordon Rigg
-    - place: '13'
-      total: 693
+    - place: 13=
+      total: 703
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 14.1
-        time: 168.7
+        arrival: 0
+        time: 192.8
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -703,16 +703,16 @@ score:
       stoppedAlt: null
   - - - '51'
       - Craig Taylor
-    - place: '14'
-      total: 692
+    - place: 13=
+      total: 703
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 13.3
-        time: 168.6
+        arrival: 0
+        time: 192.7
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -733,15 +733,15 @@ score:
   - - - '81'
       - Nick Purcell
     - place: '15'
-      total: 688
+      total: 699
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 12.7
-        time: 165.8
+        arrival: 0
+        time: 189.5
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -762,15 +762,15 @@ score:
   - - - '7'
       - Olav Opsanger
     - place: '16'
-      total: 649
+      total: 655
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 12.3
-        time: 127
+        arrival: 0
+        time: 145.2
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -791,15 +791,15 @@ score:
   - - - '22'
       - Rohan Taylor
     - place: '17'
-      total: 638
+      total: 642
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 12
-        time: 115.6
+        arrival: 0
+        time: 132.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9253,8 +9253,8 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 59.3
-        time: 414.8
+        arrival: 0
+        time: 474.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9275,15 +9275,15 @@ scoreDf:
   - - - '101'
       - Oliver Chitty
     - place: '2'
-      total: 943
+      total: 945
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 52
-        time: 380.7
+        arrival: 0
+        time: 435.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9304,15 +9304,15 @@ scoreDf:
   - - - '27'
       - Guy Hubbard
     - place: '3'
-      total: 853
+      total: 850
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 45.6
-        time: 297.3
+        arrival: 0
+        time: 339.8
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9330,76 +9330,18 @@ scoreDf:
         flown: 142.789 km
       landedMade: 142.789 km
       stoppedAlt: null
-  - - - '31'
-      - Trent Brown
-    - place: '4'
-      total: 774
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 254.984
-        arrival: 39.8
-        time: 224
-        reach: 254.984
-        distance: 509.967
-        leading: 0
-      velocity:
-        ss: 2017-12-30T04:00:35.790631310135Z
-        gs: 2017-12-30T04:00:00Z
-        es: 2017-12-30T06:39:43.234050030475Z
-        ssDistance: 133.189 km
-        ssElapsed: 2.652068 h
-        gsElapsed: 2.662009 h
-        ssVelocity: 50.22 km / h
-        gsVelocity: 50.03 km / h
-      reach:
-        extra: 142.789 km
-        flown: 142.789 km
-      landedMade: 142.789 km
-      stoppedAlt: null
-  - - - '76'
-      - Rory Duncan
-    - place: '5'
-      total: 767
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 254.984
-        arrival: 34.8
-        time: 222
-        reach: 254.984
-        distance: 509.967
-        leading: 0
-      velocity:
-        ss: 2017-12-30T04:00:45.866150898215Z
-        gs: 2017-12-30T04:00:00Z
-        es: 2017-12-30T06:40:09.42871555453Z
-        ssDistance: 133.189 km
-        ssElapsed: 2.656545 h
-        gsElapsed: 2.669286 h
-        ssVelocity: 50.14 km / h
-        gsVelocity: 49.90 km / h
-      reach:
-        extra: 142.789 km
-        flown: 142.789 km
-      landedMade: 142.789 km
-      stoppedAlt: null
   - - - '62'
       - Josh Woods
-    - place: '6'
-      total: 766
+    - place: '4'
+      total: 781
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 18.5
-        time: 237.2
+        arrival: 0
+        time: 271.1
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9419,16 +9361,16 @@ scoreDf:
       stoppedAlt: null
   - - - '11'
       - Steve Blenkinsop
-    - place: '7'
-      total: 763
+    - place: '5'
+      total: 780
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 16.7
-        time: 236.4
+        arrival: 0
+        time: 270.2
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9448,16 +9390,16 @@ scoreDf:
       stoppedAlt: null
   - - - '69'
       - Niki Longshore
-    - place: '8'
-      total: 760
+    - place: '6'
+      total: 778
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 15.2
-        time: 234.9
+        arrival: 0
+        time: 268.5
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9475,18 +9417,76 @@ scoreDf:
         flown: 142.789 km
       landedMade: 142.789 km
       stoppedAlt: null
-  - - - '25'
-      - Tyler Borrdaile
-    - place: '9'
-      total: 747
+  - - - '31'
+      - Trent Brown
+    - place: '7'
+      total: 766
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 30.4
-        time: 206.8
+        arrival: 0
+        time: 256
+        reach: 254.984
+        distance: 509.967
+        leading: 0
+      velocity:
+        ss: 2017-12-30T04:00:35.790631310135Z
+        gs: 2017-12-30T04:00:00Z
+        es: 2017-12-30T06:39:43.234050030475Z
+        ssDistance: 133.189 km
+        ssElapsed: 2.652068 h
+        gsElapsed: 2.662009 h
+        ssVelocity: 50.22 km / h
+        gsVelocity: 50.03 km / h
+      reach:
+        extra: 142.789 km
+        flown: 142.789 km
+      landedMade: 142.789 km
+      stoppedAlt: null
+  - - - '76'
+      - Rory Duncan
+    - place: '8'
+      total: 764
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 254.984
+        arrival: 0
+        time: 253.7
+        reach: 254.984
+        distance: 509.967
+        leading: 0
+      velocity:
+        ss: 2017-12-30T04:00:45.866150898215Z
+        gs: 2017-12-30T04:00:00Z
+        es: 2017-12-30T06:40:09.42871555453Z
+        ssDistance: 133.189 km
+        ssElapsed: 2.656545 h
+        gsElapsed: 2.669286 h
+        ssVelocity: 50.14 km / h
+        gsVelocity: 49.90 km / h
+      reach:
+        extra: 142.789 km
+        flown: 142.789 km
+      landedMade: 142.789 km
+      stoppedAlt: null
+  - - - '25'
+      - Tyler Borrdaile
+    - place: '9'
+      total: 746
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 254.984
+        arrival: 0
+        time: 236.3
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9507,15 +9507,15 @@ scoreDf:
   - - - '23'
       - Nils Vesk
     - place: '10'
-      total: 741
+      total: 743
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 26.7
-        time: 204.2
+        arrival: 0
+        time: 233.4
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9536,15 +9536,15 @@ scoreDf:
   - - - '30'
       - Jason Kath
     - place: '11'
-      total: 731
+      total: 735
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 23.4
-        time: 197.2
+        arrival: 0
+        time: 225.4
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9565,15 +9565,15 @@ scoreDf:
   - - - '106'
       - Jon Durand Snr
     - place: '12'
-      total: 716
+      total: 722
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 20.7
-        time: 185.4
+        arrival: 0
+        time: 211.9
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9593,16 +9593,16 @@ scoreDf:
       stoppedAlt: null
   - - - '8'
       - Gordon Rigg
-    - place: '13'
-      total: 693
+    - place: 13=
+      total: 703
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 14.1
-        time: 168.7
+        arrival: 0
+        time: 192.8
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9622,16 +9622,16 @@ scoreDf:
       stoppedAlt: null
   - - - '51'
       - Craig Taylor
-    - place: '14'
-      total: 692
+    - place: 13=
+      total: 703
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 13.3
-        time: 168.6
+        arrival: 0
+        time: 192.7
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9652,15 +9652,15 @@ scoreDf:
   - - - '81'
       - Nick Purcell
     - place: '15'
-      total: 688
+      total: 699
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 12.7
-        time: 165.8
+        arrival: 0
+        time: 189.5
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9681,15 +9681,15 @@ scoreDf:
   - - - '7'
       - Olav Opsanger
     - place: '16'
-      total: 649
+      total: 655
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 12.3
-        time: 127
+        arrival: 0
+        time: 145.2
         reach: 254.984
         distance: 509.967
         leading: 0
@@ -9710,15 +9710,15 @@ scoreDf:
   - - - '22'
       - Rohan Taylor
     - place: '17'
-      total: 638
+      total: 642
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 254.984
-        arrival: 12
-        time: 115.6
+        arrival: 0
+        time: 132.1
         reach: 254.984
         distance: 509.967
         leading: 0
