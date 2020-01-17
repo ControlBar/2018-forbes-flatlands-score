@@ -1623,9 +1623,51 @@ score:
         flown: 13.383 km
       landedMade: 12.612 km
       stoppedAlt: 310.000 m
+  - - - '37'
+      - Gavin Myers
+    - place: 48=
+      total: 47
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 29.192
+        arrival: 0
+        time: 0
+        reach: 17.857
+        distance: 47.049
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '102'
+      - Robert Davies
+    - place: 48=
+      total: 47
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 29.192
+        arrival: 0
+        time: 0
+        reach: 17.857
+        distance: 47.049
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '77'
       - Brodrick Osborne
-    - place: '48'
+    - place: '50'
       total: 31
       jump: null
       penaltiesJump: []
@@ -1652,48 +1694,6 @@ score:
         flown: 5.561 km
       landedMade: 4.919 km
       stoppedAlt: 297.000 m
-  - - - '37'
-      - Gavin Myers
-    - place: 49=
-      total: 18
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 17.857
-        distance: 17.857
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '102'
-      - Robert Davies
-    - place: 49=
-      total: 18
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 17.857
-        distance: 17.857
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '62'
       - Josh Woods
     - place: '1'
@@ -2274,9 +2274,31 @@ score:
         flown: 155.938 km
       landedMade: 155.812 km
       stoppedAlt: 820.000 m
+  - - - '68'
+      - Neale Halsall
+    - place: '21'
+      total: 493
+      jump: null
+      penaltiesJump: []
+      penalties:
+      - penalty-points: -391
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '37'
       - Gavin Myers
-    - place: '21'
+    - place: '22'
       total: 481
       jump: null
       penaltiesJump: []
@@ -2305,7 +2327,7 @@ score:
       stoppedAlt: 600.000 m
   - - - '103'
       - Wayne Thompson
-    - place: '22'
+    - place: '23'
       total: 458
       jump: null
       penaltiesJump: []
@@ -2334,7 +2356,7 @@ score:
       stoppedAlt: 580.000 m
   - - - '100'
       - Malcolm Brown
-    - place: '23'
+    - place: '24'
       total: 454
       jump: null
       penaltiesJump: []
@@ -2363,7 +2385,7 @@ score:
       stoppedAlt: 640.000 m
   - - - '81'
       - Nick Purcell
-    - place: '24'
+    - place: '25'
       total: 425
       jump: null
       penaltiesJump: []
@@ -2390,28 +2412,6 @@ score:
         flown: 122.704 km
       landedMade: 122.379 km
       stoppedAlt: 0.000 m
-  - - - '68'
-      - Neale Halsall
-    - place: '25'
-      total: 407
-      jump: null
-      penaltiesJump: []
-      penalties:
-      - penalty-points: -391
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
   - - - '36'
       - Steve Docherty
     - place: '26'
@@ -2499,9 +2499,53 @@ score:
         flown: 111.872 km
       landedMade: 111.076 km
       stoppedAlt: 490.000 m
+  - - - '28'
+      - Mikhail Karmazin
+    - place: '29'
+      total: 355
+      jump: null
+      penaltiesJump: []
+      penalties:
+      - penalty-points: -253
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '74'
+      - Vic Hare
+    - place: '30'
+      total: 344
+      jump: null
+      penaltiesJump: []
+      penalties:
+      - penalty-points: -242
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '71'
       - Rob Larkin
-    - place: 29=
+    - place: 31=
       total: 332
       jump: null
       penaltiesJump: []
@@ -2530,7 +2574,7 @@ score:
       stoppedAlt: 428.000 m
   - - - '52'
       - Dale Regehr
-    - place: 29=
+    - place: 31=
       total: 332
       jump: null
       penaltiesJump: []
@@ -2559,7 +2603,7 @@ score:
       stoppedAlt: 556.000 m
   - - - '80'
       - Michael Cassells
-    - place: '31'
+    - place: '33'
       total: 312
       jump: null
       penaltiesJump: []
@@ -2588,7 +2632,7 @@ score:
       stoppedAlt: 401.000 m
   - - - '32'
       - Andrew Barnes
-    - place: '32'
+    - place: '34'
       total: 282
       jump: null
       penaltiesJump: []
@@ -2615,43 +2659,21 @@ score:
         flown: 91.406 km
       landedMade: 91.182 km
       stoppedAlt: 444.000 m
-  - - - '28'
-      - Mikhail Karmazin
-    - place: '33'
-      total: 269
+  - - - '4'
+      - Frank Chetcuti
+    - place: '35'
+      total: 278
       jump: null
       penaltiesJump: []
       penalties:
-      - penalty-points: -253
+      - penalty-points: -176
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '74'
-      - Vic Hare
-    - place: '34'
-      total: 258
-      jump: null
-      penaltiesJump: []
-      penalties:
-      - penalty-points: -242
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -2661,7 +2683,7 @@ score:
       stoppedAlt: null
   - - - '31'
       - Trent Brown
-    - place: '35'
+    - place: '36'
       total: 229
       jump: null
       penaltiesJump: []
@@ -2688,9 +2710,31 @@ score:
         flown: 67.503 km
       landedMade: 67.410 km
       stoppedAlt: 423.000 m
+  - - - '107'
+      - Anatoly Reyter
+    - place: 37=
+      total: 209
+      jump: null
+      penaltiesJump: []
+      penalties:
+      - penalty-points: -107
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '55'
       - Don Cramer
-    - place: '36'
+    - place: 37=
       total: 209
       jump: null
       penaltiesJump: []
@@ -2719,7 +2763,7 @@ score:
       stoppedAlt: 0.000 m
   - - - '72'
       - Sasha Serebrennikova
-    - place: '37'
+    - place: '39'
       total: 206
       jump: null
       penaltiesJump: []
@@ -2746,21 +2790,21 @@ score:
         flown: 57.490 km
       landedMade: 56.098 km
       stoppedAlt: 350.000 m
-  - - - '4'
-      - Frank Chetcuti
-    - place: '38'
-      total: 192
+  - - - '86'
+      - Ross Smith
+    - place: '40'
+      total: 182
       jump: null
       penaltiesJump: []
       penalties:
-      - penalty-points: -176
+      - penalty-points: -80
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -2770,7 +2814,7 @@ score:
       stoppedAlt: null
   - - - '67'
       - Mark Alton
-    - place: '39'
+    - place: '41'
       total: 176
       jump: null
       penaltiesJump: []
@@ -2797,21 +2841,21 @@ score:
         flown: 47.040 km
       landedMade: 46.716 km
       stoppedAlt: 322.000 m
-  - - - '107'
-      - Anatoly Reyter
-    - place: '40'
-      total: 123
+  - - - '83'
+      - Randal Clotworthy
+    - place: '42'
+      total: 128
       jump: null
       penaltiesJump: []
       penalties:
-      - penalty-points: -107
+      - penalty-points: -26
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -2821,7 +2865,7 @@ score:
       stoppedAlt: null
   - - - '42'
       - Rob de Groot
-    - place: '41'
+    - place: '43'
       total: 113
       jump: null
       penaltiesJump: []
@@ -2848,21 +2892,104 @@ score:
         flown: 14.942 km
       landedMade: 14.610 km
       stoppedAlt: 304.000 m
-  - - - '86'
-      - Ross Smith
-    - place: '42'
-      total: 96
+  - - - '99'
+      - Gennadiy Khramov
+    - place: 44=
+      total: 102
       jump: null
       penaltiesJump: []
-      penalties:
-      - penalty-points: -80
+      penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '94'
+      - Justinas Pleikys
+    - place: 44=
+      total: 102
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '108'
+      - Peter Adriaans
+    - place: 44=
+      total: 102
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '102'
+      - Robert Davies
+    - place: 44=
+      total: 102
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '88'
+      - Simon West
+    - place: 44=
+      total: 102
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 87.099
+        arrival: 0
+        time: 0
+        reach: 15.194
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -2872,7 +2999,7 @@ score:
       stoppedAlt: null
   - - - '14'
       - Peter Burkitt
-    - place: '43'
+    - place: '49'
       total: 73
       jump: null
       penaltiesJump: []
@@ -2901,7 +3028,7 @@ score:
       stoppedAlt: 234.000 m
   - - - '51'
       - Craig Taylor
-    - place: '44'
+    - place: '50'
       total: 68
       jump: null
       penaltiesJump: []
@@ -2928,31 +3055,9 @@ score:
         flown: 7.668 km
       landedMade: 5.718 km
       stoppedAlt: 276.000 m
-  - - - '83'
-      - Randal Clotworthy
-    - place: '45'
-      total: 42
-      jump: null
-      penaltiesJump: []
-      penalties:
-      - penalty-points: -26
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
   - - - '64'
       - Longfei Yang
-    - place: 46=
+    - place: '51'
       total: 16
       jump: null
       penaltiesJump: []
@@ -2979,111 +3084,6 @@ score:
         flown: 0.061 km
       landedMade: -2.942 km
       stoppedAlt: 283.000 m
-  - - - '99'
-      - Gennadiy Khramov
-    - place: 46=
-      total: 16
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '94'
-      - Justinas Pleikys
-    - place: 46=
-      total: 16
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '108'
-      - Peter Adriaans
-    - place: 46=
-      total: 16
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '102'
-      - Robert Davies
-    - place: 46=
-      total: 16
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '88'
-      - Simon West
-    - place: 46=
-      total: 16
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.97
-        arrival: 0
-        time: 0
-        reach: 15.194
-        distance: 16.164
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '92'
       - Attila Bertok
     - place: '1'
@@ -5514,9 +5514,114 @@ score:
         flown: 56.300 km
       landedMade: 55.479 km
       stoppedAlt: 500.000 m
+  - - - '55'
+      - Don Cramer
+    - place: 40=
+      total: 22
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 15.631
+        arrival: 0
+        time: 0
+        reach: 6.541
+        distance: 22.171
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '4'
+      - Frank Chetcuti
+    - place: 40=
+      total: 22
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 15.631
+        arrival: 0
+        time: 0
+        reach: 6.541
+        distance: 22.171
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '100'
+      - Malcolm Brown
+    - place: 40=
+      total: 22
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 15.631
+        arrival: 0
+        time: 0
+        reach: 6.541
+        distance: 22.171
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '98'
+      - Oyvind Ellefsen
+    - place: 40=
+      total: 22
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 15.631
+        arrival: 0
+        time: 0
+        reach: 6.541
+        distance: 22.171
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
+  - - - '86'
+      - Ross Smith
+    - place: 40=
+      total: 22
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 15.631
+        arrival: 0
+        time: 0
+        reach: 6.541
+        distance: 22.171
+        leading: 0
+      velocity: null
+      reach:
+        extra: 0.000 km
+        flown: 0.000 km
+      landedMade: 0.000 km
+      stoppedAlt: null
   - - - '6'
       - Yoko Sano
-    - place: '40'
+    - place: '45'
       total: 16
       jump: null
       penaltiesJump: []
@@ -5545,7 +5650,7 @@ score:
       stoppedAlt: 335.000 m
   - - - '14'
       - Peter Burkitt
-    - place: '41'
+    - place: '46'
       total: 12
       jump: null
       penaltiesJump: []
@@ -5572,111 +5677,6 @@ score:
         flown: 3.003 km
       landedMade: 2.830 km
       stoppedAlt: 250.000 m
-  - - - '55'
-      - Don Cramer
-    - place: 42=
-      total: 7
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.541
-        distance: 6.541
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '4'
-      - Frank Chetcuti
-    - place: 42=
-      total: 7
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.541
-        distance: 6.541
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '100'
-      - Malcolm Brown
-    - place: 42=
-      total: 7
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.541
-        distance: 6.541
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '98'
-      - Oyvind Ellefsen
-    - place: 42=
-      total: 7
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.541
-        distance: 6.541
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
-  - - - '86'
-      - Ross Smith
-    - place: 42=
-      total: 7
-      jump: null
-      penaltiesJump: []
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 6.541
-        distance: 6.541
-        leading: 0
-      velocity: null
-      reach:
-        extra: 0.000 km
-        flown: 0.000 km
-      landedMade: 0.000 km
-      stoppedAlt: null
 - - - - '101'
       - Oliver Chitty
     - place: '1'
@@ -6782,17 +6782,17 @@ score:
   - - - '80'
       - Michael Cassells
     - place: 39=
-      total: 20
+      total: 40
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.413
         arrival: 0
         time: 0
         reach: 19.795
-        distance: 19.795
+        distance: 40.208
         leading: 0
       velocity: null
       reach:
@@ -6803,17 +6803,17 @@ score:
   - - - '71'
       - Rob Larkin
     - place: 39=
-      total: 20
+      total: 40
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.413
         arrival: 0
         time: 0
         reach: 19.795
-        distance: 19.795
+        distance: 40.208
         leading: 0
       velocity: null
       reach:
@@ -8100,17 +8100,17 @@ score:
   - - - '99'
       - Gennadiy Khramov
     - place: '45'
-      total: 12
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 8.9e-2
+        effort: 7.674
         arrival: 0
         time: 0
         reach: 12.325
-        distance: 12.413
+        distance: 19.998
         leading: 0
       velocity: null
       reach:
@@ -17653,17 +17653,17 @@ scoreDfNoTrack:
   - - - '37'
       - Gavin Myers
     - place: 9=
-      total: 18
+      total: 47
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 29.192
         arrival: 0
         time: 0
         reach: 17.857
-        distance: 17.857
+        distance: 47.049
         leading: 0
       velocity: null
       reach:
@@ -17674,17 +17674,17 @@ scoreDfNoTrack:
   - - - '102'
       - Robert Davies
     - place: 9=
-      total: 18
+      total: 47
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 29.192
         arrival: 0
         time: 0
         reach: 17.857
-        distance: 17.857
+        distance: 47.049
         leading: 0
       velocity: null
       reach:
@@ -17695,18 +17695,18 @@ scoreDfNoTrack:
 - - - - '68'
       - Neale Halsall
     - place: '1'
-      total: 407
+      total: 493
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -391
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17717,18 +17717,18 @@ scoreDfNoTrack:
   - - - '28'
       - Mikhail Karmazin
     - place: '2'
-      total: 269
+      total: 355
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -253
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17739,18 +17739,18 @@ scoreDfNoTrack:
   - - - '74'
       - Vic Hare
     - place: '3'
-      total: 258
+      total: 344
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -242
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17761,18 +17761,18 @@ scoreDfNoTrack:
   - - - '4'
       - Frank Chetcuti
     - place: '4'
-      total: 192
+      total: 278
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -176
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17783,18 +17783,18 @@ scoreDfNoTrack:
   - - - '107'
       - Anatoly Reyter
     - place: '5'
-      total: 123
+      total: 209
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -107
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17805,18 +17805,18 @@ scoreDfNoTrack:
   - - - '86'
       - Ross Smith
     - place: '6'
-      total: 96
+      total: 182
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -80
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17827,18 +17827,18 @@ scoreDfNoTrack:
   - - - '83'
       - Randal Clotworthy
     - place: '7'
-      total: 42
+      total: 128
       jump: null
       penaltiesJump: []
       penalties:
       - penalty-points: -26
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17849,17 +17849,17 @@ scoreDfNoTrack:
   - - - '99'
       - Gennadiy Khramov
     - place: 8=
-      total: 16
+      total: 102
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17870,17 +17870,17 @@ scoreDfNoTrack:
   - - - '94'
       - Justinas Pleikys
     - place: 8=
-      total: 16
+      total: 102
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17891,17 +17891,17 @@ scoreDfNoTrack:
   - - - '108'
       - Peter Adriaans
     - place: 8=
-      total: 16
+      total: 102
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17912,17 +17912,17 @@ scoreDfNoTrack:
   - - - '102'
       - Robert Davies
     - place: 8=
-      total: 16
+      total: 102
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17933,17 +17933,17 @@ scoreDfNoTrack:
   - - - '88'
       - Simon West
     - place: 8=
-      total: 16
+      total: 102
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.97
+        effort: 87.099
         arrival: 0
         time: 0
         reach: 15.194
-        distance: 16.164
+        distance: 102.293
         leading: 0
       velocity: null
       reach:
@@ -17976,17 +17976,17 @@ scoreDfNoTrack:
   - - - '55'
       - Don Cramer
     - place: 2=
-      total: 7
+      total: 22
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 15.631
         arrival: 0
         time: 0
         reach: 6.541
-        distance: 6.541
+        distance: 22.171
         leading: 0
       velocity: null
       reach:
@@ -17997,17 +17997,17 @@ scoreDfNoTrack:
   - - - '4'
       - Frank Chetcuti
     - place: 2=
-      total: 7
+      total: 22
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 15.631
         arrival: 0
         time: 0
         reach: 6.541
-        distance: 6.541
+        distance: 22.171
         leading: 0
       velocity: null
       reach:
@@ -18018,17 +18018,17 @@ scoreDfNoTrack:
   - - - '100'
       - Malcolm Brown
     - place: 2=
-      total: 7
+      total: 22
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 15.631
         arrival: 0
         time: 0
         reach: 6.541
-        distance: 6.541
+        distance: 22.171
         leading: 0
       velocity: null
       reach:
@@ -18039,17 +18039,17 @@ scoreDfNoTrack:
   - - - '98'
       - Oyvind Ellefsen
     - place: 2=
-      total: 7
+      total: 22
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 15.631
         arrival: 0
         time: 0
         reach: 6.541
-        distance: 6.541
+        distance: 22.171
         leading: 0
       velocity: null
       reach:
@@ -18060,17 +18060,17 @@ scoreDfNoTrack:
   - - - '86'
       - Ross Smith
     - place: 2=
-      total: 7
+      total: 22
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 15.631
         arrival: 0
         time: 0
         reach: 6.541
-        distance: 6.541
+        distance: 22.171
         leading: 0
       velocity: null
       reach:
@@ -18081,17 +18081,17 @@ scoreDfNoTrack:
 - - - - '80'
       - Michael Cassells
     - place: 1=
-      total: 20
+      total: 40
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.413
         arrival: 0
         time: 0
         reach: 19.795
-        distance: 19.795
+        distance: 40.208
         leading: 0
       velocity: null
       reach:
@@ -18102,17 +18102,17 @@ scoreDfNoTrack:
   - - - '71'
       - Rob Larkin
     - place: 1=
-      total: 20
+      total: 40
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.413
         arrival: 0
         time: 0
         reach: 19.795
-        distance: 19.795
+        distance: 40.208
         leading: 0
       velocity: null
       reach:
@@ -18123,17 +18123,17 @@ scoreDfNoTrack:
 - - - - '99'
       - Gennadiy Khramov
     - place: '1'
-      total: 12
+      total: 20
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 8.9e-2
+        effort: 7.674
         arrival: 0
         time: 0
         reach: 12.325
-        distance: 12.413
+        distance: 19.998
         leading: 0
       velocity: null
       reach:

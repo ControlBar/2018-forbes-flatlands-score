@@ -96,10 +96,10 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '102'
-      - Robert Davies
     - - '37'
       - Gavin Myers
+    - - '102'
+      - Robert Davies
     downward: 5
     rel: 6.0255e-4
     frac: 5.724271e-2
@@ -551,30 +551,30 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '74'
-      - Vic Hare
-    - - '88'
-      - Simon West
-    - - '86'
-      - Ross Smith
-    - - '102'
-      - Robert Davies
-    - - '83'
-      - Randal Clotworthy
-    - - '108'
-      - Peter Adriaans
-    - - '68'
-      - Neale Halsall
-    - - '28'
-      - Mikhail Karmazin
-    - - '94'
-      - Justinas Pleikys
-    - - '99'
-      - Gennadiy Khramov
-    - - '4'
-      - Frank Chetcuti
     - - '107'
       - Anatoly Reyter
+    - - '4'
+      - Frank Chetcuti
+    - - '99'
+      - Gennadiy Khramov
+    - - '94'
+      - Justinas Pleikys
+    - - '28'
+      - Mikhail Karmazin
+    - - '68'
+      - Neale Halsall
+    - - '108'
+      - Peter Adriaans
+    - - '83'
+      - Randal Clotworthy
+    - - '102'
+      - Robert Davies
+    - - '86'
+      - Ross Smith
+    - - '88'
+      - Simon West
+    - - '74'
+      - Vic Hare
     downward: 13
     rel: 1.39695e-3
     frac: 0.15430905
@@ -1100,16 +1100,16 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '86'
-      - Ross Smith
-    - - '98'
-      - Oyvind Ellefsen
-    - - '100'
-      - Malcolm Brown
-    - - '4'
-      - Frank Chetcuti
     - - '55'
       - Don Cramer
+    - - '4'
+      - Frank Chetcuti
+    - - '100'
+      - Malcolm Brown
+    - - '98'
+      - Oyvind Ellefsen
+    - - '86'
+      - Ross Smith
     downward: 5
     rel: 2.6225e-4
     frac: 3.073534e-2
@@ -1421,10 +1421,10 @@ difficulty:
     - 10.000 km
     - 10.000 km
     downers:
-    - - '71'
-      - Rob Larkin
     - - '80'
       - Michael Cassells
+    - - '71'
+      - Rob Larkin
     downward: 3
     rel: 3.3164e-4
     frac: 3.349547e-2
