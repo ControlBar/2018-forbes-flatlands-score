@@ -97,6 +97,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: task 2
@@ -195,6 +196,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '74'
@@ -307,6 +309,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '80'
       - Michael Cassells
@@ -385,6 +388,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '85'
       - Rick Martin
@@ -473,6 +477,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 6
@@ -571,6 +576,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 7
@@ -669,6 +675,7 @@ tasks:
   earlyStart:
     earliest: 600 s
     earlyPenalty: 2 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '85'
