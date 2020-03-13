@@ -94,7 +94,7 @@ leadAreaToCoef:
 - 0.00000002121705 km^-2 s^-1
 - 0.00000001979964 km^-2 s^-1
 leadCoefMin:
-- 1.60966608
+- 1.36344361
 - 3.58476598
 - 2.13423194
 - 3.7045047
@@ -102,1388 +102,2496 @@ leadCoefMin:
 - 2.46691004
 - 2.30863581
 leadRank:
-- - - - '101'
-      - Oliver Chitty
-    - area: 51397894.4496 km^2 s
-      coef: 1.60966608
-      frac: 1
-  - - - '92'
+- - - - '92'
       - Attila Bertok
-    - area: 51855831.4283 km^2 s
-      coef: 1.62400764
-      frac: 0.94963229
+    - area: 43535818.5207 km^2 s
+      areas:
+        areaFlown: 43535818.5207 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.36344361
+      frac: 1
+  - - - '101'
+      - Oliver Chitty
+    - area: 43681463.8930 km^2 s
+      areas:
+        areaFlown: 43681463.8930 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.36800489
+      frac: 0.97519653
   - - - '27'
       - Guy Hubbard
-    - area: 55284725.0959 km^2 s
-      coef: 1.73139285
-      frac: 0.79042211
+    - area: 46756219.4094 km^2 s
+      areas:
+        areaFlown: 46756219.4094 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.4642993
+      frac: 0.80460151
   - - - '31'
       - Trent Brown
-    - area: 61108072.4403 km^2 s
-      coef: 1.91376695
-      frac: 0.61413697
+    - area: 51355851.1247 km^2 s
+      areas:
+        areaFlown: 51355851.1247 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.60834938
+      frac: 0.64699004
   - - - '25'
       - Tyler Borrdaile
-    - area: 61381844.8839 km^2 s
-      coef: 1.92234089
-      frac: 0.60691785
+    - area: 52180875.8687 km^2 s
+      areas:
+        areaFlown: 52180875.8687 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.6341873
+      frac: 0.62257862
   - - - '23'
       - Nils Vesk
-    - area: 64122999.4792 km^2 s
-      coef: 2.00818766
-      frac: 0.53791419
+    - area: 54200167.5525 km^2 s
+      areas:
+        areaFlown: 54200167.5525 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.69742696
+      frac: 0.56588564
+  - - - '41'
+      - Tony Armstrong
+    - area: 55722861.5633 km^2 s
+      areas:
+        areaFlown: 38568515.0965 km^2 s
+        areaAfterLanding: 17154346.4668 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.7451143
+      frac: 0.52548842
+  - - - '22'
+      - Rohan Taylor
+    - area: 57263027.7557 km^2 s
+      areas:
+        areaFlown: 57263027.7557 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.79334883
+      frac: 0.48630806
+  - - - '30'
+      - Jason Kath
+    - area: 57884072.8631 km^2 s
+      areas:
+        areaFlown: 57884072.8631 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.81279856
+      frac: 0.47092899
+  - - - '106'
+      - Jon Durand Snr
+    - area: 58629919.3559 km^2 s
+      areas:
+        areaFlown: 58629919.3559 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 1.83615679
+      frac: 0.45274961
+  - - - '8'
+      - Gordon Rigg
+    - area: 64918860.2605 km^2 s
+      areas:
+        areaFlown: 64918860.2605 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.03311223
+      frac: 0.30971637
   - - - '76'
       - Rory Duncan
     - area: 65088581.2513 km^2 s
+      areas:
+        areaFlown: 65088581.2513 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.0384275
-      frac: 0.51482486
-  - - - '41'
-      - Tony Armstrong
-    - area: 66319632.9920 km^2 s
-      coef: 2.07698127
-      frac: 0.4861599
-  - - - '22'
-      - Rohan Taylor
-    - area: 66436940.4174 km^2 s
-      coef: 2.08065507
-      frac: 0.48347037
-  - - - '30'
-      - Jason Kath
-    - area: 66798372.3607 km^2 s
-      coef: 2.0919743
-      frac: 0.47522737
-  - - - '106'
-      - Jon Durand Snr
-    - area: 69780802.7016 km^2 s
-      coef: 2.18537729
-      frac: 0.40949371
+      frac: 0.30606858
+  - - - '7'
+      - Olav Opsanger
+    - area: 67698513.5711 km^2 s
+      areas:
+        areaFlown: 67698513.5711 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.1201647
+      frac: 0.25112126
+  - - - '51'
+      - Craig Taylor
+    - area: 67767207.0256 km^2 s
+      areas:
+        areaFlown: 67767207.0256 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.12231602
+      frac: 0.24970258
+  - - - '11'
+      - Steve Blenkinsop
+    - area: 73505848.9683 km^2 s
+      areas:
+        areaFlown: 73505848.9683 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.30203734
+      frac: 0.13548465
+  - - - '62'
+      - Josh Woods
+    - area: 73798310.6790 km^2 s
+      areas:
+        areaFlown: 73798310.6790 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.31119658
+      frac: 0.12986953
+  - - - '69'
+      - Niki Longshore
+    - area: 73900518.3345 km^2 s
+      areas:
+        areaFlown: 73900518.3345 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.31439749
+      frac: 0.12791146
   - - - '81'
       - Nick Purcell
     - area: 76258561.6109 km^2 s
+      areas:
+        areaFlown: 76258561.6109 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.38824609
-      frac: 0.2778564
-  - - - '7'
-      - Olav Opsanger
-    - area: 77543785.9433 km^2 s
-      coef: 2.42849641
-      frac: 0.25317758
-  - - - '8'
-      - Gordon Rigg
-    - area: 77671799.5132 km^2 s
-      coef: 2.43250551
-      frac: 0.25074187
-  - - - '51'
-      - Craig Taylor
-    - area: 78112434.2290 km^2 s
-      coef: 2.44630519
-      frac: 0.242388
+      frac: 8.332711e-2
   - - - '72'
       - Sasha Serebrennikova
-    - area: 87396715.9200 km^2 s
-      coef: 2.73706795
-      frac: 7.571217e-2
+    - area: 78129608.3686 km^2 s
+      areas:
+        areaFlown: 36143780.5782 km^2 s
+        areaAfterLanding: 41985827.7904 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.44684305
+      frac: 4.870909e-2
   - - - '43'
       - Jonny Durand
-    - area: 87677186.9772 km^2 s
-      coef: 2.74585167
-      frac: 7.091756e-2
-  - - - '62'
-      - Josh Woods
-    - area: 88207668.2727 km^2 s
-      coef: 2.76246515
-      frac: 6.18827e-2
-  - - - '11'
-      - Steve Blenkinsop
-    - area: 88321250.4396 km^2 s
-      coef: 2.76602228
-      frac: 5.995389e-2
-  - - - '69'
-      - Niki Longshore
-    - area: 88581198.8640 km^2 s
-      coef: 2.77416328
-      frac: 5.554696e-2
+    - area: 81531570.5755 km^2 s
+      areas:
+        areaFlown: 16118268.4079 km^2 s
+        areaAfterLanding: 65413302.1676 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.55338483
+      frac: 0
   - - - '108'
       - Peter Adriaans
-    - area: 95723628.2240 km^2 s
-      coef: 2.99784805
+    - area: 84563415.4020 km^2 s
+      areas:
+        areaFlown: 40111621.1586 km^2 s
+        areaAfterLanding: 44451794.2434 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.64833537
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
-    - area: 101200941.7403 km^2 s
-      coef: 3.16938515
+    - area: 90730240.4750 km^2 s
+      areas:
+        areaFlown: 29174917.6041 km^2 s
+        areaAfterLanding: 61555322.8709 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.84146642
       frac: 0
   - - - '68'
       - Neale Halsall
-    - area: 107623928.8076 km^2 s
-      coef: 3.37053862
-      frac: 0
-  - - - '32'
-      - Andrew Barnes
-    - area: 112487022.1140 km^2 s
-      coef: 3.52283973
+    - area: 93150245.9577 km^2 s
+      areas:
+        areaFlown: 37549035.9594 km^2 s
+        areaAfterLanding: 55601209.9983 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.91725553
       frac: 0
   - - - '15'
       - Ryosuke Hattori
-    - area: 113650640.0673 km^2 s
-      coef: 3.55928162
+    - area: 94501322.7912 km^2 s
+      areas:
+        areaFlown: 42866557.5530 km^2 s
+        areaAfterLanding: 51634765.2382 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.95956821
+      frac: 0
+  - - - '32'
+      - Andrew Barnes
+    - area: 94741428.7911 km^2 s
+      areas:
+        areaFlown: 38042110.2135 km^2 s
+        areaAfterLanding: 56699318.5776 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 2.96708778
+      frac: 0
+  - - - '107'
+      - Anatoly Reyter
+    - area: 115518835.1919 km^2 s
+      areas:
+        areaFlown: 42977403.2394 km^2 s
+        areaAfterLanding: 72541431.9525 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 3.61778927
+      frac: 0
+  - - - '80'
+      - Michael Cassells
+    - area: 115686348.9255 km^2 s
+      areas:
+        areaFlown: 33436707.6191 km^2 s
+        areaAfterLanding: 82249641.3064 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 3.62303542
       frac: 0
   - - - '4'
       - Frank Chetcuti
     - area: 118243438.8110 km^2 s
+      areas:
+        areaFlown: 36539468.7802 km^2 s
+        areaAfterLanding: 81703970.0308 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.70311771
       frac: 0
   - - - '71'
       - Rob Larkin
-    - area: 129282457.4820 km^2 s
-      coef: 4.04883487
-      frac: 0
-  - - - '80'
-      - Michael Cassells
-    - area: 130306885.2942 km^2 s
-      coef: 4.08091763
-      frac: 0
-  - - - '107'
-      - Anatoly Reyter
-    - area: 134303285.5986 km^2 s
-      coef: 4.20607588
-      frac: 0
-  - - - '86'
-      - Ross Smith
-    - area: 138485960.9990 km^2 s
-      coef: 4.33706783
+    - area: 118961247.7246 km^2 s
+      areas:
+        areaFlown: 28072882.3026 km^2 s
+        areaAfterLanding: 90888365.4220 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 3.72559787
       frac: 0
   - - - '28'
       - Mikhail Karmazin
-    - area: 144536394.9923 km^2 s
-      coef: 4.52655377
+    - area: 122756739.5501 km^2 s
+      areas:
+        areaFlown: 43827171.1709 km^2 s
+        areaAfterLanding: 78929568.3792 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 3.84446411
+      frac: 0
+  - - - '86'
+      - Ross Smith
+    - area: 128331329.3188 km^2 s
+      areas:
+        areaFlown: 30222706.8619 km^2 s
+        areaAfterLanding: 98108622.4569 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 4.01904768
       frac: 0
   - - - '100'
       - Malcolm Brown
-    - area: 147004648.3006 km^2 s
-      coef: 4.6038539
+    - area: 140899164.3557 km^2 s
+      areas:
+        areaFlown: 3954444.8184 km^2 s
+        areaAfterLanding: 136944719.5373 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 4.41264392
       frac: 0
   - - - '14'
       - Peter Burkitt
-    - area: 162883419.7764 km^2 s
-      coef: 5.10114119
+    - area: 159630799.6768 km^2 s
+      areas:
+        areaFlown: 3877614.9419 km^2 s
+        areaAfterLanding: 155753184.7349 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 4.99927647
       frac: 0
   - - - '67'
       - Mark Alton
-    - area: 166179780.8397 km^2 s
-      coef: 5.20437578
+    - area: 160309720.9206 km^2 s
+      areas:
+        areaFlown: 4662083.2609 km^2 s
+        areaAfterLanding: 155647637.6597 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 5.02053875
       frac: 0
   - - - '34'
       - Brad Porter
-    - area: 175333678.9118 km^2 s
-      coef: 5.49105522
+    - area: 161367237.8268 km^2 s
+      areas:
+        areaFlown: 16485895.9317 km^2 s
+        areaAfterLanding: 144881341.8951 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 5.05365779
       frac: 0
   - - - '94'
       - Justinas Pleikys
-    - area: 181836964.3737 km^2 s
-      coef: 5.69472344
+    - area: 174418012.8484 km^2 s
+      areas:
+        areaFlown: 3955064.5630 km^2 s
+        areaAfterLanding: 170462948.2854 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 5.46237862
       frac: 0
   - - - '88'
       - Simon West
-    - area: 182672194.3579 km^2 s
-      coef: 5.72088096
+    - area: 177083137.3200 km^2 s
+      areas:
+        areaFlown: 4254196.3145 km^2 s
+        areaAfterLanding: 172828941.0055 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 5.54584431
       frac: 0
   - - - '55'
       - Don Cramer
-    - area: 193890863.6765 km^2 s
-      coef: 6.07222437
+    - area: 181292169.0757 km^2 s
+      areas:
+        areaFlown: 3687958.6611 km^2 s
+        areaAfterLanding: 177604210.4146 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 5.67766168
       frac: 0
 - - - - '27'
       - Guy Hubbard
     - area: 200205232.2387 km^2 s
+      areas:
+        areaFlown: 200205232.2387 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.58476598
       frac: 1
   - - - '92'
       - Attila Bertok
     - area: 200518206.5443 km^2 s
+      areas:
+        areaFlown: 200518206.5443 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.59036992
       frac: 0.97938536
   - - - '43'
       - Jonny Durand
     - area: 204369222.9009 km^2 s
+      areas:
+        areaFlown: 204369222.9009 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.65932413
       frac: 0.88425298
   - - - '62'
       - Josh Woods
     - area: 205154307.2071 km^2 s
+      areas:
+        areaFlown: 205154307.2071 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.67338142
       frac: 0.87012686
   - - - '101'
       - Oliver Chitty
     - area: 207953806.7467 km^2 s
+      areas:
+        areaFlown: 207953806.7467 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.72350774
       frac: 0.82488721
   - - - '7'
       - Olav Opsanger
     - area: 210748511.4168 km^2 s
+      areas:
+        areaFlown: 210748511.4168 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.7735482
       frac: 0.78497591
   - - - '76'
       - Rory Duncan
     - area: 210844958.7845 km^2 s
+      areas:
+        areaFlown: 210844958.7845 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.77527513
       frac: 0.78366657
   - - - '25'
       - Tyler Borrdaile
     - area: 210922025.6139 km^2 s
+      areas:
+        areaFlown: 210922025.6139 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.77665505
       frac: 0.78262318
   - - - '75'
       - Yasuhiro Noma
     - area: 211268482.2331 km^2 s
+      areas:
+        areaFlown: 211268482.2331 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.78285851
       frac: 0.77796311
   - - - '8'
       - Gordon Rigg
     - area: 212136886.0312 km^2 s
+      areas:
+        areaFlown: 212136886.0312 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.79840768
       frac: 0.76649093
   - - - '23'
       - Nils Vesk
     - area: 216824914.5589 km^2 s
+      areas:
+        areaFlown: 216824914.5589 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.88234897
       frac: 0.70875948
   - - - '41'
       - Tony Armstrong
     - area: 219279938.5995 km^2 s
+      areas:
+        areaFlown: 219279938.5995 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.92630729
       frac: 0.68074192
   - - - '69'
       - Niki Longshore
     - area: 223595739.7599 km^2 s
+      areas:
+        areaFlown: 223595739.7599 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.00358368
       frac: 0.63423982
   - - - '11'
       - Steve Blenkinsop
     - area: 226727256.0468 km^2 s
+      areas:
+        areaFlown: 226727256.0468 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.05965491
       frac: 0.60228275
   - - - '6'
       - Yoko Sano
     - area: 229411571.1723 km^2 s
+      areas:
+        areaFlown: 228654803.7464 km^2 s
+        areaAfterLanding: 756767.4259 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.10771879
       frac: 0.57588067
   - - - '100'
       - Malcolm Brown
     - area: 234358060.5567 km^2 s
+      areas:
+        areaFlown: 189700085.3771 km^2 s
+        areaAfterLanding: 44657975.1796 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.19628794
       frac: 0.52925277
   - - - '81'
       - Nick Purcell
-    - area: 235124875.4551 km^2 s
+    - area: 235124875.4550 km^2 s
+      areas:
+        areaFlown: 163449988.5294 km^2 s
+        areaAfterLanding: 71674886.9256 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.21001811
       frac: 0.52223259
   - - - '15'
       - Ryosuke Hattori
     - area: 236208759.8858 km^2 s
+      areas:
+        areaFlown: 233882710.5287 km^2 s
+        areaAfterLanding: 2326049.3571 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.22942556
       frac: 0.51239664
   - - - '98'
       - Oyvind Ellefsen
     - area: 239937854.9522 km^2 s
+      areas:
+        areaFlown: 230515503.7927 km^2 s
+        areaAfterLanding: 9422351.1595 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.2961967
       frac: 0.47928334
   - - - '30'
       - Jason Kath
     - area: 240001337.0497 km^2 s
+      areas:
+        areaFlown: 239445702.3040 km^2 s
+        areaAfterLanding: 555634.7457 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.29733338
       frac: 0.47872884
   - - - '22'
       - Rohan Taylor
     - area: 244043493.2546 km^2 s
+      areas:
+        areaFlown: 228019994.0035 km^2 s
+        areaAfterLanding: 16023499.2511 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.36971003
       frac: 0.44400332
   - - - '106'
       - Jon Durand Snr
-    - area: 254517958.0088 km^2 s
+    - area: 254517958.0087 km^2 s
+      areas:
+        areaFlown: 147795495.1300 km^2 s
+        areaAfterLanding: 106722462.8787 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.5572601
       frac: 0.35863628
   - - - '52'
       - Dale Regehr
-    - area: 308436463.1573 km^2 s
+    - area: 308436463.1572 km^2 s
+      areas:
+        areaFlown: 187820602.3693 km^2 s
+        areaAfterLanding: 120615860.7879 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.52269552
       frac: 0
   - - - '31'
       - Trent Brown
     - area: 319331367.9748 km^2 s
+      areas:
+        areaFlown: 67178238.1374 km^2 s
+        areaAfterLanding: 252153129.8374 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.71777376
       frac: 0
   - - - '37'
       - Gavin Myers
     - area: 324071029.2423 km^2 s
+      areas:
+        areaFlown: 307717207.0310 km^2 s
+        areaAfterLanding: 16353822.2113 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.80263955
       frac: 0
   - - - '34'
       - Brad Porter
     - area: 330001368.0572 km^2 s
+      areas:
+        areaFlown: 231579341.8442 km^2 s
+        areaAfterLanding: 98422026.2130 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.90882497
       frac: 0
   - - - '32'
       - Andrew Barnes
     - area: 343637733.7494 km^2 s
+      areas:
+        areaFlown: 183127263.9049 km^2 s
+        areaAfterLanding: 160510469.8445 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.15299032
       frac: 0
   - - - '77'
       - Brodrick Osborne
     - area: 344429606.4887 km^2 s
+      areas:
+        areaFlown: 337163945.0645 km^2 s
+        areaAfterLanding: 7265661.4242 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.16716916
       frac: 0
   - - - '103'
       - Wayne Thompson
-    - area: 359078056.1981 km^2 s
+    - area: 359078056.1982 km^2 s
+      areas:
+        areaFlown: 332316244.5214 km^2 s
+        areaAfterLanding: 26761811.6768 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.42945633
       frac: 0
   - - - '71'
       - Rob Larkin
     - area: 362066519.1684 km^2 s
+      areas:
+        areaFlown: 242657044.8015 km^2 s
+        areaAfterLanding: 119409474.3669 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.48296613
       frac: 0
   - - - '80'
       - Michael Cassells
     - area: 390367154.2256 km^2 s
+      areas:
+        areaFlown: 254801708.6596 km^2 s
+        areaAfterLanding: 135565445.5660 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.9897019
       frac: 0
   - - - '72'
       - Sasha Serebrennikova
     - area: 394213694.1498 km^2 s
+      areas:
+        areaFlown: 97546557.9581 km^2 s
+        areaAfterLanding: 296667136.1917 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.05857595
       frac: 0
   - - - '55'
       - Don Cramer
     - area: 414178242.2493 km^2 s
+      areas:
+        areaFlown: 119658392.9921 km^2 s
+        areaAfterLanding: 294519849.2572 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.41605029
       frac: 0
   - - - '36'
       - Steve Docherty
     - area: 425325682.0008 km^2 s
+      areas:
+        areaFlown: 340246609.2589 km^2 s
+        areaAfterLanding: 85079072.7419 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.61565028
       frac: 0
   - - - '67'
       - Mark Alton
-    - area: 446229908.7959 km^2 s
-      coef: 7.98995
+    - area: 446229908.7958 km^2 s
+      areas:
+        areaFlown: 99249413.5054 km^2 s
+        areaAfterLanding: 346980495.2904 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
+      coef: 7.98994999
       frac: 0
   - - - '42'
       - Rob de Groot
-    - area: 533801927.0781 km^2 s
+    - area: 533801927.0780 km^2 s
+      areas:
+        areaFlown: 7649209.2678 km^2 s
+        areaAfterLanding: 526152717.8102 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 9.55796691
       frac: 0
 - - - - '30'
       - Jason Kath
     - area: 132369210.6644 km^2 s
+      areas:
+        areaFlown: 132369210.6644 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.13423194
       frac: 1
   - - - '106'
       - Jon Durand Snr
     - area: 152939763.1297 km^2 s
+      areas:
+        areaFlown: 152939763.1297 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.46589767
       frac: 0.62784843
   - - - '8'
       - Gordon Rigg
     - area: 157590816.7180 km^2 s
+      areas:
+        areaFlown: 157590816.7180 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.54088812
       frac: 0.57367803
   - - - '22'
       - Rohan Taylor
     - area: 160810238.6195 km^2 s
+      areas:
+        areaFlown: 160810238.6195 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.59279591
       frac: 0.53813036
   - - - '92'
       - Attila Bertok
     - area: 162759691.3055 km^2 s
+      areas:
+        areaFlown: 162759691.3055 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.62422757
       frac: 0.51725891
   - - - '81'
       - Nick Purcell
     - area: 163825644.6287 km^2 s
+      areas:
+        areaFlown: 163825644.6287 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.64141428
       frac: 0.50603572
   - - - '7'
       - Olav Opsanger
     - area: 164342173.5228 km^2 s
+      areas:
+        areaFlown: 164342173.5228 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.64974245
       frac: 0.500643
   - - - '6'
       - Yoko Sano
     - area: 166407935.1117 km^2 s
+      areas:
+        areaFlown: 166407935.1117 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.68304939
       frac: 0.47935935
   - - - '34'
       - Brad Porter
     - area: 167922209.8098 km^2 s
+      areas:
+        areaFlown: 167922209.8098 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.70746454
       frac: 0.46403054
   - - - '11'
       - Steve Blenkinsop
     - area: 168283595.8822 km^2 s
+      areas:
+        areaFlown: 168283595.8822 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.71329128
       frac: 0.46040468
   - - - '51'
       - Craig Taylor
     - area: 168643126.4879 km^2 s
+      areas:
+        areaFlown: 168643126.4879 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.71908811
       frac: 0.45680948
   - - - '62'
       - Josh Woods
     - area: 169188097.4234 km^2 s
+      areas:
+        areaFlown: 169188097.4234 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.72787486
       frac: 0.4513825
   - - - '25'
       - Tyler Borrdaile
     - area: 169996269.5385 km^2 s
+      areas:
+        areaFlown: 169996269.5385 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.74090528
       frac: 0.44338351
   - - - '80'
       - Michael Cassells
     - area: 170480294.8397 km^2 s
+      areas:
+        areaFlown: 170480294.8397 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.74870938
       frac: 0.43862023
   - - - '41'
       - Tony Armstrong
     - area: 172337990.4758 km^2 s
+      areas:
+        areaFlown: 172337990.4758 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.77866161
       frac: 0.42052263
   - - - '72'
       - Sasha Serebrennikova
     - area: 173013469.6763 km^2 s
+      areas:
+        areaFlown: 173013469.6763 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.78955258
       frac: 0.41401204
   - - - '68'
       - Neale Halsall
     - area: 174032144.0202 km^2 s
+      areas:
+        areaFlown: 174032144.0202 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.805977
       frac: 0.40426134
   - - - '67'
       - Mark Alton
-    - area: 174221783.6531 km^2 s
+    - area: 174221783.6530 km^2 s
+      areas:
+        areaFlown: 161422693.4942 km^2 s
+        areaAfterLanding: 12799090.1588 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.80903462
       frac: 0.40245494
   - - - '28'
       - Mikhail Karmazin
     - area: 174241835.8355 km^2 s
+      areas:
+        areaFlown: 164138634.9652 km^2 s
+        areaAfterLanding: 10103200.8703 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.80935793
       frac: 0.40226409
   - - - '52'
       - Dale Regehr
     - area: 174772540.1130 km^2 s
+      areas:
+        areaFlown: 161510257.6241 km^2 s
+        areaAfterLanding: 13262282.4889 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.81791465
       frac: 0.39722413
   - - - '42'
       - Rob de Groot
     - area: 178246774.1039 km^2 s
+      areas:
+        areaFlown: 178246774.1039 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.87393086
       frac: 0.36473326
   - - - '74'
       - Vic Hare
-    - area: 178719762.1698 km^2 s
+    - area: 178719762.1697 km^2 s
+      areas:
+        areaFlown: 165457479.6808 km^2 s
+        areaAfterLanding: 13262282.4889 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.881557
       frac: 0.36037442
   - - - '100'
       - Malcolm Brown
     - area: 181175789.3134 km^2 s
+      areas:
+        areaFlown: 181175789.3134 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.92115632
       frac: 0.33797438
   - - - '15'
       - Ryosuke Hattori
     - area: 181545839.0476 km^2 s
+      areas:
+        areaFlown: 181545839.0476 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.92712276
       frac: 0.33463229
   - - - '14'
       - Peter Burkitt
-    - area: 183387063.5150 km^2 s
+    - area: 183387063.5149 km^2 s
+      areas:
+        areaFlown: 181969746.4932 km^2 s
+        areaAfterLanding: 1417317.0217 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.95680942
       frac: 0.3181262
   - - - '71'
       - Rob Larkin
     - area: 185056643.9979 km^2 s
+      areas:
+        areaFlown: 182336252.3992 km^2 s
+        areaAfterLanding: 2720391.5987 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.98372861
       frac: 0.30332978
   - - - '4'
       - Frank Chetcuti
     - area: 185104613.7390 km^2 s
+      areas:
+        areaFlown: 185104613.7390 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.98450204
       frac: 0.30290698
   - - - '75'
       - Yasuhiro Noma
     - area: 186133645.5435 km^2 s
+      areas:
+        areaFlown: 136612895.0652 km^2 s
+        areaAfterLanding: 49520750.4783 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.00109346
       frac: 0.29386792
   - - - '32'
       - Andrew Barnes
     - area: 194428502.4276 km^2 s
+      areas:
+        areaFlown: 194428502.4276 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.13483414
       frac: 0.22298913
   - - - '36'
       - Steve Docherty
     - area: 195451720.5399 km^2 s
+      areas:
+        areaFlown: 195451720.5399 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.15133182
       frac: 0.21447165
   - - - '77'
       - Brodrick Osborne
     - area: 195913959.9464 km^2 s
+      areas:
+        areaFlown: 195913959.9464 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.15878465
       frac: 0.210639
   - - - '107'
       - Anatoly Reyter
     - area: 200583379.1632 km^2 s
+      areas:
+        areaFlown: 200387298.7293 km^2 s
+        areaAfterLanding: 196080.4339 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.23407122
       frac: 0.17242834
   - - - '37'
       - Gavin Myers
     - area: 200655626.5741 km^2 s
+      areas:
+        areaFlown: 200655626.5741 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.23523609
       frac: 0.1718441
   - - - '23'
       - Nils Vesk
     - area: 208900370.1828 km^2 s
+      areas:
+        areaFlown: 208900370.1828 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.36816878
       frac: 0.10645846
   - - - '64'
       - Longfei Yang
-    - area: 209803004.8608 km^2 s
+    - area: 209803004.8607 km^2 s
+      areas:
+        areaFlown: 175712606.0913 km^2 s
+        areaAfterLanding: 34090398.7694 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.38272225
       frac: 9.944637e-2
   - - - '31'
       - Trent Brown
     - area: 232295219.9416 km^2 s
+      areas:
+        areaFlown: 232295219.9416 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.74537157
       frac: 0
   - - - '103'
       - Wayne Thompson
     - area: 234061428.6948 km^2 s
+      areas:
+        areaFlown: 234061428.6948 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.77384873
       frac: 0
   - - - '76'
       - Rory Duncan
     - area: 242668277.3397 km^2 s
+      areas:
+        areaFlown: 242668277.3397 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.91261976
       frac: 0
   - - - '83'
       - Randal Clotworthy
     - area: 252535450.5561 km^2 s
+      areas:
+        areaFlown: 99931117.3573 km^2 s
+        areaAfterLanding: 152604333.1988 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.07171141
       frac: 0
   - - - '102'
       - Robert Davies
     - area: 294059122.6274 km^2 s
+      areas:
+        areaFlown: 166602353.8560 km^2 s
+        areaAfterLanding: 127456768.7714 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.74121111
       frac: 0
   - - - '43'
       - Jonny Durand
     - area: 298974824.3117 km^2 s
+      areas:
+        areaFlown: 51426109.6389 km^2 s
+        areaAfterLanding: 247548714.6728 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.82046857
       frac: 0
   - - - '69'
       - Niki Longshore
-    - area: 311887839.9396 km^2 s
+    - area: 311887839.9397 km^2 s
+      areas:
+        areaFlown: 49076303.9467 km^2 s
+        areaAfterLanding: 262811535.9930 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.02866933
       frac: 0
   - - - '101'
       - Oliver Chitty
     - area: 325200817.3406 km^2 s
+      areas:
+        areaFlown: 69224447.4439 km^2 s
+        areaAfterLanding: 255976369.8967 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.24331881
       frac: 0
   - - - '27'
       - Guy Hubbard
     - area: 366227632.5956 km^2 s
+      areas:
+        areaFlown: 31632839.8382 km^2 s
+        areaAfterLanding: 334594792.7574 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.90480753
       frac: 0
   - - - '55'
       - Don Cramer
     - area: 392291410.8938 km^2 s
+      areas:
+        areaFlown: 32881129.5876 km^2 s
+        areaAfterLanding: 359410281.3062 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.32504232
       frac: 0
 - - - - '43'
       - Jonny Durand
     - area: 958572955.8313 km^2 s
+      areas:
+        areaFlown: 958572955.8313 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.7045047
       frac: 1
   - - - '25'
       - Tyler Borrdaile
     - area: 990388986.0889 km^2 s
+      areas:
+        areaFlown: 990388986.0889 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.82746105
       frac: 0.84019491
   - - - '101'
       - Oliver Chitty
     - area: 993880502.9642 km^2 s
+      areas:
+        areaFlown: 993880502.9642 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.84095438
       frac: 0.82870752
   - - - '30'
       - Jason Kath
     - area: 1020749532.4379 km^2 s
+      areas:
+        areaFlown: 1020749532.4379 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.94479253
       frac: 0.75020841
   - - - '7'
       - Olav Opsanger
     - area: 1025971590.3960 km^2 s
+      areas:
+        areaFlown: 1025971590.3960 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.96497372
       frac: 0.73641097
   - - - '31'
       - Trent Brown
     - area: 1042422555.7989 km^2 s
+      areas:
+        areaFlown: 1042422555.7989 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.02855018
       frac: 0.69509777
   - - - '27'
       - Guy Hubbard
     - area: 1062313361.0606 km^2 s
+      areas:
+        areaFlown: 1062313361.0606 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.10542026
       frac: 0.64860798
   - - - '76'
       - Rory Duncan
     - area: 1094483003.3910 km^2 s
+      areas:
+        areaFlown: 1094483003.3910 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.22974319
       frac: 0.57927888
   - - - '62'
       - Josh Woods
     - area: 1096532216.0845 km^2 s
+      areas:
+        areaFlown: 1096532216.0845 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.23766258
       frac: 0.57506043
   - - - '23'
       - Nils Vesk
     - area: 1114356435.6470 km^2 s
+      areas:
+        areaFlown: 1114356435.6470 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.30654613
       frac: 0.53920524
   - - - '22'
       - Rohan Taylor
     - area: 1126137876.3668 km^2 s
+      areas:
+        areaFlown: 1078955935.5599 km^2 s
+        areaAfterLanding: 47181940.8069 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.35207673
       frac: 0.51625628
   - - - '41'
       - Tony Armstrong
     - area: 1129213436.3931 km^2 s
+      areas:
+        areaFlown: 1129213436.3931 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.36396255
       frac: 0.51035501
   - - - '11'
       - Steve Blenkinsop
     - area: 1138224602.7461 km^2 s
+      areas:
+        areaFlown: 1138224602.7461 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.39878714
       frac: 0.49326519
   - - - '8'
       - Gordon Rigg
     - area: 1145344874.7392 km^2 s
+      areas:
+        areaFlown: 1145344874.7392 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.42630417
       frac: 0.47996291
   - - - '51'
       - Craig Taylor
-    - area: 1146232670.6522 km^2 s
+    - area: 1146232670.6523 km^2 s
+      areas:
+        areaFlown: 1114819568.8241 km^2 s
+        areaAfterLanding: 31413101.8282 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.42973515
       frac: 0.47831626
   - - - '37'
       - Gavin Myers
-    - area: 1180335423.7253 km^2 s
+    - area: 1180335423.7252 km^2 s
+      areas:
+        areaFlown: 1154596810.4365 km^2 s
+        areaAfterLanding: 25738613.2887 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.56152878
       frac: 0.41688802
   - - - '36'
       - Steve Docherty
     - area: 1225622795.7499 km^2 s
+      areas:
+        areaFlown: 1225622795.7499 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.73654653
       frac: 0.33998346
   - - - '15'
       - Ryosuke Hattori
     - area: 1232114512.5026 km^2 s
+      areas:
+        areaFlown: 1232114512.5026 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.76163444
       frac: 0.32933011
   - - - '72'
       - Sasha Serebrennikova
     - area: 1248857889.6185 km^2 s
+      areas:
+        areaFlown: 1248857889.6185 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.82634096
       frac: 0.30223433
   - - - '52'
       - Dale Regehr
     - area: 1327647218.6445 km^2 s
+      areas:
+        areaFlown: 736670806.8880 km^2 s
+        areaAfterLanding: 590976411.7565 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.1308305
       frac: 0.18109075
   - - - '32'
       - Andrew Barnes
     - area: 1329984418.1746 km^2 s
+      areas:
+        areaFlown: 1306922047.1053 km^2 s
+        areaAfterLanding: 23062371.0693 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.13986285
       frac: 0.17763717
   - - - '92'
       - Attila Bertok
     - area: 1334742029.2417 km^2 s
+      areas:
+        areaFlown: 486851772.9071 km^2 s
+        areaAfterLanding: 847890256.3346 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.15824913
       frac: 0.17062935
   - - - '34'
       - Brad Porter
-    - area: 1334890855.9939 km^2 s
+    - area: 1334890855.9938 km^2 s
+      areas:
+        areaFlown: 791143863.0421 km^2 s
+        areaAfterLanding: 543746992.9517 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.15882429
       frac: 0.17041061
   - - - '80'
       - Michael Cassells
     - area: 1377971220.2921 km^2 s
+      areas:
+        areaFlown: 1303026950.7431 km^2 s
+        areaAfterLanding: 74944269.5490 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.32531283
       frac: 0.10824746
   - - - '68'
       - Neale Halsall
-    - area: 1423276490.2464 km^2 s
+    - area: 1423276490.2465 km^2 s
+      areas:
+        areaFlown: 1185622639.2291 km^2 s
+        areaAfterLanding: 237653851.0174 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.50039975
       frac: 4.513073e-2
   - - - '42'
       - Rob de Groot
     - area: 1439129010.4460 km^2 s
+      areas:
+        areaFlown: 1289011302.4068 km^2 s
+        areaAfterLanding: 150117708.0392 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.56166346
       frac: 2.35366e-2
   - - - '75'
       - Yasuhiro Noma
     - area: 1491179327.8582 km^2 s
+      areas:
+        areaFlown: 494999260.3337 km^2 s
+        areaAfterLanding: 996180067.5245 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.76281731
       frac: 0
   - - - '77'
       - Brodrick Osborne
     - area: 1505109306.9364 km^2 s
+      areas:
+        areaFlown: 1400304024.2606 km^2 s
+        areaAfterLanding: 104805282.6758 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.81665117
       frac: 0
   - - - '28'
       - Mikhail Karmazin
     - area: 1517518166.7851 km^2 s
+      areas:
+        areaFlown: 713387870.1642 km^2 s
+        areaAfterLanding: 804130296.6209 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.86460649
       frac: 0
   - - - '103'
       - Wayne Thompson
     - area: 1664271039.0156 km^2 s
+      areas:
+        areaFlown: 1308150373.3084 km^2 s
+        areaAfterLanding: 356120665.7072 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.4317482
       frac: 0
   - - - '88'
       - Simon West
     - area: 1799289595.1988 km^2 s
+      areas:
+        areaFlown: 1008681231.1567 km^2 s
+        areaAfterLanding: 790608364.0421 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.95354143
       frac: 0
   - - - '74'
       - Vic Hare
     - area: 1839930312.1363 km^2 s
+      areas:
+        areaFlown: 304504429.5783 km^2 s
+        areaAfterLanding: 1535425882.5580 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.1106017
       frac: 0
   - - - '71'
       - Rob Larkin
     - area: 1841143201.1777 km^2 s
+      areas:
+        areaFlown: 747078258.0777 km^2 s
+        areaAfterLanding: 1094064943.1000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.11528903
       frac: 0
   - - - '67'
       - Mark Alton
     - area: 1850176436.5389 km^2 s
+      areas:
+        areaFlown: 805677480.0057 km^2 s
+        areaAfterLanding: 1044498956.5332 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.15019891
       frac: 0
   - - - '106'
       - Jon Durand Snr
     - area: 2216857672.3781 km^2 s
+      areas:
+        areaFlown: 120300190.9179 km^2 s
+        areaAfterLanding: 2096557481.4602 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 8.56727661
       frac: 0
   - - - '81'
       - Nick Purcell
     - area: 2754951237.4972 km^2 s
+      areas:
+        areaFlown: 83316676.8791 km^2 s
+        areaAfterLanding: 2671634560.6181 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 10.64679505
       frac: 0
   - - - '83'
       - Randal Clotworthy
     - area: 2759651776.1927 km^2 s
+      areas:
+        areaFlown: 87165310.5148 km^2 s
+        areaAfterLanding: 2672486465.6779 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 10.66496077
       frac: 0
   - - - '64'
       - Longfei Yang
     - area: 2770734102.3911 km^2 s
+      areas:
+        areaFlown: 110258183.2347 km^2 s
+        areaAfterLanding: 2660475919.1564 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 10.70778957
       frac: 0
 - - - - '76'
       - Rory Duncan
     - area: 66949690.8036 km^2 s
+      areas:
+        areaFlown: 66949690.8036 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.78535491
       frac: 1
   - - - '43'
       - Jonny Durand
     - area: 66965963.2181 km^2 s
+      areas:
+        areaFlown: 66965963.2181 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.78578884
       frac: 0.99527527
   - - - '37'
       - Gavin Myers
     - area: 67188740.1096 km^2 s
+      areas:
+        areaFlown: 67188740.1096 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.79172966
       frac: 0.97165994
   - - - '23'
       - Nils Vesk
     - area: 67274230.4228 km^2 s
+      areas:
+        areaFlown: 67274230.4228 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.79400944
       frac: 0.96525271
   - - - '22'
       - Rohan Taylor
     - area: 68027658.6635 km^2 s
+      areas:
+        areaFlown: 66902171.8019 km^2 s
+        areaAfterLanding: 1125486.8616 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.8141012
       frac: 0.92264655
   - - - '27'
       - Guy Hubbard
     - area: 68402514.7982 km^2 s
+      areas:
+        areaFlown: 68402514.7982 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.82409753
       frac: 0.90561902
   - - - '101'
       - Oliver Chitty
     - area: 68453879.5016 km^2 s
+      areas:
+        areaFlown: 68453879.5016 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.82546727
       frac: 0.90340736
   - - - '31'
       - Trent Brown
     - area: 69218664.4170 km^2 s
+      areas:
+        areaFlown: 68188989.5063 km^2 s
+        areaAfterLanding: 1029674.9107 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.84586188
       frac: 0.87295368
   - - - '51'
       - Craig Taylor
     - area: 71002987.0384 km^2 s
+      areas:
+        areaFlown: 71002987.0384 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.89344461
       frac: 0.81295417
   - - - '62'
       - Josh Woods
     - area: 71098233.8202 km^2 s
+      areas:
+        areaFlown: 61340540.6280 km^2 s
+        areaAfterLanding: 9757693.1922 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.89598457
       frac: 0.81003532
   - - - '30'
       - Jason Kath
     - area: 73289401.4147 km^2 s
+      areas:
+        areaFlown: 73289401.4147 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.95441668
       frac: 0.74796815
   - - - '36'
       - Steve Docherty
     - area: 73392582.1638 km^2 s
+      areas:
+        areaFlown: 63788897.8994 km^2 s
+        areaAfterLanding: 9603684.2644 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.95716821
       frac: 0.74524092
   - - - '106'
       - Jon Durand Snr
     - area: 74656315.4147 km^2 s
+      areas:
+        areaFlown: 74656315.4147 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 1.99086833
       frac: 0.71293168
   - - - '75'
       - Yasuhiro Noma
     - area: 75222403.5289 km^2 s
+      areas:
+        areaFlown: 54375165.9218 km^2 s
+        areaAfterLanding: 20847237.6071 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.00596426
       frac: 0.6990407
   - - - '28'
       - Mikhail Karmazin
     - area: 75849428.8100 km^2 s
+      areas:
+        areaFlown: 66446595.7280 km^2 s
+        areaAfterLanding: 9402833.0820 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.02268522
       frac: 0.68401926
   - - - '41'
       - Tony Armstrong
     - area: 76297366.6242 km^2 s
+      areas:
+        areaFlown: 54742019.8257 km^2 s
+        areaAfterLanding: 21555346.7985 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.03463042
       frac: 0.67350372
   - - - '72'
       - Sasha Serebrennikova
     - area: 76881604.0652 km^2 s
+      areas:
+        areaFlown: 67897583.3883 km^2 s
+        areaAfterLanding: 8984020.6769 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.05021035
       frac: 0.66003745
   - - - '6'
       - Yoko Sano
     - area: 78593687.7764 km^2 s
+      areas:
+        areaFlown: 67816793.3892 km^2 s
+        areaAfterLanding: 10776894.3872 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.09586668
       frac: 0.62201271
   - - - '7'
       - Olav Opsanger
     - area: 78725428.7006 km^2 s
+      areas:
+        areaFlown: 55916730.6284 km^2 s
+        areaAfterLanding: 22808698.0722 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.09937983
       frac: 0.61916701
   - - - '4'
       - Frank Chetcuti
-    - area: 84168390.0052 km^2 s
+    - area: 84168390.0053 km^2 s
+      areas:
+        areaFlown: 82815027.6713 km^2 s
+        areaAfterLanding: 1353362.3340 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.24452789
       frac: 0.50938288
   - - - '92'
       - Attila Bertok
     - area: 94547844.6924 km^2 s
+      areas:
+        areaFlown: 89669023.3266 km^2 s
+        areaAfterLanding: 4878821.3658 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.52131797
       frac: 0.32806207
   - - - '11'
       - Steve Blenkinsop
-    - area: 94801734.3653 km^2 s
+    - area: 94801734.3652 km^2 s
+      areas:
+        areaFlown: 94262689.9793 km^2 s
+        areaAfterLanding: 539044.3859 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.52808847
       frac: 0.32394736
   - - - '68'
       - Neale Halsall
     - area: 97579434.6561 km^2 s
+      areas:
+        areaFlown: 54737486.8107 km^2 s
+        areaAfterLanding: 42841947.8454 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.60216172
       frac: 0.27971443
   - - - '52'
       - Dale Regehr
     - area: 99049628.3366 km^2 s
+      areas:
+        areaFlown: 54941686.0271 km^2 s
+        areaAfterLanding: 44107942.3095 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.64136754
       frac: 0.25684638
   - - - '103'
       - Wayne Thompson
     - area: 99890409.2742 km^2 s
+      areas:
+        areaFlown: 72869145.2303 km^2 s
+        areaAfterLanding: 27021264.0439 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.66378874
       frac: 0.24392563
   - - - '81'
       - Nick Purcell
     - area: 105959166.7045 km^2 s
+      areas:
+        areaFlown: 105040121.3790 km^2 s
+        areaAfterLanding: 919045.3255 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.82562497
       frac: 0.1537035
   - - - '42'
       - Rob de Groot
     - area: 106640011.8475 km^2 s
+      areas:
+        areaFlown: 56069765.8762 km^2 s
+        areaAfterLanding: 50570245.9713 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.84378114
       frac: 0.14388479
   - - - '34'
       - Brad Porter
     - area: 109063236.3712 km^2 s
+      areas:
+        areaFlown: 53827149.7634 km^2 s
+        areaAfterLanding: 55236086.6078 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.90840154
       frac: 0.10938431
   - - - '99'
       - Gennadiy Khramov
     - area: 115017831.9592 km^2 s
+      areas:
+        areaFlown: 52910628.4876 km^2 s
+        areaAfterLanding: 62107203.4716 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.06719341
       frac: 2.729603e-2
   - - - '74'
       - Vic Hare
-    - area: 115205024.0200 km^2 s
+    - area: 115205024.0199 km^2 s
+      areas:
+        areaFlown: 107395766.3087 km^2 s
+        areaAfterLanding: 7809257.7112 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.07218528
       frac: 2.477233e-2
   - - - '98'
       - Oyvind Ellefsen
-    - area: 116013544.7470 km^2 s
+    - area: 116013544.7469 km^2 s
+      areas:
+        areaFlown: 95018880.5512 km^2 s
+        areaAfterLanding: 20994664.1957 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.0937462
       frac: 1.390919e-2
   - - - '15'
       - Ryosuke Hattori
     - area: 117268290.2611 km^2 s
+      areas:
+        areaFlown: 113095683.0446 km^2 s
+        areaAfterLanding: 4172607.2165 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.12720663
       frac: 0
   - - - '25'
       - Tyler Borrdaile
     - area: 118201393.7755 km^2 s
+      areas:
+        areaFlown: 72602487.9305 km^2 s
+        areaAfterLanding: 45598905.8450 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.15208981
       frac: 0
   - - - '8'
       - Gordon Rigg
     - area: 118302854.3424 km^2 s
+      areas:
+        areaFlown: 25914326.6757 km^2 s
+        areaAfterLanding: 92388527.6667 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.15479547
       frac: 0
   - - - '64'
       - Longfei Yang
     - area: 123286948.6174 km^2 s
+      areas:
+        areaFlown: 103952279.4094 km^2 s
+        areaAfterLanding: 19334669.2080 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.28770687
       frac: 0
   - - - '107'
       - Anatoly Reyter
     - area: 129132881.8387 km^2 s
+      areas:
+        areaFlown: 75233514.0996 km^2 s
+        areaAfterLanding: 53899367.7391 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.44360103
       frac: 0
   - - - '67'
       - Mark Alton
     - area: 133985154.6890 km^2 s
+      areas:
+        areaFlown: 35694106.3122 km^2 s
+        areaAfterLanding: 98291048.3768 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.57299713
       frac: 0
   - - - '14'
       - Peter Burkitt
     - area: 255776958.3962 km^2 s
+      areas:
+        areaFlown: 758729.2637 km^2 s
+        areaAfterLanding: 255018229.1325 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.82083281
       frac: 0
 - - - - '30'
       - Jason Kath
     - area: 116270153.7817 km^2 s
+      areas:
+        areaFlown: 116270153.7817 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.46691004
       frac: 1
   - - - '43'
       - Jonny Durand
     - area: 117295953.1261 km^2 s
+      areas:
+        areaFlown: 117295953.1261 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.48867448
       frac: 0.94230823
   - - - '76'
       - Rory Duncan
     - area: 118802315.3491 km^2 s
+      areas:
+        areaFlown: 118802315.3491 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.52063505
       frac: 0.89462606
   - - - '11'
       - Steve Blenkinsop
     - area: 121146413.9812 km^2 s
+      areas:
+        areaFlown: 121146413.9812 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.57036991
       frac: 0.83689641
   - - - '27'
       - Guy Hubbard
     - area: 122253810.2926 km^2 s
+      areas:
+        areaFlown: 122253810.2926 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.5938656
       frac: 0.81305377
   - - - '75'
       - Yasuhiro Noma
     - area: 122347968.3863 km^2 s
+      areas:
+        areaFlown: 122347968.3863 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.59586336
       frac: 0.8110977
   - - - '34'
       - Brad Porter
     - area: 122893117.8690 km^2 s
+      areas:
+        areaFlown: 122893117.8690 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.60742982
       frac: 0.79996444
   - - - '36'
       - Steve Docherty
     - area: 123558610.9597 km^2 s
+      areas:
+        areaFlown: 123558610.9597 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.62154962
       frac: 0.78677931
   - - - '31'
       - Trent Brown
     - area: 123724785.0623 km^2 s
+      areas:
+        areaFlown: 123724785.0623 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.62507535
       frac: 0.7835506
   - - - '41'
       - Tony Armstrong
     - area: 124674033.4428 km^2 s
+      areas:
+        areaFlown: 124674033.4428 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.6452156
       frac: 0.76554536
   - - - '37'
       - Gavin Myers
     - area: 127655266.6289 km^2 s
+      areas:
+        areaFlown: 127655266.6289 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.70846859
       frac: 0.71294585
   - - - '106'
       - Jon Durand Snr
     - area: 129386012.8143 km^2 s
+      areas:
+        areaFlown: 129386012.8143 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.74518992
       frac: 0.68454547
   - - - '100'
       - Malcolm Brown
     - area: 130616213.0764 km^2 s
+      areas:
+        areaFlown: 130616213.0764 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.77129114
       frac: 0.66511629
   - - - '8'
       - Gordon Rigg
     - area: 131326729.2640 km^2 s
+      areas:
+        areaFlown: 131326729.2640 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.7863662
       frac: 0.65414844
   - - - '62'
       - Josh Woods
     - area: 134664113.3467 km^2 s
+      areas:
+        areaFlown: 134664113.3467 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.85717566
       frac: 0.60476467
   - - - '72'
       - Sasha Serebrennikova
     - area: 140481072.2394 km^2 s
+      areas:
+        areaFlown: 140481072.2394 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.98059439
       frac: 0.52530668
   - - - '81'
       - Nick Purcell
     - area: 141018517.7928 km^2 s
+      areas:
+        areaFlown: 141018517.7928 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.9919974
       frac: 0.51830744
   - - - '51'
       - Craig Taylor
     - area: 144003742.5686 km^2 s
+      areas:
+        areaFlown: 144003742.5686 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.05533507
       frac: 0.48031164
   - - - '68'
       - Neale Halsall
     - area: 144740860.1758 km^2 s
+      areas:
+        areaFlown: 144740860.1758 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.07097453
       frac: 0.4711436
   - - - '23'
       - Nils Vesk
     - area: 145793502.7213 km^2 s
+      areas:
+        areaFlown: 87477299.3866 km^2 s
+        areaAfterLanding: 58316203.3347 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.09330851
       frac: 0.45818709
   - - - '92'
       - Attila Bertok
     - area: 146437379.5704 km^2 s
+      areas:
+        areaFlown: 146437379.5704 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.10696968
       frac: 0.45033782
   - - - '22'
       - Rohan Taylor
     - area: 149116975.1258 km^2 s
+      areas:
+        areaFlown: 108550126.4678 km^2 s
+        areaAfterLanding: 40566848.6580 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.1638228
       frac: 0.41825253
   - - - '101'
       - Oliver Chitty
     - area: 150270378.2677 km^2 s
+      areas:
+        areaFlown: 150270378.2677 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.18829461
       frac: 0.40471246
   - - - '80'
       - Michael Cassells
     - area: 152337163.9443 km^2 s
+      areas:
+        areaFlown: 123758531.6227 km^2 s
+        areaAfterLanding: 28578632.3216 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.23214572
       frac: 0.38082649
   - - - '7'
       - Olav Opsanger
     - area: 154374001.2567 km^2 s
+      areas:
+        areaFlown: 154374001.2567 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.2753614
       frac: 0.35772923
   - - - '98'
       - Oyvind Ellefsen
     - area: 155040500.3477 km^2 s
+      areas:
+        areaFlown: 155040500.3477 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.28950255
       frac: 0.35026131
   - - - '25'
       - Tyler Borrdaile
-    - area: 157049044.9127 km^2 s
+    - area: 157049044.9128 km^2 s
+      areas:
+        areaFlown: 128088044.4331 km^2 s
+        areaAfterLanding: 28961000.4797 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.33211794
       frac: 0.32801041
   - - - '28'
       - Mikhail Karmazin
-    - area: 157625575.9043 km^2 s
+    - area: 157625575.9042 km^2 s
+      areas:
+        areaFlown: 116113511.9923 km^2 s
+        areaAfterLanding: 41512063.9119 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.34435023
       frac: 0.32169152
   - - - '6'
       - Yoko Sano
     - area: 160708952.4618 km^2 s
+      areas:
+        areaFlown: 97148243.3518 km^2 s
+        areaAfterLanding: 63560709.1100 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.4097704
       frac: 0.28838164
   - - - '107'
       - Anatoly Reyter
-    - area: 165599417.2313 km^2 s
+    - area: 165599417.2312 km^2 s
+      areas:
+        areaFlown: 124499345.9289 km^2 s
+        areaAfterLanding: 41100071.3023 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.51353165
       frac: 0.23708639
   - - - '42'
       - Rob de Groot
     - area: 168713281.6384 km^2 s
+      areas:
+        areaFlown: 149965174.0150 km^2 s
+        areaAfterLanding: 18748107.6234 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.57959868
       frac: 0.20530954
   - - - '15'
       - Ryosuke Hattori
     - area: 185084667.4538 km^2 s
+      areas:
+        areaFlown: 185084667.4538 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.92695124
       frac: 4.751319e-2
   - - - '67'
       - Mark Alton
-    - area: 190316907.3182 km^2 s
+    - area: 190316907.3183 km^2 s
+      areas:
+        areaFlown: 98465112.0598 km^2 s
+        areaAfterLanding: 91851795.2585 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.03796395
       frac: 0
   - - - '32'
       - Andrew Barnes
     - area: 199929312.3464 km^2 s
+      areas:
+        areaFlown: 76310066.7242 km^2 s
+        areaAfterLanding: 123619245.6222 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.24191086
       frac: 0
   - - - '14'
       - Peter Burkitt
     - area: 205637737.8726 km^2 s
+      areas:
+        areaFlown: 153824524.4041 km^2 s
+        areaAfterLanding: 51813213.4685 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.36302683
       frac: 0
   - - - '64'
       - Longfei Yang
     - area: 212886302.1619 km^2 s
+      areas:
+        areaFlown: 197647420.2780 km^2 s
+        areaAfterLanding: 15238881.8839 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.51682
       frac: 0
   - - - '55'
       - Don Cramer
     - area: 223210443.6565 km^2 s
+      areas:
+        areaFlown: 157665107.7741 km^2 s
+        areaAfterLanding: 65545335.8824 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.73586786
       frac: 0
   - - - '52'
       - Dale Regehr
     - area: 223491151.3276 km^2 s
+      areas:
+        areaFlown: 204683176.2381 km^2 s
+        areaAfterLanding: 18807975.0895 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.74182365
       frac: 0
   - - - '85'
       - Rick Martin
     - area: 233229741.4586 km^2 s
+      areas:
+        areaFlown: 199704874.6790 km^2 s
+        areaAfterLanding: 33524866.7796 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.94844784
       frac: 0
   - - - '103'
       - Wayne Thompson
-    - area: 238020439.4551 km^2 s
+    - area: 238020439.4552 km^2 s
+      areas:
+        areaFlown: 175525820.3152 km^2 s
+        areaAfterLanding: 62494619.1400 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.05009233
       frac: 0
   - - - '71'
       - Rob Larkin
     - area: 309784673.1634 km^2 s
+      areas:
+        areaFlown: 39120188.6065 km^2 s
+        areaAfterLanding: 270664484.5569 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.5727179
       frac: 0
   - - - '74'
       - Vic Hare
-    - area: 316866326.9306 km^2 s
+    - area: 316866326.9307 km^2 s
+      areas:
+        areaFlown: 52267947.9840 km^2 s
+        areaAfterLanding: 264598378.9467 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.72296972
       frac: 0
   - - - '86'
       - Ross Smith
-    - area: 375663706.7841 km^2 s
+    - area: 375663706.7842 km^2 s
+      areas:
+        areaFlown: 10155424.8726 km^2 s
+        areaAfterLanding: 365508281.9116 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 7.97047686
       frac: 0
   - - - '83'
       - Randal Clotworthy
     - area: 412613520.5345 km^2 s
+      areas:
+        areaFlown: 40738681.1692 km^2 s
+        areaAfterLanding: 371874839.3653 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 8.75444303
       frac: 0
 - - - - '30'
       - Jason Kath
     - area: 116599883.7653 km^2 s
+      areas:
+        areaFlown: 116599883.7653 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.30863581
       frac: 1
   - - - '92'
       - Attila Bertok
     - area: 118646540.7223 km^2 s
+      areas:
+        areaFlown: 118646540.7223 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.34915889
       frac: 0.91073461
   - - - '22'
       - Rohan Taylor
     - area: 120744655.8728 km^2 s
+      areas:
+        areaFlown: 120744655.8728 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.39070081
       frac: 0.85711494
   - - - '25'
       - Tyler Borrdaile
     - area: 121642887.1984 km^2 s
+      areas:
+        areaFlown: 121642887.1984 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.40848547
       frac: 0.8371532
   - - - '11'
       - Steve Blenkinsop
     - area: 122978256.1520 km^2 s
+      areas:
+        areaFlown: 122978256.1520 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.4349253
       frac: 0.80954474
   - - - '76'
       - Rory Duncan
     - area: 123938952.9299 km^2 s
+      areas:
+        areaFlown: 123938952.9299 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.45394675
       frac: 0.79087126
   - - - '81'
       - Nick Purcell
     - area: 125050826.5447 km^2 s
+      areas:
+        areaFlown: 125050826.5447 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.47596145
       frac: 0.77024948
   - - - '43'
       - Jonny Durand
     - area: 126788834.6582 km^2 s
+      areas:
+        areaFlown: 126788834.6582 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.51037338
       frac: 0.73974083
   - - - '62'
       - Josh Woods
     - area: 127226749.9954 km^2 s
+      areas:
+        areaFlown: 127226749.9954 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.51904395
       frac: 0.73233606
   - - - '31'
       - Trent Brown
     - area: 127445167.0582 km^2 s
+      areas:
+        areaFlown: 127445167.0582 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.52336853
       frac: 0.72868092
   - - - '27'
       - Guy Hubbard
     - area: 130174221.0309 km^2 s
+      areas:
+        areaFlown: 130174221.0309 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.57740282
       frac: 0.6848876
   - - - '8'
       - Gordon Rigg
     - area: 143894581.6297 km^2 s
+      areas:
+        areaFlown: 143894581.6297 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.84906103
       frac: 0.49799822
   - - - '6'
       - Yoko Sano
     - area: 150517836.2917 km^2 s
+      areas:
+        areaFlown: 150517836.2917 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 2.98019909
       frac: 0.41976202
   - - - '41'
       - Tony Armstrong
     - area: 152523822.5469 km^2 s
+      areas:
+        areaFlown: 152523822.5469 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.0199169
       frac: 0.39710405
   - - - '7'
       - Olav Opsanger
     - area: 155998871.1385 km^2 s
+      areas:
+        areaFlown: 155998871.1385 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.08872161
       frac: 0.35882521
   - - - '37'
       - Gavin Myers
     - area: 158304843.1544 km^2 s
+      areas:
+        areaFlown: 158304843.1544 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.13437903
       frac: 0.33404503
   - - - '68'
       - Neale Halsall
     - area: 165114322.6618 km^2 s
+      areas:
+        areaFlown: 165114322.6618 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.26920428
       frac: 0.26339656
   - - - '72'
       - Sasha Serebrennikova
     - area: 170906488.5161 km^2 s
+      areas:
+        areaFlown: 170906488.5161 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.38388708
       frac: 0.20587628
   - - - '100'
       - Malcolm Brown
     - area: 171161268.1149 km^2 s
+      areas:
+        areaFlown: 171161268.1149 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.38893163
       frac: 0.20339447
   - - - '15'
       - Ryosuke Hattori
     - area: 172119111.9627 km^2 s
+      areas:
+        areaFlown: 172119111.9627 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.40789659
       frac: 0.19409841
   - - - '42'
       - Rob de Groot
     - area: 172573837.6321 km^2 s
+      areas:
+        areaFlown: 172573837.6321 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.4169
       frac: 0.18970395
   - - - '74'
       - Vic Hare
     - area: 174225428.3731 km^2 s
+      areas:
+        areaFlown: 174225428.3731 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.4496009
       frac: 0.17384204
   - - - '101'
       - Oliver Chitty
     - area: 174436741.2184 km^2 s
+      areas:
+        areaFlown: 174436741.2184 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.45378482
       frac: 0.17182359
   - - - '51'
       - Craig Taylor
     - area: 184102821.4074 km^2 s
+      areas:
+        areaFlown: 184102821.4074 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.64516973
       frac: 8.19461e-2
   - - - '75'
       - Yasuhiro Noma
     - area: 186168450.1350 km^2 s
+      areas:
+        areaFlown: 186168450.1350 km^2 s
+        areaAfterLanding: 0.0000 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 3.68606844
       frac: 6.331169e-2
   - - - '103'
       - Wayne Thompson
     - area: 204663250.8363 km^2 s
+      areas:
+        areaFlown: 142647482.2963 km^2 s
+        areaAfterLanding: 62015768.5400 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.05225885
       frac: 0
   - - - '80'
       - Michael Cassells
     - area: 210715496.3560 km^2 s
+      areas:
+        areaFlown: 126113889.3679 km^2 s
+        areaAfterLanding: 84601606.9881 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.17209114
       frac: 0
   - - - '4'
       - Frank Chetcuti
     - area: 211385321.9997 km^2 s
+      areas:
+        areaFlown: 119751502.6398 km^2 s
+        areaAfterLanding: 91633819.3599 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.18535344
       frac: 0
   - - - '36'
       - Steve Docherty
     - area: 222511416.0747 km^2 s
+      areas:
+        areaFlown: 219535551.9245 km^2 s
+        areaAfterLanding: 2975864.1502 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.40564611
       frac: 0
   - - - '52'
       - Dale Regehr
     - area: 231278337.4312 km^2 s
+      areas:
+        areaFlown: 199779123.8774 km^2 s
+        areaAfterLanding: 31499213.5538 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.579228
       frac: 0
   - - - '23'
       - Nils Vesk
-    - area: 246896169.5094 km^2 s
+    - area: 246896169.5093 km^2 s
+      areas:
+        areaFlown: 146908446.9997 km^2 s
+        areaAfterLanding: 99987722.5096 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 4.88845547
       frac: 0
   - - - '83'
       - Randal Clotworthy
     - area: 261227055.3074 km^2 s
+      areas:
+        areaFlown: 124925540.7720 km^2 s
+        areaAfterLanding: 136301514.5354 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.17220186
       frac: 0
   - - - '28'
       - Mikhail Karmazin
     - area: 285063156.6566 km^2 s
+      areas:
+        areaFlown: 220680129.2614 km^2 s
+        areaAfterLanding: 64383027.3952 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.6441481
       frac: 0
   - - - '106'
       - Jon Durand Snr
     - area: 299526512.6364 km^2 s
+      areas:
+        areaFlown: 53930278.2577 km^2 s
+        areaAfterLanding: 245596234.3787 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 5.93051736
       frac: 0
   - - - '64'
       - Longfei Yang
     - area: 322089928.8211 km^2 s
+      areas:
+        areaFlown: 61692232.0435 km^2 s
+        areaAfterLanding: 260397696.7776 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.37726489
       frac: 0
   - - - '98'
       - Oyvind Ellefsen
     - area: 336525085.0425 km^2 s
+      areas:
+        areaFlown: 37634817.9335 km^2 s
+        areaAfterLanding: 298890267.1090 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.6630758
       frac: 0
   - - - '34'
       - Brad Porter
     - area: 337582798.5304 km^2 s
+      areas:
+        areaFlown: 92429474.5728 km^2 s
+        areaAfterLanding: 245153323.9576 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 6.68401815
       frac: 0
   - - - '14'
       - Peter Burkitt
     - area: 476584979.6488 km^2 s
+      areas:
+        areaFlown: 37031408.0539 km^2 s
+        areaAfterLanding: 439553571.5949 km^2 s
+        areaBeforeStart: 0.0000 km^2 s
       coef: 9.4362114
       frac: 0
