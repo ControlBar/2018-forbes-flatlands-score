@@ -5153,11 +5153,11 @@ score:
   - - - '80'
       - Michael Cassells
     - place: '28'
-      total: 641.965
+      total: 639.046
       jump: 2.918 s
       penalties:
         adds:
-        - penalty-points: 1.459170214535
+        - penalty-points: -1.459170214535
         muls: []
         resets: []
       breakdown:
@@ -5168,7 +5168,7 @@ score:
         distance: 389.885
         leading: 46.8
       demeritFrac: 0
-      demeritPoint: -1.459
+      demeritPoint: 1.459
       velocity:
         ss: 2018-01-01T02:29:57.08165957093Z
         gs: 2018-01-01T02:30:00Z
@@ -5184,7 +5184,7 @@ score:
       demeritReset: 0
       penaltiesJump:
         adds:
-        - penalty-points: 1.459170214535
+        - penalty-points: -1.459170214535
         muls: []
         resets: []
       penaltyReason: ''
@@ -16546,11 +16546,11 @@ scoreDf:
   - - - '80'
       - Michael Cassells
     - place: '28'
-      total: 641.965
+      total: 639.046
       jump: 2.918 s
       penalties:
         adds:
-        - penalty-points: 1.459170214535
+        - penalty-points: -1.459170214535
         muls: []
         resets: []
       breakdown:
@@ -16561,7 +16561,7 @@ scoreDf:
         distance: 389.885
         leading: 46.8
       demeritFrac: 0
-      demeritPoint: -1.459
+      demeritPoint: 1.459
       velocity:
         ss: 2018-01-01T02:29:57.08165957093Z
         gs: 2018-01-01T02:30:00Z
@@ -16577,7 +16577,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump:
         adds:
-        - penalty-points: 1.459170214535
+        - penalty-points: -1.459170214535
         muls: []
         resets: []
       penaltyReason: ''
