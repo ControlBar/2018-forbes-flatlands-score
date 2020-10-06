@@ -204,31 +204,52 @@ tasks:
   penals:
   - - - '74'
       - Vic Hare
-    - - penalty-points: -242
+    - adds:
+      - penalty-points: -242
+      muls: []
+      resets: []
     - ''
   - - - '68'
       - Neale Halsall
-    - - penalty-points: -391
+    - adds:
+      - penalty-points: -391
+      muls: []
+      resets: []
     - ''
   - - - '28'
       - Mikhail Karmazin
-    - - penalty-points: -253
+    - adds:
+      - penalty-points: -253
+      muls: []
+      resets: []
     - ''
   - - - '107'
       - Anatoly Reyter
-    - - penalty-points: -107
+    - adds:
+      - penalty-points: -107
+      muls: []
+      resets: []
     - ''
   - - - '83'
       - Randal Clotworthy
-    - - penalty-points: -26
+    - adds:
+      - penalty-points: -26
+      muls: []
+      resets: []
     - ''
   - - - '4'
       - Frank Chetcuti
-    - - penalty-points: -176
+    - adds:
+      - penalty-points: -176
+      muls: []
+      resets: []
     - ''
   - - - '86'
       - Ross Smith
-    - - penalty-points: -80
+    - adds:
+      - penalty-points: -80
+      muls: []
+      resets: []
     - ''
 - taskName: Task 3
   zones:
@@ -317,12 +338,18 @@ tasks:
   penalsAuto:
   - - - '80'
       - Michael Cassells
-    - - penalty-points: 37.5
+    - adds:
+      - penalty-points: 37.5
+      muls: []
+      resets: []
     - Jumped the gun by 1:15
   penals:
   - - - '43'
       - Jonny Durand
-    - - penalty-points: -704
+    - adds:
+      - penalty-points: -704
+      muls: []
+      resets: []
     - ''
 - taskName: Task 4
   zones:
@@ -397,7 +424,10 @@ tasks:
   penalsAuto:
   - - - '85'
       - Rick Martin
-    - - penalty-points: 117
+    - adds:
+      - penalty-points: 117
+      muls: []
+      resets: []
     - Jumped the gun by 3:54
   penals: []
 - taskName: Task 5
@@ -688,7 +718,10 @@ tasks:
   penals:
   - - - '85'
       - Rick Martin
-    - - penalty-points: 70
+    - adds:
+      - penalty-points: 70
+      muls: []
+      resets: []
     - Early Start
 taskFolders:
 - - task 1
