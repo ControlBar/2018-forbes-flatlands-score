@@ -1,5 +1,5 @@
 bestEffort:
-- 142.789048 km
+- 119.939048 km
 - 185.745298 km
 - 195.224984 km
 - 388.750173 km
@@ -11,10 +11,18 @@ land:
       - Rob de Groot
     - togo: 19.520518 km
       made: 123.268530 km
+  - - - '92'
+      - Attila Bertok
+    - togo: 22.846150 km
+      made: 119.942898 km
   - - - '75'
       - Yasuhiro Noma
     - togo: 23.131354 km
       made: 119.657694 km
+  - - - '101'
+      - Oliver Chitty
+    - togo: 23.339762 km
+      made: 119.449286 km
   - - - '74'
       - Vic Hare
     - togo: 23.561453 km
@@ -23,10 +31,30 @@ land:
       - Yoko Sano
     - togo: 26.782199 km
       made: 116.006849 km
+  - - - '27'
+      - Guy Hubbard
+    - togo: 33.033245 km
+      made: 109.755803 km
   - - - '52'
       - Dale Regehr
     - togo: 33.613780 km
       made: 109.175268 km
+  - - - '31'
+      - Trent Brown
+    - togo: 40.842733 km
+      made: 101.946315 km
+  - - - '25'
+      - Tyler Borrdaile
+    - togo: 42.981603 km
+      made: 99.807445 km
+  - - - '30'
+      - Jason Kath
+    - togo: 43.605165 km
+      made: 99.183883 km
+  - - - '22'
+      - Rohan Taylor
+    - togo: 43.951931 km
+      made: 98.837117 km
   - - - '41'
       - Tony Armstrong
     - togo: 45.395675 km
@@ -39,6 +67,46 @@ land:
       - Steve Docherty
     - togo: 46.986875 km
       made: 95.802173 km
+  - - - '23'
+      - Nils Vesk
+    - togo: 47.299746 km
+      made: 95.489302 km
+  - - - '76'
+      - Rory Duncan
+    - togo: 50.313781 km
+      made: 92.475267 km
+  - - - '7'
+      - Olav Opsanger
+    - togo: 51.356214 km
+      made: 91.432834 km
+  - - - '106'
+      - Jon Durand Snr
+    - togo: 52.767336 km
+      made: 90.021712 km
+  - - - '51'
+      - Craig Taylor
+    - togo: 57.538465 km
+      made: 85.250583 km
+  - - - '81'
+      - Nick Purcell
+    - togo: 60.631045 km
+      made: 82.158003 km
+  - - - '8'
+      - Gordon Rigg
+    - togo: 60.907372 km
+      made: 81.881676 km
+  - - - '62'
+      - Josh Woods
+    - togo: 62.470514 km
+      made: 80.318534 km
+  - - - '11'
+      - Steve Blenkinsop
+    - togo: 62.657266 km
+      made: 80.131782 km
+  - - - '69'
+      - Niki Longshore
+    - togo: 62.684251 km
+      made: 80.104797 km
   - - - '72'
       - Sasha Serebrennikova
     - togo: 63.388036 km

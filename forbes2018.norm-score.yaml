@@ -192,12 +192,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 153.929000 km
-      mean: 116.695244 km
-      stdDev: 39.298383 km
+      mean: 113.916786 km
+      stdDev: 42.709547 km
     flown:
       max: 153.929000 km
-      mean: 115.842049 km
-      stdDev: 39.661472 km
+      mean: 113.083905 km
+      stdDev: 42.982332 km
   stillFlying: 41
 - flying: 45
   landed: 0
@@ -6749,6 +6749,33 @@ score:
         time: 0
         effort: 6.518555e-2
         reach: 6.498148e-2
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '100'
+      - Malcolm Brown
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '42'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
       reach:
         extra: 0.000000 km
         flown: 0.000000 km

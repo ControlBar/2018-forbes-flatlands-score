@@ -1,5 +1,5 @@
 ssBestTime:
-- 2.192823 h
+- null
 - 3.801321 h
 - 3.103532 h
 - 5.275799 h
@@ -7,7 +7,7 @@ ssBestTime:
 - 3.558524 h
 - 3.527233 h
 gsBestTime:
-- 2.199352 h
+- null
 - 3.834233 h
 - 3.145641 h
 - 5.306594 h
@@ -31,74 +31,7 @@ taskSpeedDistance:
 - 161.815908 km
 - 167.507822 km
 ssSpeed:
-- - - - '92'
-      - Attila Bertok
-    - time: 2.192823 h
-      frac: 1
-  - - - '101'
-      - Oliver Chitty
-    - time: 2.231044 h
-      frac: 0.91266184
-  - - - '27'
-      - Guy Hubbard
-    - time: 2.412704 h
-      frac: 0.71959161
-  - - - '62'
-      - Josh Woods
-    - time: 2.609496 h
-      frac: 0.57059932
-  - - - '11'
-      - Steve Blenkinsop
-    - time: 2.615393 h
-      frac: 0.56655761
-  - - - '69'
-      - Niki Longshore
-    - time: 2.616441 h
-      frac: 0.56584114
-  - - - '31'
-      - Trent Brown
-    - time: 2.652068 h
-      frac: 0.54182832
-  - - - '76'
-      - Rory Duncan
-    - time: 2.656545 h
-      frac: 0.53885509
-  - - - '30'
-      - Jason Kath
-    - time: 2.665097 h
-      frac: 0.53320269
-  - - - '25'
-      - Tyler Borrdaile
-    - time: 2.717611 h
-      frac: 0.4992107
-  - - - '23'
-      - Nils Vesk
-    - time: 2.731720 h
-      frac: 0.49027514
-  - - - '106'
-      - Jon Durand Snr
-    - time: 2.802724 h
-      frac: 0.44643128
-  - - - '51'
-      - Craig Taylor
-    - time: 2.867378 h
-      frac: 0.40796973
-  - - - '8'
-      - Gordon Rigg
-    - time: 2.872018 h
-      frac: 0.40525796
-  - - - '81'
-      - Nick Purcell
-    - time: 2.878538 h
-      frac: 0.40145821
-  - - - '7'
-      - Olav Opsanger
-    - time: 3.003602 h
-      frac: 0.33073145
-  - - - '22'
-      - Rohan Taylor
-    - time: 3.105419 h
-      frac: 0.27581227
+- []
 - - - - '62'
       - Josh Woods
     - time: 3.801321 h
@@ -135,14 +68,14 @@ ssSpeed:
       - Yasuhiro Noma
     - time: 4.195882 h
       frac: 0.65530821
+  - - - '11'
+      - Steve Blenkinsop
+    - time: 4.246323 h
+      frac: 0.62652392
   - - - '8'
       - Gordon Rigg
     - time: 4.250419 h
       frac: 0.62423552
-  - - - '11'
-      - Steve Blenkinsop
-    - time: 4.256095 h
-      frac: 0.62107587
   - - - '69'
       - Niki Longshore
     - time: 4.276098 h
@@ -568,74 +501,7 @@ ssSpeed:
     - time: 6.239442 h
       frac: 0
 gsSpeed:
-- - - - '92'
-      - Attila Bertok
-    - time: 2.199352 h
-      frac: 1
-  - - - '101'
-      - Oliver Chitty
-    - time: 2.234263 h
-      frac: 0.9178622
-  - - - '27'
-      - Guy Hubbard
-    - time: 2.422959 h
-      frac: 0.71671376
-  - - - '62'
-      - Josh Woods
-    - time: 2.614781 h
-      frac: 0.57187933
-  - - - '11'
-      - Steve Blenkinsop
-    - time: 2.617578 h
-      frac: 0.56995985
-  - - - '69'
-      - Niki Longshore
-    - time: 2.622817 h
-      frac: 0.56637618
-  - - - '31'
-      - Trent Brown
-    - time: 2.662009 h
-      frac: 0.54001742
-  - - - '76'
-      - Rory Duncan
-    - time: 2.669286 h
-      frac: 0.53520715
-  - - - '25'
-      - Tyler Borrdaile
-    - time: 2.726142 h
-      frac: 0.49843534
-  - - - '23'
-      - Nils Vesk
-    - time: 2.735933 h
-      frac: 0.49223974
-  - - - '30'
-      - Jason Kath
-    - time: 2.762828 h
-      frac: 0.47541147
-  - - - '106'
-      - Jon Durand Snr
-    - time: 2.809383 h
-      frac: 0.44690114
-  - - - '8'
-      - Gordon Rigg
-    - time: 2.877216 h
-      frac: 0.406624
-  - - - '51'
-      - Craig Taylor
-    - time: 2.877444 h
-      frac: 0.40649105
-  - - - '81'
-      - Nick Purcell
-    - time: 2.888949 h
-      frac: 0.39979618
-  - - - '7'
-      - Olav Opsanger
-    - time: 3.056324 h
-      frac: 0.3062342
-  - - - '22'
-      - Rohan Taylor
-    - time: 3.107889 h
-      frac: 0.27867646
+- []
 - - - - '62'
       - Josh Woods
     - time: 3.834233 h
@@ -1111,21 +977,42 @@ altStopped:
   - - - '32'
       - Andrew Barnes
     - 2018.000 m
+  - - - '92'
+      - Attila Bertok
+    - 1456.000 m
   - - - '34'
       - Brad Porter
     - 286.000 m
   - - - '77'
       - Brodrick Osborne
     - 297.000 m
+  - - - '51'
+      - Craig Taylor
+    - 1291.000 m
   - - - '55'
       - Don Cramer
     - 310.000 m
   - - - '4'
       - Frank Chetcuti
     - 0.000 m
+  - - - '8'
+      - Gordon Rigg
+    - 2032.000 m
+  - - - '27'
+      - Guy Hubbard
+    - 1674.000 m
+  - - - '30'
+      - Jason Kath
+    - 1076.000 m
+  - - - '106'
+      - Jon Durand Snr
+    - 1744.000 m
   - - - '43'
       - Jonny Durand
     - 324.000 m
+  - - - '62'
+      - Josh Woods
+    - 1867.000 m
   - - - '94'
       - Justinas Pleikys
     - 301.000 m
@@ -1147,6 +1034,21 @@ altStopped:
   - - - '68'
       - Neale Halsall
     - 1547.000 m
+  - - - '81'
+      - Nick Purcell
+    - 0.000 m
+  - - - '69'
+      - Niki Longshore
+    - 1836.000 m
+  - - - '23'
+      - Nils Vesk
+    - 1795.000 m
+  - - - '7'
+      - Olav Opsanger
+    - 739.000 m
+  - - - '101'
+      - Oliver Chitty
+    - 1429.000 m
   - - - '98'
       - Oyvind Ellefsen
     - 334.000 m
@@ -1159,6 +1061,12 @@ altStopped:
   - - - '71'
       - Rob Larkin
     - 343.000 m
+  - - - '22'
+      - Rohan Taylor
+    - 1208.000 m
+  - - - '76'
+      - Rory Duncan
+    - 0.000 m
   - - - '86'
       - Ross Smith
     - 356.000 m
@@ -1171,9 +1079,18 @@ altStopped:
   - - - '88'
       - Simon West
     - 311.000 m
+  - - - '11'
+      - Steve Blenkinsop
+    - 2077.000 m
   - - - '41'
       - Tony Armstrong
     - 1458.000 m
+  - - - '31'
+      - Trent Brown
+    - 1744.000 m
+  - - - '25'
+      - Tyler Borrdaile
+    - 1193.000 m
 - - - - '32'
       - Andrew Barnes
     - 444.000 m

@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  essNotGoalScaling: 0.8
   leadingAreaDistanceSquared: true
   leadingWeightScaling: null
 tasks:
@@ -94,6 +95,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 0
   earlyStart:
@@ -194,6 +196,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -329,6 +332,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -415,6 +419,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -508,6 +513,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -608,6 +614,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -708,6 +715,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
