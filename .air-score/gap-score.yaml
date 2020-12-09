@@ -299,11 +299,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:11:58Z'
       timeElapsed: 2.19944 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '101'
       - Oliver Chitty
@@ -326,11 +326,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:14:04Z'
       timeElapsed: 2.23444 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '27'
       - Guy Hubbard
@@ -353,11 +353,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:25:23Z'
       timeElapsed: 2.42306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '62'
       - Josh Woods
@@ -380,11 +380,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: '2017-12-30T06:51:53Z'
       timeElapsed: 2.61472 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '11'
       - Steve Blenkinsop
@@ -407,11 +407,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: '2017-12-30T06:52:03Z'
       timeElapsed: 2.61750 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '69'
       - Niki Longshore
@@ -434,11 +434,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: '2017-12-30T06:52:22Z'
       timeElapsed: 2.62278 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '31'
       - Trent Brown
@@ -461,11 +461,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:39:43Z'
       timeElapsed: 2.66194 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '76'
       - Rory Duncan
@@ -488,11 +488,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:40:10Z'
       timeElapsed: 2.66944 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '25'
       - Tyler Borrdaile
@@ -515,11 +515,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:43:34Z'
       timeElapsed: 2.72611 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '23'
       - Nils Vesk
@@ -542,11 +542,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:44:09Z'
       timeElapsed: 2.73583 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '30'
       - Jason Kath
@@ -569,11 +569,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:45:47Z'
       timeElapsed: 2.76306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '106'
       - Jon Durand Snr
@@ -596,11 +596,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:48:34Z'
       timeElapsed: 2.80944 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '51'
       - Craig Taylor
@@ -623,11 +623,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:52:39Z'
       timeElapsed: 2.87750 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '8'
       - Gordon Rigg
@@ -650,11 +650,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:52:38Z'
       timeElapsed: 2.87722 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '81'
       - Nick Purcell
@@ -677,11 +677,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T06:53:20Z'
       timeElapsed: 2.88889 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '7'
       - Olav Opsanger
@@ -704,11 +704,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T07:03:23Z'
       timeElapsed: 3.05639 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '22'
       - Rohan Taylor
@@ -731,11 +731,11 @@ score:
       reach:
         extra: 142.756000 km
         flown: 142.756000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: '2017-12-30T07:06:29Z'
       timeElapsed: 3.10806 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '15'
       - Ryosuke Hattori
@@ -758,11 +758,11 @@ score:
       reach:
         extra: 125.530000 km
         flown: 120.579000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '108'
       - Peter Adriaans
@@ -785,11 +785,11 @@ score:
       reach:
         extra: 116.598000 km
         flown: 115.937000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '32'
       - Andrew Barnes
@@ -812,11 +812,11 @@ score:
       reach:
         extra: 112.442000 km
         flown: 106.882000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '41'
       - Tony Armstrong
@@ -839,11 +839,11 @@ score:
       reach:
         extra: 111.742000 km
         flown: 111.742000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '72'
       - Sasha Serebrennikova
@@ -866,11 +866,11 @@ score:
       reach:
         extra: 106.347000 km
         flown: 106.347000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '68'
       - Neale Halsall
@@ -893,11 +893,11 @@ score:
       reach:
         extra: 99.172000 km
         flown: 99.172000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '28'
       - Mikhail Karmazin
@@ -920,11 +920,11 @@ score:
       reach:
         extra: 82.789000 km
         flown: 82.789000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '98'
       - Oyvind Ellefsen
@@ -947,11 +947,11 @@ score:
       reach:
         extra: 67.469000 km
         flown: 67.469000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '43'
       - Jonny Durand
@@ -974,11 +974,11 @@ score:
       reach:
         extra: 65.481000 km
         flown: 65.481000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '107'
       - Anatoly Reyter
@@ -1001,11 +1001,11 @@ score:
       reach:
         extra: 64.446000 km
         flown: 64.446000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '4'
       - Frank Chetcuti
@@ -1028,11 +1028,11 @@ score:
       reach:
         extra: 57.219000 km
         flown: 57.219000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '80'
       - Michael Cassells
@@ -1055,11 +1055,11 @@ score:
       reach:
         extra: 56.032000 km
         flown: 56.032000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '71'
       - Rob Larkin
@@ -1082,11 +1082,11 @@ score:
       reach:
         extra: 51.417000 km
         flown: 51.417000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '86'
       - Ross Smith
@@ -1109,11 +1109,11 @@ score:
       reach:
         extra: 48.411000 km
         flown: 48.411000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '85'
       - Rick Martin
@@ -1136,11 +1136,11 @@ score:
       reach:
         extra: 39.538000 km
         flown: 39.538000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '100'
       - Malcolm Brown
@@ -1163,11 +1163,11 @@ score:
       reach:
         extra: 30.214000 km
         flown: 30.214000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '34'
       - Brad Porter
@@ -1190,11 +1190,11 @@ score:
       reach:
         extra: 26.399000 km
         flown: 26.399000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T05:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '14'
       - Peter Burkitt
@@ -1217,11 +1217,11 @@ score:
       reach:
         extra: 23.955000 km
         flown: 23.955000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '67'
       - Mark Alton
@@ -1244,11 +1244,11 @@ score:
       reach:
         extra: 23.316000 km
         flown: 23.316000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '64'
       - Longfei Yang
@@ -1271,11 +1271,11 @@ score:
       reach:
         extra: 20.201000 km
         flown: 20.201000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '88'
       - Simon West
@@ -1298,11 +1298,11 @@ score:
       reach:
         extra: 17.662000 km
         flown: 17.662000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '94'
       - Justinas Pleikys
@@ -1325,11 +1325,11 @@ score:
       reach:
         extra: 17.114000 km
         flown: 17.114000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '55'
       - Don Cramer
@@ -1352,11 +1352,11 @@ score:
       reach:
         extra: 13.302000 km
         flown: 13.302000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-30T05:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '77'
       - Brodrick Osborne
@@ -1379,11 +1379,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 10.000000 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '99'
       - Gennadiy Khramov
@@ -1406,11 +1406,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 10.000000 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0.0
   - - - '102'
       - Robert Davies
@@ -1431,13 +1431,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '6'
       - Yoko Sano
@@ -1458,13 +1458,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '42'
       - Rob De Groot
@@ -1485,13 +1485,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '52'
       - Dale Regehr
@@ -1512,13 +1512,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '74'
       - Vic Hare
@@ -1539,13 +1539,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '75'
       - Yasuhiro Noma
@@ -1566,13 +1566,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '83'
       - Randal Clotworthy
@@ -1593,13 +1593,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '103'
       - Wayne Thompson
@@ -1620,13 +1620,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '36'
       - Steve Docherty
@@ -1647,13 +1647,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '37'
       - Gavin Myers
@@ -1674,13 +1674,13 @@ score:
         effort: 0.12146988771691025
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
 - - - - '62'
       - Josh Woods
@@ -1703,11 +1703,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:35:03Z'
       timeElapsed: 3.83417 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.141388189952636
   - - - '43'
       - Jonny Durand
@@ -1730,11 +1730,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:35:06Z'
       timeElapsed: 3.83500 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.1086939413718406
   - - - '92'
       - Attila Bertok
@@ -1757,11 +1757,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:36:02Z'
       timeElapsed: 3.85056 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0399166985785673
   - - - '76'
       - Rory Duncan
@@ -1784,11 +1784,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:37:45Z'
       timeElapsed: 3.87917 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.227481847719627
   - - - '101'
       - Oliver Chitty
@@ -1811,11 +1811,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:42:51Z'
       timeElapsed: 3.96417 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.1764304940285317
   - - - '25'
       - Tyler Borrdaile
@@ -1838,11 +1838,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:43:41Z'
       timeElapsed: 3.97806 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.227852693998238
   - - - '7'
       - Olav Opsanger
@@ -1865,11 +1865,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T06:45:03Z'
       timeElapsed: 4.00083 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.226504980327962
   - - - '27'
       - Guy Hubbard
@@ -1892,11 +1892,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:30:00Z'
       es: '2017-12-31T06:43:26Z'
       timeElapsed: 4.22389 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0369791595682853
   - - - '75'
       - Yasuhiro Noma
@@ -1919,11 +1919,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:30:00Z'
       es: '2017-12-31T06:43:15Z'
       timeElapsed: 4.22083 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.234050411751025
   - - - '8'
       - Gordon Rigg
@@ -1946,11 +1946,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T07:01:43Z'
       timeElapsed: 4.27861 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.2510426353012747
   - - - '11'
       - Steve Blenkinsop
@@ -1973,11 +1973,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T07:00:32Z'
       timeElapsed: 4.25889 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.5125242216037673
   - - - '69'
       - Niki Longshore
@@ -2000,11 +2000,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: '2017-12-31T07:03:04Z'
       timeElapsed: 4.30111 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.4549804639227255
   - - - '23'
       - Nils Vesk
@@ -2027,11 +2027,11 @@ score:
       reach:
         extra: 186.135000 km
         flown: 186.135000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:30:00Z'
       es: '2017-12-31T07:15:44Z'
       timeElapsed: 4.76222 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.309954466728355
   - - - '6'
       - Yoko Sano
@@ -2054,11 +2054,11 @@ score:
       reach:
         extra: 179.682571 km
         flown: 179.682571 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.558918703967648
   - - - '30'
       - Jason Kath
@@ -2081,11 +2081,11 @@ score:
       reach:
         extra: 181.058746 km
         flown: 181.058746 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.748692689059597
   - - - '15'
       - Ryosuke Hattori
@@ -2108,11 +2108,11 @@ score:
       reach:
         extra: 175.318108 km
         flown: 175.318108 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.6809299838207297
   - - - '98'
       - Oyvind Ellefsen
@@ -2135,11 +2135,11 @@ score:
       reach:
         extra: 163.328177 km
         flown: 163.328177 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.7470163744292835
   - - - '77'
       - Brodrick Osborne
@@ -2162,11 +2162,11 @@ score:
       reach:
         extra: 167.998526 km
         flown: 167.998526 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.602957866607199
   - - - '22'
       - Rohan Taylor
@@ -2189,11 +2189,11 @@ score:
       reach:
         extra: 156.394863 km
         flown: 156.394863 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.8206909625819003
   - - - '37'
       - Gavin Myers
@@ -2216,11 +2216,11 @@ score:
       reach:
         extra: 156.711927 km
         flown: 156.711927 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.254550708012998
   - - - '85'
       - Rick Martin
@@ -2243,11 +2243,11 @@ score:
       reach:
         extra: 153.181556 km
         flown: 153.181556 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.735242387725657
   - - - '103'
       - Wayne Thompson
@@ -2270,11 +2270,11 @@ score:
       reach:
         extra: 150.309710 km
         flown: 150.309710 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.833354057338671
   - - - '100'
       - Malcolm Brown
@@ -2297,11 +2297,11 @@ score:
       reach:
         extra: 136.462025 km
         flown: 136.462025 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.6465895697555832
   - - - '81'
       - Nick Purcell
@@ -2324,11 +2324,11 @@ score:
       reach:
         extra: 123.180831 km
         flown: 123.180831 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.6616530559595564
   - - - '36'
       - Steve Docherty
@@ -2351,11 +2351,11 @@ score:
       reach:
         extra: 122.077167 km
         flown: 122.077167 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.043997044035512
   - - - '34'
       - Brad Porter
@@ -2378,11 +2378,11 @@ score:
       reach:
         extra: 112.311897 km
         flown: 112.311897 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.343256683559494
   - - - '71'
       - Rob Larkin
@@ -2405,11 +2405,11 @@ score:
       reach:
         extra: 104.808372 km
         flown: 104.808372 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.878438258650056
   - - - '52'
       - Dale Regehr
@@ -2432,11 +2432,11 @@ score:
       reach:
         extra: 104.477828 km
         flown: 104.477828 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.966616743507532
   - - - '80'
       - Michael Cassells
@@ -2459,11 +2459,11 @@ score:
       reach:
         extra: 99.515166 km
         flown: 99.515166 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.3908855289289885
   - - - '32'
       - Andrew Barnes
@@ -2486,11 +2486,11 @@ score:
       reach:
         extra: 91.900071 km
         flown: 91.900071 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.579559843977481
   - - - '31'
       - Trent Brown
@@ -2513,11 +2513,11 @@ score:
       reach:
         extra: 67.987137 km
         flown: 67.987137 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.1799307269554955
   - - - '55'
       - Don Cramer
@@ -2540,11 +2540,11 @@ score:
       reach:
         extra: 58.449044 km
         flown: 58.449044 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.83554460967372
   - - - '72'
       - Sasha Serebrennikova
@@ -2567,11 +2567,11 @@ score:
       reach:
         extra: 57.970429 km
         flown: 57.970429 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.509246505559999
   - - - '67'
       - Mark Alton
@@ -2594,11 +2594,11 @@ score:
       reach:
         extra: 47.544672 km
         flown: 47.544672 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2017-12-31T03:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.407125132788959
   - - - '51'
       - Craig Taylor
@@ -2621,11 +2621,11 @@ score:
       reach:
         extra: 10.029423 km
         flown: 10.029423 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '14'
       - Peter Burkitt
@@ -2648,11 +2648,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 7.688507 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '64'
       - Longfei Yang
@@ -2675,11 +2675,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 4.720629 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
 - - - - '92'
       - Attila Bertok
@@ -2702,11 +2702,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:53:44Z'
       timeElapsed: 3.14556 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.7535715214343823
   - - - '25'
       - Tyler Borrdaile
@@ -2729,11 +2729,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:54:40Z'
       timeElapsed: 3.16111 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.8756175997202322
   - - - '62'
       - Josh Woods
@@ -2756,11 +2756,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:55:06Z'
       timeElapsed: 3.16833 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.857122204523081
   - - - '7'
       - Olav Opsanger
@@ -2783,11 +2783,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:55:52Z'
       timeElapsed: 3.18111 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.778141853506756
   - - - '81'
       - Nick Purcell
@@ -2810,11 +2810,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:56:13Z'
       timeElapsed: 3.18694 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.7701069258159334
   - - - '11'
       - Steve Blenkinsop
@@ -2837,11 +2837,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:56:17Z'
       timeElapsed: 3.18806 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.843255063582061
   - - - '51'
       - Craig Taylor
@@ -2864,11 +2864,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:58:06Z'
       timeElapsed: 3.21833 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.8487043003638934
   - - - '8'
       - Gordon Rigg
@@ -2891,11 +2891,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:59:35Z'
       timeElapsed: 3.24306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.669482533948164
   - - - '34'
       - Brad Porter
@@ -2918,11 +2918,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T05:58:53Z'
       timeElapsed: 3.23139 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.837613090526048
   - - - '30'
       - Jason Kath
@@ -2945,11 +2945,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: '2018-01-01T06:05:35Z'
       timeElapsed: 3.59306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.2516155929440855
   - - - '6'
       - Yoko Sano
@@ -2972,11 +2972,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: '2018-01-01T05:57:03Z'
       timeElapsed: 3.45083 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.806280989374196
   - - - '23'
       - Nils Vesk
@@ -2999,11 +2999,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T03:00:00Z'
       es: '2018-01-01T06:23:05Z'
       timeElapsed: 3.38472 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.5051547927047544
   - - - '68'
       - Neale Halsall
@@ -3026,11 +3026,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T06:16:28Z'
       timeElapsed: 3.52444 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.9314014232204784
   - - - '31'
       - Trent Brown
@@ -3053,11 +3053,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T03:15:00Z'
       es: '2018-01-01T06:41:30Z'
       timeElapsed: 3.44167 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.8766274601640953
   - - - '76'
       - Rory Duncan
@@ -3080,11 +3080,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T03:15:00Z'
       es: '2018-01-01T06:42:03Z'
       timeElapsed: 3.45083 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.144516746919832
   - - - '100'
       - Malcolm Brown
@@ -3107,11 +3107,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T06:23:01Z'
       timeElapsed: 3.63361 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0512095439238385
   - - - '15'
       - Ryosuke Hattori
@@ -3134,11 +3134,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T06:26:06Z'
       timeElapsed: 3.68500 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0554560196036853
   - - - '36'
       - Steve Docherty
@@ -3161,11 +3161,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T06:25:35Z'
       timeElapsed: 3.67639 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.2692228596181296
   - - - '77'
       - Brodrick Osborne
@@ -3188,11 +3188,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T06:28:39Z'
       timeElapsed: 3.72750 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.290053174540124
   - - - '32'
       - Andrew Barnes
@@ -3215,11 +3215,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T06:30:11Z'
       timeElapsed: 3.75306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.268219166702627
   - - - '80'
       - Michael Cassells
@@ -3242,11 +3242,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: '2018-01-01T06:24:35Z'
       timeElapsed: 3.90972 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.8674039812971905
   - - - '99'
       - Gennadiy Khramov
@@ -3269,11 +3269,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: '2018-01-01T07:04:13Z'
       timeElapsed: 4.32028 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.4362456159281862
   - - - '103'
       - Wayne Thompson
@@ -3296,11 +3296,11 @@ score:
       reach:
         extra: 195.580000 km
         flown: 195.580000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T03:00:00Z'
       es: '2018-01-01T07:18:01Z'
       timeElapsed: 4.30028 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.913422309165629
   - - - '14'
       - Peter Burkitt
@@ -3323,11 +3323,11 @@ score:
       reach:
         extra: 186.540787 km
         flown: 186.540787 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0742198987889826
   - - - '107'
       - Anatoly Reyter
@@ -3350,11 +3350,11 @@ score:
       reach:
         extra: 192.231258 km
         flown: 192.231258 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.353143335777929
   - - - '71'
       - Rob Larkin
@@ -3377,11 +3377,11 @@ score:
       reach:
         extra: 183.046390 km
         flown: 183.046390 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.101830797687525
   - - - '86'
       - Ross Smith
@@ -3404,11 +3404,11 @@ score:
       reach:
         extra: 183.371352 km
         flown: 183.371352 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.804952221348688
   - - - '28'
       - Mikhail Karmazin
@@ -3431,11 +3431,11 @@ score:
       reach:
         extra: 171.396198 km
         flown: 171.396198 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.9395950319975164
   - - - '67'
       - Mark Alton
@@ -3458,11 +3458,11 @@ score:
       reach:
         extra: 168.347372 km
         flown: 168.347372 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.9344103190741624
   - - - '52'
       - Dale Regehr
@@ -3485,11 +3485,11 @@ score:
       reach:
         extra: 167.857712 km
         flown: 167.857712 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.9375077262841875
   - - - '74'
       - Vic Hare
@@ -3512,11 +3512,11 @@ score:
       reach:
         extra: 167.858014 km
         flown: 167.858014 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.011126468727822
   - - - '64'
       - Longfei Yang
@@ -3539,11 +3539,11 @@ score:
       reach:
         extra: 151.122585 km
         flown: 151.122585 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.500879787077692
   - - - '75'
       - Yasuhiro Noma
@@ -3566,11 +3566,11 @@ score:
       reach:
         extra: 141.995129 km
         flown: 141.995129 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.129015920226645
   - - - '102'
       - Robert Davies
@@ -3593,11 +3593,11 @@ score:
       reach:
         extra: 109.641944 km
         flown: 109.641944 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.861085683964088
   - - - '83'
       - Randal Clotworthy
@@ -3620,11 +3620,11 @@ score:
       reach:
         extra: 101.546651 km
         flown: 101.546651 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.192270440895738
   - - - '43'
       - Jonny Durand
@@ -3647,11 +3647,11 @@ score:
       reach:
         extra: 75.843557 km
         flown: 75.843557 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.952839308434811
   - - - '101'
       - Oliver Chitty
@@ -3674,11 +3674,11 @@ score:
       reach:
         extra: 73.830037 km
         flown: 73.830037 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T03:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.397075594616181
   - - - '27'
       - Guy Hubbard
@@ -3701,11 +3701,11 @@ score:
       reach:
         extra: 56.379564 km
         flown: 56.379564 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.038959762168533
   - - - '55'
       - Don Cramer
@@ -3728,11 +3728,11 @@ score:
       reach:
         extra: 51.328508 km
         flown: 51.328508 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.446165907930366
   - - - '85'
       - Rick Martin
@@ -3755,11 +3755,11 @@ score:
       reach:
         extra: 19.967419 km
         flown: 19.967419 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-01T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 8.7475003462716
 - - - - '101'
       - Oliver Chitty
@@ -3782,11 +3782,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:18:24Z'
       timeElapsed: 5.30667 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.842315718154824
   - - - '43'
       - Jonny Durand
@@ -3809,11 +3809,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:19:28Z'
       timeElapsed: 5.32444 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.7056044748972368
   - - - '25'
       - Tyler Borrdaile
@@ -3836,11 +3836,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:20:12Z'
       timeElapsed: 5.33667 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.828793588515945
   - - - '27'
       - Guy Hubbard
@@ -3863,11 +3863,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:37:58Z'
       timeElapsed: 5.63278 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.106603718489647
   - - - '31'
       - Trent Brown
@@ -3890,11 +3890,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:45:56Z'
       timeElapsed: 5.76556 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.030135963413991
   - - - '7'
       - Olav Opsanger
@@ -3917,11 +3917,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:48:42Z'
       timeElapsed: 5.81167 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.966567111472163
   - - - '30'
       - Jason Kath
@@ -3944,11 +3944,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T07:50:01Z'
       timeElapsed: 5.83361 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.9465855951504856
   - - - '62'
       - Josh Woods
@@ -3971,11 +3971,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:02:50Z'
       timeElapsed: 6.04722 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.238481958732244
   - - - '11'
       - Steve Blenkinsop
@@ -3998,11 +3998,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:02:45Z'
       timeElapsed: 6.04583 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.402510044145268
   - - - '41'
       - Tony Armstrong
@@ -4025,11 +4025,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:17:20Z'
       timeElapsed: 6.28889 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.367674705657671
   - - - '76'
       - Rory Duncan
@@ -4052,11 +4052,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:28:17Z'
       timeElapsed: 6.47139 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.23023267117311
   - - - '23'
       - Nils Vesk
@@ -4079,11 +4079,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:37:43Z'
       timeElapsed: 6.62861 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.3076849088778735
   - - - '15'
       - Ryosuke Hattori
@@ -4106,11 +4106,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:37:59Z'
       timeElapsed: 6.63306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.759806186528193
   - - - '36'
       - Steve Docherty
@@ -4133,11 +4133,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:38:52Z'
       timeElapsed: 6.64778 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.735833865419639
   - - - '72'
       - Sasha Serebrennikova
@@ -4160,11 +4160,11 @@ score:
       reach:
         extra: 389.144000 km
         flown: 389.144000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: '2018-01-02T08:43:03Z'
       timeElapsed: 6.71750 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.827906933827744
   - - - '37'
       - Gavin Myers
@@ -4187,11 +4187,11 @@ score:
       reach:
         extra: 356.556491 km
         flown: 356.556491 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.559922715636823
   - - - '51'
       - Craig Taylor
@@ -4214,11 +4214,11 @@ score:
       reach:
         extra: 353.072950 km
         flown: 353.072950 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.429661647893991
   - - - '32'
       - Andrew Barnes
@@ -4241,11 +4241,11 @@ score:
       reach:
         extra: 358.234484 km
         flown: 358.234484 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.135733257528643
   - - - '80'
       - Michael Cassells
@@ -4268,11 +4268,11 @@ score:
       reach:
         extra: 333.430776 km
         flown: 333.430776 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.3270688024856945
   - - - '77'
       - Brodrick Osborne
@@ -4295,11 +4295,11 @@ score:
       reach:
         extra: 323.180161 km
         flown: 323.180161 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.817581497365011
   - - - '68'
       - Neale Halsall
@@ -4322,11 +4322,11 @@ score:
       reach:
         extra: 290.033613 km
         flown: 290.033613 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.499415331648047
   - - - '103'
       - Wayne Thompson
@@ -4349,11 +4349,11 @@ score:
       reach:
         extra: 267.776151 km
         flown: 267.776151 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.461886729284911
   - - - '34'
       - Brad Porter
@@ -4376,11 +4376,11 @@ score:
       reach:
         extra: 239.270078 km
         flown: 239.270078 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.158557422485796
   - - - '52'
       - Dale Regehr
@@ -4403,11 +4403,11 @@ score:
       reach:
         extra: 232.901426 km
         flown: 232.901426 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.128702354044117
   - - - '92'
       - Attila Bertok
@@ -4430,11 +4430,11 @@ score:
       reach:
         extra: 201.851058 km
         flown: 201.851058 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.160794660375757
   - - - '88'
       - Simon West
@@ -4457,11 +4457,11 @@ score:
       reach:
         extra: 208.366742 km
         flown: 208.366742 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.948275760505276
   - - - '28'
       - Mikhail Karmazin
@@ -4484,11 +4484,11 @@ score:
       reach:
         extra: 206.832059 km
         flown: 206.832059 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.863669853985778
   - - - '75'
       - Yasuhiro Noma
@@ -4511,11 +4511,11 @@ score:
       reach:
         extra: 186.148661 km
         flown: 186.148661 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.763239797389481
   - - - '67'
       - Mark Alton
@@ -4538,11 +4538,11 @@ score:
       reach:
         extra: 181.533802 km
         flown: 181.533802 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.140757059358201
   - - - '71'
       - Rob Larkin
@@ -4565,11 +4565,11 @@ score:
       reach:
         extra: 176.579899 km
         flown: 176.579899 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.103039814449267
   - - - '74'
       - Vic Hare
@@ -4592,11 +4592,11 @@ score:
       reach:
         extra: 137.193443 km
         flown: 137.193443 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.109502758855947
   - - - '99'
       - Gennadiy Khramov
@@ -4619,11 +4619,11 @@ score:
       reach:
         extra: 75.329860 km
         flown: 75.329860 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 9.688295207072942
   - - - '64'
       - Longfei Yang
@@ -4646,11 +4646,11 @@ score:
       reach:
         extra: 57.550365 km
         flown: 57.550365 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 10.70016361612241
   - - - '81'
       - Nick Purcell
@@ -4673,11 +4673,11 @@ score:
       reach:
         extra: 56.859087 km
         flown: 56.859087 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 10.63723629341719
   - - - '83'
       - Randal Clotworthy
@@ -4700,11 +4700,11 @@ score:
       reach:
         extra: 56.805486 km
         flown: 56.805486 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-02T02:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 10.658978243582235
   - - - '6'
       - Yoko Sano
@@ -4727,11 +4727,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 6.245062 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '8'
       - Gordon Rigg
@@ -4754,11 +4754,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 2.874703 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '14'
       - Peter Burkitt
@@ -4781,11 +4781,11 @@ score:
       reach:
         extra: 10.000000 km
         flown: 4.734416 km
-      landedMade: null
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
 - - - - '101'
       - Oliver Chitty
@@ -4808,11 +4808,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:02:40Z'
       timeElapsed: 2.79444 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.82771602227911
   - - - '43'
       - Jonny Durand
@@ -4835,11 +4835,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:03:33Z'
       timeElapsed: 2.80917 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.78810601667484
   - - - '27'
       - Guy Hubbard
@@ -4862,11 +4862,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:03:46Z'
       timeElapsed: 2.81278 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.82629680121905
   - - - '37'
       - Gavin Myers
@@ -4889,11 +4889,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:04:25Z'
       timeElapsed: 2.82361 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.79474731161009
   - - - '76'
       - Rory Duncan
@@ -4916,11 +4916,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:05:31Z'
       timeElapsed: 2.84194 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.78840987681944
   - - - '23'
       - Nils Vesk
@@ -4943,11 +4943,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:19:27Z'
       timeElapsed: 3.07417 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.79621480984642
   - - - '106'
       - Jon Durand Snr
@@ -4970,11 +4970,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:19:10Z'
       timeElapsed: 3.06944 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.99408751900817
   - - - '51'
       - Craig Taylor
@@ -4997,11 +4997,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:26:44Z'
       timeElapsed: 3.19556 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.89659713141895
   - - - '30'
       - Jason Kath
@@ -5024,11 +5024,11 @@ score:
       reach:
         extra: 153.928000 km
         flown: 153.928000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: '2018-01-03T07:55:58Z'
       timeElapsed: 3.68278 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.95659255305102
   - - - '22'
       - Rohan Taylor
@@ -5051,11 +5051,11 @@ score:
       reach:
         extra: 144.711000 km
         flown: 144.711000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.81745281867673
   - - - '31'
       - Trent Brown
@@ -5078,11 +5078,11 @@ score:
       reach:
         extra: 145.112000 km
         flown: 145.112000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.84987437416224
   - - - '4'
       - Frank Chetcuti
@@ -5105,11 +5105,11 @@ score:
       reach:
         extra: 143.821000 km
         flown: 143.821000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.24827851547239
   - - - '11'
       - Steve Blenkinsop
@@ -5132,11 +5132,11 @@ score:
       reach:
         extra: 147.549000 km
         flown: 147.549000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.53230697072696
   - - - '81'
       - Nick Purcell
@@ -5159,11 +5159,11 @@ score:
       reach:
         extra: 145.599000 km
         flown: 145.599000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.83799222965284
   - - - '92'
       - Attila Bertok
@@ -5186,11 +5186,11 @@ score:
       reach:
         extra: 134.739000 km
         flown: 134.739000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.52305868175357
   - - - '62'
       - Josh Woods
@@ -5213,11 +5213,11 @@ score:
       reach:
         extra: 126.791000 km
         flown: 126.791000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.90938506443343
   - - - '15'
       - Ryosuke Hattori
@@ -5240,11 +5240,11 @@ score:
       reach:
         extra: 136.182000 km
         flown: 136.182000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.13470027819739
   - - - '36'
       - Steve Docherty
@@ -5267,11 +5267,11 @@ score:
       reach:
         extra: 127.006000 km
         flown: 127.006000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 1.97053925432686
   - - - '72'
       - Sasha Serebrennikova
@@ -5294,11 +5294,11 @@ score:
       reach:
         extra: 127.889000 km
         flown: 127.889000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.06298058229863
   - - - '28'
       - Mikhail Karmazin
@@ -5321,11 +5321,11 @@ score:
       reach:
         extra: 127.289000 km
         flown: 127.289000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.03486385574186
   - - - '6'
       - Yoko Sano
@@ -5348,11 +5348,11 @@ score:
       reach:
         extra: 125.409000 km
         flown: 125.409000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.11039819600987
   - - - '74'
       - Vic Hare
@@ -5375,11 +5375,11 @@ score:
       reach:
         extra: 129.651000 km
         flown: 129.651000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.08514903967902
   - - - '86'
       - Ross Smith
@@ -5402,11 +5402,11 @@ score:
       reach:
         extra: 124.452000 km
         flown: 124.452000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.35706087864038
   - - - '75'
       - Yasuhiro Noma
@@ -5429,11 +5429,11 @@ score:
       reach:
         extra: 114.263000 km
         flown: 114.263000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.03112691809042
   - - - '41'
       - Tony Armstrong
@@ -5456,11 +5456,11 @@ score:
       reach:
         extra: 113.595000 km
         flown: 113.595000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.05981106849931
   - - - '7'
       - Olav Opsanger
@@ -5483,11 +5483,11 @@ score:
       reach:
         extra: 112.439000 km
         flown: 112.439000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.12669802087107
   - - - '64'
       - Longfei Yang
@@ -5510,11 +5510,11 @@ score:
       reach:
         extra: 115.729000 km
         flown: 115.729000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.31225892322775
   - - - '98'
       - Oyvind Ellefsen
@@ -5537,11 +5537,11 @@ score:
       reach:
         extra: 114.123000 km
         flown: 114.123000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.12692897898945
   - - - '103'
       - Wayne Thompson
@@ -5564,11 +5564,11 @@ score:
       reach:
         extra: 108.770000 km
         flown: 108.770000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.69506148055276
   - - - '68'
       - Neale Halsall
@@ -5591,11 +5591,11 @@ score:
       reach:
         extra: 97.067000 km
         flown: 97.067000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.65065286962187
   - - - '52'
       - Dale Regehr
@@ -5618,11 +5618,11 @@ score:
       reach:
         extra: 96.233000 km
         flown: 96.233000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.69687646778716
   - - - '25'
       - Tyler Borrdaile
@@ -5645,11 +5645,11 @@ score:
       reach:
         extra: 95.266000 km
         flown: 95.266000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:45:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.20959010185146
   - - - '42'
       - Rob De Groot
@@ -5672,11 +5672,11 @@ score:
       reach:
         extra: 92.151000 km
         flown: 92.151000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.90078679682113
   - - - '34'
       - Brad Porter
@@ -5699,11 +5699,11 @@ score:
       reach:
         extra: 89.364000 km
         flown: 89.364000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.96986383571608
   - - - '107'
       - Anatoly Reyter
@@ -5726,11 +5726,11 @@ score:
       reach:
         extra: 90.150000 km
         flown: 90.150000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.50428381974816
   - - - '99'
       - Gennadiy Khramov
@@ -5753,11 +5753,11 @@ score:
       reach:
         extra: 85.466000 km
         flown: 85.466000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.13657405218867
   - - - '8'
       - Gordon Rigg
@@ -5780,11 +5780,11 @@ score:
       reach:
         extra: 70.412000 km
         flown: 70.412000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.25564656442246
   - - - '67'
       - Mark Alton
@@ -5807,11 +5807,11 @@ score:
       reach:
         extra: 67.771000 km
         flown: 67.771000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:30:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.68200162883322
   - - - '14'
       - Peter Burkitt
@@ -5834,11 +5834,11 @@ score:
       reach:
         extra: 15.164000 km
         flown: 15.164000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-03T04:15:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.09774879004453
   - - - '80'
       - Michael Cassells
@@ -5859,13 +5859,13 @@ score:
         effort: 0.016643550624133144
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '71'
       - Rob Larkin
@@ -5886,13 +5886,13 @@ score:
         effort: 0.016643550624133144
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
   - - - '100'
       - Malcolm Brown
@@ -5913,13 +5913,13 @@ score:
         effort: 0.016643550624133144
         reach: 0.0
       reach:
-        extra: null
-        flown: null
-      landedMade: null
+        extra: 0 km
+        flown: 0 km
+      landedMade: 0 km
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 0
 - - - - '43'
       - Jonny Durand
@@ -5942,11 +5942,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:23:58Z'
       timeElapsed: 3.56611 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.494186413102568
   - - - '76'
       - Rory Duncan
@@ -5969,11 +5969,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:28:57Z'
       timeElapsed: 3.64917 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.5259583193680455
   - - - '30'
       - Jason Kath
@@ -5996,11 +5996,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:29:50Z'
       timeElapsed: 3.66389 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.4751580111979976
   - - - '27'
       - Guy Hubbard
@@ -6023,11 +6023,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:36:56Z'
       timeElapsed: 3.78222 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.603330506500921
   - - - '11'
       - Steve Blenkinsop
@@ -6050,11 +6050,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:37:06Z'
       timeElapsed: 3.78500 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.5771246600016378
   - - - '36'
       - Steve Docherty
@@ -6077,11 +6077,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:38:39Z'
       timeElapsed: 3.81083 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.6281955464818036
   - - - '92'
       - Attila Bertok
@@ -6104,11 +6104,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: '2018-01-04T06:49:30Z'
       timeElapsed: 3.65833 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0970891418060855
   - - - '34'
       - Brad Porter
@@ -6131,11 +6131,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:42:24Z'
       timeElapsed: 3.87333 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.615154287876638
   - - - '75'
       - Yasuhiro Noma
@@ -6158,11 +6158,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:44:22Z'
       timeElapsed: 3.90611 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.6021860912408195
   - - - '37'
       - Gavin Myers
@@ -6185,11 +6185,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:44:40Z'
       timeElapsed: 3.91111 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.7155049077979525
   - - - '101'
       - Oliver Chitty
@@ -6212,11 +6212,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: '2018-01-04T06:57:14Z'
       timeElapsed: 3.78722 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.176466687937495
   - - - '7'
       - Olav Opsanger
@@ -6239,11 +6239,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: '2018-01-04T06:56:55Z'
       timeElapsed: 3.78194 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.2670023482600516
   - - - '62'
       - Josh Woods
@@ -6266,11 +6266,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:47:19Z'
       timeElapsed: 3.95528 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.865347892095099
   - - - '98'
       - Oyvind Ellefsen
@@ -6293,11 +6293,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: '2018-01-04T06:58:36Z'
       timeElapsed: 3.81000 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.2880159586641104
   - - - '41'
       - Tony Armstrong
@@ -6320,11 +6320,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:56:34Z'
       timeElapsed: 4.10944 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.651566317339802
   - - - '100'
       - Malcolm Brown
@@ -6347,11 +6347,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:55:08Z'
       timeElapsed: 4.08556 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.7782232737454535
   - - - '81'
       - Nick Purcell
@@ -6374,11 +6374,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:53:07Z'
       timeElapsed: 4.05194 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.001112766463981
   - - - '8'
       - Gordon Rigg
@@ -6401,11 +6401,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T06:58:04Z'
       timeElapsed: 4.13444 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.794156889702246
   - - - '68'
       - Neale Halsall
@@ -6428,11 +6428,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T07:08:21Z'
       timeElapsed: 4.30583 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0798416814701373
   - - - '31'
       - Trent Brown
@@ -6455,11 +6455,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T07:30:55Z'
       timeElapsed: 4.68194 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.632839995892435
   - - - '51'
       - Craig Taylor
@@ -6482,11 +6482,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T07:24:48Z'
       timeElapsed: 4.58000 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.0641761028577545
   - - - '72'
       - Sasha Serebrennikova
@@ -6509,11 +6509,11 @@ score:
       reach:
         extra: 166.757000 km
         flown: 166.757000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: '2018-01-04T07:26:48Z'
       timeElapsed: 4.61333 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.990131124865047
   - - - '80'
       - Michael Cassells
@@ -6536,11 +6536,11 @@ score:
       reach:
         extra: 128.023898 km
         flown: 128.023898 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.1701323276185938
   - - - '25'
       - Tyler Borrdaile
@@ -6563,11 +6563,11 @@ score:
       reach:
         extra: 127.759431 km
         flown: 127.759431 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.250697307480956
   - - - '64'
       - Longfei Yang
@@ -6590,11 +6590,11 @@ score:
       reach:
         extra: 138.474372 km
         flown: 138.474372 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.499046815276812
   - - - '52'
       - Dale Regehr
@@ -6617,11 +6617,11 @@ score:
       reach:
         extra: 135.344974 km
         flown: 135.344974 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.739505937284504
   - - - '28'
       - Mikhail Karmazin
@@ -6644,11 +6644,11 @@ score:
       reach:
         extra: 120.055817 km
         flown: 120.055817 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.2506833511492506
   - - - '107'
       - Anatoly Reyter
@@ -6671,11 +6671,11 @@ score:
       reach:
         extra: 120.287854 km
         flown: 120.287854 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.4223328368892947
   - - - '85'
       - Rick Martin
@@ -6698,11 +6698,11 @@ score:
       reach:
         extra: 124.819208 km
         flown: 124.819208 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.9163153172348135
   - - - '23'
       - Nils Vesk
@@ -6725,11 +6725,11 @@ score:
       reach:
         extra: 111.185773 km
         flown: 111.185773 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.960682086271926
   - - - '15'
       - Ryosuke Hattori
@@ -6752,11 +6752,11 @@ score:
       reach:
         extra: 114.607144 km
         flown: 114.607144 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.1824054101787285
   - - - '14'
       - Peter Burkitt
@@ -6779,11 +6779,11 @@ score:
       reach:
         extra: 114.514448 km
         flown: 114.514448 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.248700539359721
   - - - '6'
       - Yoko Sano
@@ -6806,11 +6806,11 @@ score:
       reach:
         extra: 108.749867 km
         flown: 108.749867 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.2644963242649885
   - - - '103'
       - Wayne Thompson
@@ -6833,11 +6833,11 @@ score:
       reach:
         extra: 109.247408 km
         flown: 109.247408 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.90875339427804
   - - - '55'
       - Don Cramer
@@ -6860,11 +6860,11 @@ score:
       reach:
         extra: 107.855691 km
         flown: 107.855691 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.5910314770582765
   - - - '67'
       - Mark Alton
@@ -6887,11 +6887,11 @@ score:
       reach:
         extra: 97.068800 km
         flown: 97.068800 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.8253583373300337
   - - - '32'
       - Andrew Barnes
@@ -6914,11 +6914,11 @@ score:
       reach:
         extra: 86.012943 km
         flown: 86.012943 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.949857819344416
   - - - '74'
       - Vic Hare
@@ -6941,11 +6941,11 @@ score:
       reach:
         extra: 48.721333 km
         flown: 48.721333 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:10:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.11021843389679
   - - - '71'
       - Rob Larkin
@@ -6968,11 +6968,11 @@ score:
       reach:
         extra: 47.433666 km
         flown: 47.433666 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.921180056674953
   - - - '86'
       - Ross Smith
@@ -6995,11 +6995,11 @@ score:
       reach:
         extra: 28.113322 km
         flown: 28.113322 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T02:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.086414189617322
   - - - '83'
       - Randal Clotworthy
@@ -7022,11 +7022,11 @@ score:
       reach:
         extra: 26.927940 km
         flown: 26.927940 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-04T03:50:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 7.836732396421935
 - - - - '92'
       - Attila Bertok
@@ -7049,11 +7049,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:12:01Z'
       timeElapsed: 3.53361 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.377421462327709
   - - - '25'
       - Tyler Borrdaile
@@ -7076,11 +7076,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:18:49Z'
       timeElapsed: 3.64694 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.4373195802749317
   - - - '76'
       - Rory Duncan
@@ -7103,11 +7103,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:19:14Z'
       timeElapsed: 3.65389 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.4832920287499234
   - - - '30'
       - Jason Kath
@@ -7130,11 +7130,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:25:03Z'
       timeElapsed: 3.75083 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.336364732251523
   - - - '62'
       - Josh Woods
@@ -7157,11 +7157,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:22:47Z'
       timeElapsed: 3.71306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.5486130495731554
   - - - '43'
       - Jonny Durand
@@ -7184,11 +7184,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:25:11Z'
       timeElapsed: 3.75306 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.5412243685828058
   - - - '31'
       - Trent Brown
@@ -7211,11 +7211,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:27:33Z'
       timeElapsed: 3.79250 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.553101162731049
   - - - '81'
       - Nick Purcell
@@ -7238,11 +7238,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:29:39Z'
       timeElapsed: 3.82750 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.5055284674323115
   - - - '11'
       - Steve Blenkinsop
@@ -7265,11 +7265,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:29:58Z'
       timeElapsed: 3.83278 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.464399863045341
   - - - '27'
       - Guy Hubbard
@@ -7292,11 +7292,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:40:05Z'
       timeElapsed: 4.00139 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.6072416314886526
   - - - '8'
       - Gordon Rigg
@@ -7319,11 +7319,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T06:59:57Z'
       timeElapsed: 4.33250 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 2.8815929430976177
   - - - '101'
       - Oliver Chitty
@@ -7346,11 +7346,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T03:00:00Z'
       es: '2018-01-05T07:12:21Z'
       timeElapsed: 4.20583 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.497464934242916
   - - - '7'
       - Olav Opsanger
@@ -7373,11 +7373,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:10:50Z'
       timeElapsed: 4.51389 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.125086206401686
   - - - '75'
       - Yasuhiro Noma
@@ -7400,11 +7400,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T03:00:00Z'
       es: '2018-01-05T07:21:32Z'
       timeElapsed: 4.35889 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.7288399442180884
   - - - '37'
       - Gavin Myers
@@ -7427,11 +7427,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:18:32Z'
       timeElapsed: 4.64222 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.1717938005088353
   - - - '6'
       - Yoko Sano
@@ -7454,11 +7454,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:22:43Z'
       timeElapsed: 4.71194 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.012992761632142
   - - - '41'
       - Tony Armstrong
@@ -7481,11 +7481,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:24:51Z'
       timeElapsed: 4.74750 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.056760254836245
   - - - '68'
       - Neale Halsall
@@ -7508,11 +7508,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:37:12Z'
       timeElapsed: 4.95333 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.3078079443160653
   - - - '74'
       - Vic Hare
@@ -7535,11 +7535,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:37:12Z'
       timeElapsed: 4.95333 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.4892312371773118
   - - - '15'
       - Ryosuke Hattori
@@ -7562,11 +7562,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:49:17Z'
       timeElapsed: 5.15472 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.4490423606443144
   - - - '100'
       - Malcolm Brown
@@ -7589,11 +7589,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:53:10Z'
       timeElapsed: 5.21944 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.4252119428946126
   - - - '72'
       - Sasha Serebrennikova
@@ -7616,11 +7616,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T07:56:13Z'
       timeElapsed: 5.27028 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.425186139652833
   - - - '51'
       - Craig Taylor
@@ -7643,11 +7643,11 @@ score:
       reach:
         extra: 172.531000 km
         flown: 172.531000 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: '2018-01-05T08:57:09Z'
       timeElapsed: 6.28583 h
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.6895147388166873
   - - - '99'
       - Gennadiy Khramov
@@ -7670,11 +7670,11 @@ score:
       reach:
         extra: 169.001633 km
         flown: 169.001633 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 3.7271285757636043
   - - - '36'
       - Steve Docherty
@@ -7697,11 +7697,11 @@ score:
       reach:
         extra: 161.088853 km
         flown: 161.088853 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.449742359273962
   - - - '52'
       - Dale Regehr
@@ -7724,11 +7724,11 @@ score:
       reach:
         extra: 134.968972 km
         flown: 134.968972 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.63139153453234
   - - - '103'
       - Wayne Thompson
@@ -7751,11 +7751,11 @@ score:
       reach:
         extra: 119.822400 km
         flown: 119.822400 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.099950271881998
   - - - '28'
       - Mikhail Karmazin
@@ -7778,11 +7778,11 @@ score:
       reach:
         extra: 118.829987 km
         flown: 118.829987 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T03:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.70650345466694
   - - - '80'
       - Michael Cassells
@@ -7805,11 +7805,11 @@ score:
       reach:
         extra: 110.956352 km
         flown: 110.956352 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.223304508159015
   - - - '4'
       - Frank Chetcuti
@@ -7832,11 +7832,11 @@ score:
       reach:
         extra: 108.448990 km
         flown: 108.448990 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.234500528796801
   - - - '23'
       - Nils Vesk
@@ -7859,11 +7859,11 @@ score:
       reach:
         extra: 105.187684 km
         flown: 105.187684 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T03:00:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 4.958399677969527
   - - - '83'
       - Randal Clotworthy
@@ -7886,11 +7886,11 @@ score:
       reach:
         extra: 94.098343 km
         flown: 94.098343 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 5.241965383948791
   - - - '34'
       - Brad Porter
@@ -7913,11 +7913,11 @@ score:
       reach:
         extra: 67.583100 km
         flown: 67.583100 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.761704347750022
   - - - '64'
       - Longfei Yang
@@ -7940,11 +7940,11 @@ score:
       reach:
         extra: 64.437497 km
         flown: 64.437497 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.458713869544196
   - - - '98'
       - Oyvind Ellefsen
@@ -7967,11 +7967,11 @@ score:
       reach:
         extra: 56.828645 km
         flown: 56.828645 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T02:40:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 6.740696211304099
   - - - '14'
       - Peter Burkitt
@@ -7994,9 +7994,9 @@ score:
       reach:
         extra: 32.404254 km
         flown: 32.404254 km
-      landedMade: null
+      landedMade: 0 km
       ss: '2018-01-05T03:20:00Z'
       es: null
       timeElapsed: null
-      leadingArea: null
+      leadingArea: 0 km^2 s
       leadingCoef: 9.517599694753905
