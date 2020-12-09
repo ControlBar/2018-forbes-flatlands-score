@@ -1,0 +1,619 @@
+pilotsAtEss:
+- 16
+- 13
+- 23
+- 15
+- 7
+- 22
+- 23
+arrivalRank:
+- - - - '92'
+      - Attila Bertok
+    - lag: null
+      rank: '1'
+      frac: 0
+  - - - '101'
+      - Oliver Chitty
+    - lag: 0.03500 h
+      rank: '2'
+      frac: 0
+  - - - '27'
+      - Guy Hubbard
+    - lag: 0.22361 h
+      rank: '3'
+      frac: 0
+  - - - '31'
+      - Trent Brown
+    - lag: 0.46250 h
+      rank: '4'
+      frac: 0
+  - - - '76'
+      - Rory Duncan
+    - lag: 0.47000 h
+      rank: '5'
+      frac: 0
+  - - - '25'
+      - Tyler Borrdaile
+    - lag: 0.52667 h
+      rank: '6'
+      frac: 0
+  - - - '23'
+      - Nils Vesk
+    - lag: 0.53639 h
+      rank: '7'
+      frac: 0
+  - - - '30'
+      - Jason Kath
+    - lag: 0.56361 h
+      rank: '8'
+      frac: 0
+  - - - '106'
+      - Jon Durand Snr
+    - lag: 0.61000 h
+      rank: '9'
+      frac: 0
+  - - - '62'
+      - Josh Woods
+    - lag: 0.66528 h
+      rank: '10'
+      frac: 0
+  - - - '11'
+      - Steve Blenkinsop
+    - lag: 0.66806 h
+      rank: '11'
+      frac: 0
+  - - - '69'
+      - Niki Longshore
+    - lag: 0.67333 h
+      rank: '12'
+      frac: 0
+  - - - '8'
+      - Gordon Rigg
+    - lag: 0.67778 h
+      rank: '13'
+      frac: 0
+  - - - '51'
+      - Craig Taylor
+    - lag: 0.67806 h
+      rank: '14'
+      frac: 0
+  - - - '81'
+      - Nick Purcell
+    - lag: 0.68944 h
+      rank: '15'
+      frac: 0
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.85694 h
+      rank: '16'
+      frac: 0
+  - - - '22'
+      - Rohan Taylor
+    - lag: 0.90861 h
+      rank: '17'
+      frac: 0
+- - - - '62'
+      - Josh Woods
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '43'
+      - Jonny Durand
+    - lag: 0.00083 h
+      rank: '2'
+      frac: 0.8427947200728266
+  - - - '92'
+      - Attila Bertok
+    - lag: 0.01639 h
+      rank: '3'
+      frac: 0.7078725534820208
+  - - - '76'
+      - Rory Duncan
+    - lag: 0.04500 h
+      rank: '4'
+      frac: 0.5935047792444241
+  - - - '101'
+      - Oliver Chitty
+    - lag: 0.13000 h
+      rank: '5'
+      frac: 0.4979626763768775
+  - - - '75'
+      - Yasuhiro Noma
+    - lag: 0.13667 h
+      rank: '6'
+      frac: 0.41951752389622216
+  - - - '27'
+      - Guy Hubbard
+    - lag: 0.13972 h
+      rank: '7'
+      frac: 0.3564406008192991
+  - - - '25'
+      - Tyler Borrdaile
+    - lag: 0.14389 h
+      rank: '8'
+      frac: 0.3070031861629495
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.16667 h
+      rank: '9'
+      frac: 0.26947655894401457
+  - - - '11'
+      - Steve Blenkinsop
+    - lag: 0.42472 h
+      rank: '10'
+      frac: 0.24213199817933545
+  - - - '8'
+      - Gordon Rigg
+    - lag: 0.44444 h
+      rank: '11'
+      frac: 0.22324078288575327
+  - - - '69'
+      - Niki Longshore
+    - lag: 0.46694 h
+      rank: '12'
+      frac: 0.21107419208010927
+  - - - '23'
+      - Nils Vesk
+    - lag: 0.67806 h
+      rank: '13'
+      frac: 0.20390350477924443
+- - - - '92'
+      - Attila Bertok
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '25'
+      - Tyler Borrdaile
+    - lag: 0.01556 h
+      rank: '2'
+      frac: 0.9083052519109067
+  - - - '62'
+      - Josh Woods
+    - lag: 0.02278 h
+      rank: '3'
+      frac: 0.8239694254951919
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.03556 h
+      rank: '4'
+      frac: 0.746680364921509
+  - - - '81'
+      - Nick Purcell
+    - lag: 0.04139 h
+      rank: '5'
+      frac: 0.6761259143585108
+  - - - '11'
+      - Steve Blenkinsop
+    - lag: 0.04250 h
+      rank: '6'
+      frac: 0.6119939179748501
+  - - - '6'
+      - Yoko Sano
+    - lag: 0.05528 h
+      rank: '7'
+      frac: 0.5539722199391797
+  - - - '51'
+      - Craig Taylor
+    - lag: 0.07278 h
+      rank: '8'
+      frac: 0.5017486644201529
+  - - - '34'
+      - Brad Porter
+    - lag: 0.08583 h
+      rank: '9'
+      frac: 0.4550110955864223
+  - - - '8'
+      - Gordon Rigg
+    - lag: 0.09750 h
+      rank: '10'
+      frac: 0.413447357606641
+  - - - '30'
+      - Jason Kath
+    - lag: 0.19750 h
+      rank: '11'
+      frac: 0.3767452946494617
+  - - - '68'
+      - Neale Halsall
+    - lag: 0.37889 h
+      rank: '12'
+      frac: 0.34459275088353747
+  - - - '100'
+      - Malcolm Brown
+    - lag: 0.48806 h
+      rank: '13'
+      frac: 0.3166775704775212
+  - - - '23'
+      - Nils Vesk
+    - lag: 0.48917 h
+      rank: '14'
+      frac: 0.2926875976000658
+  - - - '80'
+      - Michael Cassells
+    - lag: 0.51417 h
+      rank: '15'
+      frac: 0.2723106764198241
+  - - - '36'
+      - Steve Docherty
+    - lag: 0.53083 h
+      rank: '16'
+      frac: 0.2552346511054492
+  - - - '15'
+      - Ryosuke Hattori
+    - lag: 0.53944 h
+      rank: '17'
+      frac: 0.2411473658255938
+  - - - '77'
+      - Brodrick Osborne
+    - lag: 0.58194 h
+      rank: '18'
+      frac: 0.22973666474891102
+  - - - '32'
+      - Andrew Barnes
+    - lag: 0.60750 h
+      rank: '19'
+      frac: 0.2206903920440536
+  - - - '31'
+      - Trent Brown
+    - lag: 0.79611 h
+      rank: '20'
+      frac: 0.21369639187967454
+  - - - '76'
+      - Rory Duncan
+    - lag: 0.80528 h
+      rank: '21'
+      frac: 0.20844250842442674
+  - - - '99'
+      - Gennadiy Khramov
+    - lag: 1.17472 h
+      rank: '22'
+      frac: 0.20461658584696313
+  - - - '103'
+      - Wayne Thompson
+    - lag: 1.40472 h
+      rank: '23'
+      frac: 0.2019064683159366
+- - - - '101'
+      - Oliver Chitty
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '43'
+      - Jonny Durand
+    - lag: 0.01778 h
+      rank: '2'
+      frac: 0.8624302222222222
+  - - - '25'
+      - Tyler Borrdaile
+    - lag: 0.03000 h
+      rank: '3'
+      frac: 0.7417706666666667
+  - - - '27'
+      - Guy Hubbard
+    - lag: 0.32611 h
+      rank: '4'
+      frac: 0.6368960000000001
+  - - - '31'
+      - Trent Brown
+    - lag: 0.45889 h
+      rank: '5'
+      frac: 0.546680888888889
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.50500 h
+      rank: '6'
+      frac: 0.4700000000000001
+  - - - '30'
+      - Jason Kath
+    - lag: 0.52694 h
+      rank: '7'
+      frac: 0.405728
+  - - - '11'
+      - Steve Blenkinsop
+    - lag: 0.73917 h
+      rank: '8'
+      frac: 0.35273955555555564
+  - - - '62'
+      - Josh Woods
+    - lag: 0.74056 h
+      rank: '9'
+      frac: 0.30990933333333337
+  - - - '41'
+      - Tony Armstrong
+    - lag: 0.98222 h
+      rank: '10'
+      frac: 0.276112
+  - - - '76'
+      - Rory Duncan
+    - lag: 1.16472 h
+      rank: '11'
+      frac: 0.25022222222222223
+  - - - '23'
+      - Nils Vesk
+    - lag: 1.32194 h
+      rank: '12'
+      frac: 0.2311146666666667
+  - - - '15'
+      - Ryosuke Hattori
+    - lag: 1.32639 h
+      rank: '13'
+      frac: 0.217664
+  - - - '36'
+      - Steve Docherty
+    - lag: 1.34111 h
+      rank: '14'
+      frac: 0.2087448888888889
+  - - - '72'
+      - Sasha Serebrennikova
+    - lag: 1.41083 h
+      rank: '15'
+      frac: 0.20323200000000002
+- - - - '101'
+      - Oliver Chitty
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '43'
+      - Jonny Durand
+    - lag: 0.01472 h
+      rank: '2'
+      frac: 0.779835390946502
+  - - - '27'
+      - Guy Hubbard
+    - lag: 0.01833 h
+      rank: '3'
+      frac: 0.6049382716049382
+  - - - '37'
+      - Gavin Myers
+    - lag: 0.02917 h
+      rank: '4'
+      frac: 0.4691358024691358
+  - - - '76'
+      - Rory Duncan
+    - lag: 0.04750 h
+      rank: '5'
+      frac: 0.368312757201646
+  - - - '106'
+      - Jon Durand Snr
+    - lag: 0.27500 h
+      rank: '6'
+      frac: 0.29835390946502055
+  - - - '23'
+      - Nils Vesk
+    - lag: 0.27972 h
+      rank: '7'
+      frac: 0.2510288065843621
+  - - - '51'
+      - Craig Taylor
+    - lag: 0.40111 h
+      rank: '8'
+      frac: 0.22222222222222224
+  - - - '30'
+      - Jason Kath
+    - lag: 0.88833 h
+      rank: '9'
+      frac: 0.205761316872428
+- - - - '43'
+      - Jonny Durand
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '76'
+      - Rory Duncan
+    - lag: 0.08306 h
+      rank: '2'
+      frac: 0.9043145191585275
+  - - - '30'
+      - Jason Kath
+    - lag: 0.09778 h
+      rank: '3'
+      frac: 0.8166566491359879
+  - - - '27'
+      - Guy Hubbard
+    - lag: 0.21611 h
+      rank: '4'
+      frac: 0.7366697032306537
+  - - - '11'
+      - Steve Blenkinsop
+    - lag: 0.21889 h
+      rank: '5'
+      frac: 0.6639969947407963
+  - - - '36'
+      - Steve Docherty
+    - lag: 0.24472 h
+      rank: '6'
+      frac: 0.5982818369646882
+  - - - '34'
+      - Brad Porter
+    - lag: 0.30722 h
+      rank: '7'
+      frac: 0.5391675432006011
+  - - - '75'
+      - Yasuhiro Noma
+    - lag: 0.34000 h
+      rank: '8'
+      frac: 0.4862974267468071
+  - - - '37'
+      - Gavin Myers
+    - lag: 0.34500 h
+      rank: '9'
+      frac: 0.4393148009015777
+  - - - '62'
+      - Josh Woods
+    - lag: 0.38917 h
+      rank: '10'
+      frac: 0.39786297896318557
+  - - - '92'
+      - Attila Bertok
+    - lag: 0.42556 h
+      rank: '11'
+      frac: 0.3615852742299023
+  - - - '81'
+      - Nick Purcell
+    - lag: 0.48583 h
+      rank: '12'
+      frac: 0.330125
+  - - - '100'
+      - Malcolm Brown
+    - lag: 0.51944 h
+      rank: '13'
+      frac: 0.30312546957175057
+  - - - '41'
+      - Tony Armstrong
+    - lag: 0.54333 h
+      rank: '14'
+      frac: 0.280229996243426
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.54917 h
+      rank: '15'
+      frac: 0.2610818933132983
+  - - - '101'
+      - Oliver Chitty
+    - lag: 0.55444 h
+      rank: '16'
+      frac: 0.24532447407963942
+  - - - '8'
+      - Gordon Rigg
+    - lag: 0.56833 h
+      rank: '17'
+      frac: 0.23260105184072127
+  - - - '98'
+      - Oyvind Ellefsen
+    - lag: 0.57722 h
+      rank: '18'
+      frac: 0.22255493989481595
+  - - - '68'
+      - Neale Halsall
+    - lag: 0.73972 h
+      rank: '19'
+      frac: 0.21482945154019534
+  - - - '51'
+      - Craig Taylor
+    - lag: 1.01389 h
+      rank: '20'
+      frac: 0.20906790007513149
+  - - - '72'
+      - Sasha Serebrennikova
+    - lag: 1.04722 h
+      rank: '21'
+      frac: 0.20491359879789636
+  - - - '31'
+      - Trent Brown
+    - lag: 1.11583 h
+      rank: '22'
+      frac: 0.20200986100676183
+- - - - '92'
+      - Attila Bertok
+    - lag: null
+      rank: '1'
+      frac: 1.0
+  - - - '25'
+      - Tyler Borrdaile
+    - lag: 0.11333 h
+      rank: '2'
+      frac: 0.9083052519109067
+  - - - '76'
+      - Rory Duncan
+    - lag: 0.12028 h
+      rank: '3'
+      frac: 0.8239694254951919
+  - - - '62'
+      - Josh Woods
+    - lag: 0.17944 h
+      rank: '4'
+      frac: 0.746680364921509
+  - - - '30'
+      - Jason Kath
+    - lag: 0.21722 h
+      rank: '5'
+      frac: 0.6761259143585108
+  - - - '43'
+      - Jonny Durand
+    - lag: 0.21944 h
+      rank: '6'
+      frac: 0.6119939179748501
+  - - - '31'
+      - Trent Brown
+    - lag: 0.25889 h
+      rank: '7'
+      frac: 0.5539722199391797
+  - - - '81'
+      - Nick Purcell
+    - lag: 0.29389 h
+      rank: '8'
+      frac: 0.5017486644201529
+  - - - '11'
+      - Steve Blenkinsop
+    - lag: 0.29917 h
+      rank: '9'
+      frac: 0.4550110955864223
+  - - - '27'
+      - Guy Hubbard
+    - lag: 0.46778 h
+      rank: '10'
+      frac: 0.413447357606641
+  - - - '8'
+      - Gordon Rigg
+    - lag: 0.79889 h
+      rank: '11'
+      frac: 0.3767452946494617
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.98028 h
+      rank: '12'
+      frac: 0.34459275088353747
+  - - - '101'
+      - Oliver Chitty
+    - lag: 1.00556 h
+      rank: '13'
+      frac: 0.3166775704775212
+  - - - '37'
+      - Gavin Myers
+    - lag: 1.10861 h
+      rank: '14'
+      frac: 0.2926875976000658
+  - - - '75'
+      - Yasuhiro Noma
+    - lag: 1.15861 h
+      rank: '15'
+      frac: 0.2723106764198241
+  - - - '6'
+      - Yoko Sano
+    - lag: 1.17833 h
+      rank: '16'
+      frac: 0.2552346511054492
+  - - - '41'
+      - Tony Armstrong
+    - lag: 1.21389 h
+      rank: '17'
+      frac: 0.2411473658255938
+  - - - '68'
+      - Neale Halsall
+    - lag: 1.41972 h
+      rank: '18'
+      frac: 0.22973666474891102
+  - - - '74'
+      - Vic Hare
+    - lag: 1.41972 h
+      rank: '19'
+      frac: 0.2206903920440536
+  - - - '15'
+      - Ryosuke Hattori
+    - lag: 1.62111 h
+      rank: '20'
+      frac: 0.21369639187967454
+  - - - '100'
+      - Malcolm Brown
+    - lag: 1.68583 h
+      rank: '21'
+      frac: 0.20844250842442674
+  - - - '72'
+      - Sasha Serebrennikova
+    - lag: 1.73667 h
+      rank: '22'
+      frac: 0.20461658584696313
+  - - - '51'
+      - Craig Taylor
+    - lag: 2.75222 h
+      rank: '23'
+      frac: 0.2019064683159366

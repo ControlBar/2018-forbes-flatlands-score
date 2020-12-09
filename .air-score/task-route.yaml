@@ -1,0 +1,451 @@
+- point:
+    distance: 153.18512 km
+    legs:
+    - null
+    - 153.18512 km
+    - null
+    legsSum:
+    - null
+    - 153.18512 km
+    - 153.18512 km
+    flipSum:
+    - 153.18512 km
+    - 153.18512 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -31.9798
+      lon: 148.003
+    - lat: -31.9798
+      lon: 148.003
+  ellipse:
+    distance: 143.15744 km
+    legs:
+    - null
+    - 10.02562 km
+    - 133.13182 km
+    - null
+    legsSum:
+    - null
+    - 10.02562 km
+    - 143.15744 km
+    - 143.15744 km
+    flipSum:
+    - 143.15744 km
+    - 143.15744 km
+    - 133.13182 km
+    - null
+    waypoints:
+    - lat: -33.35620000000001
+      lon: 147.934
+    - lat: -33.26611893725712
+      lon: 147.93858202711664
+    - lat: -32.069901874490796
+      lon: 147.99854739657277
+    - lat: -32.069901874490796
+      lon: 147.99854739657277
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
+- point:
+    distance: 192.42945 km
+    legs:
+    - null
+    - 55.32451 km
+    - 97.47887 km
+    - 39.62607 km
+    - null
+    legsSum:
+    - null
+    - 55.32451 km
+    - 152.80339 km
+    - 192.42945 km
+    - 192.42945 km
+    flipSum:
+    - 192.42945 km
+    - 192.42945 km
+    - 137.10494 km
+    - 39.62607 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.8537
+      lon: 147.942
+    - lat: -34.4636
+      lon: 148.703
+    - lat: -34.8188
+      lon: 148.668
+    - lat: -34.8188
+      lon: 148.668
+  ellipse:
+    distance: 186.13528 km
+    legs:
+    - null
+    - 10.02530 km
+    - 44.59295 km
+    - 94.88975 km
+    - 36.62728 km
+    - null
+    legsSum:
+    - null
+    - 10.02530 km
+    - 54.61826 km
+    - 149.50801 km
+    - 186.13528 km
+    - 186.13528 km
+    flipSum:
+    - 186.13528 km
+    - 186.13528 km
+    - 176.10998 km
+    - 131.51703 km
+    - 36.62728 km
+    - null
+    waypoints:
+    - lat: -33.35620000000001
+      lon: 147.934
+    - lat: -33.44625850189749
+      lon: 147.93911294148214
+    - lat: -33.84683976482755
+      lon: 147.9619851782088
+    - lat: -34.48062644001161
+      lon: 148.65260890508893
+    - lat: -34.80979240862271
+      lon: 148.6675882449451
+    - lat: -34.80979240862271
+      lon: 148.6675882449451
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
+- point:
+    distance: 196.16084 km
+    legs:
+    - null
+    - 139.69435 km
+    - 56.46650 km
+    - null
+    legsSum:
+    - null
+    - 139.69435 km
+    - 196.16084 km
+    - 196.16084 km
+    flipSum:
+    - 196.16084 km
+    - 196.16084 km
+    - 56.46650 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -32.4652
+      lon: 148.989
+    - lat: -32.2985
+      lon: 149.557
+    - lat: -32.2985
+      lon: 149.557
+  ellipse:
+    distance: 195.58014 km
+    legs:
+    - null
+    - 10.00119 km
+    - 129.60128 km
+    - 55.97767 km
+    - null
+    legsSum:
+    - null
+    - 10.00119 km
+    - 139.60247 km
+    - 195.58014 km
+    - 195.58014 km
+    flipSum:
+    - 195.58014 km
+    - 195.58014 km
+    - 185.57895 km
+    - 55.97767 km
+    - null
+    waypoints:
+    - lat: -33.35620000000001
+      lon: 147.934
+    - lat: -33.29288970520296
+      lon: 148.01045852323898
+    - lat: -32.46825087395461
+      lon: 148.99126979288087
+    - lat: -32.2997113501373
+      lon: 149.55299997025608
+    - lat: -32.2997113501373
+      lon: 149.55299997025608
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
+- point:
+    distance: 390.14431 km
+    legs:
+    - null
+    - 390.14431 km
+    - null
+    legsSum:
+    - null
+    - 390.14431 km
+    - 390.14431 km
+    flipSum:
+    - 390.14431 km
+    - 390.14431 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -30.7635
+      lon: 150.724
+    - lat: -30.7635
+      lon: 150.724
+  ellipse:
+    distance: 389.14376 km
+    legs:
+    - null
+    - 10.00170 km
+    - 379.14205 km
+    - null
+    legsSum:
+    - null
+    - 10.00170 km
+    - 389.14376 km
+    - 389.14376 km
+    flipSum:
+    - 389.14376 km
+    - 389.14376 km
+    - 379.14205 km
+    - null
+    waypoints:
+    - lat: -33.35620000000001
+      lon: 147.934
+    - lat: -33.29052857641318
+      lon: 148.0075578896538
+    - lat: -30.770224729359185
+      lon: 150.71704197491738
+    - lat: -30.770224729359185
+      lon: 150.71704197491738
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
+- point:
+    distance: 164.33368 km
+    legs:
+    - null
+    - 92.00964 km
+    - 72.32404 km
+    - null
+    legsSum:
+    - null
+    - 92.00964 km
+    - 164.33368 km
+    - 164.33368 km
+    flipSum:
+    - 164.33368 km
+    - 164.33368 km
+    - 72.32404 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -32.5661
+      lon: 148.227
+    - lat: -32.4652
+      lon: 148.989
+    - lat: -32.4652
+      lon: 148.989
+  ellipse:
+    distance: 154.26608 km
+    legs:
+    - null
+    - 10.01828 km
+    - 77.18041 km
+    - 67.06738 km
+    - null
+    legsSum:
+    - null
+    - 10.01828 km
+    - 87.19869 km
+    - 154.26608 km
+    - 154.26608 km
+    flipSum:
+    - 154.26608 km
+    - 154.26608 km
+    - 144.24780 km
+    - 67.06738 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.27324262323188
+      lon: 147.97606087528675
+    - lat: -32.63369503292874
+      lon: 148.29750767377607
+    - lat: -32.466208385014774
+      lon: 148.98491504803556
+    - lat: -32.466208385014774
+      lon: 148.98491504803556
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
+- point:
+    distance: 230.99278 km
+    legs:
+    - null
+    - 64.11176 km
+    - 94.97312 km
+    - 71.90790 km
+    - null
+    legsSum:
+    - null
+    - 64.11176 km
+    - 159.08488 km
+    - 230.99278 km
+    - 230.99278 km
+    flipSum:
+    - 230.99278 km
+    - 230.99278 km
+    - 166.88102 km
+    - 71.90790 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.9082
+      lon: 148.134
+    - lat: -33.1854
+      lon: 148.68
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+  ellipse:
+    distance: 166.75683 km
+    legs:
+    - null
+    - 5.00922 km
+    - 45.35748 km
+    - 63.47811 km
+    - 52.91202 km
+    - null
+    legsSum:
+    - null
+    - 5.00922 km
+    - 50.36670 km
+    - 113.84481 km
+    - 166.75683 km
+    - 166.75683 km
+    flipSum:
+    - 166.75683 km
+    - 166.75683 km
+    - 161.74761 km
+    - 116.39013 km
+    - 52.91202 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.397700040244324
+      lon: 147.95498713417214
+    - lat: -33.773331178030304
+      lon: 148.1458881947788
+    - lat: -33.28544802099584
+      lon: 148.5014790740789
+    - lat: -33.355679857214454
+      lon: 147.93825261381764
+    - lat: -33.355679857214454
+      lon: 147.93825261381764
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
+- point:
+    distance: 331.63345 km
+    legs:
+    - null
+    - 139.69435 km
+    - 119.13601 km
+    - 72.80309 km
+    - null
+    legsSum:
+    - null
+    - 139.69435 km
+    - 258.83036 km
+    - 331.63345 km
+    - 331.63345 km
+    flipSum:
+    - 331.63345 km
+    - 331.63345 km
+    - 191.93910 km
+    - 72.80309 km
+    - null
+    waypoints:
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -33.3562
+      lon: 147.934
+    - lat: -32.4652
+      lon: 148.989
+    - lat: -32.195
+      lon: 147.762
+    - lat: -32.729
+      lon: 148.211
+    - lat: -32.729
+      lon: 148.211
+  ellipse:
+    distance: 172.53062 km
+    legs:
+    - null
+    - 5.00465 km
+    - 99.60803 km
+    - 43.04658 km
+    - 24.87137 km
+    - null
+    legsSum:
+    - null
+    - 5.00465 km
+    - 104.61268 km
+    - 147.65925 km
+    - 172.53062 km
+    - 172.53062 km
+    flipSum:
+    - 172.53062 km
+    - 172.53062 km
+    - 167.52598 km
+    - 67.91795 km
+    - 24.87137 km
+    - null
+    waypoints:
+    - lat: -33.35620000000001
+      lon: 147.934
+    - lat: -33.31979865626475
+      lon: 147.96568345044375
+    - lat: -32.59390692209191
+      lon: 148.59127138593772
+    - lat: -32.50901779164957
+      lon: 148.1431740244858
+    - lat: -32.725510277949866
+      lon: 148.2099213280336
+    - lat: -32.725510277949866
+      lon: 148.2099213280336
+  sphere: null
+  projected: null
+  planar: null
+  spherical: null
